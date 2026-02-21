@@ -1,0 +1,8 @@
+instaloader
+yt-dlp
+faster-whisper
+easyocr
+opencv-python-headless
+pymupdf
+anthropic
+python-dotenv
