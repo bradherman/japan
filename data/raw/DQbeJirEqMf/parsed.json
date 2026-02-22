@@ -1,0 +1,71 @@
+{
+  "url": "https://instagram.com/p/DQbeJirEqMf/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DQbeJirEqMf/2025-10-30_10-07-27_UTC.mp4",
+  "caption": "🇯🇵銀座隱藏版布丁仙人\n東京清單checked☑️\n\n收藏超級久！！！\n隱藏在銀座神秘商辦大樓中的酒吧\n但店內招牌是布丁杯\n布丁帕妃杯比想像中的更大\n炙燒焦糖布丁、布蕾、夾層中還有流心\n\n裝潢昭和感滿滿\n還有人會現場彈奏鋼琴 氛圍感很棒\n\n老闆看起來很嚴肅\n但意外的人超級親切\n還主動要幫我們抖布丁🤣抖的超級專業\n\nOrions\nオリオンズ【銀座の隠れ家レストラン＆バー】\n東京都中央区銀座 7-3-13\nニューギンザビル 1号館 10階\n\n#77玩日本 #東京美食 #銀座グルメ",
+  "transcript": "Thank you.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 29.98,
+      "text": "Thank you."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "オリオンズ",
+      "confidence": 0.93,
+      "timestamp": 0.0
+    },
+    {
+      "text": "TheSecretPuddingMasterofGinza",
+      "confidence": 0.982,
+      "timestamp": 0.0
+    },
+    {
+      "text": "The Secret",
+      "confidence": 0.99,
+      "timestamp": 2.0
+    },
+    {
+      "text": "PuddingMasterofGinza",
+      "confidence": 0.74,
+      "timestamp": 2.0
+    },
+    {
+      "text": "1972年",
+      "confidence": 0.998,
+      "timestamp": 6.0
+    },
+    {
+      "text": "昭和感満満的老店気園",
+      "confidence": 0.762,
+      "timestamp": 6.0
+    },
+    {
+      "text": "TheSecret PuddingMaster ofGinza",
+      "confidence": 0.751,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Pudding MasterofGinza",
+      "confidence": 0.93,
+      "timestamp": 10.0
+    },
+    {
+      "text": "超有儀式感",
+      "confidence": 0.991,
+      "timestamp": 12.0
+    },
+    {
+      "text": "Pudding IMaster ofGinza",
+      "confidence": 0.527,
+      "timestamp": 14.0
+    },
+    {
+      "text": "銀座の隠れ家レストラン&バー",
+      "confidence": 0.92,
+      "timestamp": 16.0
+    }
+  ]
+}

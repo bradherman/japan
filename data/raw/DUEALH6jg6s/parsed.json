@@ -1,0 +1,86 @@
+{
+  "url": "https://instagram.com/p/DUEALH6jg6s/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DUEALH6jg6s/2026-01-28_17-23-25_UTC.mp4",
+  "caption": "Tokyo Secret Night Spots 🤫",
+  "transcript": "secret night spots of tokyo if you approach this unassuming set of lockers twisting the latch to number a10 will grant you access to an underground bar of the same name and the vibes are immaculate the djs there only spin vinyl records in both times i went they are playing american 90s r b every drink has a unique flavor profile so keep an open mind and then we have janai coffee by day it's a humble coffee shop but if you go to their website and do this secret gesture the shelf to the left opens up to reveal a swanky evening venue it's not a big place so definitely reservation only but the best seat at the house is the bar and if you find the hidden secret menu you can get this drink with a scoop of ice cream and that one you have to figure out yourself and depending on the vibe you might make some new friends",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 4.56,
+      "text": "secret night spots of tokyo if you approach this unassuming set of lockers twisting the latch to"
+    },
+    {
+      "start": 4.56,
+      "end": 10.24,
+      "text": "number a10 will grant you access to an underground bar of the same name and the vibes are immaculate"
+    },
+    {
+      "start": 10.24,
+      "end": 16.24,
+      "text": "the djs there only spin vinyl records in both times i went they are playing american 90s r b"
+    },
+    {
+      "start": 16.24,
+      "end": 21.84,
+      "text": "every drink has a unique flavor profile so keep an open mind and then we have janai coffee by day"
+    },
+    {
+      "start": 21.84,
+      "end": 26.32,
+      "text": "it's a humble coffee shop but if you go to their website and do this secret gesture the shelf to"
+    },
+    {
+      "start": 26.32,
+      "end": 31.76,
+      "text": "the left opens up to reveal a swanky evening venue it's not a big place so definitely reservation"
+    },
+    {
+      "start": 31.76,
+      "end": 36.72,
+      "text": "only but the best seat at the house is the bar and if you find the hidden secret menu you can get this"
+    },
+    {
+      "start": 36.72,
+      "end": 40.8,
+      "text": "drink with a scoop of ice cream and that one you have to figure out yourself and depending on the"
+    },
+    {
+      "start": 40.8,
+      "end": 44.8,
+      "text": "vibe you might make some new friends"
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "SECRET SPOTS",
+      "confidence": 0.999,
+      "timestamp": 0.0
+    },
+    {
+      "text": "IHE",
+      "confidence": 0.408,
+      "timestamp": 14.0
+    },
+    {
+      "text": "731",
+      "confidence": 0.948,
+      "timestamp": 24.0
+    },
+    {
+      "text": ":",
+      "confidence": 0.853,
+      "timestamp": 24.0
+    },
+    {
+      "text": "‥",
+      "confidence": 0.937,
+      "timestamp": 24.0
+    },
+    {
+      "text": "ISNT",
+      "confidence": 0.886,
+      "timestamp": 30.0
+    }
+  ]
+}

@@ -1,0 +1,908 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.15"
+    },
+    "node": {
+        "__isXDTGraphMediaInterface": "XDTGraphSidecar",
+        "__typename": "GraphSidecar",
+        "accessibility_caption": "Photo by Ava Almquist on February 12, 2026. May be an image of scarf, beret, cornflower and text.",
+        "can_see_insights_as_brand": false,
+        "caption_is_edited": false,
+        "coauthor_producers": [],
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1394,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 826,
+                "config_width": 640,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629017239_17907816429341710_6336418402486269757_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=ardf0VxJIFIQ7kNvwFbrbS_&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvDNCf6EQMMxBlVK_969F34Xx8TTMinDgn-6WKL4FhRGQ&oe=69A01105&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 968,
+                "config_width": 750,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629017239_17907816429341710_6336418402486269757_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=ardf0VxJIFIQ7kNvwFbrbS_&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsBXFDSJek0m75xH7KUGsH8OCmj2rJRK0qkW4WKD1f-uw&oe=69A01105&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1394,
+                "config_width": 1080,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629017239_17907816429341710_6336418402486269757_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=ardf0VxJIFIQ7kNvwFbrbS_&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvlI9SYxTqjTlY7W_UJeuTPEXb0-laXtc2QWJxQJsYR0A&oe=69A01105&_nc_sid=d885a2"
+            }
+        ],
+        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629017239_17907816429341710_6336418402486269757_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=ardf0VxJIFIQ7kNvwFbrbS_&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsE-m8xQEnJXtcioYwoNxpCrz1-jO7cdvmroAOj4o2jew&oe=69A01105&_nc_sid=d885a2",
+        "edge_media_preview_comment": {
+            "count": 37,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1771417148,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18123171367572565",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "73703980841",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHHUFG1SrOl-ekMrNp2b9Nv6UZ-IWm73GCcWJD5b3nWVOcvF67yqFZ8us4fEpTc1oQuCydF4Nh9sapA3tgOktsf&_nc_ohc=LU2ej65XLqkQ7kNvwHU_9xv&_nc_gid=jRkByG0O71STDogIaGeedg&edm=AL4D0a4BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Afs-riRga0yrbMyi8_ldIMntFCO-K_OQNSVPwOrVHtPiiw&oe=69A03A2A&_nc_sid=9e8221",
+                            "username": "biggyballsy1"
+                        },
+                        "text": "That\u2019s why I live in Kyoto \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771492638,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18075033812456003",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "70860633070",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/491444763_1771194566821658_4230296770718776535_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NzUuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=oPP-ohfLDa8Q7kNvwHichB0&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aftzcg5AxNoXqPrTmuKmLFWE8vCdBYlzM5ZYUu8I2VbcvA&oe=69A01AAF&_nc_sid=d885a2",
+                            "username": "ena_k13"
+                        },
+                        "text": "As a japanese, abt #9, cant recomment u learning how to make them cz I think they r raw eggs and raw eggs in foreign countries r like, yeah",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 1417,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "created_at": "1770918085",
+                        "id": "18062382494319822",
+                        "text": "I\u2019m still dreaming about this food.. any recommendations for when I go back?? \n\n#pilot #japan #foodie #tokyo #kyoto"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 37,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1771492638,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18075033812456003",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "70860633070",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/491444763_1771194566821658_4230296770718776535_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NzUuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=oPP-ohfLDa8Q7kNvwHichB0&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aftzcg5AxNoXqPrTmuKmLFWE8vCdBYlzM5ZYUu8I2VbcvA&oe=69A01AAF&_nc_sid=d885a2",
+                            "username": "ena_k13"
+                        },
+                        "text": "As a japanese, abt #9, cant recomment u learning how to make them cz I think they r raw eggs and raw eggs in foreign countries r like, yeah",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771417148,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18123171367572565",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "73703980841",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHHUFG1SrOl-ekMrNp2b9Nv6UZ-IWm73GCcWJD5b3nWVOcvF67yqFZ8us4fEpTc1oQuCydF4Nh9sapA3tgOktsf&_nc_ohc=LU2ej65XLqkQ7kNvwHU_9xv&_nc_gid=jRkByG0O71STDogIaGeedg&edm=AL4D0a4BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Afs-riRga0yrbMyi8_ldIMntFCO-K_OQNSVPwOrVHtPiiw&oe=69A03A2A&_nc_sid=9e8221",
+                            "username": "biggyballsy1"
+                        },
+                        "text": "That\u2019s why I live in Kyoto \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771397690,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18307959688280595",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "45361187723",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/244421415_590280888821256_2811903776885659163_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=lJBcrNYq4SQQ7kNvwFEF1dE&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvYGS5-RFWTvstvAgzD8oYkqHj1fOy43OzWGHo0t-z1xw&oe=69A01399&_nc_sid=d885a2",
+                            "username": "all.roads.to.roam"
+                        },
+                        "text": "Those are my favorite flavor of onigiri too! A good way to approximate that - get a warm bowl of rice and add a raw egg and soy sauce. Makes a filling breakfast!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771331421,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18085154120232226",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "71130283762",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/505157494_17871937380371763_2149427088592843509_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=jFZB36tXLCEQ7kNvwGCL_yO&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft7BfcxcRAcDV3SZ_Kfu3RNbXJxRue3DHSjxU_E-3_C6A&oe=69A03399&_nc_sid=d885a2",
+                            "username": "tearoomtravel"
+                        },
+                        "text": "Food in Japan is next level!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771221615,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1771249283,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17996835710872470",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "70145877709",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/467410252_1551618782410417_7513543090151951588_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDYuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=3Jz0Xs5R7yoQ7kNvwEZqvVm&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvamFhdWbDMls-idIdUbvj-3kc-cUx86pCFcmQyKT966g&oe=69A01CF7&_nc_sid=d885a2",
+                                            "username": "pilot.avabelle"
+                                        },
+                                        "text": "@veronica.wayne They were so good!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17998125074730735",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "459818142",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/118588738_106309064468937_6607264280442993197_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=-ZQY9Kw_l30Q7kNvwEky6LQ&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsC9J7HF1QdOaO5tc8Yip1_8Qv217LQ30ijT4CDZO2SEA&oe=69A03D67&_nc_sid=d885a2",
+                            "username": "veronica.wayne"
+                        },
+                        "text": "The fluffy pancakes are amazing!!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771193583,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1771199838,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17900973318367091",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "70145877709",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/467410252_1551618782410417_7513543090151951588_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDYuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=3Jz0Xs5R7yoQ7kNvwEZqvVm&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvamFhdWbDMls-idIdUbvj-3kc-cUx86pCFcmQyKT966g&oe=69A01CF7&_nc_sid=d885a2",
+                                            "username": "pilot.avabelle"
+                                        },
+                                        "text": "@shameock1 awesome!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17943538946982935",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "995228864",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHHUFG1SrOl-ekMrNp2b9Nv6UZ-IWm73GCcWJD5b3nWVOcvF67yqFZ8us4fEpTc1oQuCydF4Nh9sapA3tgOktsf&_nc_ohc=LU2ej65XLqkQ7kNvwHU_9xv&_nc_gid=jRkByG0O71STDogIaGeedg&edm=AL4D0a4BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Afs-riRga0yrbMyi8_ldIMntFCO-K_OQNSVPwOrVHtPiiw&oe=69A03A2A&_nc_sid=9e8221",
+                            "username": "shameock1"
+                        },
+                        "text": "Love that scarf! I got it in pink and black ! Thanks again !",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771160226,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18106178545696392",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "34259053368",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/101156386_244558376646266_999373468837347328_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=S4eQppx500wQ7kNvwEv8GbK&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuzCSRjS5RfvhSUu0gDhmauT6PzbYRRNkQy8cNwmqem4A&oe=69A02A82&_nc_sid=d885a2",
+                            "username": "wino_woodworker"
+                        },
+                        "text": "#9 is an onigiri. They put different things in them and sell them at Japanese markets in the US if you have one around.",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "{\"server_cursor\": \"QVFEUHRXcDE1WTE5QW05ZFU0MkdZMnUyeXBrNDdRN0xyZ256V3Z3aE5Tb1lqdFpPRGVxa3pVbi1DeVZrbnFObzdWUGl4M0Q1VTZ5T2JUZXpLMWJRSEYzeA==\", \"is_server_cursor_inverse\": true}",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_sidecar_to_children": {
+            "edges": [
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Ava Almquist on February 12, 2026. May be an image of scarf, beret, cornflower and text.",
+                        "dimensions": {
+                            "height": 1394,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 826,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629017239_17907816429341710_6336418402486269757_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=ardf0VxJIFIQ7kNvwFbrbS_&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvDNCf6EQMMxBlVK_969F34Xx8TTMinDgn-6WKL4FhRGQ&oe=69A01105&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 968,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629017239_17907816429341710_6336418402486269757_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=ardf0VxJIFIQ7kNvwFbrbS_&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsBXFDSJek0m75xH7KUGsH8OCmj2rJRK0qkW4WKD1f-uw&oe=69A01105&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1394,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629017239_17907816429341710_6336418402486269757_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=ardf0VxJIFIQ7kNvwFbrbS_&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvlI9SYxTqjTlY7W_UJeuTPEXb0-laXtc2QWJxQJsYR0A&oe=69A01105&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629017239_17907816429341710_6336418402486269757_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=ardf0VxJIFIQ7kNvwFbrbS_&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsE-m8xQEnJXtcioYwoNxpCrz1-jO7cdvmroAOj4o2jew&oe=69A01105&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3831060532229652415",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACEqpLDJOgeNO/AHQ9M988e1K1ncD/lnnPuR/wCzVqmdIvLVsCNgcEgfKTghhwe/4c57U7eqjnb36eV19uO44PSpsVcyvs93t2+WdvXG7jP0zUTWs6gs0TAAcnP/ANY1uqEzxtGRjP7vp64x+lQ3EoQmFMcKAzAAEhiTjgAY+nrSdkCu2YGT/d/X/wCtRVzyxRUXNLE979yP/PYVVR0wvUsWIIJ7dvpV66TcsQYhR3z9On1PQVHcwKk8eAFD7QVHbnn69arcUUMnBQkAHnkYPtxRCxLZbggDPv19ak2FgQCvfB9KrpEY5CWIJ46H1zTI8zT3UVW872/lRSsh3LcS+c0R7Llv0wP1qjeuzyls/dcqv/AQPzOa1LPr+H9aqH/j0c9/Mfn/AIGKoE7Moh5B/ECP90VCXYSknnIH+cVKKpOfmNVYgvb1/wA5oqlRSsgP/9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUqqUGYkT-_",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWI2ZGQ2N2Y3ZTVmNDMyZjkxMzcyZmU2MjlmNmJlZTIzODMxMDYwNTMyMjI5NjUyNDE1In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Ava Almquist on February 12, 2026. May be a meme of sandwich, box, toast and text that says '#10 AGE 3 Sandwiches These were \u03b1 bit hyped up.. BUT the viral cream fried sandwiches were so crispy and delicious VRa GINZA,Tokyo GINZA, Tokyo'.",
+                        "dimensions": {
+                            "height": 1394,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 826,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629877986_17907816456341710_5300117080047823555_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=YFw2RwT5lwwQ7kNvwG2Vwgf&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuISAVFnnuf8xTucvrX3btahMGuMDcaMoNboMsH6I6amA&oe=69A01B3C&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 968,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629877986_17907816456341710_5300117080047823555_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=YFw2RwT5lwwQ7kNvwG2Vwgf&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs27-jOrAhKFw4hWVNKp3yoKJ1RlC0TPINdlsj_Lf6wKg&oe=69A01B3C&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1394,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629877986_17907816456341710_5300117080047823555_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=YFw2RwT5lwwQ7kNvwG2Vwgf&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuASS8W7rKp6s4dWIArFYV6HwtVbA27EDUScADYj0Tn8g&oe=69A01B3C&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629877986_17907816456341710_5300117080047823555_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=YFw2RwT5lwwQ7kNvwG2Vwgf&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfulaIvmVm7bX7b8H0Cp3uJbz5XYExKpPlFfTt35y5tE0Q&oe=69A01B3C&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3831060622633665748",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACEqZFbRMgYtljnI3IuOenzcnjn0p32eAHBbA7EyR8846fTn9KqRYEg3fdUjPH4/j9K2iy+o9eDx6+nv04rrnVd/dk/wt+RpLQoCCAjO4+/7yLj9ak8iFIzhiu1SRlkOT2GFOeat7lJxkDPvx/8Aq/lWTcuJZT5YyCR+eOceoyKy53L4m/IFdlbY1FWfLf0NFaez8195Vii0mM/Wgnk+9WpbZUxknc3bHFQ+TufCnrx82Bz9RXKAz/CrenpmQZ52g/4VFJbNGQCR83AAz+tWoP8AR5Pm53YXP+fWqQjVwKKT86KoZQuomZvNHRQR/Pn9arxQDiRmAAPTvx9SMA/mfalmdsdT09azbgk4/wA9qi2tyWzalCO4ZJFJUHjg7vTbz1qFImLZIIGc8+3pWBW/G7bRye3f2o5U3d7iTuXd5oqtuPqaKoo//9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUqqValEQTU",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWI2ZGQ2N2Y3ZTVmNDMyZjkxMzcyZmU2MjlmNmJlZTIzODMxMDYwNjIyNjMzNjY1NzQ4In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Ava Almquist on February 12, 2026. May be an image of tofu, bread, rice and text that says '#9 #\u5cf6 I don't know what this is. But I ate close to 12 of them. 1 IWILL learn how to make these. Like \u03b1 soft boiled egg yolk SEVENS soy sauce inside. \u5199\u771f\u306f\u30a4\u30e1\u30fc\u30b8\u3067\u3059 \u5207\u30ea\u53e3 OPEN \u305f i \u307e \u98ef \u4ed5 \u3054 \ud478 \ud6a8 \u91ac 148\u5186 \u6cb9 159.84\u5186\uff09 rolk, Yolk, Egg Soy Sauce Broth Broth At any 7/11 gas station'.",
+                        "dimensions": {
+                            "height": 1389,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 823,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628593911_17907816438341710_3814496062315088942_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE2OTguc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=CBPGeTEi2M4Q7kNvwFq3Q5j&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsuptSr3lUcPpPCmW5vZQoEdSz6js8kVIj_V1klhq-IwQ&oe=69A02777&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 964,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628593911_17907816438341710_3814496062315088942_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE2OTguc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=CBPGeTEi2M4Q7kNvwFq3Q5j&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvnPjJqZdL8684Qo_wk0iVCA1nncCz0bkkNQmoj65OHQQ&oe=69A02777&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1389,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628593911_17907816438341710_3814496062315088942_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE2OTguc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=CBPGeTEi2M4Q7kNvwFq3Q5j&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsZPaStoapBkwP4toiJ2zLJejiu1CT2ZsedzxsyJOceyg&oe=69A02777&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628593911_17907816438341710_3814496062315088942_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=CBPGeTEi2M4Q7kNvwFq3Q5j&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsenItI81U8MG_4x6Dl4KeTiFdiczSZtm6Ureu9dn_q-A&oe=69A02777&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3831060656272003061",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACEqswsq7g3XnGQSOvcAg/rU3ysQQfu4zgdSeMgE8D8aoKGY8Akn2q5DA3Vhg9ufz6EfzqU7DaJduO/6D/Gm7Nis2fugnkfhUwTZjHbv3H65/KqsxJQgq3PHf656nj14zQ0gRnb2oqTcKKzLNLcWAKkgdeKnY+oznP5/0+tVIGBwOg9P1qckscHjByKprqtxa/CxZVCqWUZ781lNdEnamB3JHX0xntnv61rTzJEhaQ4GOnr7CuXSVWc7cgHsf8+lJNtahoXOKKizRQM0t2wgduM4649qjnv4oThtxPtn/wCKAqVutIFDcMMj0PNCZcl2Mp7i0kOWVyfck/8As9Vz5ZctECF4wDyenP69KrygB2A9afH/AJ/OtGYomopKKgs//9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUqqV56EU_1",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWI2ZGQ2N2Y3ZTVmNDMyZjkxMzcyZmU2MjlmNmJlZTIzODMxMDYwNjU2MjcyMDAzMDYxIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Ava Almquist on February 12, 2026. May be an image of \u200ewafer, bread and \u200etext that says '\u200e#8 Taiyaki. Custard filled was my favorite I'm dreaming about these... \u30b9\u30cc\u30fc\u30d4\u30fc\u3084\u304d \u30b9\u30bf\u30fc ISNOO SNOOPYYAKI YYAKI YAKI \u0645 \" L PNTS Nishiki Market NishikiMarket\u00a9Kyoto G Kyoto\u200e'\u200e\u200e.",
+                        "dimensions": {
+                            "height": 1394,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 826,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/627888278_17907816468341710_6507757631262722502_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=dJBLpmBjZ4MQ7kNvwE9fj-A&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsHjXP3bdulY_YVCiXSrpjBQVDcVK4ZPrgpSYnmlIWudg&oe=69A02445&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 968,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/627888278_17907816468341710_6507757631262722502_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=dJBLpmBjZ4MQ7kNvwE9fj-A&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsqKvU7J6JjC4lYLK1pSSxu1cgi7J5sla1nbq9a_LMmqA&oe=69A02445&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1394,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/627888278_17907816468341710_6507757631262722502_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=dJBLpmBjZ4MQ7kNvwE9fj-A&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfscT6Pq9M0tZdHeycoftEBlOfNEZMy2ZlByCbafmurLAQ&oe=69A02445&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/627888278_17907816468341710_6507757631262722502_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=dJBLpmBjZ4MQ7kNvwE9fj-A&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftlBralDNjsqJ7HGzcNofHI6ofZjAXmxWnrGT3S5-eG4A&oe=69A02445&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3831060566706853741",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACEq1hGrRnPCruP4ZzVO7lBg3RkFFdQ3BBAOD369RWZp15IsgjyW3cDuQev5HpzRci7uNxblPvbQykAD2BzwKhK2ha1a1LChACmPfg81FLIryiNQCQoGTnIPpn6Hmq0N4yDbx0wDxmoUbYc9T1JNKxs1daG99jP/AEz/AC/+vRVD7Qvp+pop3fd/eZWXZE9rFbuoZACVC7jzkMRz3B656fyrQ28beoIxyD0PqSee/X/CsixgEkKk5++W+uOOfatKJRBwvAJ55NQ6iTsxqDavciawgfKgBGUj7vJxjoeSP5GmDToehLH8R/hToYyk8vYMcqPyJP5/1qxuGccD86psauVP7Li9W/SitDdRU3GUYXVY08rldox9e/65zUkNxHI+1TuOOc5wO3p69PauXRiMAEgc1r6V99/oP51XKr36iTvH0NG7dYxubK+69fpyvpUEcqSDMZLDod3XP+P86TVf9Wf94fyrM0777f7pp20COhsfnRWX5r/3j+ZoqbGnMf/Z",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUqqUmfkZdt",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWI2ZGQ2N2Y3ZTVmNDMyZjkxMzcyZmU2MjlmNmJlZTIzODMxMDYwNTY2NzA2ODUzNzQxIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Ava Almquist on February 12, 2026. May be an image of gelato and text that says '#7 Fluffy pancakes. This pistacho with maple butter pancake was DIVINE. GINZA Rindo, GINZARindo,Tokyo Tokyo'.",
+                        "dimensions": {
+                            "height": 1394,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 826,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/634343332_17907816480341710_1249100361762116545_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=QDxC-ZgpWxsQ7kNvwFNg_lV&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsEsvkvXDoisiMW-4KoGdED-9jVqkjVTncnNN_5v-dWaw&oe=69A02DEF&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 968,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/634343332_17907816480341710_1249100361762116545_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=QDxC-ZgpWxsQ7kNvwFNg_lV&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuL40LZQwD0HhpgGBBdqL-V0SLfHZtKgSDCdd-WLQZ2YA&oe=69A02DEF&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1394,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/634343332_17907816480341710_1249100361762116545_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=QDxC-ZgpWxsQ7kNvwFNg_lV&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuCkNGyqnwYJLH0DAuo749grkwUrSeqMFMA4IYFH0Zdmg&oe=69A02DEF&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/634343332_17907816480341710_1249100361762116545_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=QDxC-ZgpWxsQ7kNvwFNg_lV&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afv28FVMS6iO9UtmACF20zsMlKa_PpIVHRg8Vlkc9YlfsQ&oe=69A02DEF&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3831060656171321013",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACEqzLe3klyyYwpxye+M9OTWnJZqVGxcNnu+eMfQ5578U+G4VAA4ERPUgccdPce4555qdblWGQc46Ywck8Afh71OhRjMoRirAgqcHoacCnfP6Vpzosw2r8pB5bAyfXpjj61Te1YfcOcetZ3TdkURZi/2vzopnkTf3TRVWAt4M52np1/Dt+dTlQPlPyrjqP0P1BqzAoRcenWkcKxxkg+39ay126gRBSOp3++QD+I6fiPypCpPy8LjnAOT9SccCpfKI6GoFXy2O05Pf+uaVrPVD32Fw/8AeH5UVW3r/wA9G/MUVV33K5X/AEjSMYPPI+lMEQByAcHofmz+PzentWJvOByenrSrIwYcnr6mtGrmRvbxjjnHX734d80x4/MY9dn93GB+J7/T+dWB0op8t9wvbYj8oe35UU+inyoV2f/Z",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUqqV50EQa1",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWI2ZGQ2N2Y3ZTVmNDMyZjkxMzcyZmU2MjlmNmJlZTIzODMxMDYwNjU2MTcxMzIxMDEzIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Ava Almquist on February 12, 2026. May be an image of sushi, sashimi and text that says '#6 These tempura fried crab legs. Cooked in front of you \u5929 Huge crab leg. 500 yen. Absolutely insane. Went back for more. C50 a Nishiki Market, Kyoto Sain \u30d7\u30fc\u30f3\u30af Plelen Breed&y1 Enlledcheze Te.puera\u592a\u3076\u3061'.",
+                        "dimensions": {
+                            "height": 1389,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 823,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628825371_17907816486341710_5670513086146159960_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE2OTguc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=PniPupqUyscQ7kNvwGklY04&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvhdhuFHyEJTKHH1cy9peWg24qSIx_5Sf7YcLIPxII3QQ&oe=69A040BB&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 964,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628825371_17907816486341710_5670513086146159960_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE2OTguc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=PniPupqUyscQ7kNvwGklY04&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuKNJEBHBvMTnzuHjjor5H9tuV_PZOiH-EzCidiESbAKg&oe=69A040BB&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1389,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628825371_17907816486341710_5670513086146159960_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE2OTguc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=PniPupqUyscQ7kNvwGklY04&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuyCpNqLgSyyRcIkGl-k5aLePihe4D6xZh6gYzsdRlXsQ&oe=69A040BB&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628825371_17907816486341710_5670513086146159960_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=PniPupqUyscQ7kNvwGklY04&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu7jpCOh2DSfPfJcdeHvpkooJXj9uUf0adDqdAZCVvpxQ&oe=69A040BB&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3831060566371296342",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACEqzTBIVEhUlTgZOTknpjn/APV9auxaccN5jbCP4V2gn35IGO/r+NRxxSSHbkkKB36fSp7dsHAXJwfvfT1/yai5divNaRxuvz5BGWz1HoMjIz6//XqCYRLHhCWcE5YcZHYY7YrfiJbAYAA+hBGP/wBf86q3+RCdoBBA3E9Rk9gQMk+vYVQjC2+xoqxuPp/KikFieK5MIL4zwAc9sc5+nb61Et3KG+UZ4ODjt6nnAx+eadaBZPlAIPGSeR37dse/WtJyFURAbge/p9fWlpsy7N7dSF9RKEbV+9j+Lpnr27VDc3jTApgADIOeTkdxnoOO3WpXi87jnjgcDj6GqMqBMd8cZ/Dv+NO/YORx3Q3j/INFLuHt+RopXCw4QJIflfb79/5itKGCKIkxlskYJJOfx59fSsM9Ku27ERjBxzTEjTkRByAST6MQcfn6msq5mYbhsyuflJ6ge5Her5JKnNVZuF49f6UPQry7/wBbGZ53tRVnNFArPuf/2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUqqUmLkWRW",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWI2ZGQ2N2Y3ZTVmNDMyZjkxMzcyZmU2MjlmNmJlZTIzODMxMDYwNTY2MzcxMjk2MzQyIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Ava Almquist on February 12, 2026. May be an image of fish, sushi, tofu and text that says '#5 Buttered scallops cooked in 0oos 5O0s front of you. Holy smokes. Enough said. Tsukiji Fish Market, Tokyo'.",
+                        "dimensions": {
+                            "height": 1394,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 826,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628557533_17907816495341710_4016080371028111238_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=eVZGcRy0fS8Q7kNvwFFR_6K&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft_wpQfb8OLBx4zXaaRq4iC6Q-NUy4d_1Xe47s6Adurew&oe=69A03CB2&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 968,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628557533_17907816495341710_4016080371028111238_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=eVZGcRy0fS8Q7kNvwFFR_6K&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuGY0yPmoK6mw2hjK-5l2-5fE0rlk04dW4FQfmrhV5HpA&oe=69A03CB2&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1394,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628557533_17907816495341710_4016080371028111238_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=eVZGcRy0fS8Q7kNvwFFR_6K&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afua6r0LuH2a-8TTbHggR1F1-IiYQvmHR_n0vdTfrjccVg&oe=69A03CB2&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628557533_17907816495341710_4016080371028111238_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=eVZGcRy0fS8Q7kNvwFFR_6K&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfunJUmhdKgrHMmfwYDOA0KuvpQ3ZTW7ARPqUlGaiNELwg&oe=69A03CB2&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3831060655928091464",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACEqa3609bQtjccZ69Dgfn1/lREB99vwH9fp6VJLeLGQoBJY9M8j3yTx/WgexGyzxfJGA69icfj35waoOrKxD8MDzn1q818F4Ktj6/z/AAqsXilJIBX/AD3Hf8MUlbdDd+pDRU3lL/eH5GimSSSS7RuP+fQVCkW794Tyf8gfQVXdjM2R9xT+ZqyRtHAOexH0rKTaR0K0n5ImI6jO7/GmyRLGoPV3+7joPU/hSJlmBwQo5xTJGKuXPRBgD3PP/wBc1ML3t0HPa/Uk+yn3oqn58n940V0HPYu25ijXaVyeOTg9uRgkd+fXtU4ukXjb/wCOr/jWTGeRV5O31rN7XLjvb9Sdp4yBvTJ6AbRnJ7/exx1xVe4liKmNVGQeGAxj17nOelNP+vH+639apGmthSJKKZRVEH//2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUqqV5lkaNI",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWI2ZGQ2N2Y3ZTVmNDMyZjkxMzcyZmU2MjlmNmJlZTIzODMxMDYwNjU1OTI4MDkxNDY0In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Ava Almquist on February 12, 2026. May be an image of dessert, strawberry, durian, bread and text that says 'Daifuku, Any kind. Had at least 2 per day. Would hunt them down. Everywhere.'.",
+                        "dimensions": {
+                            "height": 1389,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 823,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/627664531_17907816504341710_304426855056011573_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE2OTguc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=GElQ0er7iKUQ7kNvwHFoI2D&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftpwqUC-PKuDcnVslsFmFJcvqflkUH0FgAZ7S0gldc8lA&oe=69A02975&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 964,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/627664531_17907816504341710_304426855056011573_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE2OTguc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=GElQ0er7iKUQ7kNvwHFoI2D&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvOT5Ae3lKo6GLM4OsDr4P8tUiWo23IwdjD6Vt0GUrOhw&oe=69A02975&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1389,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/627664531_17907816504341710_304426855056011573_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE2OTguc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=GElQ0er7iKUQ7kNvwHFoI2D&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsItR6g2SJ_fJ8uCnyk8nZX8F0eYvS9cJ7IlmJet2Sd_A&oe=69A02975&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/627664531_17907816504341710_304426855056011573_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=GElQ0er7iKUQ7kNvwHFoI2D&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu3_OgF6QoAoykKBBOXXrWBtN0CMuLyNhiYpS3BwHW1QQ&oe=69A02975&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3831060787713130470",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACEqnF1I3CkFj0AHNXY5HJ55z0xj8OhGR9KhjjEa5HJUjGM55+gY/pj1qQYHRR+Tfp+6pWXYYSs5A259yCMfhkn+dVXd1OGzn3q3hcn5R78Hr0/55889/TmhwrLvbg5xg9Me2VX+VAFHzT70VYwntRQBCHZjgHn2qtLOyOqnJB5Jz07VfIij+YZOOap3cQnUHOCMY9MY/wA/SpZcbN67E7IRyCT+tHlOT0qGyd4l2t/kVoSzDHB4NNaikrOyK/2d/aim7096KZJDcvgbfXrSRNHsG8nIzx078Y+U/wA6qzfeNNf7tR1Nehor5WD8xzjjnPP/AHyP51GTVMdR9anqjMfn3oplFAj/2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUqqX0Ukb_m",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWI2ZGQ2N2Y3ZTVmNDMyZjkxMzcyZmU2MjlmNmJlZTIzODMxMDYwNzg3NzEzMTMwNDcwIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Ava Almquist on February 12, 2026. May be a meme of pancake, cookie, powdered sugar, toast and text that says '#3 3 Wagyu beef. Cooked in front of you. So many different kinds Anywhere I Everywhere'.",
+                        "dimensions": {
+                            "height": 1394,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 826,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/634348020_17907816534341710_6745519609159350938_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=J04whS0dmzEQ7kNvwHf9kWO&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft9oCyqmQBDkX6Y4YSHs1JzLFQUbUsbYGGC4p6VJxOgRQ&oe=69A039AD&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 968,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/634348020_17907816534341710_6745519609159350938_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=J04whS0dmzEQ7kNvwHf9kWO&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afvgo7lkijHvfln1P5V5MaN5owVz_C90arp9VdJEvoWqGg&oe=69A039AD&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1394,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/634348020_17907816534341710_6745519609159350938_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=J04whS0dmzEQ7kNvwHf9kWO&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft_nYIVg6I2YKHn1YTuCDSgIdAbwXc-BqAVK6e-E9JAFg&oe=69A039AD&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/634348020_17907816534341710_6745519609159350938_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=J04whS0dmzEQ7kNvwHf9kWO&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftzOvEFMDq-qmXOVghFgHnPXtR1CLeWmf4ajepDeCqBAg&oe=69A039AD&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3831060869879558030",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACEqZcOVIAznk8dRgdaaJH8vcT+YqLz90xZeRggVYMuePlI7YNJlRQyB93Ukn3GKo3B2MSOMGtKPnoMVnXsqthVIJyScVC3NdkL9oFFU6KsyNIMsQwABuGP606EiZsZUY557/QetZvlMGwxH0zn9BWsupRYG5eec4X5evbJBHHbsfam0JNF1gpjKx7ASMZ54Pcj5c5PucVz08PkSbMg7e6nI6VrjUoe6n/vkf/Ff5FQXGoo0ZRFyzAgkgdD7An5s9D2pWKv0KWBRUHNFKw/ka6MrES7ckZyOhzjj06emQDU+yCb5ygYntyD/AOh9fWof4hVtRUuTRSimZ8z20LbDFk/jz/4/VeRo5HHlr5a9/Xjr64HtmnaiP3q/7v8AU1AnX8DTvdXBRSuWPtcfo1FVsCilZE3P/9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUqqZA2Ee-O",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWI2ZGQ2N2Y3ZTVmNDMyZjkxMzcyZmU2MjlmNmJlZTIzODMxMDYwODY5ODc5NTU4MDMwIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Ava Almquist on February 12, 2026. May be an image of fish, sashimi, sushi, smoked salmon, fillet, tuna and text that says '\u179a\u17d2\u179a\u179f\u1795\u17d2\u1793\u17d2 NeAC #2 2 Fresh Tuna. Fatty, medium, lean. Dreaming about this. Any fish market. Go early when they first open!!'.",
+                        "dimensions": {
+                            "height": 1394,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 826,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628870155_17907816543341710_5766397931743475695_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=eYYinfpvs3cQ7kNvwFkOZVo&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvH8WF9GXxF8djnehPHQAKEmjXUuoZlanWzQvbYB5zGnQ&oe=69A01849&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 968,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628870155_17907816543341710_5766397931743475695_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=eYYinfpvs3cQ7kNvwFkOZVo&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs-DJVt-Z9o3pp6ybp1-6W9mUurLjShQkLgDy0UcNSEWQ&oe=69A01849&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1394,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628870155_17907816543341710_5766397931743475695_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=eYYinfpvs3cQ7kNvwFkOZVo&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsuHqAYUdN6S1wupOPjuw1_wki-bFdPFcE2gbXciAUJgw&oe=69A01849&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628870155_17907816543341710_5766397931743475695_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=eYYinfpvs3cQ7kNvwFkOZVo&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft6jkZfZOQXi4JUQGa85CmKknw1IaJ0mQ85bekGHypz2w&oe=69A01849&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3831060928515922836",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACEqtNabEOBzjqD7egwf0rL8guSWyODjHfnvn+Vb3Lqo9+/17VnPKJZG2g4Vtv4jqcfX161i21saxSe5SjtGc7enIBb2NaqrHbgIvGT7ZP1/zxRayowZRjcG2nJB7DBPsOn1zVXypGbK4JAJ7dun4Vpf7yUle3S5peW/qn/fR/worO8m7/ur+dFF59vxL5YfzfgV7q9Y/u0JUDOcHn8xTLD7zc4yvoTznr+HXnr0rOlDtISw2dTjHA9qv6epILGTy1PUcZOBkHntk9ee9K1yL2NbcfX/AMcI7/73+RUwkRRvbPyjGdp578jk8ep4quId3Rn+YcfMOef93npwfXipoQOQGJboc4OAO3QH8wasgi+1tRR5Q9F/Kiq1C6Msr5aLGw4c8/7I/nk/pULrHH935z02n/8AVVm/5Y59B/M1kyf1rBLzNua19F/kakecqqblXDcElcHHH5Nj25rQtoBCvqx6msGB2LKCSRkd/eukFaJWIk7sdRSUVRmf/9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUqqZ3dEduU",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWI2ZGQ2N2Y3ZTVmNDMyZjkxMzcyZmU2MjlmNmJlZTIzODMxMDYwOTI4NTE1OTIyODM2In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Ava Almquist on February 12, 2026. May be an image of poached egg, ramen, tofu, egg yolk, sushi, noodles, seaweed and text that says '#1 This buttered pepper udon. Never will eat anything more divine than this. Found in small local udon shop, the most flavorful chewy amazing noodles of my life. Harijime, Kyoto'.",
+                        "dimensions": {
+                            "height": 1394,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 826,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628935759_17907816558341710_4999100323028951946_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=1b5PSPjUaO4Q7kNvwHtSwSB&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsVVykALDQ0Epo6pIzUjcXOiAYtreZXLtHw4ZL73inkDA&oe=69A0276A&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 968,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628935759_17907816558341710_4999100323028951946_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=1b5PSPjUaO4Q7kNvwHtSwSB&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuL074SdpxFW148c3QUPBexNuYQWH_DwHAiLBODZr2Wsg&oe=69A0276A&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1394,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628935759_17907816558341710_4999100323028951946_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMzIweDE3MDQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=1b5PSPjUaO4Q7kNvwHtSwSB&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvCkFudV7Dv3DgXH85Ff3noGXLjpj_puiywznPBSt3Lvw&oe=69A0276A&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/628935759_17907816558341710_4999100323028951946_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=1b5PSPjUaO4Q7kNvwHtSwSB&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsfwKbkTLi1qvxavSYDiPzyd6igq-JiHIMFjPvEJ4cQUg&oe=69A0276A&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3831060934824126554",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACEq2AwPoaaUQjgKpyOdoPHcfiO9Y0V75CnzPmcnjHTHvTBeXMnKDj2H9ayXN1tbvc0duhrPaW7gb0DEDBIAUn/vkjmsy9so4l3xDZxzncc+gHXH44q7bPIyBpepyMdOO2ffr+H1q0pBJ7cHua0IOQwaK6zbRSuOxg2SK8hd+ijv0z/9augWJMDnOfTpXOxZUmNhhl/oe9a0Ub8HGO5xWUt9UVF9Bt3blDxyrdvSsty0MnBOR3/rWvK7deSaxJpPNfIHt7/5zRC/yLm7pX3X4mn/AGkfQUVV+xTelFamZpXMdtdkOjqW43AMAWHcfXFKZxAMAfKO+0nj/vv/AArngoI6CoA7K2FJA9jimDVjoXvYX6gYI5+Vuv4OOD+nvRa2yM5mClU/gB6/Xvx6Z/pVPTVDy/MAfrzXQGi1iRKKkxRSGf/Z",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUqqZ9VEWha",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWI2ZGQ2N2Y3ZTVmNDMyZjkxMzcyZmU2MjlmNmJlZTIzODMxMDYwOTM0ODI0MTI2NTU0In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "3831061011386949060",
+        "is_ad": false,
+        "is_affiliate": false,
+        "is_paid_partnership": false,
+        "is_video": false,
+        "like_and_view_counts_disabled": false,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": null,
+        "nft_asset_info": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 185334
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 398
+            },
+            "followed_by_viewer": false,
+            "full_name": "Ava Almquist",
+            "has_blocked_viewer": false,
+            "id": "70145877709",
+            "is_embeds_disabled": false,
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": true,
+            "pass_tiering_recommendation": true,
+            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/467410252_1551618782410417_7513543090151951588_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDYuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=3Jz0Xs5R7yoQ7kNvwEZqvVm&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvamFhdWbDMls-idIdUbvj-3kc-cUx86pCFcmQyKT966g&oe=69A01CF7&_nc_sid=d885a2",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "username": "pilot.avabelle"
+        },
+        "pinned_for_users": [],
+        "sensitivity_friction_info": null,
+        "sharing_friction_info": {
+            "bloks_app_url": null,
+            "should_have_sharing_friction": false
+        },
+        "shortcode": "DUqqbEokV3E",
+        "taken_at_timestamp": 1770918083,
+        "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/629017239_17907816429341710_6336418402486269757_n.jpg?stp=c0.192.1320.1320a_dst-jpg_e35_s640x640_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFNxe6XpNcqWHliSrl-YaT35TZv6Bo1N55N_4XfMHk_uG8BlI6X4dxBCQY1I2ukbsA&_nc_ohc=ardf0VxJIFIQ7kNvwFbrbS_&_nc_gid=lO_DkHr3imZq1uGLvLquwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvTjIYSqjEnJGLzA_dkbcwXTIsB5QtFS8u9O0F-LJHxGQ&oe=69A01105&_nc_sid=d885a2",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNWI2ZGQ2N2Y3ZTVmNDMyZjkxMzcyZmU2MjlmNmJlZTIzODMxMDYxMDExMzg2OTQ5MDYwIn0sInNpZ25hdHVyZSI6IiJ9",
+        "upcoming_event": null,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

@@ -1,0 +1,146 @@
+{
+  "url": "https://instagram.com/p/DUneqiGFRDt/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DUneqiGFRDt/2026-02-11_12-01-18_UTC.mp4",
+  "caption": "This is a must-try Wagyu lunch deal in Kagurazaka, Tokyo 🥩✨\n\n📍 Location: YAKINIKU INOUE Kagurazaka\nKagurazaka, Shinjuku City, Tokyo\nA short walk from Kagurazaka Station\n\n🕒 Lunch Hours:\n11:30 AM – 3:00 PM\n\n💰 Price:\nOnly $15 (¥2,250)\n\n#tokyo #kagurazaka #wagyu #yakiniku #wagyulunch #japanesefood #tokyofood #asukunavi #localgem",
+  "transcript": "What's the best restaurant in Tokyo? YAKINIKU INOUE Why? Wagyu lunch is very cheap and delicious. Okay! Yes! If you are looking for the best Wagyu lunch in Tokyo, check this out. It's located in the local shopping street of Kagura-Zaka. YAKINIKU INOUE is a popular YAKINIKU RESTAURANT and they serve Wagyu lunch for $15. Here we go. This is their 3-layer Wagyu Hitsumabushi. On the top, Wagyu Yukke. Rich, silky and full of umami. In the middle, Wagyu short rib. Fatty, juicy and insanely satisfying. Wow! And on the bottom, thick cut rare beef tongue. Tender, savory and perfectly grilled. Comment LUNCH for more info.",
+  "transcript_segments": [
+    {
+      "start": 0.24,
+      "end": 2.5,
+      "text": "What's the best restaurant in Tokyo?"
+    },
+    {
+      "start": 4.1,
+      "end": 5.14,
+      "text": "YAKINIKU INOUE"
+    },
+    {
+      "start": 5.14,
+      "end": 6.24,
+      "text": "Why?"
+    },
+    {
+      "start": 6.96,
+      "end": 9.3,
+      "text": "Wagyu lunch is very cheap and delicious."
+    },
+    {
+      "start": 9.98,
+      "end": 10.44,
+      "text": "Okay!"
+    },
+    {
+      "start": 11.2,
+      "end": 11.4,
+      "text": "Yes!"
+    },
+    {
+      "start": 12.66,
+      "end": 16.82,
+      "text": "If you are looking for the best Wagyu lunch in Tokyo, check this out."
+    },
+    {
+      "start": 17.5,
+      "end": 20.58,
+      "text": "It's located in the local shopping street of Kagura-Zaka."
+    },
+    {
+      "start": 21.12,
+      "end": 25.98,
+      "text": "YAKINIKU INOUE is a popular YAKINIKU RESTAURANT and they serve Wagyu lunch for $15."
+    },
+    {
+      "start": 26.66,
+      "end": 27.44,
+      "text": "Here we go."
+    },
+    {
+      "start": 27.44,
+      "end": 30.64,
+      "text": "This is their 3-layer Wagyu Hitsumabushi."
+    },
+    {
+      "start": 30.64,
+      "end": 32.74,
+      "text": "On the top, Wagyu Yukke."
+    },
+    {
+      "start": 32.74,
+      "end": 35.74,
+      "text": "Rich, silky and full of umami."
+    },
+    {
+      "start": 35.74,
+      "end": 37.94,
+      "text": "In the middle, Wagyu short rib."
+    },
+    {
+      "start": 37.94,
+      "end": 41.14,
+      "text": "Fatty, juicy and insanely satisfying."
+    },
+    {
+      "start": 44.44,
+      "end": 45.44,
+      "text": "Wow!"
+    },
+    {
+      "start": 45.44,
+      "end": 48.44,
+      "text": "And on the bottom, thick cut rare beef tongue."
+    },
+    {
+      "start": 48.44,
+      "end": 51.44,
+      "text": "Tender, savory and perfectly grilled."
+    },
+    {
+      "start": 52.44,
+      "end": 54.44,
+      "text": "Comment LUNCH for more info."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "03-6263",
+      "confidence": 0.971,
+      "timestamp": 20.0
+    },
+    {
+      "text": "KAGU",
+      "confidence": 0.996,
+      "timestamp": 22.0
+    },
+    {
+      "text": "win",
+      "confidence": 0.405,
+      "timestamp": 22.0
+    },
+    {
+      "text": "7,AKA",
+      "confidence": 0.895,
+      "timestamp": 22.0
+    },
+    {
+      "text": "im",
+      "confidence": 0.948,
+      "timestamp": 24.0
+    },
+    {
+      "text": "AKA",
+      "confidence": 0.644,
+      "timestamp": 24.0
+    },
+    {
+      "text": "tender savory;",
+      "confidence": 0.433,
+      "timestamp": 50.0
+    },
+    {
+      "text": "griled",
+      "confidence": 0.988,
+      "timestamp": 52.0
+    }
+  ]
+}

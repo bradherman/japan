@@ -1,0 +1,286 @@
+{
+  "url": "https://instagram.com/p/DSB2iDuES2b/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DSB2iDuES2b/2025-12-09_04-17-01_UTC.mp4",
+  "caption": "HIKINIKU TO COME\n\nCan’t wait to eat here again! @hikiniku.to.come",
+  "transcript": "This was the best thing I ate in Japan. This place is called Hikiniku to Komei and before we talk about the food the logistics matter because we learned this the hard way. You need a reservation and there are two ways to do so. You can either book online or you can show up in the morning for a same day reservation. We were at the Kyoto location and they said doors open at 9 so we showed up at 8 30 and there was already a lineup and I'm not someone who loves lining up especially not for something that sounds as simple as ground beef patties on rice but it was the best thing I ate on a 10-day trip to Japan and nothing even came close. The whole restaurant is built around charcoaled grilled patties. Every seat circles a grill so you watch them hand form each one. First they sear it over high heat to build that crust and then they move it to a low and slow section to finish and because it's cooked over bichotan charcoal the rendered fat hits the charcoal vaporizes instantly and infuses the patties with concentrated flavor while the lower heat keeps the meat perfectly juicy. When I asked what was in the patties the chef said beef some onions fat and salt and that's it but because the technique is dialed in like this simple becomes incredible. The standard course is three patties with unlimited miso soup and rice and then there's a lineup of curated condiments. They suggest different pairings like grated daikon with their house-made ponzu, mix of peppers and spices and even a raw egg yolk for richness. It turns the whole meal into a bit of a choose-your-own adventure. Next time I'm in Japan I'm 100% coming back to this place because it was so good and I can't stop thinking about it.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 6.48,
+      "text": "This was the best thing I ate in Japan. This place is called Hikiniku to Komei and before we talk"
+    },
+    {
+      "start": 6.48,
+      "end": 10.96,
+      "text": "about the food the logistics matter because we learned this the hard way. You need a reservation"
+    },
+    {
+      "start": 10.96,
+      "end": 16.1,
+      "text": "and there are two ways to do so. You can either book online or you can show up in the morning for"
+    },
+    {
+      "start": 16.1,
+      "end": 20.82,
+      "text": "a same day reservation. We were at the Kyoto location and they said doors open at 9 so we"
+    },
+    {
+      "start": 20.82,
+      "end": 26.12,
+      "text": "showed up at 8 30 and there was already a lineup and I'm not someone who loves lining up especially"
+    },
+    {
+      "start": 26.12,
+      "end": 29.94,
+      "text": "not for something that sounds as simple as ground beef patties on rice but it was the best"
+    },
+    {
+      "start": 29.94,
+      "end": 34.74,
+      "text": "thing I ate on a 10-day trip to Japan and nothing even came close. The whole restaurant is built"
+    },
+    {
+      "start": 34.74,
+      "end": 40.76,
+      "text": "around charcoaled grilled patties. Every seat circles a grill so you watch them hand form each one. First"
+    },
+    {
+      "start": 40.76,
+      "end": 45.98,
+      "text": "they sear it over high heat to build that crust and then they move it to a low and slow section to finish"
+    },
+    {
+      "start": 45.98,
+      "end": 51.74,
+      "text": "and because it's cooked over bichotan charcoal the rendered fat hits the charcoal vaporizes instantly"
+    },
+    {
+      "start": 51.74,
+      "end": 57.48,
+      "text": "and infuses the patties with concentrated flavor while the lower heat keeps the meat perfectly juicy."
+    },
+    {
+      "start": 57.48,
+      "end": 63.38,
+      "text": "When I asked what was in the patties the chef said beef some onions fat and salt and that's it but"
+    },
+    {
+      "start": 63.38,
+      "end": 69.42,
+      "text": "because the technique is dialed in like this simple becomes incredible. The standard course is three"
+    },
+    {
+      "start": 69.42,
+      "end": 74.58,
+      "text": "patties with unlimited miso soup and rice and then there's a lineup of curated condiments. They suggest"
+    },
+    {
+      "start": 74.58,
+      "end": 78.96,
+      "text": "different pairings like grated daikon with their house-made ponzu, mix of peppers and spices and"
+    },
+    {
+      "start": 78.96,
+      "end": 85.08,
+      "text": "even a raw egg yolk for richness. It turns the whole meal into a bit of a choose-your-own adventure. Next time I'm in Japan"
+    },
+    {
+      "start": 85.08,
+      "end": 89.98,
+      "text": "I'm 100% coming back to this place because it was so good and I can't stop thinking about it."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "Thiswasthebestthinglate",
+      "confidence": 0.842,
+      "timestamp": 1.96
+    },
+    {
+      "text": "KYOTO",
+      "confidence": 0.832,
+      "timestamp": 3.92
+    },
+    {
+      "text": "Thisplaceiscalled",
+      "confidence": 0.995,
+      "timestamp": 3.92
+    },
+    {
+      "text": "Youneedareservationand",
+      "confidence": 0.978,
+      "timestamp": 9.8
+    },
+    {
+      "text": "therearetwowaystodoso:",
+      "confidence": 0.693,
+      "timestamp": 11.76
+    },
+    {
+      "text": "Youcaneitherbookonlimeor",
+      "confidence": 0.779,
+      "timestamp": 13.72
+    },
+    {
+      "text": "morningforasameday",
+      "confidence": 0.998,
+      "timestamp": 15.68
+    },
+    {
+      "text": "WemereattheMyotolocation",
+      "confidence": 0.474,
+      "timestamp": 17.64
+    },
+    {
+      "text": "and",
+      "confidence": 0.989,
+      "timestamp": 19.6
+    },
+    {
+      "text": "saiddoorsgpeatg",
+      "confidence": 0.911,
+      "timestamp": 19.6
+    },
+    {
+      "text": "Itheys",
+      "confidence": 0.934,
+      "timestamp": 19.6
+    },
+    {
+      "text": "theremasalreadyallimeup",
+      "confidence": 0.517,
+      "timestamp": 23.52
+    },
+    {
+      "text": "『mmgaespeciallynotfor",
+      "confidence": 0.463,
+      "timestamp": 25.48
+    },
+    {
+      "text": "somethingthatsoundsas",
+      "confidence": 0.811,
+      "timestamp": 27.44
+    },
+    {
+      "text": "onricebutitwasthebestl",
+      "confidence": 0.85,
+      "timestamp": 29.4
+    },
+    {
+      "text": "ateonaten-daytripto",
+      "confidence": 0.893,
+      "timestamp": 31.36
+    },
+    {
+      "text": "close",
+      "confidence": 0.963,
+      "timestamp": 33.32
+    },
+    {
+      "text": "aroundcharcoalgrilled",
+      "confidence": 0.983,
+      "timestamp": 35.29
+    },
+    {
+      "text": "Everyseatcirclesagrillso",
+      "confidence": 0.928,
+      "timestamp": 37.25
+    },
+    {
+      "text": "youwatchthemhandformeach",
+      "confidence": 0.997,
+      "timestamp": 39.21
+    },
+    {
+      "text": "heattobuildthatcrustamd",
+      "confidence": 0.866,
+      "timestamp": 43.13
+    },
+    {
+      "text": "andslowsectiontofinish",
+      "confidence": 0.772,
+      "timestamp": 45.09
+    },
+    {
+      "text": "andbecauseitscookedover",
+      "confidence": 0.992,
+      "timestamp": 47.05
+    },
+    {
+      "text": "renderedfathitsthe",
+      "confidence": 0.981,
+      "timestamp": 49.01
+    },
+    {
+      "text": "charcoal,vaporizesinstantly",
+      "confidence": 0.781,
+      "timestamp": 50.97
+    },
+    {
+      "text": "andinfusesthepattieswith",
+      "confidence": 0.695,
+      "timestamp": 52.93
+    },
+    {
+      "text": "memlaskmhatmasimthe",
+      "confidence": 0.565,
+      "timestamp": 58.81
+    },
+    {
+      "text": "courseisthree",
+      "confidence": 0.994,
+      "timestamp": 68.61
+    },
+    {
+      "text": "'pattieswith",
+      "confidence": 0.682,
+      "timestamp": 68.61
+    },
+    {
+      "text": "unlimitedmisosoupamdmiee",
+      "confidence": 0.463,
+      "timestamp": 70.57
+    },
+    {
+      "text": "andthentheresalimeupof",
+      "confidence": 0.66,
+      "timestamp": 72.53
+    },
+    {
+      "text": "Suggestdifferentpairings",
+      "confidence": 0.442,
+      "timestamp": 74.49
+    },
+    {
+      "text": "housemadeponzumixof",
+      "confidence": 0.707,
+      "timestamp": 76.45
+    },
+    {
+      "text": "peppersandspicesandevena",
+      "confidence": 0.999,
+      "timestamp": 78.41
+    },
+    {
+      "text": "forrichesit",
+      "confidence": 1.0,
+      "timestamp": 80.37
+    },
+    {
+      "text": "yolk",
+      "confidence": 0.993,
+      "timestamp": 80.37
+    },
+    {
+      "text": "BEofachooseyourowm",
+      "confidence": 0.547,
+      "timestamp": 82.33
+    },
+    {
+      "text": "adventurenexttimelmi",
+      "confidence": 0.55,
+      "timestamp": 84.29
+    }
+  ]
+}

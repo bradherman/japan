@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #0a0f1a;
+  --color-surface: #141c2b;
+  --color-surface-2: #1e293b;
+  --color-surface-3: #2a3548;
+  --color-border: #2a3548;
+  --color-border-subtle: #1e293b;
+  --color-text: #f1f5f9;
+  --color-text-secondary: #8896ab;
+  --color-text-tertiary: #5a6a80;
+  --color-accent: #ef4444;
+  --color-accent-hover: #f87171;
+  --color-accent-subtle: #ef444415;
+  --color-tokyo: #60a5fa;
+  --color-tokyo-dim: #60a5fa20;
+  --color-kyoto: #c084fc;
+  --color-kyoto-dim: #c084fc20;
+  --color-osaka: #fb923c;
+  --color-osaka-dim: #fb923c20;
+  --color-hakone: #4ade80;
+  --color-hakone-dim: #4ade8020;
+  --color-booked: #34d399;
+  --color-urgent: #f87171;
+  --color-soon: #fbbf24;
+  --color-priority: #fbbf24;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.safe-area-pb {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Focus ring for keyboard navigation */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Subtle entrance animation */
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-up {
+  animation: fade-up 0.3s ease-out both;
+}
+
+/* Stagger children for list animations */
+.stagger-children > * {
+  animation: fade-up 0.3s ease-out both;
+}
+.stagger-children > *:nth-child(1) { animation-delay: 0ms; }
+.stagger-children > *:nth-child(2) { animation-delay: 30ms; }
+.stagger-children > *:nth-child(3) { animation-delay: 60ms; }
+.stagger-children > *:nth-child(4) { animation-delay: 90ms; }
+.stagger-children > *:nth-child(5) { animation-delay: 120ms; }
+.stagger-children > *:nth-child(6) { animation-delay: 150ms; }
+.stagger-children > *:nth-child(7) { animation-delay: 180ms; }
+.stagger-children > *:nth-child(8) { animation-delay: 210ms; }
+.stagger-children > *:nth-child(n+9) { animation-delay: 240ms; }
+
+/* Chat slide-up */
+@keyframes slide-up {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+.animate-slide-up {
+  animation: slide-up 0.3s cubic-bezier(0.16, 1, 0.3, 1) both;
+}

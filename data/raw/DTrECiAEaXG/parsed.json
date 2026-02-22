@@ -1,0 +1,356 @@
+{
+  "url": "https://instagram.com/p/DTrECiAEaXG/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DTrECiAEaXG/2026-01-19_00-56-45_UTC.mp4",
+  "caption": "Rapid fire smash or pass of the most viral foods I ate in Japan! #foodie #travel #yum #foodreview #japanfood",
+  "transcript": "Rapid Fire Smasher Pass of Things I Ate in Japan. 7-Eleven Egg Solid Sandwich, smash. A furry ramen, smash, smash, smash, smash. 7-Eleven Fruit Smoothies, smash. A Happy Pancake Fluffy Pancakes, pass. 7-Eleven Fruit Sandwich, smash. Tsukiji Fish Market Salmon, smash. Tsukiji Fish Market Milk Ice Cream, smash. 7-Eleven Strawberry Crepe, smash. Yaki Soba from This Random Place, smash. Pizza Marumo Pizza, smash, times 1 million. Sinkansen Train Station Bento Box, smash. Engine Ramen, smash. Kichi Kichi Oma Rice, smash. Eggs and Things, pass. Pass, pass, pass, pass, pass. Ice Cream Crepe with Strawberries and Chocolate, smash. Tamago Nagiri, smash. Gyoza O Dumplings, smash.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "Rapid Fire Smasher Pass of Things I Ate in Japan."
+    },
+    {
+      "start": 2.66,
+      "end": 4.54,
+      "text": "7-Eleven Egg Solid Sandwich, smash."
+    },
+    {
+      "start": 5.26,
+      "end": 8.18,
+      "text": "A furry ramen, smash, smash, smash, smash."
+    },
+    {
+      "start": 8.7,
+      "end": 10.48,
+      "text": "7-Eleven Fruit Smoothies, smash."
+    },
+    {
+      "start": 11.14,
+      "end": 13.26,
+      "text": "A Happy Pancake Fluffy Pancakes, pass."
+    },
+    {
+      "start": 13.82,
+      "end": 15.98,
+      "text": "7-Eleven Fruit Sandwich, smash."
+    },
+    {
+      "start": 16.22,
+      "end": 18.78,
+      "text": "Tsukiji Fish Market Salmon, smash."
+    },
+    {
+      "start": 18.96,
+      "end": 21.42,
+      "text": "Tsukiji Fish Market Milk Ice Cream, smash."
+    },
+    {
+      "start": 21.62,
+      "end": 23.58,
+      "text": "7-Eleven Strawberry Crepe, smash."
+    },
+    {
+      "start": 24.18,
+      "end": 26.7,
+      "text": "Yaki Soba from This Random Place, smash."
+    },
+    {
+      "start": 26.7,
+      "end": 30.28,
+      "text": "Pizza Marumo Pizza, smash, times 1 million."
+    },
+    {
+      "start": 30.54,
+      "end": 33.06,
+      "text": "Sinkansen Train Station Bento Box, smash."
+    },
+    {
+      "start": 33.72,
+      "end": 35.58,
+      "text": "Engine Ramen, smash."
+    },
+    {
+      "start": 36.04,
+      "end": 37.9,
+      "text": "Kichi Kichi Oma Rice, smash."
+    },
+    {
+      "start": 39.34,
+      "end": 41.24,
+      "text": "Eggs and Things, pass."
+    },
+    {
+      "start": 41.52,
+      "end": 43.2,
+      "text": "Pass, pass, pass, pass, pass."
+    },
+    {
+      "start": 43.36,
+      "end": 45.84,
+      "text": "Ice Cream Crepe with Strawberries and Chocolate, smash."
+    },
+    {
+      "start": 46.3,
+      "end": 48.36,
+      "text": "Tamago Nagiri, smash."
+    },
+    {
+      "start": 48.98,
+      "end": 50.72,
+      "text": "Gyoza O Dumplings, smash."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "Rapiafire",
+      "confidence": 0.752,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Smash",
+      "confidence": 1.0,
+      "timestamp": 0.0
+    },
+    {
+      "text": "or",
+      "confidence": 0.985,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Pass",
+      "confidence": 0.824,
+      "timestamp": 0.0
+    },
+    {
+      "text": "ofeverythig",
+      "confidence": 0.452,
+      "timestamp": 0.0
+    },
+    {
+      "text": "ateinJapan",
+      "confidence": 0.999,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Rapidfire",
+      "confidence": 0.996,
+      "timestamp": 2.0
+    },
+    {
+      "text": "ofeverythimg",
+      "confidence": 0.95,
+      "timestamp": 2.0
+    },
+    {
+      "text": "291",
+      "confidence": 1.0,
+      "timestamp": 4.0
+    },
+    {
+      "text": "E9g",
+      "confidence": 0.504,
+      "timestamp": 4.0
+    },
+    {
+      "text": "黄身と白身の",
+      "confidence": 0.905,
+      "timestamp": 4.0
+    },
+    {
+      "text": "セブン・イレブンのこだわり",
+      "confidence": 0.709,
+      "timestamp": 4.0
+    },
+    {
+      "text": "THEたまご",
+      "confidence": 0.994,
+      "timestamp": 4.0
+    },
+    {
+      "text": "iSalad",
+      "confidence": 0.631,
+      "timestamp": 4.0
+    },
+    {
+      "text": "RFURlRamen",
+      "confidence": 0.511,
+      "timestamp": 6.0
+    },
+    {
+      "text": "AFURlRamen",
+      "confidence": 0.803,
+      "timestamp": 8.0
+    },
+    {
+      "text": "山川セット",
+      "confidence": 0.594,
+      "timestamp": 10.0
+    },
+    {
+      "text": "5T",
+      "confidence": 0.786,
+      "timestamp": 10.0
+    },
+    {
+      "text": "3",
+      "confidence": 0.997,
+      "timestamp": 10.0
+    },
+    {
+      "text": "画面のボタンた押す",
+      "confidence": 0.597,
+      "timestamp": 10.0
+    },
+    {
+      "text": "push buttonto start",
+      "confidence": 0.574,
+      "timestamp": 10.0
+    },
+    {
+      "text": "カップ",
+      "confidence": 0.616,
+      "timestamp": 10.0
+    },
+    {
+      "text": "ラべルた",
+      "confidence": 0.565,
+      "timestamp": 10.0
+    },
+    {
+      "text": "n",
+      "confidence": 0.548,
+      "timestamp": 12.0
+    },
+    {
+      "text": "HappyPancake",
+      "confidence": 0.922,
+      "timestamp": 12.0
+    },
+    {
+      "text": "カスタードクリーム入り",
+      "confidence": 0.996,
+      "timestamp": 14.0
+    },
+    {
+      "text": "438円",
+      "confidence": 0.469,
+      "timestamp": 14.0
+    },
+    {
+      "text": "@",
+      "confidence": 0.522,
+      "timestamp": 22.0
+    },
+    {
+      "text": "7/11StrawberryCrepe",
+      "confidence": 0.645,
+      "timestamp": 22.0
+    },
+    {
+      "text": "もちもち生地の",
+      "confidence": 1.0,
+      "timestamp": 22.0
+    },
+    {
+      "text": "いちごチョコク",
+      "confidence": 0.999,
+      "timestamp": 22.0
+    },
+    {
+      "text": "一つ",
+      "confidence": 0.887,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Ciepe with",
+      "confidence": 0.742,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Sauce",
+      "confidence": 0.713,
+      "timestamp": 22.0
+    },
+    {
+      "text": "心opz",
+      "confidence": 0.608,
+      "timestamp": 22.0
+    },
+    {
+      "text": "suppuy",
+      "confidence": 0.607,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Strawberry",
+      "confidence": 0.723,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Yakisgba",
+      "confidence": 0.661,
+      "timestamp": 24.0
+    },
+    {
+      "text": "SiASH",
+      "confidence": 0.501,
+      "timestamp": 26.0
+    },
+    {
+      "text": "ShimkansenStationBentoBox",
+      "confidence": 0.536,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Kips BENTo",
+      "confidence": 0.576,
+      "timestamp": 32.0
+    },
+    {
+      "text": "EmgimeRamen",
+      "confidence": 0.871,
+      "timestamp": 34.0
+    },
+    {
+      "text": "RAMEN",
+      "confidence": 0.745,
+      "timestamp": 34.0
+    },
+    {
+      "text": "ENGINE",
+      "confidence": 0.836,
+      "timestamp": 34.0
+    },
+    {
+      "text": "Pa",
+      "confidence": 0.455,
+      "timestamp": 34.0
+    },
+    {
+      "text": "KichiKichiOmurice",
+      "confidence": 0.621,
+      "timestamp": 36.0
+    },
+    {
+      "text": "SNASH",
+      "confidence": 0.594,
+      "timestamp": 38.0
+    },
+    {
+      "text": "DceCremeCrepe",
+      "confidence": 0.442,
+      "timestamp": 46.0
+    },
+    {
+      "text": "GyozaOHI",
+      "confidence": 0.508,
+      "timestamp": 50.0
+    },
+    {
+      "text": "SWIASH",
+      "confidence": 0.434,
+      "timestamp": 50.0
+    }
+  ]
+}

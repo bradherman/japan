@@ -1,0 +1,211 @@
+{
+  "url": "https://instagram.com/p/DSW8M7qEt1u/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DSW8M7qEt1u/2025-12-17_08-50-32_UTC.mp4",
+  "caption": "Tokyo’s BEST Wagyu Beef 🥩🇯🇵�If you’re planning a trip to Japan, these 3 spots deserve a place on your food list.\n\n📍 Shinsekai Grill Bon Ginza�Wagyu Beef Tenderloin Cutlet Sandwich (for one) JPY 7,740�\n📍 Shinjuku Yakiniku Horumon Inoue (2nd Branch)�Large Black Wagyu Hitsumabushi (Lunch)  JPY 2,500�\n📍 SHOGUN BURGER Shinjuku Main Store�Double Cheese Burger JPY 2,780�Dip Sauce Potato JPY 1,180\n Drink Bar JPY 380�\nLet’s experience Japan together!�Click the link in my profile to book a tour 🇯🇵�#japanlocalexperience��#TokyoFood�#WagyuBeef�#JapanTravel�#TokyoEats�#foodiejapan\n#shinsekai_grillbon\n#inoue_shinjuku2\n#shogunburger",
+  "transcript": "Stay with me 真夜中のドアをたたき 帰らないでと泣いた あの季節が今目の前へ Stay with me 口癖を言いながら 二人の時を抱いて 笑わす",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 18.0,
+      "text": "Stay with me 真夜中のドアをたたき 帰らないでと泣いた あの季節が今目の前へ"
+    },
+    {
+      "start": 18.0,
+      "end": 32.56,
+      "text": "Stay with me 口癖を言いながら 二人の時を抱いて 笑わす"
+    }
+  ],
+  "detected_language": "ja",
+  "onscreen_texts": [
+    {
+      "text": "TOP3",
+      "confidence": 0.628,
+      "timestamp": 0.0
+    },
+    {
+      "text": "TOI 3",
+      "confidence": 0.767,
+      "timestamp": 2.0
+    },
+    {
+      "text": "No.1",
+      "confidence": 0.404,
+      "timestamp": 2.0
+    },
+    {
+      "text": "ShinsekaiGrillBon Ginza",
+      "confidence": 0.87,
+      "timestamp": 2.0
+    },
+    {
+      "text": "No.l",
+      "confidence": 0.465,
+      "timestamp": 4.0
+    },
+    {
+      "text": "No:l",
+      "confidence": 0.451,
+      "timestamp": 6.0
+    },
+    {
+      "text": "ShinsekaiGiilonGinza",
+      "confidence": 0.858,
+      "timestamp": 6.0
+    },
+    {
+      "text": "inToKyo",
+      "confidence": 0.52,
+      "timestamp": 8.0
+    },
+    {
+      "text": "ShinsekaiGri",
+      "confidence": 0.979,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Bon Ginza",
+      "confidence": 0.986,
+      "timestamp": 8.0
+    },
+    {
+      "text": "EarinLunc",
+      "confidence": 0.848,
+      "timestamp": 10.0
+    },
+    {
+      "text": "ShinsekaiGrillBor Binza",
+      "confidence": 0.815,
+      "timestamp": 10.0
+    },
+    {
+      "text": "Wagyu BeefTenderloin CutletSandwich forOne",
+      "confidence": 0.706,
+      "timestamp": 10.0
+    },
+    {
+      "text": "JPY7,740",
+      "confidence": 0.478,
+      "timestamp": 10.0
+    },
+    {
+      "text": "ShinsekaiGrill Bon Ginza",
+      "confidence": 0.942,
+      "timestamp": 12.0
+    },
+    {
+      "text": "inTOIYO",
+      "confidence": 0.415,
+      "timestamp": 14.0
+    },
+    {
+      "text": "No",
+      "confidence": 0.976,
+      "timestamp": 14.0
+    },
+    {
+      "text": "2",
+      "confidence": 1.0,
+      "timestamp": 14.0
+    },
+    {
+      "text": "Yakiniku IorunonInoneZndB anch",
+      "confidence": 0.529,
+      "timestamp": 14.0
+    },
+    {
+      "text": "No2",
+      "confidence": 0.989,
+      "timestamp": 16.0
+    },
+    {
+      "text": "No.2",
+      "confidence": 0.791,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Yakiniku HorumonInoueZndBranch",
+      "confidence": 0.927,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Large Black VVagyu Hitsumabushi(Lunch) JPV",
+      "confidence": 0.537,
+      "timestamp": 20.0
+    },
+    {
+      "text": "500",
+      "confidence": 1.0,
+      "timestamp": 20.0
+    },
+    {
+      "text": "YakinikuIorumonInoueZndBranch",
+      "confidence": 0.572,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Large Black Vagyu Hitsumabushi(Lunch) JPY2,500",
+      "confidence": 0.781,
+      "timestamp": 22.0
+    },
+    {
+      "text": "No.3",
+      "confidence": 0.446,
+      "timestamp": 26.0
+    },
+    {
+      "text": "SHOGUNBURGERShinjuku",
+      "confidence": 0.977,
+      "timestamp": 26.0
+    },
+    {
+      "text": "WAGYUBEBR SPOTS",
+      "confidence": 0.408,
+      "timestamp": 28.0
+    },
+    {
+      "text": "in ToKyo",
+      "confidence": 0.449,
+      "timestamp": 28.0
+    },
+    {
+      "text": "SHOGUNBUhGEhShinjuku",
+      "confidence": 0.754,
+      "timestamp": 28.0
+    },
+    {
+      "text": "in TOIio",
+      "confidence": 0.433,
+      "timestamp": 30.0
+    },
+    {
+      "text": "SHOGUN",
+      "confidence": 0.999,
+      "timestamp": 30.0
+    },
+    {
+      "text": "DoubleCheese",
+      "confidence": 0.999,
+      "timestamp": 30.0
+    },
+    {
+      "text": "Dipsauce",
+      "confidence": 1.0,
+      "timestamp": 30.0
+    },
+    {
+      "text": "Drink",
+      "confidence": 0.987,
+      "timestamp": 30.0
+    },
+    {
+      "text": "Burg",
+      "confidence": 0.926,
+      "timestamp": 30.0
+    },
+    {
+      "text": "SHOGUNBURGER Shinjuku",
+      "confidence": 0.963,
+      "timestamp": 32.0
+    }
+  ]
+}

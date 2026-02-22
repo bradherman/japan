@@ -1,0 +1,391 @@
+{
+  "url": "https://instagram.com/p/DPm5smGkm8A/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DPm5smGkm8A/2025-10-10_00-04-11_UTC.mp4",
+  "caption": "Comment “SHIRT” for a Google Map link of the store!\n\nLet me put you onto one of the coolest stores in Tokyo called #FFFFFFT (color code for white + T)\n\nThe world’s first white t-shirt speciality store that sells, you guessed it, white tees only. \n\n@shirothunter is the genius behind this spot and he’s seriously obsessed with white tees (obsessed enough to open an entire store for them). If you have the chance to visit on the weekends, his ability to find you the best white tee shirt is impressive.\n\nJust like Japanese denim, these tees are made with the same high quality production standards and attention to detail you won’t find anywhere else on the planet. \n\nHis motto: If you step inside, you’ll find at least one white tee that fits your body perfectly. So, if you’re in Tokyo, don’t sleep on this store!\n—\nIG: @fffffft_sendagaya\nOwner: @shirothunter\nOPEN SAT 12pm-7pm / SUN 12pm-6pm\n\n#tokyo #whitetees #shirotee #tokyotravel #tokyostyle #fashion #madeinjapan #japanesegifts",
+  "transcript": "Visiting the world's first white t-shirt-only store in Tokyo. Yes, you heard that right. This store only sells white tees and you'll be surprised how deep you can go. The owner of Shiroti is obsessed with white tees and he explained that everything from the fabric, knitting, collar, sleeve, body structure are all meticulously crafted in their own unique way. That's why the moment you step into the store, the owner is confident you'll find something that will fit your body. From beautiful made-in-japan loop-wheeled shirts, $120 premium white tees, and shirts made famous from the FX show The Bear, there's a ton of variety to choose from. They also have an assortment of base layer shirts, long sleeves, thermals, and of course a section for the ladies as well. Made specifically for the woman's body, you'll find similar relaxed fits, tank tops, and fitted white tees that are hard to find back home. Search this color code for white plus a tee at the end on Google Maps and you'll find your very own special t-shirt in Tokyo.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Visiting the world's first white t-shirt-only store in Tokyo."
+    },
+    {
+      "start": 3.46,
+      "end": 4.76,
+      "text": "Yes, you heard that right."
+    },
+    {
+      "start": 4.88,
+      "end": 8.6,
+      "text": "This store only sells white tees and you'll be surprised how deep you can go."
+    },
+    {
+      "start": 8.72,
+      "end": 12.46,
+      "text": "The owner of Shiroti is obsessed with white tees and he explained that everything from"
+    },
+    {
+      "start": 12.46,
+      "end": 17.08,
+      "text": "the fabric, knitting, collar, sleeve, body structure are all meticulously crafted in"
+    },
+    {
+      "start": 17.08,
+      "end": 18.04,
+      "text": "their own unique way."
+    },
+    {
+      "start": 18.14,
+      "end": 21.58,
+      "text": "That's why the moment you step into the store, the owner is confident you'll find"
+    },
+    {
+      "start": 21.58,
+      "end": 23.06,
+      "text": "something that will fit your body."
+    },
+    {
+      "start": 23.24,
+      "end": 28.32,
+      "text": "From beautiful made-in-japan loop-wheeled shirts, $120 premium white tees, and shirts"
+    },
+    {
+      "start": 28.32,
+      "end": 32.36,
+      "text": "made famous from the FX show The Bear, there's a ton of variety to choose from."
+    },
+    {
+      "start": 32.46,
+      "end": 36.58,
+      "text": "They also have an assortment of base layer shirts, long sleeves, thermals, and of course"
+    },
+    {
+      "start": 36.58,
+      "end": 38.18,
+      "text": "a section for the ladies as well."
+    },
+    {
+      "start": 38.36,
+      "end": 42.92,
+      "text": "Made specifically for the woman's body, you'll find similar relaxed fits, tank tops, and fitted"
+    },
+    {
+      "start": 42.92,
+      "end": 44.88,
+      "text": "white tees that are hard to find back home."
+    },
+    {
+      "start": 45.04,
+      "end": 49.1,
+      "text": "Search this color code for white plus a tee at the end on Google Maps and you'll find"
+    },
+    {
+      "start": 49.1,
+      "end": 51.7,
+      "text": "your very own special t-shirt in Tokyo."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "VISITING THE WORLD'SFIRST",
+      "confidence": 0.511,
+      "timestamp": 0.0
+    },
+    {
+      "text": "WHITE T-SHIRTONLY",
+      "confidence": 0.94,
+      "timestamp": 0.0
+    },
+    {
+      "text": "STOREINTOKYO",
+      "confidence": 0.952,
+      "timestamp": 0.0
+    },
+    {
+      "text": "VISITINGTHE WORLD'SFIRST",
+      "confidence": 0.828,
+      "timestamp": 2.0
+    },
+    {
+      "text": "#",
+      "confidence": 0.665,
+      "timestamp": 10.0
+    },
+    {
+      "text": "CoTTON",
+      "confidence": 0.842,
+      "timestamp": 10.0
+    },
+    {
+      "text": "WN",
+      "confidence": 0.518,
+      "timestamp": 10.0
+    },
+    {
+      "text": "PA",
+      "confidence": 0.999,
+      "timestamp": 10.0
+    },
+    {
+      "text": "ルADE",
+      "confidence": 0.604,
+      "timestamp": 10.0
+    },
+    {
+      "text": "JAPIN",
+      "confidence": 0.441,
+      "timestamp": 10.0
+    },
+    {
+      "text": "WHITE",
+      "confidence": 0.823,
+      "timestamp": 10.0
+    },
+    {
+      "text": "TSHIRTS",
+      "confidence": 0.965,
+      "timestamp": 10.0
+    },
+    {
+      "text": "FOR",
+      "confidence": 0.999,
+      "timestamp": 10.0
+    },
+    {
+      "text": "THE",
+      "confidence": 0.998,
+      "timestamp": 10.0
+    },
+    {
+      "text": "ULTIMATE",
+      "confidence": 0.927,
+      "timestamp": 10.0
+    },
+    {
+      "text": "mg",
+      "confidence": 0.592,
+      "timestamp": 12.0
+    },
+    {
+      "text": "t",
+      "confidence": 0.943,
+      "timestamp": 12.0
+    },
+    {
+      "text": "I",
+      "confidence": 0.756,
+      "timestamp": 12.0
+    },
+    {
+      "text": "Itis",
+      "confidence": 0.765,
+      "timestamp": 12.0
+    },
+    {
+      "text": "colorless",
+      "confidence": 1.0,
+      "timestamp": 12.0
+    },
+    {
+      "text": "isn't",
+      "confidence": 0.983,
+      "timestamp": 12.0
+    },
+    {
+      "text": "color",
+      "confidence": 1.0,
+      "timestamp": 12.0
+    },
+    {
+      "text": "selfl",
+      "confidence": 0.993,
+      "timestamp": 12.0
+    },
+    {
+      "text": "isn'",
+      "confidence": 0.989,
+      "timestamp": 12.0
+    },
+    {
+      "text": "Nhite",
+      "confidence": 0.575,
+      "timestamp": 12.0
+    },
+    {
+      "text": "Whit",
+      "confidence": 0.523,
+      "timestamp": 12.0
+    },
+    {
+      "text": "sibilit",
+      "confidence": 1.0,
+      "timestamp": 12.0
+    },
+    {
+      "text": "Whitg",
+      "confidence": 0.51,
+      "timestamp": 12.0
+    },
+    {
+      "text": "Vou",
+      "confidence": 0.956,
+      "timestamp": 12.0
+    },
+    {
+      "text": "day",
+      "confidence": 0.972,
+      "timestamp": 12.0
+    },
+    {
+      "text": "FFFFFFT",
+      "confidence": 0.628,
+      "timestamp": 24.0
+    },
+    {
+      "text": "WW WN",
+      "confidence": 0.436,
+      "timestamp": 24.0
+    },
+    {
+      "text": "Ph",
+      "confidence": 0.844,
+      "timestamp": 32.0
+    },
+    {
+      "text": "昌",
+      "confidence": 0.607,
+      "timestamp": 32.0
+    },
+    {
+      "text": "FRU",
+      "confidence": 0.875,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Quali-T",
+      "confidence": 0.611,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Labelo}",
+      "confidence": 0.495,
+      "timestamp": 34.0
+    },
+    {
+      "text": "ghest Oualin",
+      "confidence": 0.489,
+      "timestamp": 34.0
+    },
+    {
+      "text": "Knitting",
+      "confidence": 0.864,
+      "timestamp": 34.0
+    },
+    {
+      "text": "Tape",
+      "confidence": 0.603,
+      "timestamp": 34.0
+    },
+    {
+      "text": "2",
+      "confidence": 0.412,
+      "timestamp": 34.0
+    },
+    {
+      "text": "Reinforced",
+      "confidence": 0.832,
+      "timestamp": 34.0
+    },
+    {
+      "text": "Exta",
+      "confidence": 0.951,
+      "timestamp": 34.0
+    },
+    {
+      "text": "Durable",
+      "confidence": 0.493,
+      "timestamp": 34.0
+    },
+    {
+      "text": "QmaliT",
+      "confidence": 0.57,
+      "timestamp": 34.0
+    },
+    {
+      "text": "NATIoNAL",
+      "confidence": 0.856,
+      "timestamp": 34.0
+    },
+    {
+      "text": "WEIGMT",
+      "confidence": 0.52,
+      "timestamp": 34.0
+    },
+    {
+      "text": "HEAVY",
+      "confidence": 0.554,
+      "timestamp": 34.0
+    },
+    {
+      "text": "1",
+      "confidence": 0.996,
+      "timestamp": 36.0
+    },
+    {
+      "text": "四",
+      "confidence": 0.841,
+      "timestamp": 38.0
+    },
+    {
+      "text": "#FFEEFE",
+      "confidence": 0.439,
+      "timestamp": 46.0
+    },
+    {
+      "text": "@",
+      "confidence": 0.521,
+      "timestamp": 46.0
+    },
+    {
+      "text": "ACWE",
+      "confidence": 0.481,
+      "timestamp": 46.0
+    },
+    {
+      "text": "アオヤマ",
+      "confidence": 0.665,
+      "timestamp": 46.0
+    },
+    {
+      "text": "アクネ",
+      "confidence": 1.0,
+      "timestamp": 46.0
+    },
+    {
+      "text": "Ins",
+      "confidence": 0.64,
+      "timestamp": 46.0
+    },
+    {
+      "text": "siuoios",
+      "confidence": 0.428,
+      "timestamp": 46.0
+    },
+    {
+      "text": "ストゥディオズ",
+      "confidence": 0.542,
+      "timestamp": 46.0
+    },
+    {
+      "text": "WHITECOLORCODE + \"T\"",
+      "confidence": 0.72,
+      "timestamp": 48.0
+    },
+    {
+      "text": "#FFFFFFT",
+      "confidence": 0.994,
+      "timestamp": 48.0
+    }
+  ]
+}

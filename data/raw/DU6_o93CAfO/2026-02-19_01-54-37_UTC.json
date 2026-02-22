@@ -1,0 +1,1903 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.15"
+    },
+    "node": {
+        "__isXDTGraphMediaInterface": "XDTGraphSidecar",
+        "__typename": "GraphSidecar",
+        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @tokyo.explores, @japan.explores, and @japan.undiscovered. May be an image of roe, sushi, sashimi, tuna, seaweed, caviar, rice and text that says '20 BEST BITES (ranked) in inTokyo,Japan Tokyo, Japan From casualstreet casual street food to the best ramen, shiopan, melon pan and teishoku'.",
+        "can_see_insights_as_brand": false,
+        "caption_is_edited": true,
+        "coauthor_producers": [
+            {
+                "id": "61485269120",
+                "is_verified": false,
+                "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/409043810_192101290641869_6613578741756844688_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=NO6_NJFFujQQ7kNvwFZCcxQ&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvNWNa2kVTrynruT6iIHgBRzfAGPQf7D62rBZm8feqsPA&oe=69A00D62&_nc_sid=d885a2",
+                "username": "japan.undiscovered"
+            }
+        ],
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 800,
+                "config_width": 640,
+                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/635735945_18380238949094221_7268166524293691646_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=XxFrXQszws8Q7kNvwGf4PGr&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu-MeQtB4r3meRrfBFO7T9REEgV0wvFvh9eIrDFLCr6bw&oe=69A0382C&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 937,
+                "config_width": 750,
+                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/635735945_18380238949094221_7268166524293691646_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=XxFrXQszws8Q7kNvwGf4PGr&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afup7VXB5qnrn7SdGcrvTuNdAZPctnn6jCF6-omEsDtiTQ&oe=69A0382C&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1350,
+                "config_width": 1080,
+                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/635735945_18380238949094221_7268166524293691646_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=XxFrXQszws8Q7kNvwGf4PGr&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afvzv8_M1rr9gZ4pr_hvmoaW9iNKH9EQ6F3LoxkVLEUB-A&oe=69A0382C&_nc_sid=d885a2"
+            }
+        ],
+        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/635735945_18380238949094221_7268166524293691646_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=XxFrXQszws8Q7kNvwGf4PGr&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfszXpdrzJAhdpzNtvIFSWQcPVSENKtBouLkjUCnfOsA6g&oe=69A0382C&_nc_sid=d885a2",
+        "edge_media_preview_comment": {
+            "count": 35,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1771683429,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17877988017484193",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2679782220",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/472386587_594620669970538_4271227435717405468_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=rjtyWZL_pA0Q7kNvwEKWMpY&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsKEScnguScHJLI_uiHjjjiFYREAQ5y5odVJgqP6Th61g&oe=69A00D12&_nc_sid=d885a2",
+                            "username": "messyfeedeats"
+                        },
+                        "text": "\u203c\ufe0f No. 13 is actually New Era Shibuya Center Street Store \u2014 I mixed it up with a diff spot I went to for yakitori and mistyped it in the post",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771683720,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18436262461115876",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2679782220",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/472386587_594620669970538_4271227435717405468_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=rjtyWZL_pA0Q7kNvwEKWMpY&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsKEScnguScHJLI_uiHjjjiFYREAQ5y5odVJgqP6Th61g&oe=69A00D12&_nc_sid=d885a2",
+                            "username": "messyfeedeats"
+                        },
+                        "text": "@nomsandeats u gotta come try mc spicy in Singapore omg",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 1649,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "created_at": "1771683320",
+                        "id": "17982264215953262",
+                        "text": "\u2b07\ufe0f 20 BEST BITES in Tokyo ranked \n\nFollow @messyfeedeats for more Japan MUST EAT roundup lists\u203c\ufe0f\n\n20. @mcdonaldsjapan\n19. Kagetsudo\n18. Senmonten Nanadaime Matabee\n17. Tsukiji Yamacho\n16. @asakusachaya_tabanenoshi\n15. @tokyo.tarako \n14. Toritoh at Tsukiji Market\n13. New Era Shibuya Center Street Store\n12. @kagurazaka_saryo\n11. @turretcoffee\n10. Kurihara Tofu shop\n9. @yamadanounagi\n8. @shiopan_maison\n7. Kyobashi Matsuwa\n6. @nakayoshi_shibuya_stream\n5. @idumo_sinjuku\n4. @ramen_kamo_to_negi\n3. @ramen_kakitokai\n2. @tsujihan_maebashi\n1. @glitch_coffee \n\n\ud83d\udece\ufe0f Save this list for your next trip to Tokyo!\n\nAdded a few spots I didn\u2019t post about bc I got lazy. I\u2019m kinda surprised I put Tsujihan so high up there but it\u2019s surprisingly great, especially the sea bream broth. It\u2019s also very value for money so-\n\n\ud83c\udd98 Follow @messyfeedeats for more Japan must-go spots!\n\n#japan #tokyo #tokyofood #japanesefood #sushi best food in tokyo 2026 | must try places in tokyo | must eat in tokyo | best food to eat in tokyo | top spots to eat in tokyo | best sushi in tokyo | must eat Okonomiyaki | what must you eat in tokyo 2026 | best ramen in Japan | Japan ramen | must try ramen in Japan tokyo | best cheesecake in Japan | must try cheesecake in Japan | best Japanese cheesecake | best shiopan in tokyo japan | best salt bread in tokyo japan"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 35,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1771683429,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17877988017484193",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2679782220",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/472386587_594620669970538_4271227435717405468_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=rjtyWZL_pA0Q7kNvwEKWMpY&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsKEScnguScHJLI_uiHjjjiFYREAQ5y5odVJgqP6Th61g&oe=69A00D12&_nc_sid=d885a2",
+                            "username": "messyfeedeats"
+                        },
+                        "text": "\u203c\ufe0f No. 13 is actually New Era Shibuya Center Street Store \u2014 I mixed it up with a diff spot I went to for yakitori and mistyped it in the post",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771677636,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1771683302,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18120235639520580",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "2679782220",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/472386587_594620669970538_4271227435717405468_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=rjtyWZL_pA0Q7kNvwEKWMpY&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsKEScnguScHJLI_uiHjjjiFYREAQ5y5odVJgqP6Th61g&oe=69A00D12&_nc_sid=d885a2",
+                                            "username": "messyfeedeats"
+                                        },
+                                        "text": "@pachaya.1 You are SO actually right. I meant to type New Era Shibuya Center Street Store but idk why I typed Torikizoku. \ud83d\ude2d I\u2019m not white btw.",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17941242792010438",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "7018913433",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/475993824_1258932655819168_8073482983950722018_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=KugpTUkLIpcQ7kNvwHc3BqB&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afvfk8G1U0u7gRUKOnjWN6741MYsbZAUHltQTtTBhtH6Zw&oe=69A0391E&_nc_sid=d885a2",
+                            "username": "pachaya.1"
+                        },
+                        "text": "None of those pictures of Torikizoku, are actually Torikizoku\ud83d\ude02 White people, smh.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771614344,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1771683720,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18436262461115876",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "2679782220",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/472386587_594620669970538_4271227435717405468_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=rjtyWZL_pA0Q7kNvwEKWMpY&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsKEScnguScHJLI_uiHjjjiFYREAQ5y5odVJgqP6Th61g&oe=69A00D12&_nc_sid=d885a2",
+                                            "username": "messyfeedeats"
+                                        },
+                                        "text": "@nomsandeats u gotta come try mc spicy in Singapore omg",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17858719782554812",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "44266563807",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/443844907_1498290027766755_8478958031621154451_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=uTCWW8KtvkQQ7kNvwF4R3Cx&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvbM_U3jV1MJGHhncx2j9HuPlTN5QbKE_4Fn9NvqGalIg&oe=69A0400C&_nc_sid=d885a2",
+                            "username": "nomsandeats"
+                        },
+                        "text": "i miss asian mcd \ud83d\ude2d\ud83d\ude2d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771570596,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1771575384,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17995098239872354",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "2679782220",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/472386587_594620669970538_4271227435717405468_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=rjtyWZL_pA0Q7kNvwEKWMpY&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsKEScnguScHJLI_uiHjjjiFYREAQ5y5odVJgqP6Th61g&oe=69A00D12&_nc_sid=d885a2",
+                                            "username": "messyfeedeats"
+                                        },
+                                        "text": "@ksumaytee you\u2019re welcome \u2764",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18123941506499050",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "30082678",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/634066134_18562215052002679_4602721920750782469_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=vE8nHVOalcwQ7kNvwHaD4-0&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvWRZUSpnEK0lbdg4jXN7GQ_5xO5KkDXm93jTCDhJH_zw&oe=69A01635&_nc_sid=d885a2",
+                            "username": "ksumaytee"
+                        },
+                        "text": "Thanks for sharing",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771568714,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1771575373,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18411398452121694",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "2679782220",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/472386587_594620669970538_4271227435717405468_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=rjtyWZL_pA0Q7kNvwEKWMpY&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsKEScnguScHJLI_uiHjjjiFYREAQ5y5odVJgqP6Th61g&oe=69A00D12&_nc_sid=d885a2",
+                                            "username": "messyfeedeats"
+                                        },
+                                        "text": "@yusika92 not at all!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18065812184295036",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "410672367",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/491461427_1235401348154397_6200084462539132830_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=ZPkKDCfCaocQ7kNvwEDvor9&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvfvISOeU9LlgnA7uayCjubSCKG-n1aEWnkqbcXNf9gmA&oe=69A01CEF&_nc_sid=d885a2",
+                            "username": "yusika92"
+                        },
+                        "text": "Can you taste the bone in the izumo\u2019s eel?",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "{\"server_cursor\": \"QVFCZFZpTmtRMWo3TjFYbm1LSy0ya3ZNTDRzUDdwM1BRSkYyQklNZ3JMcTdFdnpqSVpRNFpBM1VVa1lVWF9GZmo3QjAyMzdNSGZHZ2dURGRJWndfcmVVbQ==\", \"is_server_cursor_inverse\": true}",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "3835657924790192078@37093274182",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "Japan \u65e5\u672c \ud83c\uddef\ud83c\uddf5 Asia Travel | Hotels | Food | Tips",
+                            "id": "37093274182",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/542757457_18069019067234183_2236430607536670317_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTEuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=IU2PLth_yg4Q7kNvwFg47B2&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvwRrErqPe6nTa0PM7_lWPpg9Jh4_Veie9OBeIjqtOhIg&oe=69A0379A&_nc_sid=d885a2",
+                            "username": "japan.explores"
+                        },
+                        "x": 0.5,
+                        "y": 0.5
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@7654434573",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tokyo, Japan\ud83c\uddef\ud83c\uddf5 \u4e1c\u4eac Travel | Hotels | Food | Tips \ud83d\uddfc",
+                            "id": "7654434573",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/545380902_18291966904250574_744557553261381943_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTEuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=CLL4KGjaUBQQ7kNvwFsl2BS&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsllDEd0lXRPri9k8y3rVwrWsiuLWr0ZxoizejbH99UOw&oe=69A01CB2&_nc_sid=d885a2",
+                            "username": "tokyo.explores"
+                        },
+                        "x": 0.5,
+                        "y": 0.5
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@2492412298",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u30de\u30af\u30c9\u30ca\u30eb\u30c9",
+                            "id": "2492412298",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/241218631_894945317765753_3755433681773314829_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODIuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=E_JIzvnnzX4Q7kNvwHNzNh0&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvJvrJk8iJF8ZeuVHdsdsARLdpiKLJI02el3kjZyfCC4w&oe=69A0149F&_nc_sid=d885a2",
+                            "username": "mcdonaldsjapan"
+                        },
+                        "x": 0.5132669983,
+                        "y": 0.4734660033
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@61485269120",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "Discover Japan \ud83c\udf8c l Travel",
+                            "id": "61485269120",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/409043810_192101290641869_6613578741756844688_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=NO6_NJFFujQQ7kNvwFZCcxQ&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvNWNa2kVTrynruT6iIHgBRzfAGPQf7D62rBZm8feqsPA&oe=69A00D62&_nc_sid=d885a2",
+                            "username": "japan.undiscovered"
+                        },
+                        "x": 0.2690187462,
+                        "y": 0.3660862355
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@1757372436",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "GLITCH COFFEE & ROASTERS",
+                            "id": "1757372436",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/87781287_690755144794857_6522907346585255936_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMDguYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=182mp00lgWAQ7kNvwEemhED&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftfuPaiIG18Y7i6bXjc3WdnaxeNNgpQEcdeT-T-viBd2A&oe=69A013EB&_nc_sid=d885a2",
+                            "username": "glitch_coffee"
+                        },
+                        "x": 0.5091210614,
+                        "y": 0.4817578773
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@52616346473",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u6d45\u8349\u8336\u5c4b\u305f\u3070\u306d\u306e\u3057\u00ae\ufe0e  \u672c\u5e97",
+                            "id": "52616346473",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/449673535_324469497401146_1719882766583724537_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzQuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=6X__TMvNt4YQ7kNvwHFdB2K&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsBw8k4kpDZiXzBw3aPX-beIQbusVeDNmRM-QHdkqZT2w&oe=69A032AF&_nc_sid=d885a2",
+                            "username": "asakusachaya_tabanenoshi"
+                        },
+                        "x": 0.0653594807,
+                        "y": 0.016339870200000002
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@12357835459",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u5869\u30cf\u309a\u30f3\u5c4b \u30cf\u309a\u30f3\u30fb\u30e1\u30bd\u3099\u30f3",
+                            "id": "12357835459",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/56325354_2231972007070288_8315745743839166464_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzMuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=Com8-oZtRoUQ7kNvwF8L4Wg&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft_9PmepZK2WkVdwisrDLgF7cU-1U9sVbYbAwqROdy_FA&oe=69A028A3&_nc_sid=d885a2",
+                            "username": "shiopan_maison"
+                        },
+                        "x": 0.49087893860000004,
+                        "y": 0.5638474295
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@5696954616",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u3089\u30fc\u3081\u3093 \u9d28to\u8471 / Ramen Kamo to Negi",
+                            "id": "5696954616",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/20225288_465525910481338_3251501005707149312_a.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=1gACTLIYF2QQ7kNvwFwyyGV&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuXN2ui9eB0tsksc1iBdwCapxFmH2tpRa1cqo8UnbmGCQ&oe=69A02AC9&_nc_sid=d885a2",
+                            "username": "ramen_kamo_to_negi"
+                        },
+                        "x": 0.5655058043,
+                        "y": 0.4892205638
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@64849081073",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u3089\u3041\u9eba \u7261\u8823\u3068\u8c9d / Raman OYSTER and SHELL",
+                            "id": "64849081073",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/424775856_1330048811035172_2435292887637393698_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=tOkVSUFpEDYQ7kNvwHoe3J0&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvsS4pwSj0Qfjk1CZhfBTbF_aIx6qKfs_2yYXgTUKi2lA&oe=69A0322F&_nc_sid=d885a2",
+                            "username": "ramen_kakitokai"
+                        },
+                        "x": 0.5339966833,
+                        "y": 0.4651741294
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@32825350778",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u65e5\u672c\u6a4b\u6d77\u9bae\u4e3c \u3064\u3057\u3099\u534a \u524d\u6a4b\u5e97",
+                            "id": "32825350778",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/92818968_1288907754647171_5936020161738833920_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=zv5b1oFE2BIQ7kNvwGclfQr&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvaiY3avcfw9SMz7NOYOkGY7pQTsdESmTyktObEFutZXQ&oe=69A029FD&_nc_sid=d885a2",
+                            "username": "tsujihan_maebashi"
+                        },
+                        "x": 0.508291874,
+                        "y": 0.6334991708000001
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@24634114458",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u6771\u4eac\u305f\u3089\u3053\u30b9\u30cf\u309a\u30b1\u3099\u30c6\u30a3\u3010\u516c\u5f0f\u3011",
+                            "id": "24634114458",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/73283263_732888730567058_6145581142348136448_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNTQuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=M_YMK8jl4FQQ7kNvwHuDPGe&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftFB86g6TRfGfZYCbwP9x9g7qQMM5JCBGA7n6OCLz8P3A&oe=69A03222&_nc_sid=d885a2",
+                            "username": "tokyo.tarako"
+                        },
+                        "x": 0.5,
+                        "y": 0.5306799337
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@6241600811",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u795e\u697d\u5742\u8336\u5bee",
+                            "id": "6241600811",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/487036063_962809255966091_7785833064097862715_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=_ffSRfxPF5sQ7kNvwETVArW&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu5y1r36jDd8SHz3VuO7zYNcav5_tzLVaQa9OQ0HLqnrw&oe=69A00F4E&_nc_sid=d885a2",
+                            "username": "kagurazaka_saryo"
+                        },
+                        "x": 0.0653594807,
+                        "y": 0.016339870200000002
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@472987326",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "TurretCOFFEE",
+                            "id": "472987326",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/269996642_161983806154482_7746536587033166360_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzcuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=S0X9yTQQ0nYQ7kNvwEVjHIq&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afvdx5vgA4_dRxIA6CpIq1BvTjOTTt9KL71GKC7vunBdYg&oe=69A01443&_nc_sid=d885a2",
+                            "username": "turretcoffee"
+                        },
+                        "x": 0.4784411277,
+                        "y": 0.5489220564
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@45205082884",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u5c71\u7530\u306e\u3046\u306a\u304e \u3046\u306a\u9aa8\u3089\u30fc\u3081\u3093 \u7bc9\u5730\u672c\u5e97",
+                            "id": "45205082884",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/503548320_18073047092506885_6519836446088582122_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=NDaWyntCVuIQ7kNvwEVcrSu&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftVchCX_jBHUV42E_Q-FSN4TVG1jqDFDWBcivvZVzv2Mg&oe=69A00B71&_nc_sid=d885a2",
+                            "username": "yamadanounagi"
+                        },
+                        "x": 0.5422885572,
+                        "y": 0.7661691542
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@37467668361",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u65e5\u672c\u6a4b\u6d77\u9bae\u4e3c\u3000\u3064\u3057\u3099\u534a\u8d64\u5742\u30a2\u30fc\u30af\u30d2\u30eb\u30b9\u3099\u5e97",
+                            "id": "37467668361",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/103824993_2427785400804345_2239283481992779391_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=FVRsIqx8NLkQ7kNvwGFJpQL&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftXezYn7xUFOGZUXPzztLrKDqGfbTjkQn9DXXKld7qtWg&oe=69A015D8&_nc_sid=d885a2",
+                            "username": "tsujihan_akasaka"
+                        },
+                        "x": 0.5281923715,
+                        "y": 0.45771144280000003
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@48777046385",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u6075\u6bd4\u5bff \u571f\u934b\u708a\u3054\u306f\u3093 \u306a\u304b\u3088\u3057 \u6e0b\u8c37\u30b9\u30c8\u30ea\u30fc\u30e0\u5e97",
+                            "id": "48777046385",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/219915129_210199434360212_7669184819785410174_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTcuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=WHjCpveWaW0Q7kNvwHpYN0N&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuJWK8p-bg-FxhRWrEvdkHX0y7xRN6cOA-IE7jSI8Tv0Q&oe=69A01882&_nc_sid=d885a2",
+                            "username": "nakayoshi_shibuya_stream"
+                        },
+                        "x": 0.5281923715,
+                        "y": 0.5215588723
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@75311567535",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u65b0\u5bbf\u3044\u3065\u3082",
+                            "id": "75311567535",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/546206724_17856696690511536_3011544227901646830_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzEuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=OH645FhH478Q7kNvwGgdEp7&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuxMklC4QckaP9Ww4OJmSKDbeIiy8a_ajZkoESV70YPnw&oe=69A00EF0&_nc_sid=d885a2",
+                            "username": "idumo_sinjuku"
+                        },
+                        "x": 0.4950248756,
+                        "y": 0.5182421227
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3835657924790192078@7730202872",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "\u3064\u3058\u534a \u795e\u697d\u5742\u5e97",
+                            "id": "7730202872",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/31518362_466344513784578_2148478048893140992_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=TaneYLedthcQ7kNvwHxeSl8&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afvf9yEqsp_m9Vojw8eugIGMVXtqiM1nMBswG0STnBOB4A&oe=69A03A0F&_nc_sid=d885a2",
+                            "username": "tsujihan_kagurazaka"
+                        },
+                        "x": 0.5406301824,
+                        "y": 0.3756218905
+                    }
+                }
+            ]
+        },
+        "edge_sidecar_to_children": {
+            "edges": [
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @tokyo.explores, @japan.explores, and @japan.undiscovered. May be an image of roe, sushi, sashimi, tuna, seaweed, caviar, rice and text that says '20 BEST BITES (ranked) in inTokyo,Japan Tokyo, Japan From casualstreet casual street food to the best ramen, shiopan, melon pan and teishoku'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/635735945_18380238949094221_7268166524293691646_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=XxFrXQszws8Q7kNvwGf4PGr&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu-MeQtB4r3meRrfBFO7T9REEgV0wvFvh9eIrDFLCr6bw&oe=69A0382C&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/635735945_18380238949094221_7268166524293691646_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=XxFrXQszws8Q7kNvwGf4PGr&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afup7VXB5qnrn7SdGcrvTuNdAZPctnn6jCF6-omEsDtiTQ&oe=69A0382C&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/635735945_18380238949094221_7268166524293691646_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=XxFrXQszws8Q7kNvwGf4PGr&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afvzv8_M1rr9gZ4pr_hvmoaW9iNKH9EQ6F3LoxkVLEUB-A&oe=69A0382C&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/635735945_18380238949094221_7268166524293691646_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=XxFrXQszws8Q7kNvwGf4PGr&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfszXpdrzJAhdpzNtvIFSWQcPVSENKtBouLkjUCnfOsA6g&oe=69A0382C&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657897434954770@37093274182",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "Japan \u65e5\u672c \ud83c\uddef\ud83c\uddf5 Asia Travel | Hotels | Food | Tips",
+                                            "id": "37093274182",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/542757457_18069019067234183_2236430607536670317_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTEuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=IU2PLth_yg4Q7kNvwFg47B2&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvwRrErqPe6nTa0PM7_lWPpg9Jh4_Veie9OBeIjqtOhIg&oe=69A0379A&_nc_sid=d885a2",
+                                            "username": "japan.explores"
+                                        },
+                                        "x": 0.5,
+                                        "y": 0.5
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "3835657897434954770@7654434573",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "Tokyo, Japan\ud83c\uddef\ud83c\uddf5 \u4e1c\u4eac Travel | Hotels | Food | Tips \ud83d\uddfc",
+                                            "id": "7654434573",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/545380902_18291966904250574_744557553261381943_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTEuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=CLL4KGjaUBQQ7kNvwFsl2BS&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsllDEd0lXRPri9k8y3rVwrWsiuLWr0ZxoizejbH99UOw&oe=69A01CB2&_nc_sid=d885a2",
+                                            "username": "tokyo.explores"
+                                        },
+                                        "x": 0.5,
+                                        "y": 0.5
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "3835657897434954770@61485269120",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "Discover Japan \ud83c\udf8c l Travel",
+                                            "id": "61485269120",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/409043810_192101290641869_6613578741756844688_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=NO6_NJFFujQQ7kNvwFZCcxQ&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvNWNa2kVTrynruT6iIHgBRzfAGPQf7D62rBZm8feqsPA&oe=69A00D62&_nc_sid=d885a2",
+                                            "username": "japan.undiscovered"
+                                        },
+                                        "x": 0.2690187462,
+                                        "y": 0.3660862355
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657897434954770",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqxF25+ckD255qwI4mxguQfZf8fWo44g4yTjr/AJ606GFSxJBYD0x19/8ACs3ormiV3ZC+UnUFwPdR/iKa/lgfKxJz3GOPzNPurURqHUEAnGOuP61R2n1oTT1G007MmzRUOG9aKZJsLY8An5sjPy9P8f5ULui4UELk8Y/WpggC4HGOlJ8/Zm/M/wCNZtqRWsdUyddskZUncO5I659KpHTgwyu5R7/1zj+dWAHHVm/M/wCNQXUvlpycseB3+pojoNttGSxwSOuO470U2itCDcckHmqnn5NagqlPGueg/IVlFlsiMwFRxlnPy85/L8asRRrnoPyFXgAOBxTbsCIPs6f3R+QoqxRUXGf/2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_okYiDwS",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk3NDM0OTU0NzcwIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @mcdonaldsjapan. May be an image of burger, french fries and text that says 'Ebi Fllet- Fllet- \u30e7 \u6c17\u30ea\u30d5\u30a3\u30ec\u30aa M S 20. 20.McDon McD McDonald's \u306e2 The unique menu item for Japan McDonald's features a shrimp patty filet-o filet-O-shrimp. hrimp. has crispy panko crust, and is JUICY. Definitely worth trying! \u0c2a\u0c38\u0c35\u0c4d\u0c15\u0c17 Ketchup Ketchup\u30c1\u30e3\u30c3\u30d7 \u30b1\u30c1\u30e3\u30c3\u30d7 \u7684\u7684\u4e2d\u4e09\u5206 2023McDONALDS'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634902890_18380238940094221_7251101722912874505_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=YfgBRZr2g8AQ7kNvwElhMzy&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuorK-92LDaSMQoA9u-ltld2gOJRfmmvs8qymOaueiXLQ&oe=69A02FB2&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634902890_18380238940094221_7251101722912874505_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=YfgBRZr2g8AQ7kNvwElhMzy&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftYVtfEafIzM41TzgNzV3RIp1RpZOWb8JXWxMIueAWxOQ&oe=69A02FB2&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634902890_18380238940094221_7251101722912874505_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=YfgBRZr2g8AQ7kNvwElhMzy&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afv0WyRlGny_qmOWwadlhDb0qDxFYS9UujcxxP3TVW1-AQ&oe=69A02FB2&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634902890_18380238940094221_7251101722912874505_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=YfgBRZr2g8AQ7kNvwElhMzy&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftMrLWoeQWI9J3swAIBuYt2D5GghM3RxQx02pN1OvoFXg&oe=69A02FB2&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657896671620075@2492412298",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u30de\u30af\u30c9\u30ca\u30eb\u30c9",
+                                            "id": "2492412298",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/241218631_894945317765753_3755433681773314829_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODIuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=E_JIzvnnzX4Q7kNvwHNzNh0&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvJvrJk8iJF8ZeuVHdsdsARLdpiKLJI02el3kjZyfCC4w&oe=69A0149F&_nc_sid=d885a2",
+                                            "username": "mcdonaldsjapan"
+                                        },
+                                        "x": 0.5132669983,
+                                        "y": 0.4734660033
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657896671620075",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqm+wRMQRuUrjBHXjp1/yatS4cbM4/Ht3596rGZeQTuweAP881Im+RhgbRkHt/+r/PSudSlsjey3Zz/wBgeR32fdUkDJ64PT/69J5ESqQ4fcuckEYyPw6VozQPHM2zcAxyT265681bCxsfmjBPqvH5j/EVsnq76roRy3Sa37aHK5orrfsGf4E/L/61FPXt+KMrrz+5lEK8kgMasN+WweOnBB7e/wCNasEcqsGYcAcrnofbj8+apPcbchCc4xkdP8apTSyk7g7AccZOPT1rODTdnozWV+zaXk/zNloZMsRl1bPysRjntkDOPTOagZ1tMNIhGTgYbIz16Z/pVeCVzjexxwAASMnsTz/+urM43cSEFewPJ/8Arfzp86i7Su/6+QuXsTDVEIztfn2H+NFOSGPaMZ6DtRVX8vxFYy5IGTAUAkgfKDzmni0L8N8vqB1/Ht+VXoPuFu+/Ge+PSktSSmTycmkorSXU0lUlblW23yM6cPAfk6EACiGPLBpjjPO3v+PoPr1q3efc+gXFV7cZYf7XX3+vrSsr3EtjQ8xfQ/rRVF5GDEAnGT3NFWZ3P//Z",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_ojrCKvr",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk2NjcxNjIwMDc1In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026. May be an image of croquette, sandwich, bread and text that says '\u6751\u696d\u662d\u548c\u4e8c\u5341\u5e74 \u304b\u308a\u5802 TSUDO since since1945 1945 KAGE KAGETSUDO CASH CASHONLY ONLY 19. Kagetsudo Delicious and freshly baked melon breads with nice cold filling of either cream ori cream. The crispy 'melon' crust crispy and slightly sweetened, giving unique texture and taste. This also near the popular shrine and gates. \u540d\u7269 \u300e\u30b8\u30e3\u30f3\u30db\u3081\u308b7\u307e\u3093\u300d Recemmended Bread \u30bb\u30c3\u30c8\u3011 1\u500b 1\u500b\u2192\uffe5300 \u2192 \uffe5300 5\u500b\u2192\uffe51500 1500 5\u500b \u30db\u30a4\u30c3\u30d7\u30af\u30ea\u30fc\u30e0\u3081\u308d\u3093\u3070\u3093 \u0e2a\u0e44\u0e23\u0e31\u0e01\u0e22\u0e23\u0e2a\u0e2a CPOAT \uffe5600 700 \u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0\u3081\u308d\u3093\u3071\u3093 CpeMa LSTNZASAA \u00a5700 MNTZMAIA \u00a5700 (Premium Soft Cream) \u00a5500 (Soft Cream) \uffe5400 8'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634817180_18380238967094221_9009450346370548926_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=Gp5EfQt-Rl0Q7kNvwG5IYnS&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsGBe0IqRvl2OacFHGgLvuGPCJyQw0Q4xyTtGUxtov0Wg&oe=69A01F9B&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634817180_18380238967094221_9009450346370548926_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=Gp5EfQt-Rl0Q7kNvwG5IYnS&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft4IWChffAQ21g4Ixi3aoR8FFIKEHmUi1ggdc4GfRa5mg&oe=69A01F9B&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634817180_18380238967094221_9009450346370548926_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=Gp5EfQt-Rl0Q7kNvwG5IYnS&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuPwLkX-ECqc6t2LdJeYjimWmPltsuVYDCLEN_KD6H6LQ&oe=69A01F9B&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634817180_18380238967094221_9009450346370548926_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=Gp5EfQt-Rl0Q7kNvwG5IYnS&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfssWntSRz57okDK-o5QVVA-BBbMuoOfSoLtHkRWvYsYMg&oe=69A01F9B&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657896688417556",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqtu2wHHOOv+f/ANdMaYMdrDGfXvmkJKkqPyI6n+nH1qCVDkAcEgZ/z7VjzO9jTl/4cYI1iwowxxgn3+lK1wVb5zyBgjHcUlvs8xm5yg/UnB/z71ZeJJssVywHp1A7f4f4VVh39PUg+1J/krRVbKn+AfpRTCy7r7jdiAmXfjA56+3+frTjHkdOf8/WshbjGGBIJUEEEdx7/wCT7U77S+4OWO0feBPoCfr1q7GRZWx2ybxnnOclcHPbGOlRyQS7drEYOcYP+AHapFucDIJLEevApFnLffJY9qx5kjXlfUoHTT7fmaK0MH/P/wCqijmXmT80Y+DGFU9VA7/WkDcHpk/j7c/nxWg33RVYnIOa2uSlqXhA20FQOQO5Gf0x+VAhbunT0b+mKt6cxaLkk4JAzU7/AHx+FZ8iG3qVMf7Df+O/40VeKj0FFL2aDmP/2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_ojsCPsU",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk2Njg4NDE3NTU2In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphVideo",
+                        "accessibility_caption": null,
+                        "dash_info": {
+                            "is_dash_eligible": false,
+                            "number_of_qualities": 0,
+                            "video_dash_manifest": null
+                        },
+                        "dimensions": {
+                            "height": 937,
+                            "width": 750
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/632265050_18380239147094221_5367065457387248130_n.jpg?stp=dst-jpg_e15_p640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4OTAwLnNkci5mODI3ODcuZGVmYXVsdF9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=J_mTUbuvUxoQ7kNvwFaIxlv&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs9r1rfmtXu8NHQs_zUFOxfngXBV_M9r5uYPuQGaRA1YQ&oe=69A0237F&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/632265050_18380239147094221_5367065457387248130_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4OTAwLnNkci5mODI3ODcuZGVmYXVsdF9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=J_mTUbuvUxoQ7kNvwFaIxlv&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afteb4ZETiNh5b5qPbpSarjC8EmFyEQJuYVxh9VUZLSpIQ&oe=69A0237F&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/632265050_18380239147094221_5367065457387248130_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4OTAwLnNkci5mODI3ODcuZGVmYXVsdF9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=J_mTUbuvUxoQ7kNvwFaIxlv&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afteb4ZETiNh5b5qPbpSarjC8EmFyEQJuYVxh9VUZLSpIQ&oe=69A0237F&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/632265050_18380239147094221_5367065457387248130_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=J_mTUbuvUxoQ7kNvwFaIxlv&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afteb4ZETiNh5b5qPbpSarjC8EmFyEQJuYVxh9VUZLSpIQ&oe=69A0237F&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_audio": false,
+                        "id": "3835657321792643116",
+                        "is_video": true,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqqyxzEbgpZTz8p7n0H+cUW9vKCVzgkgPk8g4z/I1pW0qzrheq8Y+noaJ5RH8rDk9v5c9ax5ne1jTlW9x8pcptVlVhgZ7ceoqLz+idWxgnHfHJx6UBBMvJwGAGOc+vbvSmNYRwTkdM44H05/X9KfMlo3rf9f8AIlJvWxntakknc3J96Ku5j7k5/wA+1FTr3/AXN5fkFlF5T7Tycdjx6k5wMZ44p1zYtNJ5g9v48cD22n+dV/tRjI25J9j/APrqSW9fOEY575A9MntWo9bFtLYrjGQQMHDD0+n+FQ3CpCMvwDx1zk/gDTkvCcAnOe/vx1wO/rVsyFiM8ijRu9tSVorX0MEyL2bH/Af/AK1FbRkUHHH5UVV/JfcTyLuyjBGAxLY5yKkeNAeMk/561CpIJx7/ANKy7iVweGI/E1gk73ubN+RsxzhRgnG09vTJ460XDl1LqfkJAPPOOnT64/OsSE5IJ68VoXJJU5/zzWz019CCUM+Oj/kKKcp4FFOwrn//2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_gMRk6As",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3MzIxNzkyNjQzMTE2In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null,
+                        "video_play_count": null,
+                        "video_url": "https://scontent-sjc3-1.cdninstagram.com/o1/v/t16/f2/m84/AQNvlo6Vc3rAhjYVLe7HHE8koG2sHa7GHuHleAuo1KR0G3rIQWa-Sc2vu9PliBV7GQyJm3CqlGAcWZKmsQvZvtU_SQxkJ2LehkwMBK4.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=wYohiaEQhrIQ7kNvwF5aWqo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxODM4MDIzOTAyNzA5NDIyMSwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&_nc_zt=28&vs=15b638fa599d2742&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82RTQ2QjU1REZGMTI2OTE2RTdDNjQzRkMzOEEyMjFCQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmmovGodyupkEVAigCQzMsF0Ag3bItDlYEGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXuB2XEngEA&oh=00_AfughH3Htombs7MiPrpu0LJQcsqNfWftL9rg43kvrDFnPw&oe=699C43ED",
+                        "video_view_count": 8290
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026. May be an image of tofu, sushi, skewer and text that says '17. Tsukiji Yamacho A must visit spot at Tsukiji fish market. Freshly made tamago on stick for ~$1. Made with fresh Japanese egg whisked with dashi broth, is super fuffy and umami. \u4f1a \u6d3b\u5225\u30b9\u308a \u4f50\u4eba\u308a 200 \u6d45\u70c8\u5165\u308a te \uffe51,300 ,300 530 1 \u7b2c \u9577 \u91d1\u304d\u3067\u304b\u3048\u306d \u7531\u9577\u4e94\u5b50\u502b \u667a 350 350 \u4e94\u591a\u65c5 \u304b\u3070\u3055\u3072\u304b\u3048\u3081 \u5c71\u9577\u7389\u5b50\u7ef4 2\u12f0 800 800'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639584936_18380238964094221_2550975388482070778_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=vgK-1CgGc1YQ7kNvwGBb2xa&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvmkO5_c-X4AmcfQp8XLgkJj6DI1KQSn5CZedW0QhwnuA&oe=69A03FDD&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639584936_18380238964094221_2550975388482070778_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=vgK-1CgGc1YQ7kNvwGBb2xa&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftpHwntBRLhWVFhcfiSmXMBLmnT39kwkCvHiGqTVXnf2g&oe=69A03FDD&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639584936_18380238964094221_2550975388482070778_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=vgK-1CgGc1YQ7kNvwGBb2xa&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuFio2_RiuPPfh7YUJpwL0_r-Hsc4yLcSPKO28vMscsTQ&oe=69A03FDD&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639584936_18380238964094221_2550975388482070778_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=vgK-1CgGc1YQ7kNvwGBb2xa&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsKmuMkkJEzwdKKhOYj-Rrb_s1dR22A7o4CBmn9LI9sRg&oe=69A03FDD&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657896679975315",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqghtPMVXJ2hueByf6CmXMDWz8EkHof6Z9qsWRJBXsORn34I/rV50E0ZUjJXkZ4/X/AD2rm1va2+3+RvsYBm/jP3h3P5VfkuFSFgD+8I9/X8qrmKJDkEgkZweeD296nIwoK4OewH58Z/A1pzW2/wAv6+RNu/8An/XzJI7clQT5WSB6en0ooHT7jfpRS5vMLDrHO5h94kA8EdB/9ep5YJXJODg8cMBx/n86ZJIsIDNujYZGMkbh7YP+fSphM8qZUlT/AA7wQCPr/I4p6dhXY1LMYAII98g0xrHyuYwOe/JPPpxTUmaNmBY5JGBk9Mc49s0+Vd43LIwP+8SD+B4pNpXvew0m9iP7I/qPzP8AhRU32n3H+fwoqeaHf8/8h8su35Eckq7PLkxIR7fl9DUTSM3B4H64/wA/Soo+/sKQ9q220Rn5sjnjIJbP8IP1+X+lK4jxsOS/ykDkZBHPTgAdjVa6P7zH+wv8qmA+df8AcWnYVyBoypI25wcZ5orSooA//9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_ojriCmT",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk2Njc5OTc1MzE1In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphVideo",
+                        "accessibility_caption": null,
+                        "dash_info": {
+                            "is_dash_eligible": false,
+                            "number_of_qualities": 0,
+                            "video_dash_manifest": null
+                        },
+                        "dimensions": {
+                            "height": 937,
+                            "width": 750
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/626299150_18380239195094221_7677364334029478302_n.jpg?stp=dst-jpg_e15_p640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4OTAwLnNkci5mODI3ODcuZGVmYXVsdF9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=AphJFPL1gdUQ7kNvwG6DD9j&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsVHtPeiJh8XI4XX1mSpAdYB4ie-zMOH9wyvoBP3DDUKw&oe=69A035BF&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/626299150_18380239195094221_7677364334029478302_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4OTAwLnNkci5mODI3ODcuZGVmYXVsdF9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=AphJFPL1gdUQ7kNvwG6DD9j&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsggqim7fQXzjcyx47CPT404g61q6QYqoCIr3rZHS7s0g&oe=69A035BF&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/626299150_18380239195094221_7677364334029478302_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4OTAwLnNkci5mODI3ODcuZGVmYXVsdF9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=AphJFPL1gdUQ7kNvwG6DD9j&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsggqim7fQXzjcyx47CPT404g61q6QYqoCIr3rZHS7s0g&oe=69A035BF&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/626299150_18380239195094221_7677364334029478302_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=AphJFPL1gdUQ7kNvwG6DD9j&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsggqim7fQXzjcyx47CPT404g61q6QYqoCIr3rZHS7s0g&oe=69A035BF&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657464172496848@52616346473",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u6d45\u8349\u8336\u5c4b\u305f\u3070\u306d\u306e\u3057\u00ae\ufe0e  \u672c\u5e97",
+                                            "id": "52616346473",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/449673535_324469497401146_1719882766583724537_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzQuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=6X__TMvNt4YQ7kNvwHFdB2K&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsBw8k4kpDZiXzBw3aPX-beIQbusVeDNmRM-QHdkqZT2w&oe=69A032AF&_nc_sid=d885a2",
+                                            "username": "asakusachaya_tabanenoshi"
+                                        },
+                                        "x": 0.0653594807,
+                                        "y": 0.016339870200000002
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_audio": false,
+                        "id": "3835657464172496848",
+                        "is_video": true,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqqbH2GTACjOOeTj0FJEpbJPHyn+laBt1SMSdM5zxyd3A+n+FEbMQI+2Mf4fyrDbz1NNWVo13DntU5tfl+XOeppsQAypDbkyeDj61Ms4PCbi3bPQfnUty5rL/gC0sVfKFFSYb0orckmBa7JAHygZxnHXoeetSpalOi9um4Y/lSQIAAVJXcATg9aELOqku/IB4I7/hQwuSRQlCxKnLf7SmoZolt18xgxAPQEE5PAHvWUL2YvtMjAbsfhmtBvMlwFZmXr+II79Pf8KLDuM+2yHkBsH2H+NFMKMDgMcD/AGqKNfL8REq3aoFDK2cY4x1H1NR29xkeWQRheeQP61oqi46D8qHRQvAHT0piCKzhjjHyjJHJ78j1pLZfKj298mhDwKfWTk+hqokRt0Jye9FS0VHM+5XKj//Z",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_iQ4E8fQ",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3NDY0MTcyNDk2ODQ4In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null,
+                        "video_play_count": null,
+                        "video_url": "https://scontent-sjc3-1.cdninstagram.com/o1/v/t16/f2/m84/AQM5lR-xRWy_3d7iO8MvRQ2V2G43T5jh0jWNqi8C66pG0a-_x28nIvuer0gQG3NzyDXLnfnh675UFz0wezcLWjTPycZ-FUaYedUo5tw.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=qZpV3BQLMBQQ7kNvwF71Upi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxODM4MDIzOTExNDA5NDIyMSwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&_nc_zt=28&vs=7dce26b62f30a5c6&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9FMTQ0QzUyMUNFNjFFMUZDQTg5MkYyOTFGOUE1RDY4NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmmprC9NyupkEVAigCQzMsF0Amqn752yLRGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXuB2XEngEA&oh=00_AftwM5KU_mKBLy9OEACRA5PO128eIX4DMIDBiRxmRmZi-g&oe=699C2F42",
+                        "video_view_count": 6308
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @tokyo.tarako. May be an image of \u200eegg yolk, croquette, sushi, tofu and \u200etext that says '\u200eEniyasuneie. \u4e09\u6240 \u0627\u0645 \u0644\u062a\u0633\u0644\u0646\u0647 \ud310\uc5b4\ub294 \u062f\u0646 6aH\u0438R\u0438R \u56fd\u4e95\u805e \u1275\u12a0\u1235\u1275 15. Tokyo Tarako Must spot if you love mentaiko or tarako. Came for the mentaiko noodles, which are amazing, but stayed fort the mentai salmon don. SO RICH AND UMAMI. especially with that egg yolk.\u200e'\u200e\u200e.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639606394_18380238985094221_2509712698633506903_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=IPfMKMSSO5EQ7kNvwHytard&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsyckVR-jLbEs2f6BIOi_pIqzIwkLae2QSB5VoDaAK_mA&oe=69A0168B&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639606394_18380238985094221_2509712698633506903_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=IPfMKMSSO5EQ7kNvwHytard&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afut73ax-yGU_XwsdcMlLFJBMGfBiZhnUOuORNVJcn43iw&oe=69A0168B&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639606394_18380238985094221_2509712698633506903_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=IPfMKMSSO5EQ7kNvwHytard&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsw8epIyV3klST_keLpjk_wpUhIqJzynlKpv39SiKGNZA&oe=69A0168B&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639606394_18380238985094221_2509712698633506903_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=IPfMKMSSO5EQ7kNvwHytard&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsYS0-SKWuyLPgTOjSwEbmpkXwcjuJFOMevDWhoH6eOpQ&oe=69A0168B&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657896663226173@24634114458",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u6771\u4eac\u305f\u3089\u3053\u30b9\u30cf\u309a\u30b1\u3099\u30c6\u30a3\u3010\u516c\u5f0f\u3011",
+                                            "id": "24634114458",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/73283263_732888730567058_6145581142348136448_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNTQuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=M_YMK8jl4FQQ7kNvwHuDPGe&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftFB86g6TRfGfZYCbwP9x9g7qQMM5JCBGA7n6OCLz8P3A&oe=69A03222&_nc_sid=d885a2",
+                                            "username": "tokyo.tarako"
+                                        },
+                                        "x": 0.5,
+                                        "y": 0.5306799337
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657896663226173",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqrw2a5Pzv+GB+dTzIyqFXGxPw59+/40rSopz3PXI/zilaQBfc9MkVw80r6/c0dVlbQriBGUMxYFuvTHU9O5oeyjJKknggduc49j/9er1n80QJ6gsO/qR9KmK5dhxjaB3611GTOaksnVio5AJA/A0V0pgj7qufoKKXMx8qMaOcTybApLtxg47DP4cVd+xPkkxAfRxTQwuAHwB/MH69abLbcfePthjn+f8ASp9pFPle4cjeqLEdiUbds6ZI+foT7Yxx0zxj34qhPbSxyBjkM33cMDjHX0459KtxqUjUykkkYXn06HjnJ+pq5JbJL9/IPYg/0ORj1FNyS/q5NmZ/n3I/uH/P1op5sZs8MMduF/8AiaKn5oq/qZ8ErIMN8v8An3qZZy7BByT0xRegeYfr/SoLcASjHHT+Yq1Z6tK5LbWiZclZSRFKcMnAJ4yOv4EVJ5qRjJcED05J/rUWrAbge+TWRGBvA9x/Op5b6h8N7GudSfsMjtxRVxiQSBwBRU3XYy52f//Z",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_ojqiJc9",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk2NjYzMjI2MTczIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026. May be an image of skewer and text that says '14. Toritoh A meat wholesaler that also sells bbq chicken and innards. If you're adventurous, most definitely the chicken heart, has great texture. The bbq chicken thigh is VERY juicy. \u751f \u676f 600 P 1bf 2: \u304f\u542b\u91cf \u8336\u3002 RUFLA \ub825\u00b7 \u30ec\u516b\u3071 *250 250 \u4e00\u308a \uac15\ucd08\uc6b0 \u30f3 \u3057\u3057\u3087\u3046\u306a %+255 10 4:300 bme \u8fd4\u3093\u3058\u3046\u304d \u306d\u304e'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639488007_18380238982094221_1841136360772761434_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=uWUxvKpaV5kQ7kNvwF-fmcs&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs9K-FzeWa5D-3NosJrDieDn0qlKBmaREtKI3NWABawsw&oe=69A0158F&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639488007_18380238982094221_1841136360772761434_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=uWUxvKpaV5kQ7kNvwF-fmcs&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfulkwbRo9TGsrz61NeIXFYIWG2foNiS6IOKkF2pD4PpuQ&oe=69A0158F&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639488007_18380238982094221_1841136360772761434_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=uWUxvKpaV5kQ7kNvwF-fmcs&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afv8UPMncrEf4ydRko86mlmGg14zQvQzjbgRxdXxoHgD8g&oe=69A0158F&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639488007_18380238982094221_1841136360772761434_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=uWUxvKpaV5kQ7kNvwF-fmcs&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfslePmrx1_yqkmB40lnBUYNcm9hKJUEP2TiYIisUiuImQ&oe=69A0158F&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657896688388874",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqqn94AjAYyTkjn6Z7j2ORUoSKYlWBVjja3Hb0wO/06elXBYhCAW6j5u/Pt2Ap7QxRsAeMdCfcdcYxWet/I1tFrzIo7aRBndhew65Hv2FTpDv6Nz6HiqaXDJlOHwxHJAOPbPH/AOunTTuoyiYP+8P5Y/KjXsTbzJTG4/hP5UVXXWGAAK5IH96indBZlqzjnjwSQyY+73H5/wAs96ku45JwqquCGBJLAcenGSay45GiwVbAHTH6j3/H8angmkfJyW59f65x+maOYEhzaexyMDnvuP8ALFPu5TCitKpGeOMHnGfXpxT956nf+ByPy4NBKSkb2VgOQrZ6/jmndE2Y37FG/wAxGCeeevNFDamgJGDxRVWQXf8AX/DFeRo0lKvjBXdjB6njtnJyBweufSo2inijwpUDPzFTyM9M+gxxx+dQX3+sX/c/rWtB9xfeM1l2Zpvcqxsq4BJQgde3A4P1NEzMqFnAY7cL+PAPpnJqaUDyR/uj+VUYiSmO29P5mhaieg8DaMYPHHUUUjdT9aKm3p93/BHf1+8//9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_ojsCIsK",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk2Njg4Mzg4ODc0In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026. May be an image of chicken, croquette, cutlet, fritter, skewer and text that says '\u30d3\u30b9\u30b8\u30fc\u30bf \u30ab\u30ec\u30b7\u30b8\u30b8\u30e5\u30fc\u30b9 \u0987\u099f\u099b \u30ab\u308a\u30ed\u30b7\u30fc\u30bf 90\u5186 90\u5186 13. Torikizoku Fast casual Izakaya with CHEAP ALCOHOL ($3 GIANT highball) and super addictive chicken skin on skewer. People around me were literally getting like 10-20 sticks PER PERSON. \ubc1b\uc2a4'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639696022_18380238994094221_5403592758381124447_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=5TJYdilU3nMQ7kNvwEKMNKl&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsMQkFpYZrqEptJr4zCdyaifGLZ9PlNBPGCg7FW6JXAOQ&oe=69A037C9&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639696022_18380238994094221_5403592758381124447_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=5TJYdilU3nMQ7kNvwEKMNKl&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvsMNsp-BID-gFQclbI6TMjqbreaLTi6vOeEn2a2vs4dQ&oe=69A037C9&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639696022_18380238994094221_5403592758381124447_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=5TJYdilU3nMQ7kNvwEKMNKl&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfucA_0t6v5wC6VFZkL3hgktfbXnJ2fcew78wYPjDavEXQ&oe=69A037C9&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639696022_18380238994094221_5403592758381124447_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=5TJYdilU3nMQ7kNvwEKMNKl&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft6K9uJkVWw-CT9PbcYl4zeZP9GA9JD0zpnNI6qrF54cA&oe=69A037C9&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657896713562054",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqjQ9s/l0/E9KlQEckN+a/zqKaPcoeIblxgqP4T3BH15BHNRQtI7AR/iD0H4+nsea522dGhC+n+YxfOxST97Gc/hUM1nIPmJGOmef14yPrjFXY7lVkKynhWO1x2+vsexHariy5+YkMvI+XH9SOv+JPFaXZnZMwv7PmPYfmKK1tlt9PYNRRzf1/TDlRG/7yULFlZGBPy9Dj1yRzxVgWUrDEpkcdxuUA/r/OkdNjD5Npx8p53dP7wPHuKaRI3EhYH+8pJH06/wA6nmXmW03roTTWIkAOxlYdCGT8vce1ZUmnyxY3p97P3T/MCrEksqRMoY9cFsngA/XHPtU6NKMFWJQjkEsST2IyePw/Kr2Is3qZn2JvT9DRV0yT56H86Keof1sSS3Mq48zHHRsfL+Pofwwaksg0pYOQoPTHf8emBTscViXgCPhfl+nFQlcp+7sarwrGhDfOWckKO/J2j2Hc0wrcjrHknkDIwMDnpx9B1qOy5mj+h/lW+O/+8aLWFc5PzkP8B/76NFWZwPMb/eb+Zoqyf62P/9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_ojtiKfG",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk2NzEzNTYyMDU0In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphVideo",
+                        "accessibility_caption": null,
+                        "dash_info": {
+                            "is_dash_eligible": false,
+                            "number_of_qualities": 0,
+                            "video_dash_manifest": null
+                        },
+                        "dimensions": {
+                            "height": 937,
+                            "width": 750
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/632170484_18380239174094221_4843284350787265370_n.jpg?stp=dst-jpg_e15_p640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4OTAwLnNkci5mODI3ODcuZGVmYXVsdF9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=sR2GBs6W1Y8Q7kNvwEajL45&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvsInzBxFR2x0QKvN0gcXUGjwhVPZToSs92SJ5VIwlwvw&oe=69A023F3&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/632170484_18380239174094221_4843284350787265370_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4OTAwLnNkci5mODI3ODcuZGVmYXVsdF9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=sR2GBs6W1Y8Q7kNvwEajL45&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvzSp_m-f8SquP0mL3DrOiSWAn7TdVgEwP42GM9v0wQSw&oe=69A023F3&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/632170484_18380239174094221_4843284350787265370_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4OTAwLnNkci5mODI3ODcuZGVmYXVsdF9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=sR2GBs6W1Y8Q7kNvwEajL45&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvzSp_m-f8SquP0mL3DrOiSWAn7TdVgEwP42GM9v0wQSw&oe=69A023F3&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/632170484_18380239174094221_4843284350787265370_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=sR2GBs6W1Y8Q7kNvwEajL45&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvzSp_m-f8SquP0mL3DrOiSWAn7TdVgEwP42GM9v0wQSw&oe=69A023F3&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657519034005211@6241600811",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u795e\u697d\u5742\u8336\u5bee",
+                                            "id": "6241600811",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/487036063_962809255966091_7785833064097862715_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=_ffSRfxPF5sQ7kNvwETVArW&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu5y1r36jDd8SHz3VuO7zYNcav5_tzLVaQa9OQ0HLqnrw&oe=69A00F4E&_nc_sid=d885a2",
+                                            "username": "kagurazaka_saryo"
+                                        },
+                                        "x": 0.0653594807,
+                                        "y": 0.016339870200000002
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_audio": false,
+                        "id": "3835657519034005211",
+                        "is_video": true,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqbI8ZJXapwSCMZp4t7Y8FMHjkEjqPSmLcguSwxzxnJxjjnv8A4UjzMzcAkdj2/nWG3kaXuTXMrxbYYuMKOnJ+n/16r4ul+YZ/PP6U+4mIdcHa+xcHsQfT6GoxdP3IHvjFFu1iZXb0JBqMndVNFVjeRdyT+FFPl8vwHr3FZ4pZR5ecucbTgcn3zxVtbBwOhH0cY/lU3lgHcAMjnOOnvT2mcjduOM44pKXSz/Mpq3VCzWSTIqMpygwDuXPSsqTT0RtrlgMbiSdwxnH8I4/HilkvpVJG5hjgfmec/wCelJLdNNyw3MV253EY+nPPfg8GtUQWBDDj/VSH3+X/AOKoqnub1/nRSt/V2F/Q21YglZPToOT+nT6k01BsJKfLu685P59B+AP1pQMAYorHm6LQ1UUc5NJ+8Yf7R/nTCV7dajuP9a/+8386iFdCRlcubs87j+dFV8UUWA//2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_jD-E_bb",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3NTE5MDM0MDA1MjExIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null,
+                        "video_play_count": null,
+                        "video_url": "https://scontent-sjc3-1.cdninstagram.com/o1/v/t16/f2/m84/AQP_BZJusJWTq6HIHNU0DmtIGcPVXvfgZuRAZalrQo6NU6rVB_3Y2MgPGIeMHz3szpD2xXg1PussKHav1EE37jx4q_W1vbFfy7pZcFI.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=EFmtRxhMOCgQ7kNvwGiLrhH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxODM4MDIzOTEzMjA5NDIyMSwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&_nc_zt=28&vs=eb9db3b735fab298&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8wODQ3RkY4QzczQjk2MTA3NTZCNjlBREIxQ0IxNkU4NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmmrzXhd2upkEVAigCQzMsF0AezMzMzMzNGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXuB2XEngEA&oh=00_AfvrL1zkRMYq8RgqQmeQfoKTAhFhmHXNCrYDuLaK_hU5sg&oe=699C447F",
+                        "video_view_count": 4159
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @turretcoffee. May be an image of coffee, coffee cup, pie, cheesecake and text that says '11. Turret Coffee Came for the coffee, stayed for the cheesecake. They usually collab with chef J\u00e9r\u00f4me Quilbeuf, ex-Head Chef at the 3-MICHELIN- starred restaurant San Pau. The basque cheesecakei SSUPER creaTy and noT jelat at all. a Aerive \u30d0 Turret COFFEE cch'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634649291_18380239003094221_6600909420450360674_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=uCSq6vOcmdYQ7kNvwF-zQpR&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvnTb_6x-NtFCKR8SjgrvDJfTIg2CfXDVbROBtgXDt1ng&oe=69A02FFE&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634649291_18380239003094221_6600909420450360674_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=uCSq6vOcmdYQ7kNvwF-zQpR&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsndXnlh14pTjpj30Clt7K9YpYFtpMtZc76jIPWRAF2Eg&oe=69A02FFE&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634649291_18380239003094221_6600909420450360674_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=uCSq6vOcmdYQ7kNvwF-zQpR&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuRaFR-VMr9WJ-bQ58GIbbJ7ECdjWwY3PmmKI4DTsoW7A&oe=69A02FFE&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634649291_18380239003094221_6600909420450360674_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=uCSq6vOcmdYQ7kNvwF-zQpR&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft6-06d7HLeHSL712vYHqCrqjfVHBY54Vcs7SIOUJ-BOA&oe=69A02FFE&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657897510485385@472987326",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "TurretCOFFEE",
+                                            "id": "472987326",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/269996642_161983806154482_7746536587033166360_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzcuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=S0X9yTQQ0nYQ7kNvwEVjHIq&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afvdx5vgA4_dRxIA6CpIq1BvTjOTTt9KL71GKC7vunBdYg&oe=69A01443&_nc_sid=d885a2",
+                                            "username": "turretcoffee"
+                                        },
+                                        "x": 0.4784411277,
+                                        "y": 0.5489220564
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657897510485385",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqyFg67QTxycA4+nP8/eo2Tb9TW9aQ4jw8ZyD6flT5IYx95NoxwxYDn9axb1sXyq1+pSitolVZGAyQOp747Val3omV4A9OP/r1GkuDsCkooy3fIPqe3HHvTyyqvyZYHnPXHsPT0q9RFQFiMl2BPsP8aKaYUJ60VWpJpQ6kZXEew7jnofTr1x/Op7hDMu3Yc9juUY9+/wDKsaznO9WwSVHOOT0wcfpmrNzqEgbapKjg8gZP+FA9yWOCWOTcUJG3afnXBx0P+fesy7hkhyxUIrE4w39AferdtezSTFC+Ac44HWpr5WO0SMXGfQenUY65oAwgjf3h+v8AhRWp9nx3/wA/lRTFqNMMsJBOF/3SMj8qZMu/DEkY9RyabMxz1706PnrzzQBVtn2TgnoD+mf8K1L6RXQFCeD79KoJ/rn9m4/M1bIBA+p/lSAq/aW9qKqnrRTA/9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_okdCL2J",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk3NTEwNDg1Mzg1In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @yamadanounagi. May be an image of tofu, vegetable and text that says '\u65b0 \u67f4\u539f\u8c46\u969b\u5e97 \u8c46\u8150\u5e97 \u91c7\u539f 10. Kurihara Tofu Shop A dream come true for me stumbling into a small family- owned business. Bought both silken tofu and soy milk to have on the spot. so FRESH. 9. YamadaN 9.YamadaNoUnagi No Unagi Unique eel bone broth ramen. RICH and intensely flavorful.'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639692641_18380239012094221_8261054587899989970_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=p3Q5yNBJbIcQ7kNvwEu_Fvc&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuKsEeC7YCHZfnEz2snmuYDfYCdFobUFuFInZCs80KrOQ&oe=69A03FD2&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639692641_18380239012094221_8261054587899989970_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=p3Q5yNBJbIcQ7kNvwEu_Fvc&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afv8WHDkC_FKG0REnBiszYKrLvJNL5u_JphevKKAGTWLWQ&oe=69A03FD2&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639692641_18380239012094221_8261054587899989970_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=p3Q5yNBJbIcQ7kNvwEu_Fvc&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvSvn7MFkv8PHt3k1YC7oNc28VkO80PIhq_s6wcdJaJLw&oe=69A03FD2&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639692641_18380239012094221_8261054587899989970_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=p3Q5yNBJbIcQ7kNvwEu_Fvc&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftCk6BOMRm8qTOp0eofgkBfWuqGzb8vtN15FXvf_BqLZg&oe=69A03FD2&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657897502091224@45205082884",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u5c71\u7530\u306e\u3046\u306a\u304e \u3046\u306a\u9aa8\u3089\u30fc\u3081\u3093 \u7bc9\u5730\u672c\u5e97",
+                                            "id": "45205082884",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/503548320_18073047092506885_6519836446088582122_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=NDaWyntCVuIQ7kNvwEVcrSu&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftVchCX_jBHUV42E_Q-FSN4TVG1jqDFDWBcivvZVzv2Mg&oe=69A00B71&_nc_sid=d885a2",
+                                            "username": "yamadanounagi"
+                                        },
+                                        "x": 0.5422885572,
+                                        "y": 0.7661691542
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657897502091224",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqpxWbKdxIOPTt/Or4sJAu4HORn3x/Kr9pLGVEafwj25+vvUnkN36e2R3+tRuVsZixxquSQc9e9PhdUARenJPapJLFXcEbRg5IOcn2PIpJbbYC3ynsAB/9fpVCLf8AaUQ9fyorL3KOPLT86KYrCGxbPyYH505rGQnIIGfc/wCFXJ7gRDiqS+a0m5XBGemev4HNZ3SKd2V/JZm27xuXjkE+xx7VKtq8CZZhgdhn/wCtUdxGVYMrLkk5+YcEf40y4vjtCEFWGM4xVXCxJ5q+p/L/AOvRVMXOezfnRTuHzJI79w2XPfPTOP8A9VWTqTdmz9BVO+AEzY45/pVZetBJ1EJaRQxOMgf/AF6dd26zJgkZHQn/AD0qCPiBfoKklPy1maGGQinaVORx37UVOSRRVW9RX9D/2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_okciKfY",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk3NTAyMDkxMjI0In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @shiopan_maison. May be an image of baguette, croquette, pie, croissant and text.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/636694371_18380239021094221_5812342998777293086_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=R3JsY-IxchAQ7kNvwEqMlB3&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afv5_HyAp9EuXfrzD8QQx_FtSovukXkmKEh-8MTiWtf2LQ&oe=69A0248C&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/636694371_18380239021094221_5812342998777293086_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=R3JsY-IxchAQ7kNvwEqMlB3&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsCYH-OqHtyRK86uXtXHuOtLcORyGU_02fIksn7Np_uBw&oe=69A0248C&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/636694371_18380239021094221_5812342998777293086_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=R3JsY-IxchAQ7kNvwEqMlB3&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfstHriyHcpSn6giQvrRv9q8qMn5NAzmi6FVINeoST7vsg&oe=69A0248C&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/636694371_18380239021094221_5812342998777293086_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=R3JsY-IxchAQ7kNvwEqMlB3&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvruCmZnWv_jkPHuJXGdrp4EBHe-b0G5l3aQOcEf42x9g&oe=69A0248C&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657896982008218@12357835459",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u5869\u30cf\u309a\u30f3\u5c4b \u30cf\u309a\u30f3\u30fb\u30e1\u30bd\u3099\u30f3",
+                                            "id": "12357835459",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/56325354_2231972007070288_8315745743839166464_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzMuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=Com8-oZtRoUQ7kNvwF8L4Wg&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft_9PmepZK2WkVdwisrDLgF7cU-1U9sVbYbAwqROdy_FA&oe=69A028A3&_nc_sid=d885a2",
+                                            "username": "shiopan_maison"
+                                        },
+                                        "x": 0.49087893860000004,
+                                        "y": 0.5638474295
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657896982008218",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqvmTC5HbtVNL0EnPFRTx+Wpwx3Hn269Prio49sqbNo3diOvv+Fc13f8DpsrGvufsc57H+hp4dScH5W9D/AE9arGZlwgwCBxnODjsT2yO/rVe5nkUDMZ6885GPYjofrVJyXn6mbSe+noXGnhUkFwCOCKKw3MeTkc5OaK05vJkW80akVpMD85VgO+Tn+XP41fWCNOQP8/lVGS+8pimHyO4I59OtTtcBgByC3fcveq0FqSKm0nKg5z/F6/hVW8hZl/djaB15/L9armdwxVmPBI6/y5p7uzIfmdh6c4/z+NFiOeztr6md9kk9KKseeR/Efzop2KuPntTK5bIGeOQ3YY7DHuKt+WSykHhSPX1qyKlFKw07GFOY/mbJMm8gKPr19u/14qDfiLJBJGMDJAAJJPA60nWY/wC8a04ABIPx/kaGNDYxCVBIGSB6+lFMk+8fqf50VJVj/9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_oj9iNGa",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk2OTgyMDA4MjE4In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026. May be an image of \u200etofu, ramen, croquette, sushi, skewer, cutlet and \u200etext that says '\u200e7. Kyobashi Matsuwa Hidden gem. Full of locals. Limited quantity per day. They only have ONE item on the menu for lunch- this fried horseshoe mackeral set. Enough said. Lunch Menu bl \u0627\u0647\u062f\u0645_\u0627\u0645\u0627\u06cc\u062a Set Lunch of Deep- Fried Horse Mackerel 1/500 yen \u0e23\u0e35\u0e48\u0e27\u0e15\u0e22\u0e22\u0e4c\u0e19\u0e41\u0e07 dikd 300 PcpcT C \u6d77\u6d41\u91cd S \u0635\u0627\u0628\u0647 \u3070 \u12a5\u1295\u200e'\u200e\u200e.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/637887056_18380239048094221_6185185474072935783_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=MMaiJ2Eo-rcQ7kNvwFLjEzO&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsyy3uYFJ06nAyzMV7hxXEIPbefxZPVfmA-diQQiKHDFA&oe=69A01F8F&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/637887056_18380239048094221_6185185474072935783_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=MMaiJ2Eo-rcQ7kNvwFLjEzO&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu9XEZWA20WyD4StPbrOJab-OtRfqMqsBVCoPiXWF6Zfw&oe=69A01F8F&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/637887056_18380239048094221_6185185474072935783_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=MMaiJ2Eo-rcQ7kNvwFLjEzO&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsIJaki18UaWnSDzrdCbNyDIIZlmTd-RRL2vvr5QxHdBw&oe=69A01F8F&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/637887056_18380239048094221_6185185474072935783_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=MMaiJ2Eo-rcQ7kNvwFLjEzO&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsax2latcAhph8Vx1VEycSCZUuoIn_tclBtmb-6-5be_g&oe=69A01F8F&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657897023936635",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqqXBknKoAWCdP4cDv16D09KvQKsajIy2eo9qjupXVvnG3PTLbj9Ce38qd9+Mnbv2jJGR+h9fzrmbldLob2VvMryITkAgbmJGeT6YwKbArWpBl2nGcdBmprZ3kDSDGMZCggZPqc89PcZPJqFzLKnngoAgwQF4P4nOT64q0nffQltdjSEhPOU5/2l/xormyUPf9BRVWXn+JOvl+BpSrJfH5FGByfm/qauJp2FAO8EYyNy4Pr7gGooYygyjMCwBJU4q4mcbd8hPux/wp7C1ZRXTpQeE45/jGMen3c+3WobjTti7iPLUej7hk+2AfyNP86UOVMjqAexJpyyvIxR3Z0x3P9KG0lcFq7Gf9gH/PSP8ANv8A4mirpgTNFLmHyjbRyxWPBBGRuz26+n9a0YX+bbn7p/P15zVe3ACZHXcefwFTW33qylJ9Opsor7jPnmKSY6DzCeAPWnqw77QQ2CR1xj681Wu/v/8AAm/rUM/GT71a2M+po7ov+eg/I0VTAFFVZCP/2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_okACJh7",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk3MDIzOTM2NjM1In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @nakayoshi_shibuya_stream. May be an image of fish, croquette, cutlet and text that says '6. Nakayoshi Shibuya Stream Amazing spot recommended by my friend who frequents Japan. Serving up delicious teishoku with free-flow hot steamy rice cooked in a clay pot. Miso mackeral is super tender and flavorful. Also Alsowherelateawholeraw where ate w.hole raw egg eggas-isforthefirsttime as S- s-i for the first time'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639584936_18380239057094221_4585016890746500472_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=Pe54LYDa5X4Q7kNvwEsIQzX&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfstHE8KJP6xUvg0JNI6Z9cBK5-LHCkFZap39MuArNJXew&oe=69A01561&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639584936_18380239057094221_4585016890746500472_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=Pe54LYDa5X4Q7kNvwEsIQzX&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftmbE0M2mwAbPxrFCiupZ8CSIT4KrUYbObDbgJSFICj0Q&oe=69A01561&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639584936_18380239057094221_4585016890746500472_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=Pe54LYDa5X4Q7kNvwEsIQzX&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftIMzB3wn7IhbH62zS84d2EOY2aHhZ_TFVdJiV06_e-Hg&oe=69A01561&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639584936_18380239057094221_4585016890746500472_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=Pe54LYDa5X4Q7kNvwEsIQzX&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsC15cA8POT-JPk_mXPQC7F24JPw8rmhY0xfp9hNroRSg&oe=69A01561&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657896688414761@48777046385",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u6075\u6bd4\u5bff \u571f\u934b\u708a\u3054\u306f\u3093 \u306a\u304b\u3088\u3057 \u6e0b\u8c37\u30b9\u30c8\u30ea\u30fc\u30e0\u5e97",
+                                            "id": "48777046385",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/219915129_210199434360212_7669184819785410174_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTcuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=WHjCpveWaW0Q7kNvwHpYN0N&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuJWK8p-bg-FxhRWrEvdkHX0y7xRN6cOA-IE7jSI8Tv0Q&oe=69A01882&_nc_sid=d885a2",
+                                            "username": "nakayoshi_shibuya_stream"
+                                        },
+                                        "x": 0.5281923715,
+                                        "y": 0.5215588723
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657896688414761",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqpx2igYY4Yjg4zjn+ftTlRYMb0Lbc/NyBz7DnPvVg27wjfuUso5UknJ9MnjPPH6GoxdTsNyqoH1rG9ttV5s03/wCALIiXABJwCOOemfr6e9Vvse07kbaR0PXH079fy96nRxJyuM9x6fy5HsMVZMilcMpGOhXmpu1/kO33FYTXGPvp/n8KKk+T/a/75H+NFF12/IfL/Woy3t97fcJZecbxgfgehp8mmOTkZOecbl4P5VJZQAqX3EdRlSQc+/t/OkuX8lQC7Ankcnkfn+VXzJO2tybN9hf7LDc/MreuV/mOaiuIJLddxJIyACSDz2zxk1bhY7A7Mxz0GT+ZqUuJBtcbl9DzUucU7MfK3qjA8+T++P8Avk/4UVtfYID/AAD9f8aK1uiLMgt72NRt+6Oc8evv6/hVO5khZtyv8vptJOfboP1rOk4PFQ5zU2T1Htsa9vfhBsf7uflPcD3/AJ8VbF3COQ4/WsOQcmq9S6cZPm1uNSa0Ok/taL1/Q/4UVzlFaWJuf//Z",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_ojsCPAp",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk2Njg4NDE0NzYxIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @idumo_sinjuku. May be an image of fried rice, sushi, rice and text that says '000 5. Izumo shinjuku HUGE slab of unagi and tamago over rice. They go hard with the portion here, and just love the flavor and char on the unagi. I 1 devoured this even though this was my second dinner. Portion is insane so beware. \u101c\u103d\u1014\u103a MmU'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634912266_18380239069094221_6690728751968355657_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=lLcR4xJq5dwQ7kNvwGA6TxH&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs37EYU5iAsJLcXlDan-ZHq1Rj4JgRBGL_vYOft8RnpEQ&oe=69A01942&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634912266_18380239069094221_6690728751968355657_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=lLcR4xJq5dwQ7kNvwGA6TxH&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftT9E2zgSlCF_lrlVl8RamhxyLEYtBW-a2FOtiiIFWXzw&oe=69A01942&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634912266_18380239069094221_6690728751968355657_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=lLcR4xJq5dwQ7kNvwGA6TxH&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsBffSEt7bPXdSe552hATeduhsBrCw9ekQS0EhnAoE0zQ&oe=69A01942&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634912266_18380239069094221_6690728751968355657_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=lLcR4xJq5dwQ7kNvwGA6TxH&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft43k23JiG4CYlbtzMfGx2nkO35m7g7T5kkdfiodMSHgQ&oe=69A01942&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657896679995233@75311567535",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u65b0\u5bbf\u3044\u3065\u3082",
+                                            "id": "75311567535",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/546206724_17856696690511536_3011544227901646830_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzEuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=OH645FhH478Q7kNvwGgdEp7&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuxMklC4QckaP9Ww4OJmSKDbeIiy8a_ajZkoESV70YPnw&oe=69A00EF0&_nc_sid=d885a2",
+                                            "username": "idumo_sinjuku"
+                                        },
+                                        "x": 0.4950248756,
+                                        "y": 0.5182421227
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657896679995233",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqy4zLnYQfm457e47Vc8qPGE3Z9c4waiklKHG38+9QpubAXt1HPT19DWLu9W7WNl7vS9ySKd0DKRnHDcZx+P8A9eowF7k1oJ+5HyLy2MgdOn9PbgetQOkLAL9xscfhwfapc9bNaAlYh2D1ooNm4PBzRTvHuPXsWYIvtGRGx4525/kDnH4VcSx2HIU5PfeP8KpxxtbHdEfm564z9Aemfal+3XDcbiPwH+HFVdPuTZ+RpPbkgYHQf3gP6VA1gzAk4A7c5P5gUgvCoBLkHuOOuOeNvrUL6jI3fj6D+dPlT1FzNaFY2EueHwPqaKm+3D0P+fwoosK4+aQMSpxkDOPX8OmfxqOELvDEliAOCenpnHf6/jVa94cfSpoRhRWfTzNOorRqrFjk5J6cdfenEADoF9O/6np/Kpu1ZMp+Y+xqkhOXayJ/MXuf0/8AsqKgbqfrRVEn/9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_ojriHdh",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk2Njc5OTk1MjMzIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @ramen_kamo_to_negi. May be an image of ramen, egg, noodles and text that says 'Gd Kamo 4.KamotoNegi to Came for the ramen but really stayed for the oyakodon. This hands down one the BEST BITES, and best oyakodon I've ever had. SUPER creamy and umami, nothing like ever had.'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639732094_18380239078094221_5508102231450496190_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=oSn5C1Xfyq0Q7kNvwFvG6yZ&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu1D5d2CnB2XdvbVLo8itCpaH38V4F3smQzf9Yi1ocmPQ&oe=69A0309A&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639732094_18380239078094221_5508102231450496190_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=oSn5C1Xfyq0Q7kNvwFvG6yZ&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvgjJqCCRxwz9p2Gl33afYelXx04DQR5ku-x-KQo-4TYA&oe=69A0309A&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639732094_18380239078094221_5508102231450496190_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=oSn5C1Xfyq0Q7kNvwFvG6yZ&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuwaFWx61wCKKWhYo3yVRDjbQSoblXZ48wiDd-hugqeqw&oe=69A0309A&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639732094_18380239078094221_5508102231450496190_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=oSn5C1Xfyq0Q7kNvwFvG6yZ&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu3qbIVd9XFaYgPe0l5NWLoeAMoFJpw3XDzDwOjpjpVEA&oe=69A0309A&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657896680005581@5696954616",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u3089\u30fc\u3081\u3093 \u9d28to\u8471 / Ramen Kamo to Negi",
+                                            "id": "5696954616",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/20225288_465525910481338_3251501005707149312_a.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=1gACTLIYF2QQ7kNvwFwyyGV&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuXN2ui9eB0tsksc1iBdwCapxFmH2tpRa1cqo8UnbmGCQ&oe=69A02AC9&_nc_sid=d885a2",
+                                            "username": "ramen_kamo_to_negi"
+                                        },
+                                        "x": 0.5655058043,
+                                        "y": 0.4892205638
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657896680005581",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqnnuArbVXzGHX2/H19qpC+dCd3yjP3SvA+hH/ANeoGne3YoRxk9Rz19alFwJxsAPPXODx7GuazXTQ3VkPkIuWCxgA4yzD+Q9f5/rSCxYfcfLdcEHH9alXZECoOeeeef8A9YqWGVC4O4cfXn8MVF3fTYelirsuRxhfzH+NFbH2mH/IorX3fIjXsVVxcZAXcB1zj+tJFZrE2VQjP+0uP51KNyDhtmev0qMzlSVLHP1P149R9KLrzFYqvYOWLbTySeHXI5+npUf2OdAWYDHTrk+3TP8Anmr5u+wzxjnHtQ1y4HJOKbaCzRkeXL/kmitP7W3pn8aKWn9f8OPUjeYnkLu3Y5B4OPwOPfFVvM8wkNw/THIwOgA9QBWfYMRKACcHqO1byihq2grkZCM2UI3DgqTg59Rng0SpK4AUEe/GPzzWXP8A6w/739aVuhqraBzMv+TJ3aP8xRWXiiiyFc//2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_ojriJ_N",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk2NjgwMDA1NTgxIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @ramen_kakitokai. May be an image of ramen, sushi, shiitake mushrooms, noodles, oyster, shellfish and text that says 'NISK \u4ed5\u8823\u3068\u8c9d 3. Ramen Oyster And Shell Incredibly insanely rich, and packed with flavor. Came for the ramen, stayed for the oyster rice. so sticky and good. If you prefer something lighter, they have clam broth ramen that's also great but not rich. oyster \ubc18\ub9c8\uace0 Rlich Rich Mazesoba eSuperDeluog 780 Hich oyster Mazesoba SuperBekare 580 Rich hoyster Mazesoba Dekpiz Oyster rice 9 Rich oyster Mazesoba 130 Shellth da 350 Hishasa Ha custer eyster 250 eaweed miMa sambna S'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/636686908_18380239090094221_3625955687692692953_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=TXMlmV4vRHUQ7kNvwFjlXEM&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu3E26sLlIuQ0jL62KiEWeV4weko4apEnepQOXZ2sH75g&oe=69A02DBF&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/636686908_18380239090094221_3625955687692692953_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=TXMlmV4vRHUQ7kNvwFjlXEM&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afte9PhsJodz0Lq8Q55MqM7OJvJHpKwrTQ-enzgUEL25VA&oe=69A02DBF&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/636686908_18380239090094221_3625955687692692953_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=TXMlmV4vRHUQ7kNvwFjlXEM&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvKwjSGChY8efW33ALSioWat6S4vWuThFnUTWeRMlLl6A&oe=69A02DBF&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/636686908_18380239090094221_3625955687692692953_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=TXMlmV4vRHUQ7kNvwFjlXEM&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afukfrc5tx5XDWV7b4Kwo5ULNZp7iY9krNXH2XZG6941Og&oe=69A02DBF&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657896696759046@64849081073",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u3089\u3041\u9eba \u7261\u8823\u3068\u8c9d / Raman OYSTER and SHELL",
+                                            "id": "64849081073",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/424775856_1330048811035172_2435292887637393698_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=tOkVSUFpEDYQ7kNvwHoe3J0&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvsS4pwSj0Qfjk1CZhfBTbF_aIx6qKfs_2yYXgTUKi2lA&oe=69A0322F&_nc_sid=d885a2",
+                                            "username": "ramen_kakitokai"
+                                        },
+                                        "x": 0.5339966833,
+                                        "y": 0.4651741294
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657896696759046",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqfDMHXzCV4JGQp3DPc9vx5AqYxtsPlkk9s8kDrwCTk9s/pUKrsGzpjtgDH+P61PEDx6+3+ePeue67Gg2T5gvdtv0H5f0qnIrY52kf41Jc3BjmPcds/TBwaYs6nOAee2cj8Km2paehW3oO36//AFqKt7h/dH50U9Q0GwrcOcAh8DOGxkfiQf51bEU+4E/dHYMoB/AKP1pIpCv3Dz07UR3cm7DtjsBgdc/StFro9zNu2o2ayeR92OCBwWH+BqtPa/Z13NhBnGd2RnHTpWhDPIynnJ3sB07MR/KnSs7gAg+pXAzmm4rz/r5Bf0MwNb4+/RWSVzRS5fMdzVe4iHKKW/3uAPyPNQNcFj2Ue2T+p5qKPluaByuT1yaVkg3NWxb92CSB87dfc9/erLlBnnvzjj/P0rHtD0/4F/6EasOTv/z7VV9bCtpcyuW5wOeaKnj+6PoP5UUrl2R//9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_ojsiEMG",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk2Njk2NzU5MDQ2In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @tsujihan_kagurazaka, @tsujihan_maebashi, and @tsujihan_akasaka. May be an image of tofu, congee, ramen, vegetable, rice, porridge and text that says '2. Tsujihan I honestly did not think this will make it this high up on the list but it did. The sea bream broth goes so hard it's insane. Took trip to flavortown with their broth topped with yuzu zest. Fish was so fresh and value for money too. Zeitaku Don Anailabke Course 1,350 Take Course 1.850 Matsu Course 2,500 Tokuje(Supreme \u0e25\u0e34\u0e40\u0e0b\u0e25\u0e49\u0e01\u0e23 2900 yen Drinks 600 500- \u12ad\u1240\u1295 OM.MCH BjemiwT \u179b\u17b6\u179a\u178f\u17b6\u178f\u17b7\u1790\u17d2\u179a\u17c3\u179f AlCaoMeru 1 L500.. 400 salmon 700\u5186 \u5b50 1.300- N'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639472088_18380239099094221_1688986157980092726_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=9UOIRs6C3isQ7kNvwHQVj09&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsYubNrdF5jw4lyovErjrzEeVxg5PTP3EoKow1aesoSAg&oe=69A01D9D&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639472088_18380239099094221_1688986157980092726_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=9UOIRs6C3isQ7kNvwHQVj09&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs58kGqW45RJ5O-ZVSRvlK6bO7h7BEQYpKGOdJQ2XLYzA&oe=69A01D9D&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639472088_18380239099094221_1688986157980092726_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=9UOIRs6C3isQ7kNvwHQVj09&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftFHWoqtsOL4ODQjnLlgXTele4m20EoEpq9n8fN8CoDWA&oe=69A01D9D&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/639472088_18380239099094221_1688986157980092726_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=9UOIRs6C3isQ7kNvwHQVj09&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsQCIVfVBvkK5gLvnqsS6EgmfLTyEKsmsMwVlbrwuxBYQ&oe=69A01D9D&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657896696777535@32825350778",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u65e5\u672c\u6a4b\u6d77\u9bae\u4e3c \u3064\u3057\u3099\u534a \u524d\u6a4b\u5e97",
+                                            "id": "32825350778",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/92818968_1288907754647171_5936020161738833920_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=zv5b1oFE2BIQ7kNvwGclfQr&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvaiY3avcfw9SMz7NOYOkGY7pQTsdESmTyktObEFutZXQ&oe=69A029FD&_nc_sid=d885a2",
+                                            "username": "tsujihan_maebashi"
+                                        },
+                                        "x": 0.508291874,
+                                        "y": 0.6334991708000001
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "3835657896696777535@37467668361",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u65e5\u672c\u6a4b\u6d77\u9bae\u4e3c\u3000\u3064\u3057\u3099\u534a\u8d64\u5742\u30a2\u30fc\u30af\u30d2\u30eb\u30b9\u3099\u5e97",
+                                            "id": "37467668361",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/103824993_2427785400804345_2239283481992779391_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=FVRsIqx8NLkQ7kNvwGFJpQL&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftXezYn7xUFOGZUXPzztLrKDqGfbTjkQn9DXXKld7qtWg&oe=69A015D8&_nc_sid=d885a2",
+                                            "username": "tsujihan_akasaka"
+                                        },
+                                        "x": 0.5281923715,
+                                        "y": 0.45771144280000003
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "3835657896696777535@7730202872",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "\u3064\u3058\u534a \u795e\u697d\u5742\u5e97",
+                                            "id": "7730202872",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/31518362_466344513784578_2148478048893140992_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=TaneYLedthcQ7kNvwHxeSl8&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afvf9yEqsp_m9Vojw8eugIGMVXtqiM1nMBswG0STnBOB4A&oe=69A03A0F&_nc_sid=d885a2",
+                                            "username": "tsujihan_kagurazaka"
+                                        },
+                                        "x": 0.5406301824,
+                                        "y": 0.3756218905
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657896696777535",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqyEjLtgZ560ssbQnHY8g+tacse04I+mDj/Ghn+X5gDgdOv6Cset+htfS1tSYTHyl2leFXhuQeOgxzkf8A66ebpkHzDPbA6D1POM+gx2qkTwuflGB+GMYA/nT3lDKBksT1Pt/n8KiW+xcVpdssefE3O/GecYorNLRf7X5D/CinZCtLyNKS1a4+4Su31HHP40qacRy53ew4/nTJJngbhiSe557+makW4mJC7ixx3A5/IDFNNbNsh33SJzG5blMr2JZc4+n/ANfI/Sqt5EkK7ypAJx1B5x7HPapkvnMoiwMHjvn7ufpn8KSacyTCCQK6lh1HI+XPbAzzx7VdkTdmCWXsSPw/+vRXTfYYP7i0UWHcreZCTuLKfqaPtESncDuJ9P8AE/8A1655asQnk/SsnBItM3FSEsJcnd19uRj0zSskLP5vO4HPt0x6elRJ0H0FObpWxkWvPX1/Q0VTopgf/9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_ojsiIs_",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk2Njk2Nzc3NTM1In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55 on February 18, 2026 tagging @glitch_coffee. May be an image of \u200ecoffee maker, coffee cup, grinder, tea maker, carafe, cornflower and \u200etext that says '\u200eARLINNO SMNO 45A LPLACER FR \u0e2a\u0e31\u0e1a\u0e44\u0e21\u0e17 \u1230\u1205\u12ce\u127d 1. Glitch Coffee Not a \"bite\" but the most unforgettable and ONLY spot visited TWICE Eo ont his trip. Amazing coffee This might truly be the coffee experience had my life. Worth very penny and time spent in line. & usually hate lines and will try my best to avoid) \u8089\u5802\u751f \u0627\u0648\u200e'\u200e\u200e.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634811625_18380239108094221_7284191865848262957_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=3mtyQlgHDw8Q7kNvwEjePMC&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afv2W6KTHar3PFk0kwfyKubC7DYCI7NFCyCnrLkmRjhZqQ&oe=69A03199&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634811625_18380239108094221_7284191865848262957_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=3mtyQlgHDw8Q7kNvwEjePMC&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfunyjL-1hPey5kAZ0a2jQDHhGuTKm0oN9hlVQkRCjhcow&oe=69A03199&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634811625_18380239108094221_7284191865848262957_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=3mtyQlgHDw8Q7kNvwEjePMC&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs6ISU8KYNtHBMj1iFoKp7NJG6WrL_pXJiLAdzqrbF9Dg&oe=69A03199&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/634811625_18380239108094221_7284191865848262957_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=3mtyQlgHDw8Q7kNvwEjePMC&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuOd-j6iDk8vofssfgMrLbYX1xsA7e0YrOEPouN-MFJIQ&oe=69A03199&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3835657897225285630@1757372436",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "GLITCH COFFEE & ROASTERS",
+                                            "id": "1757372436",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/87781287_690755144794857_6522907346585255936_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMDguYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=182mp00lgWAQ7kNvwEemhED&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftfuPaiIG18Y7i6bXjc3WdnaxeNNgpQEcdeT-T-viBd2A&oe=69A013EB&_nc_sid=d885a2",
+                                            "username": "glitch_coffee"
+                                        },
+                                        "x": 0.5091210614,
+                                        "y": 0.4817578773
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3835657897225285630",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqjbys7HzuPQYBH59RVa5tYkYDDAt024I/I1duHdAs7qpzjB4/p0z2qm0pmkV+AF/nn/8AVWEU/l6m8pJ+b9BMlBsJ3CNx/wCO8H8+pHapbuVbkJ5eW+bn2qrKmSxckBiWGBnnn8u3+RTLTaZFL9AwJPtnv/8AWrS/mZteR1HlqOCeaKkKgnO5v0/woqyDCiLTf6OrEryQOAMDnqefoKvx2ez+EZ+o/wAKoJCyNvhOxsdDj8evTNMkurmMkFmxzjIH4cj1+tZ2T3NOZraxo/Yd3Jxz/tf/AGNVY9JkRt25Svpz/hVRNQmYHLPkE5wRgfpmmSSy3AwxZscj5h378U+VBzv7jofIf1H50VhBUAweSPc/40U+UXO/IuwXEdyvz8N69x/n8vpUhj8oZHp9QT0+o+vQetYMRw649f610dv91j6Cp20DdXMWNQzSKezEZHfJx+napxAq9M8+/pWgsahWIABIPYf3hUGB/KrIM5jyaKkcfMfqaKoR/9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DU6_okMCO_-",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3ODk3MjI1Mjg1NjMwIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "3835657924790192078",
+        "is_ad": false,
+        "is_affiliate": false,
+        "is_paid_partnership": false,
+        "is_video": false,
+        "like_and_view_counts_disabled": false,
+        "location": {
+            "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"\", \"region_name\": \"\", \"country_code\": \"\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}",
+            "has_public_page": true,
+            "id": "159544210920268",
+            "name": "Tokyo, Japan",
+            "slug": "tokyo-japan"
+        },
+        "media_overlay_info": null,
+        "media_preview": null,
+        "nft_asset_info": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 12977
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 1056
+            },
+            "followed_by_viewer": false,
+            "full_name": "Charmaine \u2022 nyc food\ud83d\uddfd\ud83c\udf55",
+            "has_blocked_viewer": false,
+            "id": "2679782220",
+            "is_embeds_disabled": false,
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "pass_tiering_recommendation": true,
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/472386587_594620669970538_4271227435717405468_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=rjtyWZL_pA0Q7kNvwEKWMpY&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsKEScnguScHJLI_uiHjjjiFYREAQ5y5odVJgqP6Th61g&oe=69A00D12&_nc_sid=d885a2",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "username": "messyfeedeats"
+        },
+        "pinned_for_users": [],
+        "sensitivity_friction_info": null,
+        "sharing_friction_info": {
+            "bloks_app_url": null,
+            "should_have_sharing_friction": false
+        },
+        "shortcode": "DU6_o93CAfO",
+        "taken_at_timestamp": 1771466077,
+        "thumbnail_src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/635735945_18380238949094221_7268166524293691646_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh0.08_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFaRYskS0k4oCWSJ-XFBcm6oxZNz4f7DdGwwd-s_8c6rtPDTz8clF-rbNM-9NeqQGc&_nc_ohc=XxFrXQszws8Q7kNvwGf4PGr&_nc_gid=qaBVTX2Q5I4dwPJlbgye-w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuX8-nIumMRU_xCKyxgI6Du3DnQ4Zo8ax2rqFSTSfbxTA&oe=69A0382C&_nc_sid=d885a2",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTdkNDU4YmI0MGRkNDA4MTgxNzIyMmVlODAyYjIyNmUzODM1NjU3OTI0NzkwMTkyMDc4In0sInNpZ25hdHVyZSI6IiJ9",
+        "upcoming_event": null,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

@@ -1,0 +1,331 @@
+{
+  "url": "https://instagram.com/p/DTQChErkqoa/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DTQChErkqoa/2026-01-08_13-04-50_UTC.mp4",
+  "caption": "Don’t go to Golden Gai… unless you know where to go.\n280+ bars.\nMost people walk into the wrong ones\nSave this before your Japan trip 🇯🇵🍺\n\nMore info → @mr.tokyo.adventures \n\n#goldengai #tokyonightlife #hiddenbar",
+  "transcript": "Don't go to Golden Gai, not until you know this. This is Golden Gai, a tiny area packed with over 280 small bars. There are so many that you probably won't know where you should go. So let me share a few of my recommendations. First, open book. It's a hidden bar with no sign. When you walk in, you are surrounded by books. They have tons of different lemon sour. My favorite is the sake plus lemon sour. Even if you don't like sake, it's super easy to drink. Second, dan-san. I've honestly never seen tourists here. It's super local with really good vibes. Everyone's friendly, so if you want to make Japanese friends, check it out. Third, bar, Okina. You pay the cover charge and you get three small local dishes included. The master is over 70 and you can enjoy real Japanese food and drinks. If you are going to Golden Gai, you have to hit these spots.",
+  "transcript_segments": [
+    {
+      "start": 0.16,
+      "end": 2.98,
+      "text": "Don't go to Golden Gai, not until you know this."
+    },
+    {
+      "start": 3.1,
+      "end": 7.32,
+      "text": "This is Golden Gai, a tiny area packed with over 280 small bars."
+    },
+    {
+      "start": 7.4,
+      "end": 10.18,
+      "text": "There are so many that you probably won't know where you should go."
+    },
+    {
+      "start": 10.24,
+      "end": 12.16,
+      "text": "So let me share a few of my recommendations."
+    },
+    {
+      "start": 12.42,
+      "end": 13.58,
+      "text": "First, open book."
+    },
+    {
+      "start": 13.66,
+      "end": 15.22,
+      "text": "It's a hidden bar with no sign."
+    },
+    {
+      "start": 15.26,
+      "end": 17.32,
+      "text": "When you walk in, you are surrounded by books."
+    },
+    {
+      "start": 17.4,
+      "end": 19.24,
+      "text": "They have tons of different lemon sour."
+    },
+    {
+      "start": 19.36,
+      "end": 21.4,
+      "text": "My favorite is the sake plus lemon sour."
+    },
+    {
+      "start": 21.52,
+      "end": 24.32,
+      "text": "Even if you don't like sake, it's super easy to drink."
+    },
+    {
+      "start": 24.44,
+      "end": 25.5,
+      "text": "Second, dan-san."
+    },
+    {
+      "start": 25.6,
+      "end": 27.66,
+      "text": "I've honestly never seen tourists here."
+    },
+    {
+      "start": 27.8,
+      "end": 29.88,
+      "text": "It's super local with really good vibes."
+    },
+    {
+      "start": 29.88,
+      "end": 33.3,
+      "text": "Everyone's friendly, so if you want to make Japanese friends, check it out."
+    },
+    {
+      "start": 33.42,
+      "end": 34.58,
+      "text": "Third, bar, Okina."
+    },
+    {
+      "start": 34.66,
+      "end": 38.06,
+      "text": "You pay the cover charge and you get three small local dishes included."
+    },
+    {
+      "start": 38.26,
+      "end": 42.32,
+      "text": "The master is over 70 and you can enjoy real Japanese food and drinks."
+    },
+    {
+      "start": 42.42,
+      "end": 45.06,
+      "text": "If you are going to Golden Gai, you have to hit these spots."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "CHOL",
+      "confidence": 0.578,
+      "timestamp": 0.0
+    },
+    {
+      "text": "さらず",
+      "confidence": 0.58,
+      "timestamp": 2.0
+    },
+    {
+      "text": "yave a",
+      "confidence": 0.505,
+      "timestamp": 2.0
+    },
+    {
+      "text": "Dane",
+      "confidence": 0.614,
+      "timestamp": 2.0
+    },
+    {
+      "text": "BAR",
+      "confidence": 0.876,
+      "timestamp": 6.0
+    },
+    {
+      "text": "Baliim",
+      "confidence": 0.724,
+      "timestamp": 6.0
+    },
+    {
+      "text": "packed wfth",
+      "confidence": 0.489,
+      "timestamp": 6.0
+    },
+    {
+      "text": "overngo smolllolrs",
+      "confidence": 0.502,
+      "timestamp": 6.0
+    },
+    {
+      "text": "tiny",
+      "confidence": 0.539,
+      "timestamp": 6.0
+    },
+    {
+      "text": "There grego many",
+      "confidence": 0.801,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Glage",
+      "confidence": 0.474,
+      "timestamp": 8.0
+    },
+    {
+      "text": "SIC",
+      "confidence": 0.912,
+      "timestamp": 8.0
+    },
+    {
+      "text": "BES",
+      "confidence": 0.998,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Calimerd",
+      "confidence": 0.576,
+      "timestamp": 10.0
+    },
+    {
+      "text": "tot",
+      "confidence": 0.643,
+      "timestamp": 10.0
+    },
+    {
+      "text": "proBgoly won't",
+      "confidence": 0.509,
+      "timestamp": 10.0
+    },
+    {
+      "text": "know where youshould go",
+      "confidence": 0.53,
+      "timestamp": 10.0
+    },
+    {
+      "text": "recommendations",
+      "confidence": 0.677,
+      "timestamp": 12.0
+    },
+    {
+      "text": "@",
+      "confidence": 0.876,
+      "timestamp": 12.0
+    },
+    {
+      "text": "OPN",
+      "confidence": 0.718,
+      "timestamp": 14.0
+    },
+    {
+      "text": "When youwallkim",
+      "confidence": 0.489,
+      "timestamp": 16.0
+    },
+    {
+      "text": "They have tons oiaiierent",
+      "confidence": 0.406,
+      "timestamp": 18.0
+    },
+    {
+      "text": "lemon sour",
+      "confidence": 0.941,
+      "timestamp": 18.0
+    },
+    {
+      "text": "fovourite is",
+      "confidence": 0.54,
+      "timestamp": 20.0
+    },
+    {
+      "text": "My",
+      "confidence": 0.724,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Bven iyoudon'tlike",
+      "confidence": 0.41,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Wve homestyy meverseen",
+      "confidence": 0.404,
+      "timestamp": 26.0
+    },
+    {
+      "text": "touists here",
+      "confidence": 0.556,
+      "timestamp": 26.0
+    },
+    {
+      "text": "Wtssuperlocalwith",
+      "confidence": 0.77,
+      "timestamp": 28.0
+    },
+    {
+      "text": "really good vibes",
+      "confidence": 0.486,
+      "timestamp": 28.0
+    },
+    {
+      "text": "Everyone",
+      "confidence": 0.694,
+      "timestamp": 30.0
+    },
+    {
+      "text": "7",
+      "confidence": 0.702,
+      "timestamp": 30.0
+    },
+    {
+      "text": "5",
+      "confidence": 0.549,
+      "timestamp": 30.0
+    },
+    {
+      "text": "※",
+      "confidence": 0.998,
+      "timestamp": 30.0
+    },
+    {
+      "text": "多",
+      "confidence": 0.605,
+      "timestamp": 30.0
+    },
+    {
+      "text": "3",
+      "confidence": 0.407,
+      "timestamp": 30.0
+    },
+    {
+      "text": "Japanese frfends",
+      "confidence": 0.515,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Ony",
+      "confidence": 0.624,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Casn",
+      "confidence": 0.55,
+      "timestamp": 32.0
+    },
+    {
+      "text": "翁",
+      "confidence": 0.928,
+      "timestamp": 34.0
+    },
+    {
+      "text": "0KNA",
+      "confidence": 0.613,
+      "timestamp": 34.0
+    },
+    {
+      "text": "smoking",
+      "confidence": 0.68,
+      "timestamp": 34.0
+    },
+    {
+      "text": "get",
+      "confidence": 0.942,
+      "timestamp": 36.0
+    },
+    {
+      "text": "amayoucan emjoy",
+      "confidence": 0.483,
+      "timestamp": 40.0
+    },
+    {
+      "text": "hittheespots",
+      "confidence": 0.695,
+      "timestamp": 44.0
+    },
+    {
+      "text": "Dade",
+      "confidence": 0.425,
+      "timestamp": 44.0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://instagram.com/p/DR2QfgnGIi0/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DR2QfgnGIi0/2025-12-04_16-11-30_UTC_6.mp4",
+  "caption": "Amazing places to eat authentic Japan food at in Tokyo, Japan 😋🎌\n\n📍Places mentioned:\n\n1. Penny Lane\n1F, 1 Chome-1-2 Oshiage, Sumida City, Tokyo 131-0045\n\n2. Pelican Café\n111-0042 Tokyo, Taito City, Kotobuki, 3 Chome−9−11 1階\n\n3. Himawari Sandwich\n124-0024 Tokyo, Katsushika City, Shinkoiwa, 1 Chome−41−8 一乃亥ビル 1F\n\n4. Chaya Tabanenoshi\n2 Chome-7-7 Asakusa, Taito City, Tokyo 111-0032\n\n5. Sushi Hatsume\n150-0013 Tokyo, Shibuya, Ebisu, 1 Chome−25−11 1F\n\n6. Damena Rinjin Ningyōchō\n103-0013 Tokyo, Chuo City, Nihonbashiningyocho, 3 Chome−7−13\n\n7. Kirimugiya Jinroku\n160-0022 Tokyo, Shinjuku City, Shinjuku, 1 Chome−17−1 LAND・DEN1F\n\n8. Benitsuru Pancake\n2 Chome-1-11 Nishiasakusa, Taito City, Tokyo 111-0035\n\nSave this for your next food trip 🤩\n\nShoutout to @foodtokyotourguide for these delicious recommendations",
+  "transcript": "Terima kasih.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 29.98,
+      "text": "Terima kasih."
+    }
+  ],
+  "detected_language": "id",
+  "onscreen_texts": [
+    {
+      "text": "Best Sushi Restaurant",
+      "confidence": 0.8,
+      "timestamp": 0.0
+    },
+    {
+      "text": "in",
+      "confidence": 0.809,
+      "timestamp": 0.0
+    },
+    {
+      "text": "This place details",
+      "confidence": 0.997,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Tokyo",
+      "confidence": 0.999,
+      "timestamp": 0.0
+    }
+  ]
+}

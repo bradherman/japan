@@ -1,0 +1,41 @@
+{
+  "url": "https://instagram.com/p/DU0_zZ3jWTu/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DU0_zZ3jWTu/2026-02-16_18-02-20_UTC.mp4",
+  "caption": "pov: you finally visit the Japanese town that inspired Spirited Away.\n\nWelcome to Ginzan Onsen - a tiny hot spring town in Yamagata where wooden ryokans line a flowing river, lantern-lit streets glow at dusk, and falling snow makes you question whether you’ve stepped into a film set. \n\nIt’s beautiful all year but in winter, it becomes one of the most atmospheric destinations in Japan ❄️",
+  "transcript": "BIRDS CHILDREN",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": "BIRDS CHILDREN"
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "館",
+      "confidence": 0.661,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Welconne to",
+      "confidence": 0.729,
+      "timestamp": 4.0
+    },
+    {
+      "text": "Auy",
+      "confidence": 0.686,
+      "timestamp": 4.0
+    },
+    {
+      "text": "ThisistheJapayneyetown",
+      "confidence": 0.588,
+      "timestamp": 6.0
+    },
+    {
+      "text": "thatinypiredSpiritedAway",
+      "confidence": 0.709,
+      "timestamp": 6.0
+    }
+  ]
+}

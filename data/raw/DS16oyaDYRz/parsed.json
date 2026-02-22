@@ -1,0 +1,496 @@
+{
+  "url": "https://instagram.com/p/DS16oyaDYRz/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DS16oyaDYRz/2025-12-29_09-33-40_UTC.mp4",
+  "caption": "Over the last years working as a watch dealer, I have had the opportunity to explore the Tokyo watch scene and all of its best spots. These are my favorites watch shops where you will find amazing Rolex, Grand Seiko, Omega, Cartier, Seiko and more pieces at incredible prices!",
+  "transcript": "So you're in Tokyo and you want to buy a watch, here is where you should go. Jack Rod and Betty in Nakano is THE place for all watch collectors, modern, vintage, rare, they got it all. Make sure you also explore the rest of Nakano Broadway as it's filled with dozens of amazing watch stores. Privatize in Kita is a bit out of the way in the northern suburbs of Tokyo, but their shop is super cool. They have a cult following for their 50s and 60s focus, it is well worth the trip. Five Managam in Ibizu is the most curated and exclusive boutique on the list, accessible by appointment only. Filming inside is forbidden, but check other websites to see their unique pieces and book a time slot to see the goods in person. Ishida Best, in the heart of Shinjuku, is the vintage arm of Ishida. I find it the most consistent place in the city. They always have something interesting at every price point, and they update their stock regularly. Watch Shop L, located in Motosando, is an easy stop if you're shopping in the area. This small corner spot holds both limited and inexpensive pieces, particularly Seikos and Citizens.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "So you're in Tokyo and you want to buy a watch, here is where you should go."
+    },
+    {
+      "start": 3.68,
+      "end": 7.28,
+      "text": "Jack Rod and Betty in Nakano is THE place for all watch collectors,"
+    },
+    {
+      "start": 7.28,
+      "end": 11.28,
+      "text": "modern, vintage, rare, they got it all. Make sure you also explore the rest of"
+    },
+    {
+      "start": 11.28,
+      "end": 14.72,
+      "text": "Nakano Broadway as it's filled with dozens of amazing watch stores."
+    },
+    {
+      "start": 14.72,
+      "end": 18.96,
+      "text": "Privatize in Kita is a bit out of the way in the northern suburbs of Tokyo,"
+    },
+    {
+      "start": 18.96,
+      "end": 23.52,
+      "text": "but their shop is super cool. They have a cult following for their 50s and 60s focus,"
+    },
+    {
+      "start": 23.52,
+      "end": 24.8,
+      "text": "it is well worth the trip."
+    },
+    {
+      "start": 24.8,
+      "end": 28.72,
+      "text": "Five Managam in Ibizu is the most curated and exclusive boutique on the list,"
+    },
+    {
+      "start": 28.72,
+      "end": 32.0,
+      "text": "accessible by appointment only. Filming inside is forbidden,"
+    },
+    {
+      "start": 32.0,
+      "end": 36.56,
+      "text": "but check other websites to see their unique pieces and book a time slot to see the goods in person."
+    },
+    {
+      "start": 36.56,
+      "end": 40.16,
+      "text": "Ishida Best, in the heart of Shinjuku, is the vintage arm of Ishida."
+    },
+    {
+      "start": 40.16,
+      "end": 42.56,
+      "text": "I find it the most consistent place in the city."
+    },
+    {
+      "start": 42.56,
+      "end": 45.12,
+      "text": "They always have something interesting at every price point,"
+    },
+    {
+      "start": 45.12,
+      "end": 46.96,
+      "text": "and they update their stock regularly."
+    },
+    {
+      "start": 46.96,
+      "end": 51.04,
+      "text": "Watch Shop L, located in Motosando, is an easy stop if you're shopping in the area."
+    },
+    {
+      "start": 51.04,
+      "end": 54.48,
+      "text": "This small corner spot holds both limited and inexpensive pieces,"
+    },
+    {
+      "start": 54.48,
+      "end": 56.16,
+      "text": "particularly Seikos and Citizens."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "の",
+      "confidence": 0.451,
+      "timestamp": 0.0
+    },
+    {
+      "text": "家",
+      "confidence": 1.0,
+      "timestamp": 0.0
+    },
+    {
+      "text": "2F",
+      "confidence": 0.712,
+      "timestamp": 0.0
+    },
+    {
+      "text": "1",
+      "confidence": 0.655,
+      "timestamp": 0.0
+    },
+    {
+      "text": "youreinliokyo",
+      "confidence": 0.583,
+      "timestamp": 0.0
+    },
+    {
+      "text": "so",
+      "confidence": 0.513,
+      "timestamp": 0.0
+    },
+    {
+      "text": "VVhere to Buy VVatches in Tokyo",
+      "confidence": 0.537,
+      "timestamp": 2.0
+    },
+    {
+      "text": "andyouwanttobuyawatch,",
+      "confidence": 0.834,
+      "timestamp": 2.0
+    },
+    {
+      "text": "Jackroadand Betty, Nakano",
+      "confidence": 0.777,
+      "timestamp": 4.0
+    },
+    {
+      "text": "Jackroadand Betty in Nakano",
+      "confidence": 0.794,
+      "timestamp": 4.0
+    },
+    {
+      "text": "JAcKROA",
+      "confidence": 0.77,
+      "timestamp": 4.0
+    },
+    {
+      "text": "JackroadandBetty, Nakano",
+      "confidence": 0.906,
+      "timestamp": 6.0
+    },
+    {
+      "text": "is THE place",
+      "confidence": 0.983,
+      "timestamp": 6.0
+    },
+    {
+      "text": "Modern_ VintageRare",
+      "confidence": 0.634,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Makesureyoualsoexplore",
+      "confidence": 0.999,
+      "timestamp": 10.0
+    },
+    {
+      "text": "therest of Nakano Broadway;",
+      "confidence": 0.782,
+      "timestamp": 12.0
+    },
+    {
+      "text": "Quark",
+      "confidence": 0.989,
+      "timestamp": 14.0
+    },
+    {
+      "text": "ofamazingwatch stores",
+      "confidence": 0.845,
+      "timestamp": 14.0
+    },
+    {
+      "text": "Private Eyes, Kita",
+      "confidence": 0.883,
+      "timestamp": 16.0
+    },
+    {
+      "text": "Private EyesinKita",
+      "confidence": 0.79,
+      "timestamp": 16.0
+    },
+    {
+      "text": "Private Eyes,Kita",
+      "confidence": 0.973,
+      "timestamp": 18.0
+    },
+    {
+      "text": "inthenorthern suburbs ofTokyo",
+      "confidence": 0.938,
+      "timestamp": 18.0
+    },
+    {
+      "text": "but theirshopis supercool",
+      "confidence": 0.716,
+      "timestamp": 20.0
+    },
+    {
+      "text": "fortheirsOsandGOsfocus;",
+      "confidence": 0.437,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Timeanagram, Ebisu",
+      "confidence": 0.587,
+      "timestamp": 26.0
+    },
+    {
+      "text": "TIIEANAGRAM",
+      "confidence": 0.699,
+      "timestamp": 26.0
+    },
+    {
+      "text": "TimeanagraminEbisu",
+      "confidence": 0.999,
+      "timestamp": 26.0
+    },
+    {
+      "text": "Timeanagram; Ebisu",
+      "confidence": 0.647,
+      "timestamp": 28.0
+    },
+    {
+      "text": "exclusive boutique onthelist",
+      "confidence": 0.952,
+      "timestamp": 28.0
+    },
+    {
+      "text": "VISITINC",
+      "confidence": 0.883,
+      "timestamp": 30.0
+    },
+    {
+      "text": "ouR",
+      "confidence": 0.608,
+      "timestamp": 30.0
+    },
+    {
+      "text": "SHOP",
+      "confidence": 0.469,
+      "timestamp": 30.0
+    },
+    {
+      "text": "Customers who wishto visit ourstore",
+      "confidence": 0.709,
+      "timestamp": 30.0
+    },
+    {
+      "text": "mustmakeareservation:",
+      "confidence": 0.698,
+      "timestamp": 30.0
+    },
+    {
+      "text": "Ifyou would liketo consider purchasingatourshop;",
+      "confidence": 0.544,
+      "timestamp": 30.0
+    },
+    {
+      "text": "please makeareservation",
+      "confidence": 0.98,
+      "timestamp": 30.0
+    },
+    {
+      "text": "Reservation Form",
+      "confidence": 0.881,
+      "timestamp": 30.0
+    },
+    {
+      "text": "Accessible by appointmentonly",
+      "confidence": 0.999,
+      "timestamp": 30.0
+    },
+    {
+      "text": "filming insideis forbidden",
+      "confidence": 0.889,
+      "timestamp": 32.0
+    },
+    {
+      "text": "AUDEMARS",
+      "confidence": 0.938,
+      "timestamp": 34.0
+    },
+    {
+      "text": "PICUET",
+      "confidence": 0.998,
+      "timestamp": 34.0
+    },
+    {
+      "text": "AUDEMARS PICUET",
+      "confidence": 0.768,
+      "timestamp": 34.0
+    },
+    {
+      "text": "BAMBoo",
+      "confidence": 0.993,
+      "timestamp": 34.0
+    },
+    {
+      "text": "COBRA",
+      "confidence": 0.998,
+      "timestamp": 34.0
+    },
+    {
+      "text": "tosee their uniquepieces",
+      "confidence": 0.767,
+      "timestamp": 34.0
+    },
+    {
+      "text": "EXTRA",
+      "confidence": 0.998,
+      "timestamp": 34.0
+    },
+    {
+      "text": "FLAT",
+      "confidence": 1.0,
+      "timestamp": 34.0
+    },
+    {
+      "text": "MANUAL",
+      "confidence": 0.998,
+      "timestamp": 34.0
+    },
+    {
+      "text": "BLAcK",
+      "confidence": 0.823,
+      "timestamp": 34.0
+    },
+    {
+      "text": "DルAL",
+      "confidence": 0.498,
+      "timestamp": 34.0
+    },
+    {
+      "text": "3 POINT",
+      "confidence": 0.894,
+      "timestamp": 34.0
+    },
+    {
+      "text": "DIAMOND",
+      "confidence": 0.949,
+      "timestamp": 34.0
+    },
+    {
+      "text": "4798,000",
+      "confidence": 0.464,
+      "timestamp": 34.0
+    },
+    {
+      "text": "4658,000",
+      "confidence": 0.574,
+      "timestamp": 34.0
+    },
+    {
+      "text": "DIAL 3",
+      "confidence": 0.621,
+      "timestamp": 36.0
+    },
+    {
+      "text": "POlNT",
+      "confidence": 0.522,
+      "timestamp": 36.0
+    },
+    {
+      "text": "toseethe goodsimperson:",
+      "confidence": 0.539,
+      "timestamp": 36.0
+    },
+    {
+      "text": "Ishida Best Shinjuku",
+      "confidence": 0.961,
+      "timestamp": 38.0
+    },
+    {
+      "text": "BLANCPAIIT",
+      "confidence": 0.861,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Ishida Bestintheheart",
+      "confidence": 0.87,
+      "timestamp": 38.0
+    },
+    {
+      "text": "vintagearm oflshida",
+      "confidence": 0.992,
+      "timestamp": 40.0
+    },
+    {
+      "text": "placein thelcity;",
+      "confidence": 0.467,
+      "timestamp": 42.0
+    },
+    {
+      "text": "JcK",
+      "confidence": 0.738,
+      "timestamp": 42.0
+    },
+    {
+      "text": "ln",
+      "confidence": 0.612,
+      "timestamp": 44.0
+    },
+    {
+      "text": "something interesting",
+      "confidence": 0.833,
+      "timestamp": 44.0
+    },
+    {
+      "text": "HisroRiouE",
+      "confidence": 0.509,
+      "timestamp": 46.0
+    },
+    {
+      "text": "ド",
+      "confidence": 0.654,
+      "timestamp": 46.0
+    },
+    {
+      "text": "their stockregularly",
+      "confidence": 0.998,
+      "timestamp": 46.0
+    },
+    {
+      "text": "'coinls",
+      "confidence": 0.421,
+      "timestamp": 46.0
+    },
+    {
+      "text": "VatchShopLOmotesando",
+      "confidence": 0.764,
+      "timestamp": 48.0
+    },
+    {
+      "text": "locatedinOmotesando;",
+      "confidence": 0.914,
+      "timestamp": 48.0
+    },
+    {
+      "text": "川",
+      "confidence": 0.779,
+      "timestamp": 48.0
+    },
+    {
+      "text": "VatchShopL,Omotesando",
+      "confidence": 0.837,
+      "timestamp": 50.0
+    },
+    {
+      "text": "川川",
+      "confidence": 0.754,
+      "timestamp": 50.0
+    },
+    {
+      "text": "you're shoppinginthearea",
+      "confidence": 0.717,
+      "timestamp": 50.0
+    },
+    {
+      "text": "川川川",
+      "confidence": 0.474,
+      "timestamp": 52.0
+    },
+    {
+      "text": "This small cornerspot",
+      "confidence": 0.811,
+      "timestamp": 52.0
+    },
+    {
+      "text": "andinexpensive pieces,",
+      "confidence": 0.682,
+      "timestamp": 54.0
+    },
+    {
+      "text": "particularly Seikos and Citizens",
+      "confidence": 0.977,
+      "timestamp": 56.0
+    },
+    {
+      "text": "ALIEN",
+      "confidence": 0.922,
+      "timestamp": 56.0
+    }
+  ]
+}

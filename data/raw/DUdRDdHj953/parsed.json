@@ -1,0 +1,331 @@
+{
+  "url": "https://instagram.com/p/DUdRDdHj953/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DUdRDdHj953/2026-02-07_12-55-01_UTC.mp4",
+  "caption": "Which city is best for a first trip to Japan?",
+  "transcript": "If it's your first trip to Japan, go here. Number 1, Asakusa. No debate. This is one of the best places to view Japan. Street food like daifuku, souvenirs like different flavor KitKat, and Japan vibe. Everything is in one area. And if you have time, go to Kappabashi. It's just one stop away. You can find lots of Japanese ceramics and kitchenware there. Number 2, Kyoto. This is Japan. It's like a bigger version of Asakusa. If you are choosing between Kyodo, Nara, and Osaka, pick Kyodo. Must go spots are Kiyomizu Temple, Ninenzaka, Sannenzaka, and the Kamo River. Some people go there in the morning or noon, but evening is the best time. It's more beautiful. Number 3, Shibuya. For Shibuya, don't go during the day. Instead, go around 7pm. Shibuya crossing only hits different at night. After that, take the train to Harajuku and Shinjuku. They are close, so you can do all three in one day. If you follow and send me your plans, I can check them out. So, feel free to ask me. Shibuya. Shibuya. Shibuya.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "If it's your first trip to Japan, go here."
+    },
+    {
+      "start": 2.6,
+      "end": 4.5,
+      "text": "Number 1, Asakusa."
+    },
+    {
+      "start": 4.5,
+      "end": 5.5,
+      "text": "No debate."
+    },
+    {
+      "start": 5.5,
+      "end": 8.1,
+      "text": "This is one of the best places to view Japan."
+    },
+    {
+      "start": 8.1,
+      "end": 14.1,
+      "text": "Street food like daifuku, souvenirs like different flavor KitKat, and Japan vibe."
+    },
+    {
+      "start": 14.1,
+      "end": 15.8,
+      "text": "Everything is in one area."
+    },
+    {
+      "start": 15.8,
+      "end": 18.4,
+      "text": "And if you have time, go to Kappabashi."
+    },
+    {
+      "start": 18.4,
+      "end": 19.8,
+      "text": "It's just one stop away."
+    },
+    {
+      "start": 19.8,
+      "end": 23.8,
+      "text": "You can find lots of Japanese ceramics and kitchenware there."
+    },
+    {
+      "start": 23.8,
+      "end": 25.7,
+      "text": "Number 2, Kyoto."
+    },
+    {
+      "start": 25.7,
+      "end": 27.0,
+      "text": "This is Japan."
+    },
+    {
+      "start": 27.0,
+      "end": 29.3,
+      "text": "It's like a bigger version of Asakusa."
+    },
+    {
+      "start": 29.3,
+      "end": 34.7,
+      "text": "If you are choosing between Kyodo, Nara, and Osaka, pick Kyodo."
+    },
+    {
+      "start": 34.7,
+      "end": 40.8,
+      "text": "Must go spots are Kiyomizu Temple, Ninenzaka, Sannenzaka, and the Kamo River."
+    },
+    {
+      "start": 40.8,
+      "end": 45.5,
+      "text": "Some people go there in the morning or noon, but evening is the best time."
+    },
+    {
+      "start": 45.5,
+      "end": 46.8,
+      "text": "It's more beautiful."
+    },
+    {
+      "start": 46.8,
+      "end": 48.8,
+      "text": "Number 3, Shibuya."
+    },
+    {
+      "start": 48.8,
+      "end": 52.0,
+      "text": "For Shibuya, don't go during the day."
+    },
+    {
+      "start": 52.0,
+      "end": 54.3,
+      "text": "Instead, go around 7pm."
+    },
+    {
+      "start": 54.3,
+      "end": 57.1,
+      "text": "Shibuya crossing only hits different at night."
+    },
+    {
+      "start": 57.1,
+      "end": 60.5,
+      "text": "After that, take the train to Harajuku and Shinjuku."
+    },
+    {
+      "start": 60.5,
+      "end": 63.5,
+      "text": "They are close, so you can do all three in one day."
+    },
+    {
+      "start": 63.5,
+      "end": 66.9,
+      "text": "If you follow and send me your plans, I can check them out."
+    },
+    {
+      "start": 66.9,
+      "end": 68.9,
+      "text": "So, feel free to ask me."
+    },
+    {
+      "start": 68.9,
+      "end": 69.9,
+      "text": "Shibuya."
+    },
+    {
+      "start": 69.9,
+      "end": 70.3,
+      "text": "Shibuya."
+    },
+    {
+      "start": 70.3,
+      "end": 71.3,
+      "text": "Shibuya."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "Your FirstTrip",
+      "confidence": 0.578,
+      "timestamp": 0.0
+    },
+    {
+      "text": "tJapan",
+      "confidence": 1.0,
+      "timestamp": 0.0
+    },
+    {
+      "text": "3placestogo",
+      "confidence": 0.999,
+      "timestamp": 2.0
+    },
+    {
+      "text": "sakusa",
+      "confidence": 0.993,
+      "timestamp": 4.0
+    },
+    {
+      "text": "Thisis",
+      "confidence": 1.0,
+      "timestamp": 6.0
+    },
+    {
+      "text": "tofeelJapan",
+      "confidence": 0.991,
+      "timestamp": 8.0
+    },
+    {
+      "text": "street",
+      "confidence": 0.991,
+      "timestamp": 10.0
+    },
+    {
+      "text": "food",
+      "confidence": 1.0,
+      "timestamp": 10.0
+    },
+    {
+      "text": "souvenir",
+      "confidence": 0.997,
+      "timestamp": 12.0
+    },
+    {
+      "text": "Japanvibes",
+      "confidence": 1.0,
+      "timestamp": 14.0
+    },
+    {
+      "text": "Ifyouhavetime",
+      "confidence": 0.993,
+      "timestamp": 16.0
+    },
+    {
+      "text": "goto Kappabashi",
+      "confidence": 0.759,
+      "timestamp": 18.0
+    },
+    {
+      "text": "お2 唐",
+      "confidence": 0.654,
+      "timestamp": 22.0
+    },
+    {
+      "text": "2.Kyoto",
+      "confidence": 0.994,
+      "timestamp": 24.0
+    },
+    {
+      "text": "This",
+      "confidence": 1.0,
+      "timestamp": 26.0
+    },
+    {
+      "text": "Ifyou'rechoosing",
+      "confidence": 0.932,
+      "timestamp": 30.0
+    },
+    {
+      "text": "Nara",
+      "confidence": 1.0,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Pick",
+      "confidence": 1.0,
+      "timestamp": 34.0
+    },
+    {
+      "text": "Must-gospotsare",
+      "confidence": 0.999,
+      "timestamp": 36.0
+    },
+    {
+      "text": "Ninenzaka",
+      "confidence": 1.0,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Kamoriver",
+      "confidence": 0.746,
+      "timestamp": 40.0
+    },
+    {
+      "text": "inthemorning",
+      "confidence": 1.0,
+      "timestamp": 42.0
+    },
+    {
+      "text": "But",
+      "confidence": 1.0,
+      "timestamp": 44.0
+    },
+    {
+      "text": "Itsmore",
+      "confidence": 0.819,
+      "timestamp": 46.0
+    },
+    {
+      "text": "3.Shilbuya",
+      "confidence": 0.495,
+      "timestamp": 48.0
+    },
+    {
+      "text": "ForShibuya",
+      "confidence": 0.748,
+      "timestamp": 50.0
+    },
+    {
+      "text": "during theday",
+      "confidence": 0.63,
+      "timestamp": 52.0
+    },
+    {
+      "text": "Tpm",
+      "confidence": 0.451,
+      "timestamp": 54.0
+    },
+    {
+      "text": "takethetrain",
+      "confidence": 0.999,
+      "timestamp": 58.0
+    },
+    {
+      "text": "and",
+      "confidence": 1.0,
+      "timestamp": 60.0
+    },
+    {
+      "text": "soyoucando",
+      "confidence": 1.0,
+      "timestamp": 62.0
+    },
+    {
+      "text": "Ifyou follow",
+      "confidence": 0.83,
+      "timestamp": 64.0
+    },
+    {
+      "text": "riku chiyoya",
+      "confidence": 0.836,
+      "timestamp": 64.0
+    },
+    {
+      "text": "Riku陸",
+      "confidence": 0.998,
+      "timestamp": 64.0
+    },
+    {
+      "text": "Ican",
+      "confidence": 1.0,
+      "timestamp": 66.0
+    },
+    {
+      "text": "riku_chiyoya",
+      "confidence": 0.675,
+      "timestamp": 66.0
+    },
+    {
+      "text": "rikuchiyoya",
+      "confidence": 1.0,
+      "timestamp": 68.0
+    }
+  ]
+}

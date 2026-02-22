@@ -1,0 +1,566 @@
+{
+  "url": "https://instagram.com/p/DUH4bU0Erck/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DUH4bU0Erck/2026-01-30_05-30-54_UTC.mp4",
+  "caption": "Osaka’s best neighbourhood isn’t on your itinerary.\nIt’s Shinsekai.\nSave this for your Osaka trip 🇯🇵✨\n\n[ Osaka Guide , Japan quirks , Asian Travel ,hidden gems, Japan Food, Explore Japan , Cute neighbourhood]",
+  "transcript": "Osaka's best neighbourhood is not in your itinerary. Welcome back to 30 Days in Japan. Sin Shikai was Osaka's idea of a retro future in 1912. But somehow, it got stuck in 1960. And that is where the real Japan lives. Neon lights, giant puffer fish lanterns, old-school pachinkos, 100 yen bars, and a lucky god whose feet you can rub for good luck. Every corner of this place looked like a video game glitch. Here's your plan. 4pm, climb the Sutin Kapu Tower and rub the Billiken's feet for good luck. 7pm, you go to Darumaz. They have been frying these skewers since 1926. The angry chef's face that you see, that's their mascot. That represents how passionate they are about their quality. And they have this one-dip sauce rule and they really mean it. At 9am, go to these cheap bars in Jan Jan Yokocho, have 300 yen beers and you'll start playing board games with the locals. You have to really go there to experience the true essence of Osaka city, which was once the economic capital of Japan. Save this for your Japan trip this year and follow for more Japan quirks.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "Osaka's best neighbourhood is not in your itinerary."
+    },
+    {
+      "start": 2.72,
+      "end": 4.16,
+      "text": "Welcome back to 30 Days in Japan."
+    },
+    {
+      "start": 4.16,
+      "end": 7.92,
+      "text": "Sin Shikai was Osaka's idea of a retro future in 1912."
+    },
+    {
+      "start": 7.92,
+      "end": 10.08,
+      "text": "But somehow, it got stuck in 1960."
+    },
+    {
+      "start": 10.08,
+      "end": 12.0,
+      "text": "And that is where the real Japan lives."
+    },
+    {
+      "start": 12.0,
+      "end": 14.4,
+      "text": "Neon lights, giant puffer fish lanterns,"
+    },
+    {
+      "start": 14.4,
+      "end": 16.72,
+      "text": "old-school pachinkos, 100 yen bars,"
+    },
+    {
+      "start": 16.72,
+      "end": 19.12,
+      "text": "and a lucky god whose feet you can rub for good luck."
+    },
+    {
+      "start": 19.12,
+      "end": 21.6,
+      "text": "Every corner of this place looked like a video game glitch."
+    },
+    {
+      "start": 21.6,
+      "end": 22.48,
+      "text": "Here's your plan."
+    },
+    {
+      "start": 22.48,
+      "end": 26.72,
+      "text": "4pm, climb the Sutin Kapu Tower and rub the Billiken's feet for good luck."
+    },
+    {
+      "start": 26.72,
+      "end": 28.24,
+      "text": "7pm, you go to Darumaz."
+    },
+    {
+      "start": 28.24,
+      "end": 30.8,
+      "text": "They have been frying these skewers since 1926."
+    },
+    {
+      "start": 30.8,
+      "end": 33.36,
+      "text": "The angry chef's face that you see, that's their mascot."
+    },
+    {
+      "start": 33.36,
+      "end": 35.76,
+      "text": "That represents how passionate they are about their quality."
+    },
+    {
+      "start": 35.76,
+      "end": 38.56,
+      "text": "And they have this one-dip sauce rule and they really mean it."
+    },
+    {
+      "start": 38.56,
+      "end": 41.44,
+      "text": "At 9am, go to these cheap bars in Jan Jan Yokocho,"
+    },
+    {
+      "start": 41.44,
+      "end": 45.2,
+      "text": "have 300 yen beers and you'll start playing board games with the locals."
+    },
+    {
+      "start": 45.2,
+      "end": 48.64,
+      "text": "You have to really go there to experience the true essence of Osaka city,"
+    },
+    {
+      "start": 48.64,
+      "end": 50.64,
+      "text": "which was once the economic capital of Japan."
+    },
+    {
+      "start": 50.64,
+      "end": 53.68,
+      "text": "Save this for your Japan trip this year and follow for more Japan quirks."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "Uikigan",
+      "confidence": 0.536,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Ikigai",
+      "confidence": 0.802,
+      "timestamp": 0.0
+    },
+    {
+      "text": "mouvating",
+      "confidence": 0.605,
+      "timestamp": 0.0
+    },
+    {
+      "text": "・",
+      "confidence": 0.477,
+      "timestamp": 2.0
+    },
+    {
+      "text": "notin yOur itinerary",
+      "confidence": 0.772,
+      "timestamp": 2.0
+    },
+    {
+      "text": "Kigaiis",
+      "confidence": 0.654,
+      "timestamp": 2.0
+    },
+    {
+      "text": "welcome back to",
+      "confidence": 0.869,
+      "timestamp": 4.0
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.808,
+      "timestamp": 4.0
+    },
+    {
+      "text": "30",
+      "confidence": 0.999,
+      "timestamp": 4.0
+    },
+    {
+      "text": "in",
+      "confidence": 0.953,
+      "timestamp": 4.0
+    },
+    {
+      "text": "Japanese",
+      "confidence": 0.995,
+      "timestamp": 4.0
+    },
+    {
+      "text": "mouvauing",
+      "confidence": 0.755,
+      "timestamp": 4.0
+    },
+    {
+      "text": "mcone",
+      "confidence": 0.813,
+      "timestamp": 4.0
+    },
+    {
+      "text": "9",
+      "confidence": 0.404,
+      "timestamp": 6.0
+    },
+    {
+      "text": "was",
+      "confidence": 0.468,
+      "timestamp": 6.0
+    },
+    {
+      "text": "$",
+      "confidence": 0.908,
+      "timestamp": 6.0
+    },
+    {
+      "text": "dut",
+      "confidence": 0.422,
+      "timestamp": 8.0
+    },
+    {
+      "text": "1t",
+      "confidence": 0.68,
+      "timestamp": 8.0
+    },
+    {
+      "text": "somehow",
+      "confidence": 0.571,
+      "timestamp": 8.0
+    },
+    {
+      "text": "mouivating",
+      "confidence": 0.628,
+      "timestamp": 8.0
+    },
+    {
+      "text": "somehing",
+      "confidence": 0.639,
+      "timestamp": 8.0
+    },
+    {
+      "text": "sucone",
+      "confidence": 0.407,
+      "timestamp": 8.0
+    },
+    {
+      "text": "stuck",
+      "confidence": 0.99,
+      "timestamp": 10.0
+    },
+    {
+      "text": "1n",
+      "confidence": 0.772,
+      "timestamp": 10.0
+    },
+    {
+      "text": "japance",
+      "confidence": 0.865,
+      "timestamp": 10.0
+    },
+    {
+      "text": "「oce",
+      "confidence": 0.643,
+      "timestamp": 10.0
+    },
+    {
+      "text": "neon",
+      "confidence": 1.0,
+      "timestamp": 12.0
+    },
+    {
+      "text": "fsh lanterns",
+      "confidence": 0.728,
+      "timestamp": 14.0
+    },
+    {
+      "text": "puffer",
+      "confidence": 0.991,
+      "timestamp": 14.0
+    },
+    {
+      "text": "Jap",
+      "confidence": 1.0,
+      "timestamp": 16.0
+    },
+    {
+      "text": "山a",
+      "confidence": 0.567,
+      "timestamp": 16.0
+    },
+    {
+      "text": "1",
+      "confidence": 0.444,
+      "timestamp": 18.0
+    },
+    {
+      "text": "corner Of this place",
+      "confidence": 0.742,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Po",
+      "confidence": 0.459,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Japancse",
+      "confidence": 0.764,
+      "timestamp": 20.0
+    },
+    {
+      "text": "motvating",
+      "confidence": 0.606,
+      "timestamp": 20.0
+    },
+    {
+      "text": "force",
+      "confidence": 0.596,
+      "timestamp": 20.0
+    },
+    {
+      "text": "somcone",
+      "confidence": 0.738,
+      "timestamp": 20.0
+    },
+    {
+      "text": "甲",
+      "confidence": 0.675,
+      "timestamp": 22.0
+    },
+    {
+      "text": "YOUR EVEIIIIG PLAII",
+      "confidence": 0.483,
+      "timestamp": 22.0
+    },
+    {
+      "text": "someuhin",
+      "confidence": 0.61,
+      "timestamp": 22.0
+    },
+    {
+      "text": "4:OOpm:",
+      "confidence": 0.45,
+      "timestamp": 24.0
+    },
+    {
+      "text": ":",
+      "confidence": 0.454,
+      "timestamp": 24.0
+    },
+    {
+      "text": "Tsutenkaku Tower",
+      "confidence": 0.994,
+      "timestamp": 24.0
+    },
+    {
+      "text": "Amoti",
+      "confidence": 0.656,
+      "timestamp": 26.0
+    },
+    {
+      "text": "feet for",
+      "confidence": 0.932,
+      "timestamp": 26.0
+    },
+    {
+      "text": "Uikiga",
+      "confidence": 0.674,
+      "timestamp": 26.0
+    },
+    {
+      "text": "Japanc",
+      "confidence": 0.614,
+      "timestamp": 26.0
+    },
+    {
+      "text": "good",
+      "confidence": 0.989,
+      "timestamp": 26.0
+    },
+    {
+      "text": "6月B日",
+      "confidence": 0.561,
+      "timestamp": 28.0
+    },
+    {
+      "text": "{",
+      "confidence": 0.505,
+      "timestamp": 28.0
+    },
+    {
+      "text": "Ithege gkewerg-gince 1926",
+      "confidence": 0.461,
+      "timestamp": 30.0
+    },
+    {
+      "text": "face thatyOu gee",
+      "confidence": 0.623,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Japanee",
+      "confidence": 0.984,
+      "timestamp": 32.0
+    },
+    {
+      "text": "how passionate",
+      "confidence": 0.885,
+      "timestamp": 34.0
+    },
+    {
+      "text": "motivating",
+      "confidence": 0.695,
+      "timestamp": 34.0
+    },
+    {
+      "text": "fore;",
+      "confidence": 0.475,
+      "timestamp": 34.0
+    },
+    {
+      "text": "somethiing",
+      "confidence": 0.605,
+      "timestamp": 34.0
+    },
+    {
+      "text": "DIARY",
+      "confidence": 0.967,
+      "timestamp": 36.0
+    },
+    {
+      "text": "1987",
+      "confidence": 0.494,
+      "timestamp": 36.0
+    },
+    {
+      "text": "御",
+      "confidence": 0.997,
+      "timestamp": 36.0
+    },
+    {
+      "text": "TheOsaka Rule",
+      "confidence": 0.83,
+      "timestamp": 36.0
+    },
+    {
+      "text": "no double dipping!",
+      "confidence": 0.78,
+      "timestamp": 36.0
+    },
+    {
+      "text": "nm",
+      "confidence": 0.654,
+      "timestamp": 36.0
+    },
+    {
+      "text": "&",
+      "confidence": 0.987,
+      "timestamp": 36.0
+    },
+    {
+      "text": "have this",
+      "confidence": 0.991,
+      "timestamp": 36.0
+    },
+    {
+      "text": "13/4",
+      "confidence": 0.891,
+      "timestamp": 36.0
+    },
+    {
+      "text": "Please",
+      "confidence": 1.0,
+      "timestamp": 36.0
+    },
+    {
+      "text": "they",
+      "confidence": 0.996,
+      "timestamp": 36.0
+    },
+    {
+      "text": "A",
+      "confidence": 0.44,
+      "timestamp": 38.0
+    },
+    {
+      "text": "or",
+      "confidence": 0.873,
+      "timestamp": 38.0
+    },
+    {
+      "text": "really mean itl",
+      "confidence": 0.682,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Uikigam",
+      "confidence": 0.407,
+      "timestamp": 38.0
+    },
+    {
+      "text": "forcei",
+      "confidence": 0.441,
+      "timestamp": 38.0
+    },
+    {
+      "text": "something",
+      "confidence": 0.812,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Jamian-Yokocho",
+      "confidence": 0.457,
+      "timestamp": 40.0
+    },
+    {
+      "text": "have 300 yen beers",
+      "confidence": 0.795,
+      "timestamp": 42.0
+    },
+    {
+      "text": "andyoull stait playing",
+      "confidence": 0.452,
+      "timestamp": 44.0
+    },
+    {
+      "text": "really gO there",
+      "confidence": 0.683,
+      "timestamp": 46.0
+    },
+    {
+      "text": "somethingor",
+      "confidence": 0.919,
+      "timestamp": 48.0
+    },
+    {
+      "text": "essence of",
+      "confidence": 0.645,
+      "timestamp": 48.0
+    },
+    {
+      "text": "smcone",
+      "confidence": 0.753,
+      "timestamp": 48.0
+    },
+    {
+      "text": "町ら",
+      "confidence": 0.703,
+      "timestamp": 50.0
+    },
+    {
+      "text": "economic Capital of",
+      "confidence": 0.63,
+      "timestamp": 50.0
+    },
+    {
+      "text": "somethina",
+      "confidence": 0.639,
+      "timestamp": 50.0
+    },
+    {
+      "text": "someone",
+      "confidence": 0.683,
+      "timestamp": 50.0
+    },
+    {
+      "text": "Japan",
+      "confidence": 1.0,
+      "timestamp": 50.0
+    },
+    {
+      "text": "JAPAIITRIP",
+      "confidence": 0.973,
+      "timestamp": 52.0
+    },
+    {
+      "text": "lapanese",
+      "confidence": 0.852,
+      "timestamp": 52.0
+    },
+    {
+      "text": "mouva",
+      "confidence": 0.95,
+      "timestamp": 52.0
+    }
+  ]
+}

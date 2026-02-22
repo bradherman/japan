@@ -1,0 +1,831 @@
+{
+  "url": "https://instagram.com/p/DTUpokCCcgI/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DTUpokCCcgI/2026-01-10_08-12-06_UTC.mp4",
+  "caption": "Wish I was getting paid for this. Probably best Japan tip out there",
+  "transcript": "If you go to Japan in 2026 and looking at the price of a hotel makes you sick to your stomach, this is what I wish I knew when I first went to Japan that would have saved me thousands. First things first, we're going to head over to a website called Brado. This is the URL and this is what it looks like. Now we're going to be selecting where you're going to be staying. Say we're going to Tokyo, pop in a little Google Translate and you can see here you can search based on wherever you want to be. Let's say we want to stay in Shinjuku and then we click on foreigners welcome and search for rooms. You are going to see so many. Say we like this little property over here, we check the square meterage, see if everything looks all good, give it a scroll down. This is the fun part. Right here I just calculated 10 days at this location which is 28,000 yen at the time recording is equivalent to 180 USD. If you didn't know this and want more Japan stuff, drop me a follow.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "If you go to Japan in 2026 and looking at the price of a hotel makes you sick to your stomach,"
+    },
+    {
+      "start": 4.48,
+      "end": 7.46,
+      "text": "this is what I wish I knew when I first went to Japan that would have saved me thousands."
+    },
+    {
+      "start": 7.72,
+      "end": 11.5,
+      "text": "First things first, we're going to head over to a website called Brado. This is the URL and this is"
+    },
+    {
+      "start": 11.5,
+      "end": 14.92,
+      "text": "what it looks like. Now we're going to be selecting where you're going to be staying. Say we're going"
+    },
+    {
+      "start": 14.92,
+      "end": 19.32,
+      "text": "to Tokyo, pop in a little Google Translate and you can see here you can search based on wherever you"
+    },
+    {
+      "start": 19.32,
+      "end": 23.38,
+      "text": "want to be. Let's say we want to stay in Shinjuku and then we click on foreigners welcome and search"
+    },
+    {
+      "start": 23.38,
+      "end": 28.98,
+      "text": "for rooms. You are going to see so many. Say we like this little property over here, we check the"
+    },
+    {
+      "start": 28.98,
+      "end": 33.2,
+      "text": "square meterage, see if everything looks all good, give it a scroll down. This is the fun part."
+    },
+    {
+      "start": 33.36,
+      "end": 37.6,
+      "text": "Right here I just calculated 10 days at this location which is 28,000 yen at the time recording"
+    },
+    {
+      "start": 37.6,
+      "end": 41.68,
+      "text": "is equivalent to 180 USD. If you didn't know this and want more Japan stuff, drop me a follow."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "Japan2o2oprotip",
+      "confidence": 0.513,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Japamzo2oprol",
+      "confidence": 0.41,
+      "timestamp": 4.0
+    },
+    {
+      "text": "tip",
+      "confidence": 0.494,
+      "timestamp": 4.0
+    },
+    {
+      "text": "Wop",
+      "confidence": 0.402,
+      "timestamp": 4.0
+    },
+    {
+      "text": "千",
+      "confidence": 0.664,
+      "timestamp": 6.0
+    },
+    {
+      "text": "Japan2o26pro_tp",
+      "confidence": 0.711,
+      "timestamp": 12.0
+    },
+    {
+      "text": "一-一",
+      "confidence": 0.755,
+      "timestamp": 12.0
+    },
+    {
+      "text": "全国",
+      "confidence": 0.689,
+      "timestamp": 12.0
+    },
+    {
+      "text": "WeeklyzMonihly",
+      "confidence": 0.603,
+      "timestamp": 12.0
+    },
+    {
+      "text": "法人会員様",
+      "confidence": 0.661,
+      "timestamp": 12.0
+    },
+    {
+      "text": "Saywveregoingto",
+      "confidence": 0.709,
+      "timestamp": 16.0
+    },
+    {
+      "text": "Tokyo",
+      "confidence": 0.943,
+      "timestamp": 16.0
+    },
+    {
+      "text": "Wo",
+      "confidence": 0.955,
+      "timestamp": 18.0
+    },
+    {
+      "text": "Dlo",
+      "confidence": 0.568,
+      "timestamp": 18.0
+    },
+    {
+      "text": "Mer",
+      "confidence": 0.784,
+      "timestamp": 18.0
+    },
+    {
+      "text": "SearchformonthlyapartmentsinTokyo",
+      "confidence": 0.935,
+      "timestamp": 18.0
+    },
+    {
+      "text": "Sorchbyinin",
+      "confidence": 0.458,
+      "timestamp": 18.0
+    },
+    {
+      "text": "sorchbysuuo",
+      "confidence": 0.435,
+      "timestamp": 18.0
+    },
+    {
+      "text": "youcansearchbasedon",
+      "confidence": 0.895,
+      "timestamp": 18.0
+    },
+    {
+      "text": "whereveryouwannabe",
+      "confidence": 0.962,
+      "timestamp": 18.0
+    },
+    {
+      "text": "EnteryourKeywordhere",
+      "confidence": 0.66,
+      "timestamp": 20.0
+    },
+    {
+      "text": "shinjuku Ward",
+      "confidence": 0.623,
+      "timestamp": 20.0
+    },
+    {
+      "text": "I",
+      "confidence": 0.688,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Notspecilied",
+      "confidence": 0.712,
+      "timestamp": 20.0
+    },
+    {
+      "text": "selectroomnte",
+      "confidence": 0.423,
+      "timestamp": 20.0
+    },
+    {
+      "text": "PriceLowerLimit",
+      "confidence": 0.916,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Pnicelimit",
+      "confidence": 0.646,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Equipment",
+      "confidence": 0.879,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Washlet",
+      "confidence": 0.837,
+      "timestamp": 20.0
+    },
+    {
+      "text": "independent_wash bagin",
+      "confidence": 0.559,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Separate",
+      "confidence": 0.967,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Auto-lock",
+      "confidence": 0.57,
+      "timestamp": 20.0
+    },
+    {
+      "text": "box",
+      "confidence": 0.988,
+      "timestamp": 20.0
+    },
+    {
+      "text": "elevator",
+      "confidence": 0.831,
+      "timestamp": 20.0
+    },
+    {
+      "text": "bathroom dryer",
+      "confidence": 0.908,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Air",
+      "confidence": 0.493,
+      "timestamp": 20.0
+    },
+    {
+      "text": "conditioning",
+      "confidence": 0.82,
+      "timestamp": 20.0
+    },
+    {
+      "text": "closet",
+      "confidence": 0.859,
+      "timestamp": 20.0
+    },
+    {
+      "text": "shoebox",
+      "confidence": 0.988,
+      "timestamp": 20.0
+    },
+    {
+      "text": "teeinternet",
+      "confidence": 0.808,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Semii-doublebed",
+      "confidence": 0.584,
+      "timestamp": 20.0
+    },
+    {
+      "text": "ma",
+      "confidence": 0.559,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Inductlon",
+      "confidence": 0.994,
+      "timestamp": 20.0
+    },
+    {
+      "text": "parking",
+      "confidence": 0.434,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Bicycleparking",
+      "confidence": 0.561,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Motorcycleparking",
+      "confidence": 0.542,
+      "timestamp": 20.0
+    },
+    {
+      "text": "「or",
+      "confidence": 0.405,
+      "timestamp": 20.0
+    },
+    {
+      "text": "S",
+      "confidence": 0.556,
+      "timestamp": 20.0
+    },
+    {
+      "text": "welcom@l",
+      "confidence": 0.549,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Woinen",
+      "confidence": 0.861,
+      "timestamp": 20.0
+    },
+    {
+      "text": "dellven",
+      "confidence": 0.994,
+      "timestamp": 20.0
+    },
+    {
+      "text": "burner】",
+      "confidence": 0.404,
+      "timestamp": 20.0
+    },
+    {
+      "text": "selectanoow",
+      "confidence": 0.411,
+      "timestamp": 22.0
+    },
+    {
+      "text": "IK",
+      "confidence": 0.834,
+      "timestamp": 22.0
+    },
+    {
+      "text": "1K",
+      "confidence": 0.445,
+      "timestamp": 22.0
+    },
+    {
+      "text": "PniceLowerLimit",
+      "confidence": 0.692,
+      "timestamp": 22.0
+    },
+    {
+      "text": "independent washbasin",
+      "confidence": 0.463,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Iseparate",
+      "confidence": 0.569,
+      "timestamp": 22.0
+    },
+    {
+      "text": "deliverybadl",
+      "confidence": 0.442,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Datnroomdryer",
+      "confidence": 0.443,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Alr",
+      "confidence": 0.425,
+      "timestamp": 22.0
+    },
+    {
+      "text": "conditloning",
+      "confidence": 0.731,
+      "timestamp": 22.0
+    },
+    {
+      "text": "lcloset",
+      "confidence": 0.493,
+      "timestamp": 22.0
+    },
+    {
+      "text": "snoehoxl",
+      "confidence": 0.803,
+      "timestamp": 22.0
+    },
+    {
+      "text": "semi-doublg",
+      "confidence": 0.491,
+      "timestamp": 22.0
+    },
+    {
+      "text": "bedl",
+      "confidence": 0.799,
+      "timestamp": 22.0
+    },
+    {
+      "text": "日",
+      "confidence": 0.407,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Induction",
+      "confidence": 0.444,
+      "timestamp": 22.0
+    },
+    {
+      "text": "loり",
+      "confidence": 0.989,
+      "timestamp": 22.0
+    },
+    {
+      "text": "5yearsapol",
+      "confidence": 0.419,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Bulitjlstone",
+      "confidence": 0.468,
+      "timestamp": 22.0
+    },
+    {
+      "text": "Enter",
+      "confidence": 0.994,
+      "timestamp": 24.0
+    },
+    {
+      "text": "「Keywordhere",
+      "confidence": 0.571,
+      "timestamp": 24.0
+    },
+    {
+      "text": "Shinjulu Ward",
+      "confidence": 0.474,
+      "timestamp": 24.0
+    },
+    {
+      "text": "山",
+      "confidence": 0.586,
+      "timestamp": 24.0
+    },
+    {
+      "text": "Kormore",
+      "confidence": 0.635,
+      "timestamp": 24.0
+    },
+    {
+      "text": "selectroomiave",
+      "confidence": 0.533,
+      "timestamp": 24.0
+    },
+    {
+      "text": "Pricelimit",
+      "confidence": 0.999,
+      "timestamp": 24.0
+    },
+    {
+      "text": "Selectyour preierentus",
+      "confidence": 0.504,
+      "timestamp": 24.0
+    },
+    {
+      "text": "boxl",
+      "confidence": 0.719,
+      "timestamp": 24.0
+    },
+    {
+      "text": "lbauhroom dryer",
+      "confidence": 0.716,
+      "timestamp": 24.0
+    },
+    {
+      "text": "conditioming",
+      "confidence": 0.819,
+      "timestamp": 24.0
+    },
+    {
+      "text": "changlngroom",
+      "confidence": 0.707,
+      "timestamp": 24.0
+    },
+    {
+      "text": "semi-doublebed",
+      "confidence": 0.714,
+      "timestamp": 24.0
+    },
+    {
+      "text": "Basgtove",
+      "confidence": 0.454,
+      "timestamp": 24.0
+    },
+    {
+      "text": "Inducuon",
+      "confidence": 0.831,
+      "timestamp": 24.0
+    },
+    {
+      "text": "aBo",
+      "confidence": 0.817,
+      "timestamp": 24.0
+    },
+    {
+      "text": "ror",
+      "confidence": 0.72,
+      "timestamp": 24.0
+    },
+    {
+      "text": "Welcome",
+      "confidence": 0.598,
+      "timestamp": 24.0
+    },
+    {
+      "text": "aun",
+      "confidence": 0.548,
+      "timestamp": 24.0
+    },
+    {
+      "text": "delivery",
+      "confidence": 0.546,
+      "timestamp": 24.0
+    },
+    {
+      "text": "closeり",
+      "confidence": 0.49,
+      "timestamp": 24.0
+    },
+    {
+      "text": "Blcycle",
+      "confidence": 0.485,
+      "timestamp": 24.0
+    },
+    {
+      "text": "ロングフラン",
+      "confidence": 0.899,
+      "timestamp": 26.0
+    },
+    {
+      "text": "5ショート",
+      "confidence": 0.93,
+      "timestamp": 26.0
+    },
+    {
+      "text": "若松河田クレアシオン【スタンダードタイ刀",
+      "confidence": 0.702,
+      "timestamp": 28.0
+    },
+    {
+      "text": "ロンク",
+      "confidence": 0.453,
+      "timestamp": 28.0
+    },
+    {
+      "text": "ロングブラン(か月つ)はも",
+      "confidence": 0.493,
+      "timestamp": 28.0
+    },
+    {
+      "text": "エアコ・",
+      "confidence": 0.594,
+      "timestamp": 28.0
+    },
+    {
+      "text": "お気に入りに登録",
+      "confidence": 0.437,
+      "timestamp": 30.0
+    },
+    {
+      "text": "Uapan2ozopro",
+      "confidence": 0.446,
+      "timestamp": 30.0
+    },
+    {
+      "text": "広き",
+      "confidence": 0.876,
+      "timestamp": 30.0
+    },
+    {
+      "text": "19.93m",
+      "confidence": 0.662,
+      "timestamp": 30.0
+    },
+    {
+      "text": "2人まて入居可",
+      "confidence": 0.847,
+      "timestamp": 30.0
+    },
+    {
+      "text": "馬",
+      "confidence": 0.47,
+      "timestamp": 30.0
+    },
+    {
+      "text": "テスクセン",
+      "confidence": 0.742,
+      "timestamp": 30.0
+    },
+    {
+      "text": "tp",
+      "confidence": 0.736,
+      "timestamp": 30.0
+    },
+    {
+      "text": "こいません",
+      "confidence": 0.699,
+      "timestamp": 32.0
+    },
+    {
+      "text": "[川",
+      "confidence": 0.405,
+      "timestamp": 32.0
+    },
+    {
+      "text": "3yin円",
+      "confidence": 0.424,
+      "timestamp": 32.0
+    },
+    {
+      "text": "1,259円旧",
+      "confidence": 0.663,
+      "timestamp": 32.0
+    },
+    {
+      "text": "利用料金 計鼻方法",
+      "confidence": 0.882,
+      "timestamp": 32.0
+    },
+    {
+      "text": "ddlmmlyyyy",
+      "confidence": 0.906,
+      "timestamp": 32.0
+    },
+    {
+      "text": "に ‥",
+      "confidence": 0.499,
+      "timestamp": 34.0
+    },
+    {
+      "text": "けロ方き",
+      "confidence": 0.522,
+      "timestamp": 34.0
+    },
+    {
+      "text": "126",
+      "confidence": 0.833,
+      "timestamp": 34.0
+    },
+    {
+      "text": "合",
+      "confidence": 0.993,
+      "timestamp": 34.0
+    },
+    {
+      "text": "thislocation",
+      "confidence": 0.91,
+      "timestamp": 34.0
+    },
+    {
+      "text": "ません。",
+      "confidence": 0.964,
+      "timestamp": 36.0
+    },
+    {
+      "text": "13,750円",
+      "confidence": 0.995,
+      "timestamp": 36.0
+    },
+    {
+      "text": "8,800円",
+      "confidence": 0.816,
+      "timestamp": 36.0
+    },
+    {
+      "text": "5,500円",
+      "confidence": 0.84,
+      "timestamp": 36.0
+    },
+    {
+      "text": "28,050円",
+      "confidence": 0.982,
+      "timestamp": 36.0
+    },
+    {
+      "text": "ださい",
+      "confidence": 0.963,
+      "timestamp": 36.0
+    },
+    {
+      "text": "くと",
+      "confidence": 1.0,
+      "timestamp": 36.0
+    },
+    {
+      "text": "These are results iorusdtojpy",
+      "confidence": 0.414,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Searchinsteadforusdtojpyen",
+      "confidence": 0.985,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Uniled Slates Dollarequals",
+      "confidence": 0.445,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Yen",
+      "confidence": 1.0,
+      "timestamp": 38.0
+    },
+    {
+      "text": "1OJan 7 34amUTC",
+      "confidence": 0.573,
+      "timestamp": 38.0
+    },
+    {
+      "text": "From Morningsiar",
+      "confidence": 0.94,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Discalmer",
+      "confidence": 0.638,
+      "timestamp": 38.0
+    },
+    {
+      "text": "158",
+      "confidence": 0.533,
+      "timestamp": 38.0
+    },
+    {
+      "text": "157",
+      "confidence": 0.97,
+      "timestamp": 38.0
+    },
+    {
+      "text": "177.66",
+      "confidence": 0.977,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Uniled Siales Dollar",
+      "confidence": 0.684,
+      "timestamp": 38.0
+    },
+    {
+      "text": "156",
+      "confidence": 0.411,
+      "timestamp": 38.0
+    },
+    {
+      "text": "28050",
+      "confidence": 1.0,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Japanese Yan",
+      "confidence": 0.689,
+      "timestamp": 38.0
+    },
+    {
+      "text": "1154",
+      "confidence": 0.99,
+      "timestamp": 38.0
+    },
+    {
+      "text": "MoreaboutUSDIJ",
+      "confidence": 0.647,
+      "timestamp": 38.0
+    },
+    {
+      "text": "People alsoask",
+      "confidence": 0.997,
+      "timestamp": 38.0
+    },
+    {
+      "text": "isJPY",
+      "confidence": 0.786,
+      "timestamp": 38.0
+    },
+    {
+      "text": "weakening?",
+      "confidence": 1.0,
+      "timestamp": 38.0
+    },
+    {
+      "text": "lsiheUSD",
+      "confidence": 0.886,
+      "timestamp": 38.0
+    },
+    {
+      "text": "against",
+      "confidence": 0.703,
+      "timestamp": 38.0
+    },
+    {
+      "text": "rlghinow?",
+      "confidence": 0.681,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Howmuchis $1 oooin",
+      "confidence": 0.894,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Yen?",
+      "confidence": 0.999,
+      "timestamp": 38.0
+    },
+    {
+      "text": "much is $30 dollars",
+      "confidence": 0.82,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Why",
+      "confidence": 0.944,
+      "timestamp": 38.0
+    },
+    {
+      "text": "strong",
+      "confidence": 0.972,
+      "timestamp": 38.0
+    },
+    {
+      "text": "The",
+      "confidence": 0.975,
+      "timestamp": 38.0
+    },
+    {
+      "text": "How",
+      "confidence": 0.978,
+      "timestamp": 38.0
+    }
+  ]
+}

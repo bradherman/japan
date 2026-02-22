@@ -1,0 +1,11 @@
+https://instagram.com/p/C8pZad6NqHb/ | All downloaders failed for https://instagram.com/p/C8pZad6NqHb/
+https://instagram.com/p/DRA8VfqgNq1/ | All downloaders failed for https://instagram.com/p/DRA8VfqgNq1/
+https://instagram.com/p/DTKloRoEdVq/ | [Errno 2] No such file or directory: '/Users/bherms/src/japan/data/raw/DTKloRoEdVq/DTKloRoEdVq.NA'
+https://instagram.com/p/DU6_o93CAfO/ | tuple index out of range
+https://instagram.com/p/DUhybcGD1lQ/ | [Errno 2] No such file or directory: '/Users/bherms/src/japan/data/raw/DUhybcGD1lQ/DUhybcGD1lQ.NA'
+https://instagram.com/p/DUpGOxFjRBh/ | [Errno 2] No such file or directory: '/Users/bherms/src/japan/data/raw/DUpGOxFjRBh/DUpGOxFjRBh.NA'
+https://instagram.com/p/DUq47O2gdp_/ | All downloaders failed for https://instagram.com/p/DUq47O2gdp_/
+https://instagram.com/p/DUQAASkk5pP/ | [Errno 2] No such file or directory: '/Users/bherms/src/japan/data/raw/DUQAASkk5pP/DUQAASkk5pP.NA'
+https://instagram.com/p/DUqqbEokV3E/ | [Errno 2] No such file or directory: '/Users/bherms/src/japan/data/raw/DUqqbEokV3E/DUqqbEokV3E.NA'
+https://instagram.com/p/DUS4UzEkkeT/ | [Errno 2] No such file or directory: '/Users/bherms/src/japan/data/raw/DUS4UzEkkeT/DUS4UzEkkeT.NA'
+https://instagram.com/p/DUz6L7sjwaU/ | [Errno 2] No such file or directory: '/Users/bherms/src/japan/data/raw/DUz6L7sjwaU/DUz6L7sjwaU.NA'

@@ -1,0 +1,116 @@
+{
+  "url": "https://instagram.com/p/C3VJGWeOZTL/",
+  "video_path": "/Users/bherms/src/japan/data/raw/C3VJGWeOZTL/2024-02-14_13-59-10_UTC.mp4",
+  "caption": "If you’re a foodie and want to eat like the locals, Tabelog is one of the best ways to experience and find dining options in Japan.\n\nYou can also search for cuisine types in Japanese within Google for a better result.\n\nHappy eating!\n——\n#foodie #japan #japanfood #tabelog #luxurytravel",
+  "transcript": "Do not use Google or the Michelin Guide. Many people use Google or the Michelin Guide when they're visiting new cities. Most of the time, both work just fine. But in Japan, the de facto source for restaurant ranking is Tableau. It's what the locals use and often contradicts the Western guides. For example, Juro is definitely not considered the best sushi by the locals on Tableau. Be aware, it does cater to a local palate, so it's more authentic, but it may be more of interest and some would care for. So if you're a huge foodie,",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 4.52,
+      "text": "Do not use Google or the Michelin Guide. Many people use Google or the Michelin Guide when"
+    },
+    {
+      "start": 4.52,
+      "end": 8.74,
+      "text": "they're visiting new cities. Most of the time, both work just fine. But in Japan, the de facto"
+    },
+    {
+      "start": 8.74,
+      "end": 13.68,
+      "text": "source for restaurant ranking is Tableau. It's what the locals use and often contradicts the"
+    },
+    {
+      "start": 13.68,
+      "end": 18.52,
+      "text": "Western guides. For example, Juro is definitely not considered the best sushi by the locals on"
+    },
+    {
+      "start": 18.52,
+      "end": 23.68,
+      "text": "Tableau. Be aware, it does cater to a local palate, so it's more authentic, but it may be more of"
+    },
+    {
+      "start": 23.68,
+      "end": 26.06,
+      "text": "interest and some would care for. So if you're a huge foodie,"
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "orthe Michelin Guide",
+      "confidence": 0.981,
+      "timestamp": 3.92
+    },
+    {
+      "text": "Mostofthetime",
+      "confidence": 1.0,
+      "timestamp": 5.88
+    },
+    {
+      "text": "butinJapan",
+      "confidence": 1.0,
+      "timestamp": 7.84
+    },
+    {
+      "text": "forrestaurantranking",
+      "confidence": 0.983,
+      "timestamp": 9.8
+    },
+    {
+      "text": "thelocalsuse",
+      "confidence": 0.998,
+      "timestamp": 11.76
+    },
+    {
+      "text": "the western guides:",
+      "confidence": 0.773,
+      "timestamp": 13.72
+    },
+    {
+      "text": "Jirois definitely not",
+      "confidence": 0.591,
+      "timestamp": 15.68
+    },
+    {
+      "text": "SukiyabashiJiro すきやばし 次郎",
+      "confidence": 0.94,
+      "timestamp": 17.64
+    },
+    {
+      "text": "(Sushi)",
+      "confidence": 0.999,
+      "timestamp": 17.64
+    },
+    {
+      "text": "3.99",
+      "confidence": 0.981,
+      "timestamp": 17.64
+    },
+    {
+      "text": "[381reviews]",
+      "confidence": 0.999,
+      "timestamp": 17.64
+    },
+    {
+      "text": "Beaware",
+      "confidence": 0.999,
+      "timestamp": 19.6
+    },
+    {
+      "text": "soits moreauthentic",
+      "confidence": 0.936,
+      "timestamp": 21.56
+    },
+    {
+      "text": "moreadventurous",
+      "confidence": 0.997,
+      "timestamp": 23.52
+    },
+    {
+      "text": "hugefoodie",
+      "confidence": 1.0,
+      "timestamp": 25.48
+    }
+  ]
+}

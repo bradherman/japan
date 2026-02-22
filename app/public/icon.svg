@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0f172a"/>
+  <!-- Subtle rays from behind the sun -->
+  <g opacity="0.12">
+    <polygon points="256,240 0,0 170,0" fill="#dc2626"/>
+    <polygon points="256,240 342,0 512,0" fill="#dc2626"/>
+    <polygon points="256,240 512,80 512,240" fill="#dc2626"/>
+    <polygon points="256,240 0,80 0,240" fill="#dc2626"/>
+    <polygon points="256,240 512,400 512,512 420,512" fill="#dc2626"/>
+    <polygon points="256,240 0,400 0,512 92,512" fill="#dc2626"/>
+  </g>
+  <!-- Torii gate silhouette -->
+  <g fill="#f8fafc">
+    <!-- Top beam (kasagi) - curved -->
+    <path d="M128,340 L128,330 C128,320 160,308 256,308 C352,308 384,320 384,330 L384,340 C384,336 352,318 256,318 C160,318 128,336 128,340Z"/>
+    <!-- Second beam (nuki) -->
+    <rect x="148" y="348" width="216" height="8" rx="2"/>
+    <!-- Left pillar -->
+    <rect x="162" y="330" width="14" height="130" rx="2"/>
+    <!-- Right pillar -->
+    <rect x="336" y="330" width="14" height="130" rx="2"/>
+  </g>
+  <!-- Rising sun -->
+  <circle cx="256" cy="230" r="80" fill="#dc2626"/>
+</svg>

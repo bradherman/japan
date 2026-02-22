@@ -1,0 +1,86 @@
+{
+  "url": "https://instagram.com/p/DP4mc5rkUQk/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DP4mc5rkUQk/2025-10-16_21-00-24_UTC.mp4",
+  "caption": "Say this and make japanese smile",
+  "transcript": "When you go to Japan, you want to make people smile. There's a short phrase if you say in a restaurant, in a cafeteria, or izakaya, you make people smile right away. That phrase is gochisousama deshita. Gochisousama deshita. This is expressing gratitude for the food, also appreciation for the people who made the food for you. So if you don't speak Japanese, but still want to interact with people in Japan, use this phrase because then you can make people smile right away. They will be very, very happy to hear that from you. Thank you for the food. Thank you for your job. Gochisousama deshita.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "When you go to Japan, you want to make people smile."
+    },
+    {
+      "start": 2.26,
+      "end": 6.64,
+      "text": "There's a short phrase if you say in a restaurant, in a cafeteria, or izakaya,"
+    },
+    {
+      "start": 6.8,
+      "end": 8.54,
+      "text": "you make people smile right away."
+    },
+    {
+      "start": 8.72,
+      "end": 10.88,
+      "text": "That phrase is gochisousama deshita."
+    },
+    {
+      "start": 11.08,
+      "end": 13.62,
+      "text": "Gochisousama deshita."
+    },
+    {
+      "start": 13.76,
+      "end": 16.04,
+      "text": "This is expressing gratitude for the food,"
+    },
+    {
+      "start": 16.22,
+      "end": 19.36,
+      "text": "also appreciation for the people who made the food for you."
+    },
+    {
+      "start": 19.46,
+      "end": 23.54,
+      "text": "So if you don't speak Japanese, but still want to interact with people in Japan,"
+    },
+    {
+      "start": 23.7,
+      "end": 27.68,
+      "text": "use this phrase because then you can make people smile right away."
+    },
+    {
+      "start": 27.68,
+      "end": 30.62,
+      "text": "They will be very, very happy to hear that from you."
+    },
+    {
+      "start": 30.76,
+      "end": 31.8,
+      "text": "Thank you for the food."
+    },
+    {
+      "start": 31.98,
+      "end": 33.02,
+      "text": "Thank you for your job."
+    },
+    {
+      "start": 33.16,
+      "end": 34.28,
+      "text": "Gochisousama deshita."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "1",
+      "confidence": 0.75,
+      "timestamp": 0.0
+    },
+    {
+      "text": "'",
+      "confidence": 0.598,
+      "timestamp": 22.0
+    }
+  ]
+}

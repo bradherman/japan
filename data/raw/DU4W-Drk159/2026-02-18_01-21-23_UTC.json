@@ -1,0 +1,251 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.15"
+    },
+    "node": {
+        "__isXDTGraphMediaInterface": "XDTGraphVideo",
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "can_see_insights_as_brand": false,
+        "caption_is_edited": false,
+        "clips_music_attribution_info": {
+            "artist_name": "Steely Dan",
+            "audio_id": "2110286989262552",
+            "should_mute_audio": false,
+            "should_mute_audio_reason": "",
+            "song_name": "Reelin' In The Years",
+            "uses_original_audio": false
+        },
+        "coauthor_producers": [],
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 1136,
+            "width": 640
+        },
+        "display_resources": [
+            {
+                "config_height": 1136,
+                "config_width": 640,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632339295_1248809133862438_3328940586861609777_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QHXPbN9IownSSSr8aP0fMGW903ArjEmzDyOHslQaTlkAjtUMV4cLumHWB53H91PD4c&_nc_ohc=nQ7C1CK9VD0Q7kNvwFSA86h&_nc_gid=5E48DF7JNeo6kCtgNbllyg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftnUAkkawhtIgfoFPIy8zK-IF8e4CGUx9qxio4clZowlg&oe=69A0024D&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1331,
+                "config_width": 750,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632339295_1248809133862438_3328940586861609777_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QHXPbN9IownSSSr8aP0fMGW903ArjEmzDyOHslQaTlkAjtUMV4cLumHWB53H91PD4c&_nc_ohc=nQ7C1CK9VD0Q7kNvwFSA86h&_nc_gid=5E48DF7JNeo6kCtgNbllyg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftnUAkkawhtIgfoFPIy8zK-IF8e4CGUx9qxio4clZowlg&oe=69A0024D&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1917,
+                "config_width": 1080,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632339295_1248809133862438_3328940586861609777_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QHXPbN9IownSSSr8aP0fMGW903ArjEmzDyOHslQaTlkAjtUMV4cLumHWB53H91PD4c&_nc_ohc=nQ7C1CK9VD0Q7kNvwFSA86h&_nc_gid=5E48DF7JNeo6kCtgNbllyg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftnUAkkawhtIgfoFPIy8zK-IF8e4CGUx9qxio4clZowlg&oe=69A0024D&_nc_sid=d885a2"
+            }
+        ],
+        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632339295_1248809133862438_3328940586861609777_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QHXPbN9IownSSSr8aP0fMGW903ArjEmzDyOHslQaTlkAjtUMV4cLumHWB53H91PD4c&_nc_ohc=nQ7C1CK9VD0Q7kNvwFSA86h&_nc_gid=5E48DF7JNeo6kCtgNbllyg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftnUAkkawhtIgfoFPIy8zK-IF8e4CGUx9qxio4clZowlg&oe=69A0024D&_nc_sid=d885a2",
+        "edge_media_preview_comment": {
+            "count": 43,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1771693812,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18085036118224473",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "26261795151",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/74673903_294416464778934_2070072785249501184_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QHXPbN9IownSSSr8aP0fMGW903ArjEmzDyOHslQaTlkAjtUMV4cLumHWB53H91PD4c&_nc_ohc=3SAd815QqNMQ7kNvwGpOd2f&_nc_gid=5E48DF7JNeo6kCtgNbllyg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu2sriol2e8RT8oexbf7CbIp44s1Quk2AIucWKCnnCQNw&oe=69A01079&_nc_sid=d885a2",
+                            "username": "alexandriaboyva"
+                        },
+                        "text": "@darininnz what\u2019s the name\u2026 get to Kansai at least once a year\u2026 sounds interesting\u2026",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771702243,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18101859460705106",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2291530803",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/603952525_18499066762074804_2212845910634115820_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QHXPbN9IownSSSr8aP0fMGW903ArjEmzDyOHslQaTlkAjtUMV4cLumHWB53H91PD4c&_nc_ohc=q7GohwOV3MMQ7kNvwFFBm0N&_nc_gid=5E48DF7JNeo6kCtgNbllyg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu58tDlg8ATvqVc0Za0ag98hFXtxMMfjoFrtb6obwTavA&oe=69A015AD&_nc_sid=d885a2",
+                            "username": "darininnz"
+                        },
+                        "text": "@alexandriaboyva https://maps.app.goo.gl/VgyUCs3XbkgAC6oXA",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 1935,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "created_at": "1771377683",
+                        "id": "18111409603641972",
+                        "text": "I\u2019ve been to listening bars all over the world, and so many of them trace their inspiration back to Japan. Sitting inside of Grandfather\u2019s for a while, it\u2019s hard not to feel like this is one of the most authentic I\u2019ve ever experienced. Five decades of history, dim lights, cigarette smoke, and music humming beneath the streets of Tokyo. For the first time, it feels like I\u2019ve reached the source.\n\nThere\u2019s still so much more of Tokyo\u2019s music scene to experience so make sure to follow Black Vinyl Stories and we\u2019ll keep exploring.\n\n#listeningbar #tokyo #blackvinylstories #recordbar"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 43,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1771664917,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18313380112280523",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "7758467521",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/31938789_190462628264740_3980964822559752192_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QHXPbN9IownSSSr8aP0fMGW903ArjEmzDyOHslQaTlkAjtUMV4cLumHWB53H91PD4c&_nc_ohc=y2qXyRApi7cQ7kNvwGuqOTV&_nc_gid=5E48DF7JNeo6kCtgNbllyg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuxDjjG1B0cQUq5UglKSMMzgu-umAZFRagggAQhtT4SSA&oe=69A034E4&_nc_sid=d885a2",
+                            "username": "mountainsteelpig"
+                        },
+                        "text": "Excellent \ud83d\udc4d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771638266,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17885410791450024",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "4010398",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/313836080_2999179483713903_9144134179018371245_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MTguYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QHXPbN9IownSSSr8aP0fMGW903ArjEmzDyOHslQaTlkAjtUMV4cLumHWB53H91PD4c&_nc_ohc=K1wDGGM0vccQ7kNvwHZJlxK&_nc_gid=5E48DF7JNeo6kCtgNbllyg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuG5SkaB8v8lw3Wys1vi4n6jnp7vkEH_L6jSbJO5b0rwQ&oe=69A00B73&_nc_sid=d885a2",
+                            "username": "docjones"
+                        },
+                        "text": "Great place",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "{\"server_cursor\": \"QVFEbFBRTnROVlZNcmEzVUlVZmNHWHdHVjlqaUROX21BNF80WHBEQjF0T0VZSTJUcExBYlFGVUI1clZ2ZWtsbVJCMHVteTNTR1k3N3F3YzNmT3RkYWstSw==\", \"is_server_cursor_inverse\": true}",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_ranked_comments": false,
+        "id": "3834916104289083005",
+        "is_ad": false,
+        "is_affiliate": false,
+        "is_paid_partnership": false,
+        "is_published": true,
+        "is_video": true,
+        "like_and_view_counts_disabled": false,
+        "location": {
+            "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Shibuya, Tokyo\", \"region_name\": \"\", \"country_code\": \"\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}",
+            "has_public_page": true,
+            "id": "212984894",
+            "name": "Shibuya, Tokyo",
+            "slug": "shibuya-tokyo"
+        },
+        "media_overlay_info": null,
+        "media_preview": "ABgqg1pkZk2HIwfw6ViVpXDeZgHnANZzKVODT9RtW0QlFTrAz4CAsx7D8/5UUCsy75e488Djvzz7f5xTZrcs5I5VRgfh/nmojdM3seg9Rj60sl04ODjB9O/r/wDqqNSm0yTaQo7HPuCM+9FQ/aG24PI4/wA880VSJK5O8+n8qv26RiDcwB5z78VnCrH/ACw/4F/SmBLD9nJy/TGPm45z7e1FUv4aKAP/2Q==",
+        "nft_asset_info": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 24633
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 139
+            },
+            "followed_by_viewer": false,
+            "full_name": "Black Vinyl Stories | Music Industry Storytelling",
+            "has_blocked_viewer": false,
+            "id": "55934857961",
+            "is_embeds_disabled": false,
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": true,
+            "pass_tiering_recommendation": true,
+            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/462427687_1111314393937581_1775590942846381395_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QHXPbN9IownSSSr8aP0fMGW903ArjEmzDyOHslQaTlkAjtUMV4cLumHWB53H91PD4c&_nc_ohc=Ke-9ypV_Q58Q7kNvwEaArf6&_nc_gid=5E48DF7JNeo6kCtgNbllyg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsGOwsmTfWhqeQDv6QSFPCrwa7EPxR2GdXJhL5ZCG1wkA&oe=69A01270&_nc_sid=d885a2",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "username": "blackvinylstories"
+        },
+        "pinned_for_users": [],
+        "product_type": "clips",
+        "sensitivity_friction_info": null,
+        "sharing_friction_info": {
+            "bloks_app_url": null,
+            "should_have_sharing_friction": false
+        },
+        "shortcode": "DU4W-Drk159",
+        "taken_at_timestamp": 1771377683,
+        "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632339295_1248809133862438_3328940586861609777_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QHXPbN9IownSSSr8aP0fMGW903ArjEmzDyOHslQaTlkAjtUMV4cLumHWB53H91PD4c&_nc_ohc=nQ7C1CK9VD0Q7kNvwFSA86h&_nc_gid=5E48DF7JNeo6kCtgNbllyg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afse1di38IsU7TR1AtveFZKt3j7sVX4QkBNQdjzd0Wls5g&oe=69A0024D&_nc_sid=d885a2",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZWQ5Yjc0ODcwYzJiNDlmYWFiZDk0MGQ1ZjYxNTRjMjQzODM0OTE2MTA0Mjg5MDgzMDA1In0sInNpZ25hdHVyZSI6IiJ9",
+        "upcoming_event": null,
+        "video_duration": 49.34,
+        "video_play_count": 42692,
+        "video_url": "https://scontent-sjc6-1.cdninstagram.com/o1/v/t2/f2/m86/AQPA-5MpHyT4Le6F7P6Yg_xeamqiulTPQOf1QUpPEkW22D90nPxAUyhm19uFrXdJigTy8Et8n5eda65hOw2Y0BkhsTjsNy16ihpJRpA.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_ohc=wEaglhpZqDUQ7kNvwGhWyFB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5OTUxNjUxOTA4NjU5NjIsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6NDksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=5E48DF7JNeo6kCtgNbllyg&_nc_zt=28&vs=b22797df4790bb93&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zODQ0RDQ3RjNEOTVGNDVGQzUxQzE0MDYyREFFM0U4OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzM5NDkwNjJDRDA3MzE5MUVBQjM1MkNDQzVEMzhGOEE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUkILOvKD3PxUCKAJDMywXQEiqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&oh=00_AfsiNzTPTbn8coMmb9zxke9G1L-x7UyXUzkZ3GXR2FJRow&oe=699C185D",
+        "video_view_count": 24602,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

@@ -1,0 +1,156 @@
+{
+  "url": "https://instagram.com/p/DTS5DTskwIh/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DTS5DTskwIh/2026-01-09_15-38-54_UTC.mp4",
+  "caption": "Ungatekeeping Japanese Brands | Episode 9! \n\nToday we’re looking at @united_tokyo , one of the BEST brands for minimal japanese fashion. Crafting elevated basics that always just work. \n\nI visit here every time I come to Japan and I’m absolutely in love with their quality / designs. \n\n#japan #fashion #outfit #clothing",
+  "transcript": "on gatekeeping, the best Japanese clothing brands you have to check out. I get it. You love Uniqlo, but sometimes you need something a bit more elevated. This brand is the perfect upgrade. This brand creates minimal, clean, and timeless pieces that fit into any wardrobe. Each piece elevates everyday essentials with a modern Japanese twist. The best part, everything is really high quality and made in Japan. And if you're interested in this brand is called United Tokyo. Like and follow for more Japanese brands.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "on gatekeeping, the best Japanese clothing brands"
+    },
+    {
+      "start": 1.56,
+      "end": 2.12,
+      "text": "you have to check out."
+    },
+    {
+      "start": 2.24,
+      "end": 2.66,
+      "text": "I get it."
+    },
+    {
+      "start": 2.76,
+      "end": 4.32,
+      "text": "You love Uniqlo, but sometimes you need something"
+    },
+    {
+      "start": 4.32,
+      "end": 5.12,
+      "text": "a bit more elevated."
+    },
+    {
+      "start": 5.28,
+      "end": 6.56,
+      "text": "This brand is the perfect upgrade."
+    },
+    {
+      "start": 6.66,
+      "end": 8.52,
+      "text": "This brand creates minimal, clean, and timeless pieces"
+    },
+    {
+      "start": 8.52,
+      "end": 9.66,
+      "text": "that fit into any wardrobe."
+    },
+    {
+      "start": 9.84,
+      "end": 11.1,
+      "text": "Each piece elevates everyday essentials"
+    },
+    {
+      "start": 11.1,
+      "end": 12.42,
+      "text": "with a modern Japanese twist."
+    },
+    {
+      "start": 12.6,
+      "end": 14.36,
+      "text": "The best part, everything is really high quality"
+    },
+    {
+      "start": 14.36,
+      "end": 15.32,
+      "text": "and made in Japan."
+    },
+    {
+      "start": 15.46,
+      "end": 16.3,
+      "text": "And if you're interested in this brand"
+    },
+    {
+      "start": 16.3,
+      "end": 17.36,
+      "text": "is called United Tokyo."
+    },
+    {
+      "start": 17.52,
+      "end": 18.66,
+      "text": "Like and follow for more Japanese brands."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "Ungatelkeeping",
+      "confidence": 0.708,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Check",
+      "confidence": 0.986,
+      "timestamp": 0.0
+    },
+    {
+      "text": "p",
+      "confidence": 0.698,
+      "timestamp": 2.0
+    },
+    {
+      "text": "butsometimes",
+      "confidence": 0.741,
+      "timestamp": 4.0
+    },
+    {
+      "text": "youneedsomething",
+      "confidence": 0.807,
+      "timestamp": 4.0
+    },
+    {
+      "text": "timeless",
+      "confidence": 0.866,
+      "timestamp": 8.0
+    },
+    {
+      "text": "pieces",
+      "confidence": 0.999,
+      "timestamp": 8.0
+    },
+    {
+      "text": "each piece elevates",
+      "confidence": 0.731,
+      "timestamp": 10.0
+    },
+    {
+      "text": "modern Japanesetwistl",
+      "confidence": 0.437,
+      "timestamp": 12.0
+    },
+    {
+      "text": "UMITED",
+      "confidence": 0.551,
+      "timestamp": 12.0
+    },
+    {
+      "text": "onno",
+      "confidence": 0.577,
+      "timestamp": 12.0
+    },
+    {
+      "text": "everythingisreally",
+      "confidence": 0.963,
+      "timestamp": 14.0
+    },
+    {
+      "text": "highquality",
+      "confidence": 0.884,
+      "timestamp": 14.0
+    },
+    {
+      "text": "moreJapanese brands!",
+      "confidence": 0.766,
+      "timestamp": 18.0
+    }
+  ]
+}

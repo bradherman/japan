@@ -1,0 +1,96 @@
+{
+  "url": "https://instagram.com/p/DUaYf6Dktnx/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DUaYf6Dktnx/2026-02-06_09-58-42_UTC.mp4",
+  "caption": "My most requested thrift store to check out by my followers 📍 JAM \n\nIt was good…",
+  "transcript": "I'm trying to find the best thrift store in Japan, and a lot of people say, Jam is it. This store is heavily Americana curated. It has a military surplus section with a variety of camo prints, a crazy vintage Levi's curation. I don't know, vintage denim just hits different. Polo, Kaha, and heaps of vintage crews and tees. As you can tell, there's a lot of vintage. But do I think it's the best? No, I'm putting it fifth on my list, behind Rad Tag and above Kinji.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "I'm trying to find the best thrift store in Japan, and a lot of people say, Jam is it."
+    },
+    {
+      "start": 3.68,
+      "end": 5.8,
+      "text": "This store is heavily Americana curated."
+    },
+    {
+      "start": 5.8,
+      "end": 9.08,
+      "text": "It has a military surplus section with a variety of camo prints,"
+    },
+    {
+      "start": 9.08,
+      "end": 11.32,
+      "text": "a crazy vintage Levi's curation."
+    },
+    {
+      "start": 11.32,
+      "end": 13.44,
+      "text": "I don't know, vintage denim just hits different."
+    },
+    {
+      "start": 13.44,
+      "end": 16.52,
+      "text": "Polo, Kaha, and heaps of vintage crews and tees."
+    },
+    {
+      "start": 16.52,
+      "end": 17.92,
+      "text": "As you can tell, there's a lot of vintage."
+    },
+    {
+      "start": 17.92,
+      "end": 19.08,
+      "text": "But do I think it's the best?"
+    },
+    {
+      "start": 19.08,
+      "end": 22.72,
+      "text": "No, I'm putting it fifth on my list, behind Rad Tag and above Kinji."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "68",
+      "confidence": 0.98,
+      "timestamp": 0.0
+    },
+    {
+      "text": "川",
+      "confidence": 0.971,
+      "timestamp": 14.0
+    },
+    {
+      "text": "BEACH",
+      "confidence": 0.904,
+      "timestamp": 16.0
+    },
+    {
+      "text": "CAFE",
+      "confidence": 0.996,
+      "timestamp": 16.0
+    },
+    {
+      "text": "MYRTLE",
+      "confidence": 0.639,
+      "timestamp": 16.0
+    },
+    {
+      "text": "4.ragtag",
+      "confidence": 0.995,
+      "timestamp": 22.0
+    },
+    {
+      "text": "5.jam",
+      "confidence": 0.975,
+      "timestamp": 22.0
+    },
+    {
+      "text": "6.kinji",
+      "confidence": 0.997,
+      "timestamp": 22.0
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://instagram.com/p/DQ4EZZYE-o9/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DQ4EZZYE-o9/2025-11-10_12-35-24_UTC.mp4",
+  "caption": "Is this the most chaotic thing we’ve done on our Japan trip? Probably. Tokyo is famous for having lots of different theme restaurants. We decided to finish up our time in Japan with a visit to the Samurai Restaurant. \n\n#tokyo #samurairestaurant #japan #visitjapan",
+  "transcript": "Oh Oh, my God.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Oh"
+    },
+    {
+      "start": 30.0,
+      "end": 59.98,
+      "text": "Oh, my God."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "isa",
+      "confidence": 0.847,
+      "timestamp": 32.0
+    },
+    {
+      "text": "its chewy",
+      "confidence": 0.572,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Enjoy",
+      "confidence": 0.919,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Kuzumochi",
+      "confidence": 0.831,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Japanese",
+      "confidence": 0.98,
+      "timestamp": 32.0
+    },
+    {
+      "text": "potato",
+      "confidence": 0.519,
+      "timestamp": 32.0
+    },
+    {
+      "text": "swect",
+      "confidence": 0.621,
+      "timestamp": 32.0
+    },
+    {
+      "text": "me",
+      "confidence": 0.675,
+      "timestamp": 34.0
+    },
+    {
+      "text": "Ie",
+      "confidence": 0.411,
+      "timestamp": 36.0
+    }
+  ]
+}

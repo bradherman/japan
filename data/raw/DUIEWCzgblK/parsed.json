@@ -1,0 +1,71 @@
+{
+  "url": "https://instagram.com/p/DUIEWCzgblK/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DUIEWCzgblK/2026-01-30_07-15-52_UTC.mp4",
+  "caption": "Sharing this affordable omakase spot in Tokyo located right at Tsukiji 🥹🍣\n\n📍Sushi Yamaharu Tsukiji 山治 築地 鮨\n🏹From the main street , enter this small alley , find the small wooden signage and climb the stairs , push open the door and walk all the way to 3rd floor and you will find this amazing Omakase place.\n\n🔗 This place only accept reservation which can be made online with Tablecheck / Tabelog.\n🔗 https://www.tablecheck.com/en/sushi-yamaharu/reserve/message\n\n💳💰Accept both Cash and Card.\n5500¥ / per person / 15 course\n\nSushi Lover ! Don't miss out this place if you are visiting Tokyo !🇯🇵👀\n#tokyofood #japantrip #tokyosushi #Tokyo #tsukiji",
+  "transcript": "Music Music Thank you.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "Music"
+    },
+    {
+      "start": 12.0,
+      "end": 20.0,
+      "text": "Music"
+    },
+    {
+      "start": 20.0,
+      "end": 49.98,
+      "text": "Thank you."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "perpersonllScourse",
+      "confidence": 0.732,
+      "timestamp": 0.0
+    },
+    {
+      "text": "SECRETOWAKASESPOTWWTOKYOTSUKIJ",
+      "confidence": 0.412,
+      "timestamp": 2.0
+    },
+    {
+      "text": "ONL55ooylperpersonlI5course",
+      "confidence": 0.428,
+      "timestamp": 2.0
+    },
+    {
+      "text": "perpersom",
+      "confidence": 0.53,
+      "timestamp": 4.0
+    },
+    {
+      "text": "perpersonll5course",
+      "confidence": 0.636,
+      "timestamp": 6.0
+    },
+    {
+      "text": "perpersonlIbcourse",
+      "confidence": 0.442,
+      "timestamp": 8.0
+    },
+    {
+      "text": "perpersonl15course",
+      "confidence": 0.41,
+      "timestamp": 14.0
+    },
+    {
+      "text": "perpersonlI5course",
+      "confidence": 0.539,
+      "timestamp": 16.0
+    },
+    {
+      "text": "昌",
+      "confidence": 0.491,
+      "timestamp": 16.0
+    }
+  ]
+}

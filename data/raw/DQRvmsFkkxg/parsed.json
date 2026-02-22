@@ -1,0 +1,96 @@
+{
+  "url": "https://instagram.com/p/DQRvmsFkkxg/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DQRvmsFkkxg/2025-10-26_15-21-48_UTC.mp4",
+  "caption": "Trying the most famous French toast in Japan!\n📍The Front Room, Tokyo\n\n#frenchtoast #breakfast #japan #tokyo #milkbread",
+  "transcript": "we're in tokyo trying the most viral french toast in japan this looks absolutely delicious this is how it works they take this massive loaf of japanese milk bread they soak it in sweet cream grill it up and then place it in a cast iron skillet to crisp it up look at how much butter he puts on this french toast and it almost creates this like pool of maple syrup butter holy shit is the dude trying to kill me i legitimately think that's the best french toast i've ever had the japanese milk bread it's so soft and it just soaks up this homemade butter and the maple syrup the one caveat is i think you got maybe two three bites before you just pass out look at the actual pond of butter here that's got to take at least like two years on your life maybe more",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 7.36,
+      "text": "we're in tokyo trying the most viral french toast in japan this looks absolutely delicious"
+    },
+    {
+      "start": 7.36,
+      "end": 12.88,
+      "text": "this is how it works they take this massive loaf of japanese milk bread they soak it in sweet cream"
+    },
+    {
+      "start": 12.88,
+      "end": 18.08,
+      "text": "grill it up and then place it in a cast iron skillet to crisp it up look at how much butter"
+    },
+    {
+      "start": 18.08,
+      "end": 23.52,
+      "text": "he puts on this french toast and it almost creates this like pool of maple syrup butter"
+    },
+    {
+      "start": 23.52,
+      "end": 25.76,
+      "text": "holy shit is the dude trying to kill me"
+    },
+    {
+      "start": 30.0,
+      "end": 43.36,
+      "text": "i legitimately think that's the best french toast i've ever had the japanese milk bread"
+    },
+    {
+      "start": 43.36,
+      "end": 49.84,
+      "text": "it's so soft and it just soaks up this homemade butter and the maple syrup the one caveat is i"
+    },
+    {
+      "start": 49.84,
+      "end": 55.76,
+      "text": "think you got maybe two three bites before you just pass out look at the actual pond of butter"
+    },
+    {
+      "start": 55.76,
+      "end": 60.16,
+      "text": "here that's got to take at least like two years on your life maybe more"
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "30",
+      "confidence": 0.719,
+      "timestamp": 11.81
+    },
+    {
+      "text": "co",
+      "confidence": 0.833,
+      "timestamp": 17.72
+    },
+    {
+      "text": "C",
+      "confidence": 0.478,
+      "timestamp": 27.56
+    },
+    {
+      "text": "g",
+      "confidence": 0.523,
+      "timestamp": 29.53
+    },
+    {
+      "text": "suppny",
+      "confidence": 0.513,
+      "timestamp": 29.53
+    },
+    {
+      "text": "'Qe",
+      "confidence": 0.46,
+      "timestamp": 31.5
+    },
+    {
+      "text": "'@y",
+      "confidence": 0.905,
+      "timestamp": 31.5
+    },
+    {
+      "text": "suppny co",
+      "confidence": 0.434,
+      "timestamp": 35.44
+    }
+  ]
+}

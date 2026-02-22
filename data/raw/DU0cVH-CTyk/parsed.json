@@ -1,0 +1,241 @@
+{
+  "url": "https://instagram.com/p/DU0cVH-CTyk/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DU0cVH-CTyk/2026-02-16_12-53-33_UTC.mp4",
+  "caption": "Comment “Cheese” for more info!\n\n📍 Location: Tsukumo Ramen Ebisu Honten\n\n🕒 Hours: 11:00 AM – 3:00 AM (Open daily)\n\n💰 Price: ¥1,000–2,000（$7–13）\n\n#tokyo  #ramen #local #cheeseramen #pr",
+  "transcript": "What's the best ramen in Tokyo? Best ramen? Tukumo? Why? It's really delicious cheese ramen. Okay, let's go! If you are looking for the best ramen in Tokyo, check this out. It's located in Ebisu. Tukumo Ramen is a long-established ramen shop founded in 1997. Known for solving a soup, slowly simmered for over 15 hours, it's topped generously with carefully selected golden gola cheese, making every bowl absolutely unforgettable. Here we go! This is their original cheese ramen. Look at this ultimate combo! The soup is super rich, perfectly blended with the melted cheese, and the noodles cling to the broth and cheese with every bite. You also gotta try their gyoza. Crispy on the outside and packed with deep savory flavor. Comment cheese for more info.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "What's the best ramen in Tokyo?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Best ramen?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Tukumo?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Why?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "It's really delicious"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "cheese ramen."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Okay, let's go!"
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "If you are looking for the best ramen in Tokyo,"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "check this out. It's located in Ebisu."
+    },
+    {
+      "start": 20.0,
+      "end": 26.0,
+      "text": "Tukumo Ramen is a long-established ramen shop founded in 1997."
+    },
+    {
+      "start": 26.0,
+      "end": 31.0,
+      "text": "Known for solving a soup, slowly simmered for over 15 hours,"
+    },
+    {
+      "start": 31.0,
+      "end": 35.0,
+      "text": "it's topped generously with carefully selected golden gola cheese,"
+    },
+    {
+      "start": 35.0,
+      "end": 38.0,
+      "text": "making every bowl absolutely unforgettable."
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "text": "Here we go!"
+    },
+    {
+      "start": 39.0,
+      "end": 41.0,
+      "text": "This is their original cheese ramen."
+    },
+    {
+      "start": 41.0,
+      "end": 43.0,
+      "text": "Look at this ultimate combo!"
+    },
+    {
+      "start": 46.0,
+      "end": 48.0,
+      "text": "The soup is super rich,"
+    },
+    {
+      "start": 48.0,
+      "end": 50.0,
+      "text": "perfectly blended with the melted cheese,"
+    },
+    {
+      "start": 50.0,
+      "end": 54.0,
+      "text": "and the noodles cling to the broth and cheese with every bite."
+    },
+    {
+      "start": 54.0,
+      "end": 57.0,
+      "text": "You also gotta try their gyoza."
+    },
+    {
+      "start": 57.0,
+      "end": 61.0,
+      "text": "Crispy on the outside and packed with deep savory flavor."
+    },
+    {
+      "start": 61.0,
+      "end": 63.0,
+      "text": "Comment cheese for more info."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "Bestramena",
+      "confidence": 0.701,
+      "timestamp": 4.0
+    },
+    {
+      "text": "LQUIDROOM",
+      "confidence": 0.926,
+      "timestamp": 6.0
+    },
+    {
+      "text": "See photos",
+      "confidence": 0.913,
+      "timestamp": 6.0
+    },
+    {
+      "text": "See outside",
+      "confidence": 0.971,
+      "timestamp": 6.0
+    },
+    {
+      "text": "Tsukumo Ramen Ebisu Honten",
+      "confidence": 0.993,
+      "timestamp": 6.0
+    },
+    {
+      "text": "4.0",
+      "confidence": 1.0,
+      "timestamp": 6.0
+    },
+    {
+      "text": "1,641 Googlereviews",
+      "confidence": 0.701,
+      "timestamp": 6.0
+    },
+    {
+      "text": "半1,000-2,000",
+      "confidence": 0.937,
+      "timestamp": 6.0
+    },
+    {
+      "text": "Ramen restaurant",
+      "confidence": 0.899,
+      "timestamp": 6.0
+    },
+    {
+      "text": "Cheese Ramen",
+      "confidence": 0.426,
+      "timestamp": 12.0
+    },
+    {
+      "text": "町",
+      "confidence": 0.804,
+      "timestamp": 14.0
+    },
+    {
+      "text": "ramemshgp",
+      "confidence": 0.481,
+      "timestamp": 24.0
+    },
+    {
+      "text": "日回四",
+      "confidence": 0.553,
+      "timestamp": 28.0
+    },
+    {
+      "text": "うす",
+      "confidence": 0.43,
+      "timestamp": 32.0
+    },
+    {
+      "text": "スープのお野みかあれば",
+      "confidence": 0.524,
+      "timestamp": 32.0
+    },
+    {
+      "text": "し付けく",
+      "confidence": 0.989,
+      "timestamp": 32.0
+    },
+    {
+      "text": "たさい",
+      "confidence": 0.916,
+      "timestamp": 32.0
+    },
+    {
+      "text": "TSUKC",
+      "confidence": 0.603,
+      "timestamp": 36.0
+    },
+    {
+      "text": "IKUMO",
+      "confidence": 0.881,
+      "timestamp": 42.0
+    },
+    {
+      "text": "Umgghg』",
+      "confidence": 0.459,
+      "timestamp": 46.0
+    },
+    {
+      "text": "@町知",
+      "confidence": 0.538,
+      "timestamp": 52.0
+    },
+    {
+      "text": "suKuNo",
+      "confidence": 0.405,
+      "timestamp": 54.0
+    },
+    {
+      "text": "comment",
+      "confidence": 0.99,
+      "timestamp": 62.0
+    },
+    {
+      "text": "tor more imfo",
+      "confidence": 0.618,
+      "timestamp": 62.0
+    }
+  ]
+}

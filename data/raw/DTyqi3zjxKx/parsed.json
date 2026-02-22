@@ -1,0 +1,501 @@
+{
+  "url": "https://instagram.com/p/DTyqi3zjxKx/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DTyqi3zjxKx/2026-01-21_23-48-56_UTC.mp4",
+  "caption": "So far my favorite meal in Japan and it could end up being the best meal of the entire trip!\n\nSumiyaki Unafuji\nMultiple locations throughout Japan\n\nUnagi is already one of my favorite Japanese dishes, and this is one of if not the best version of it I've ever had. Will absolutely go back and eat here again.\n\n#unagi #eel #japanesefood #japanfood #tokyo",
+  "transcript": "We're only three days into Japan, and this may already end up being the best meal of the trip. So this is Sumiyaki Unifuji, a restaurant with 14 locations across Japan that started 30 years ago in Nagoya and specializes in eel, specifically extra-large blue eels. I ordered their most famous dish, the Hitsumabushi, and what that means is the eel is cooked kabayaki style, where the eel is split open from the back, cleaned, butterflied, skewered, dipped once into their secret sauce, and then grilled over charcoal. The eel is cut into strips, placed over hot rice into a specific wood container, and it comes with clam soup, wasabi, spring onion, and dashi broth. It's designed to be eaten in three different ways. First, as is. Get some rice, some eel, and eat it how it comes. Secondly, put some wasabi and spring onion into the eel and rice, and eat it combined like that. And then third, ochizuke style, where you add the wasabi, spring onion, and then pour the dashi broth over it all. I enjoyed all three ways, but the first way, just as is, was my favorite. You can really taste not only the char from the grill, but the crispiness, the tenderness, and the fattiness of the eel, the secret sweet sauce also caramelizes from the charcoal, and because the eel is cut thinly, it almost feels like you're just popping pieces of the most luxurious eel candy into your mouth, and I'm just upset that I'm not eating it right now. We're so back.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 4.58,
+      "text": "We're only three days into Japan, and this may already end up being the best meal of the trip."
+    },
+    {
+      "start": 4.7,
+      "end": 9.38,
+      "text": "So this is Sumiyaki Unifuji, a restaurant with 14 locations across Japan that started 30 years"
+    },
+    {
+      "start": 9.38,
+      "end": 14.64,
+      "text": "ago in Nagoya and specializes in eel, specifically extra-large blue eels. I ordered their most famous"
+    },
+    {
+      "start": 14.64,
+      "end": 19.58,
+      "text": "dish, the Hitsumabushi, and what that means is the eel is cooked kabayaki style, where the eel is"
+    },
+    {
+      "start": 19.58,
+      "end": 24.04,
+      "text": "split open from the back, cleaned, butterflied, skewered, dipped once into their secret sauce,"
+    },
+    {
+      "start": 24.12,
+      "end": 28.64,
+      "text": "and then grilled over charcoal. The eel is cut into strips, placed over hot rice into a specific"
+    },
+    {
+      "start": 28.64,
+      "end": 33.52,
+      "text": "wood container, and it comes with clam soup, wasabi, spring onion, and dashi broth. It's designed to be"
+    },
+    {
+      "start": 33.52,
+      "end": 39.24,
+      "text": "eaten in three different ways. First, as is. Get some rice, some eel, and eat it how it comes. Secondly,"
+    },
+    {
+      "start": 39.42,
+      "end": 43.64,
+      "text": "put some wasabi and spring onion into the eel and rice, and eat it combined like that. And then third,"
+    },
+    {
+      "start": 43.82,
+      "end": 48.18,
+      "text": "ochizuke style, where you add the wasabi, spring onion, and then pour the dashi broth over it all."
+    },
+    {
+      "start": 48.26,
+      "end": 54.08,
+      "text": "I enjoyed all three ways, but the first way, just as is, was my favorite. You can really taste not only"
+    },
+    {
+      "start": 54.08,
+      "end": 58.66,
+      "text": "the char from the grill, but the crispiness, the tenderness, and the fattiness of the eel,"
+    },
+    {
+      "start": 58.8,
+      "end": 63.4,
+      "text": "the secret sweet sauce also caramelizes from the charcoal, and because the eel is cut thinly,"
+    },
+    {
+      "start": 63.54,
+      "end": 68.46,
+      "text": "it almost feels like you're just popping pieces of the most luxurious eel candy into your mouth,"
+    },
+    {
+      "start": 68.46,
+      "end": 72.54,
+      "text": "and I'm just upset that I'm not eating it right now. We're so back."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "WVereonlythreedaysinto",
+      "confidence": 0.49,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Japan",
+      "confidence": 0.749,
+      "timestamp": 0.0
+    },
+    {
+      "text": "andthismayalreadyendup",
+      "confidence": 1.0,
+      "timestamp": 1.97
+    },
+    {
+      "text": "beingthelbestmealofthe",
+      "confidence": 0.943,
+      "timestamp": 3.94
+    },
+    {
+      "text": "trip",
+      "confidence": 0.623,
+      "timestamp": 3.94
+    },
+    {
+      "text": "1",
+      "confidence": 0.413,
+      "timestamp": 5.91
+    },
+    {
+      "text": "sothis is SumiyakiUnafuj",
+      "confidence": 0.448,
+      "timestamp": 5.91
+    },
+    {
+      "text": "NSNU",
+      "confidence": 0.801,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Hitsumabushi",
+      "confidence": 0.997,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Hiisumabushi",
+      "confidence": 0.409,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Deluxo",
+      "confidence": 0.465,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Kimoiri Hitsumabushi",
+      "confidence": 0.725,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Deluxe",
+      "confidence": 0.959,
+      "timestamp": 7.87
+    },
+    {
+      "text": "川",
+      "confidence": 0.592,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Three Whole Unagi",
+      "confidence": 0.804,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Giant",
+      "confidence": 0.99,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Add-on mabushiser",
+      "confidence": 0.505,
+      "timestamp": 7.87
+    },
+    {
+      "text": "V6,150",
+      "confidence": 0.742,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Shirayaki Teishoku",
+      "confidence": 0.701,
+      "timestamp": 7.87
+    },
+    {
+      "text": "NagayakiTeishoku",
+      "confidence": 0.928,
+      "timestamp": 7.87
+    },
+    {
+      "text": "ーーー",
+      "confidence": 0.606,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Alacarte menu",
+      "confidence": 0.998,
+      "timestamp": 7.87
+    },
+    {
+      "text": "V1,780",
+      "confidence": 0.885,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Uzaku",
+      "confidence": 0.994,
+      "timestamp": 7.87
+    },
+    {
+      "text": "INagayaki",
+      "confidence": 0.724,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Kunsel",
+      "confidence": 0.998,
+      "timestamp": 7.87
+    },
+    {
+      "text": "V5,200",
+      "confidence": 0.907,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Unagino",
+      "confidence": 0.994,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Kimoyan",
+      "confidence": 0.979,
+      "timestamp": 7.87
+    },
+    {
+      "text": "V1",
+      "confidence": 0.494,
+      "timestamp": 7.87
+    },
+    {
+      "text": "across",
+      "confidence": 0.997,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Drink",
+      "confidence": 0.532,
+      "timestamp": 7.87
+    },
+    {
+      "text": "MENU",
+      "confidence": 0.9,
+      "timestamp": 7.87
+    },
+    {
+      "text": "Nagoya",
+      "confidence": 0.568,
+      "timestamp": 9.84
+    },
+    {
+      "text": "specifically extra large blue",
+      "confidence": 0.981,
+      "timestamp": 11.81
+    },
+    {
+      "text": "eels:",
+      "confidence": 0.518,
+      "timestamp": 11.81
+    },
+    {
+      "text": "@",
+      "confidence": 0.933,
+      "timestamp": 13.78
+    },
+    {
+      "text": "wheretheeelissplit",
+      "confidence": 1.0,
+      "timestamp": 19.69
+    },
+    {
+      "text": "一二",
+      "confidence": 0.488,
+      "timestamp": 19.69
+    },
+    {
+      "text": "cleaned,butterflied,skewered,",
+      "confidence": 0.913,
+      "timestamp": 21.65
+    },
+    {
+      "text": "dippedonceintotheirsecret",
+      "confidence": 1.0,
+      "timestamp": 23.62
+    },
+    {
+      "text": "sauce;",
+      "confidence": 0.907,
+      "timestamp": 23.62
+    },
+    {
+      "text": "Theeeliseutinto",
+      "confidence": 0.756,
+      "timestamp": 25.59
+    },
+    {
+      "text": "placed overhotrice",
+      "confidence": 0.7,
+      "timestamp": 25.59
+    },
+    {
+      "text": "strips;",
+      "confidence": 0.809,
+      "timestamp": 25.59
+    },
+    {
+      "text": "Theeelis cutimtostrips;",
+      "confidence": 0.591,
+      "timestamp": 27.56
+    },
+    {
+      "text": "anditcomes with clamsoup;",
+      "confidence": 0.862,
+      "timestamp": 29.53
+    },
+    {
+      "text": "wasabi",
+      "confidence": 0.999,
+      "timestamp": 29.53
+    },
+    {
+      "text": "TAMAGO",
+      "confidence": 0.756,
+      "timestamp": 31.5
+    },
+    {
+      "text": "『Es designedto beeaten",
+      "confidence": 0.515,
+      "timestamp": 33.47
+    },
+    {
+      "text": "First,asis;",
+      "confidence": 0.535,
+      "timestamp": 35.44
+    },
+    {
+      "text": "somericesomme eel,and",
+      "confidence": 0.837,
+      "timestamp": 37.4
+    },
+    {
+      "text": "get",
+      "confidence": 0.838,
+      "timestamp": 37.4
+    },
+    {
+      "text": "Secondlyiputsomewasabi",
+      "confidence": 0.544,
+      "timestamp": 39.37
+    },
+    {
+      "text": "andrice,andeatitcombimed",
+      "confidence": 0.803,
+      "timestamp": 41.34
+    },
+    {
+      "text": "like that",
+      "confidence": 0.822,
+      "timestamp": 41.34
+    },
+    {
+      "text": "Andthenthirdyochazuke",
+      "confidence": 0.939,
+      "timestamp": 43.31
+    },
+    {
+      "text": "style;",
+      "confidence": 0.61,
+      "timestamp": 43.31
+    },
+    {
+      "text": "whereyouaddthewasabi",
+      "confidence": 0.75,
+      "timestamp": 45.28
+    },
+    {
+      "text": "springonion;",
+      "confidence": 0.912,
+      "timestamp": 45.28
+    },
+    {
+      "text": "the dashilbrothoveritall",
+      "confidence": 0.629,
+      "timestamp": 47.25
+    },
+    {
+      "text": "lenjoyedallthreeways;",
+      "confidence": 0.734,
+      "timestamp": 49.22
+    },
+    {
+      "text": "justasis,was myfavorite",
+      "confidence": 0.97,
+      "timestamp": 51.18
+    },
+    {
+      "text": "DlDN'TTAKE THATMUCH",
+      "confidence": 0.585,
+      "timestamp": 53.15
+    },
+    {
+      "text": "FOTAGELOL,THANKSFOR",
+      "confidence": 0.685,
+      "timestamp": 53.15
+    },
+    {
+      "text": "STILL STICKNG AROUND FOR",
+      "confidence": 0.479,
+      "timestamp": 53.15
+    },
+    {
+      "text": "THOSE WHO ARE STILL WATCHING",
+      "confidence": 0.591,
+      "timestamp": 53.15
+    },
+    {
+      "text": "You canreallyEaste",
+      "confidence": 0.59,
+      "timestamp": 53.15
+    },
+    {
+      "text": "STILL STICKINB AROUND FDR",
+      "confidence": 0.402,
+      "timestamp": 55.12
+    },
+    {
+      "text": "butthe crispinessthe",
+      "confidence": 0.954,
+      "timestamp": 55.12
+    },
+    {
+      "text": "tenderness",
+      "confidence": 0.997,
+      "timestamp": 55.12
+    },
+    {
+      "text": "butthe crispiness,the",
+      "confidence": 0.983,
+      "timestamp": 57.09
+    },
+    {
+      "text": "tenderness;",
+      "confidence": 0.66,
+      "timestamp": 57.09
+    },
+    {
+      "text": "thesecretsweetsauce",
+      "confidence": 0.845,
+      "timestamp": 59.06
+    },
+    {
+      "text": "also caramelizesfromthe",
+      "confidence": 0.941,
+      "timestamp": 61.03
+    },
+    {
+      "text": "charcoal",
+      "confidence": 1.0,
+      "timestamp": 61.03
+    },
+    {
+      "text": "WHYDlD",
+      "confidence": 0.694,
+      "timestamp": 63.0
+    },
+    {
+      "text": "TMLKSOMUCH",
+      "confidence": 0.568,
+      "timestamp": 63.0
+    },
+    {
+      "text": "andbecausetheeeliscut",
+      "confidence": 0.921,
+      "timestamp": 63.0
+    },
+    {
+      "text": "thinly;",
+      "confidence": 0.435,
+      "timestamp": 63.0
+    },
+    {
+      "text": "justpoppig",
+      "confidence": 0.899,
+      "timestamp": 64.96
+    },
+    {
+      "text": "thatmnot",
+      "confidence": 0.997,
+      "timestamp": 70.87
+    },
+    {
+      "text": "now",
+      "confidence": 0.951,
+      "timestamp": 70.87
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "url": "https://instagram.com/p/C3A3r3UoEXi/",
+  "video_path": "/Users/bherms/src/japan/data/raw/C3A3r3UoEXi/2024-02-06_16-59-34_UTC.mp4",
+  "caption": "Best of Japan in 14 days 🗺️ This itinerary is somewhat fast-paced, if you prefer to travel slower then consider staying longer at some of these destinations! I did this itinerary in spring, but I had 21 days so I added 5 days in Shikoku and stayed longer in Okayama.\n\nI always get asked about 14 day itineraries but I find them so hard as I want to keep them diverse but also make sense in terms of travel times / not going back and forth too much. With this itinerary I feel like you get many must-sees as well as less traveled places such as Uji ☺️\n\nIf you're wondering \"Where's Osaka?\" I have personal beef with Osaka 💀",
+  "transcript": "君にもう一度出会える奇跡をここに お願いしようなんて考えたけれど それはきっと無理だって僕はもうすでに 君のこと見つけた時見つかっちゃったから",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 7.82,
+      "text": "君にもう一度出会える奇跡をここに"
+    },
+    {
+      "start": 7.82,
+      "end": 13.88,
+      "text": "お願いしようなんて考えたけれど"
+    },
+    {
+      "start": 13.88,
+      "end": 20.56,
+      "text": "それはきっと無理だって僕はもうすでに"
+    },
+    {
+      "start": 20.56,
+      "end": 25.82,
+      "text": "君のこと見つけた時見つかっちゃったから"
+    }
+  ],
+  "detected_language": "ja",
+  "onscreen_texts": [
+    {
+      "text": "14DAYSINJAPAN",
+      "confidence": 0.976,
+      "timestamp": 0.0
+    },
+    {
+      "text": "14 DAYSINJAPAN",
+      "confidence": 0.815,
+      "timestamp": 2.0
+    },
+    {
+      "text": "FIRSTTINIE",
+      "confidence": 0.422,
+      "timestamp": 2.0
+    },
+    {
+      "text": "がき",
+      "confidence": 0.428,
+      "timestamp": 4.0
+    },
+    {
+      "text": "TOKO",
+      "confidence": 0.655,
+      "timestamp": 4.0
+    },
+    {
+      "text": "DAY4",
+      "confidence": 0.978,
+      "timestamp": 6.0
+    },
+    {
+      "text": "DAYTRIP",
+      "confidence": 0.992,
+      "timestamp": 6.0
+    },
+    {
+      "text": "NIKKO",
+      "confidence": 0.97,
+      "timestamp": 6.0
+    },
+    {
+      "text": "DAY5",
+      "confidence": 0.935,
+      "timestamp": 8.0
+    },
+    {
+      "text": "8 ENOSIIVIA",
+      "confidence": 0.542,
+      "timestamp": 8.0
+    },
+    {
+      "text": "KYOTO",
+      "confidence": 0.9,
+      "timestamp": 10.0
+    },
+    {
+      "text": "DAY6-8",
+      "confidence": 0.698,
+      "timestamp": 10.0
+    },
+    {
+      "text": "1",
+      "confidence": 0.95,
+      "timestamp": 12.0
+    },
+    {
+      "text": "DAY9",
+      "confidence": 0.802,
+      "timestamp": 14.0
+    },
+    {
+      "text": "NARAこ",
+      "confidence": 0.612,
+      "timestamp": 14.0
+    },
+    {
+      "text": "DAYIO",
+      "confidence": 0.598,
+      "timestamp": 16.0
+    },
+    {
+      "text": "UJ",
+      "confidence": 0.591,
+      "timestamp": 16.0
+    },
+    {
+      "text": "KURASHIKI",
+      "confidence": 0.791,
+      "timestamp": 18.0
+    },
+    {
+      "text": "DAYI",
+      "confidence": 0.945,
+      "timestamp": 20.0
+    },
+    {
+      "text": "VIAIIIIIEJI",
+      "confidence": 0.625,
+      "timestamp": 20.0
+    },
+    {
+      "text": "KCRASIKI",
+      "confidence": 0.532,
+      "timestamp": 20.0
+    },
+    {
+      "text": "D12",
+      "confidence": 0.732,
+      "timestamp": 22.0
+    },
+    {
+      "text": "VIA HIROSHIMIA",
+      "confidence": 0.456,
+      "timestamp": 22.0
+    },
+    {
+      "text": "DAY13-14",
+      "confidence": 0.962,
+      "timestamp": 24.0
+    },
+    {
+      "text": "BACKToToKyo VIA",
+      "confidence": 0.626,
+      "timestamp": 24.0
+    },
+    {
+      "text": "MTFUJ",
+      "confidence": 0.479,
+      "timestamp": 24.0
+    }
+  ]
+}

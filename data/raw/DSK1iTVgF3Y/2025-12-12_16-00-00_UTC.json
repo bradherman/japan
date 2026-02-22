@@ -1,0 +1,438 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.15"
+    },
+    "node": {
+        "__isXDTGraphMediaInterface": "XDTGraphVideo",
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "can_see_insights_as_brand": false,
+        "caption_is_edited": false,
+        "clips_music_attribution_info": {
+            "artist_name": "argenby",
+            "audio_id": "553812006758260",
+            "should_mute_audio": false,
+            "should_mute_audio_reason": "",
+            "song_name": "Original audio",
+            "uses_original_audio": true
+        },
+        "coauthor_producers": [],
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 1136,
+            "width": 640
+        },
+        "display_resources": [
+            {
+                "config_height": 1136,
+                "config_width": 640,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/589429134_1522866905595122_2805033798790481741_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=wPQayL40dsgQ7kNvwEk9bDr&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvyKWqctA-cKFOm2GT-QpzzRIuHohtXsGv6q9xNynEuFQ&oe=69A0015E&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1331,
+                "config_width": 750,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/589429134_1522866905595122_2805033798790481741_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=wPQayL40dsgQ7kNvwEk9bDr&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvyKWqctA-cKFOm2GT-QpzzRIuHohtXsGv6q9xNynEuFQ&oe=69A0015E&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1917,
+                "config_width": 1080,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/589429134_1522866905595122_2805033798790481741_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=wPQayL40dsgQ7kNvwEk9bDr&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvyKWqctA-cKFOm2GT-QpzzRIuHohtXsGv6q9xNynEuFQ&oe=69A0015E&_nc_sid=d885a2"
+            }
+        ],
+        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/589429134_1522866905595122_2805033798790481741_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=wPQayL40dsgQ7kNvwEk9bDr&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvyKWqctA-cKFOm2GT-QpzzRIuHohtXsGv6q9xNynEuFQ&oe=69A0015E&_nc_sid=d885a2",
+        "edge_media_preview_comment": {
+            "count": 227,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1771627517,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18536133430070724",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "67638688334",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/470274169_1769564687161980_7878787008931848869_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=E7qFRRgp3HkQ7kNvwFysgDv&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfspBFNQZV6XR24OPt2HP7B99jjBIOulJ2VgRg682mp1xA&oe=69A028A1&_nc_sid=d885a2",
+                            "username": "upscaleadventurers"
+                        },
+                        "text": "@arini.roamy \u2764\ufe0f\u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771703982,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18407219185134036",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "78835412456",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/601027879_17845528857628457_7577923579046591526_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=-GuyYc8yW1AQ7kNvwFt2PRr&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft_96DhgWixYkxfao_7ARZOB4Cu9F_j66WniObPg9OaXA&oe=69A012AB&_nc_sid=d885a2",
+                            "username": "transplant_man"
+                        },
+                        "text": "The crowds were insane when I went",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 25811,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "created_at": "1765555205",
+                        "id": "18027706736579840",
+                        "text": "\ud83c\udf8b SAVE the details\ud83d\udc47\ud83c\udffc\n\n\u2728\u2728 Follow @upscaleadventurers for bucket list travel inspo! \u2728\u2728 \n\nAll the details \ud83d\udc47\nPlanning a trip to Japan and dreaming of wandering through Kyoto\u2019s iconic bamboo forests? \ud83c\udf3f Here\u2019s the difference between the famous one you\u2019ve seen all over IG\u2026 and the peaceful one just a short walk away.\n\n\u2728 The Reveal:\nThat quiet, empty bamboo path you saw in our reel? It wasn\u2019t Arashiyama\u2026 it was Adashino Bamboo Forest, only a 20-minute walk from the crowds.\n\nIf you want those serene, no-one-else-in-your-shot bamboo photos, head to Adashino right at opening (or a little before!).\n\n\ud83c\udf8b Arashiyama Bamboo Grove (Kyoto\u2019s most famous bamboo forest)\n\u2013 Hours: Open 24/7\n\u2013 Cost: Free\n\u2013 Best for: Iconic Kyoto experience, easy access, nearby shops + Tenryu-ji Temple\n\u2013 What to know: Always busy, especially from 8\u201311 am; trains drop visitors right into the district\n\u2013 Photo tip: Sunrise is your best chance for fewer crowds, but it\u2019s rarely empty\n\n\ud83c\udf8d Adashino Bamboo Forest (the peaceful alternative 20 min away)\n\u2013 Hours: 9:00\u201316:00 (varies slightly by season)\n\u2013 Cost: ~\u00a5500 per person\n\u2013 Best for: Quiet paths, no crowds, beautiful light through the bamboo\n\u2013 What to know: Located within Adashino Nenbutsu-ji Temple grounds, closes early, fewer tour groups\n\u2013 Photo tip: Arrive at or before opening for dreamy, empty-path photos \u2014 this is the secret to crowd-free bamboo shots\n\nIf Japan is on your bucket list, save this for your Kyoto itinerary \ud83d\uddfa\ufe0f\ud83c\uddef\ud83c\uddf5\n\n#KyotoJapan #KyotoItinerary #JapanTravelTips VisitJapan KyotoBambooForest Arashiyama AdashinoBambooForest AdventureCouples TravelCouples AsiaTravelGuide"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 227,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1771703982,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18407219185134036",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "78835412456",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/601027879_17845528857628457_7577923579046591526_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=-GuyYc8yW1AQ7kNvwFt2PRr&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft_96DhgWixYkxfao_7ARZOB4Cu9F_j66WniObPg9OaXA&oe=69A012AB&_nc_sid=d885a2",
+                            "username": "transplant_man"
+                        },
+                        "text": "The crowds were insane when I went",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771618273,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18074348816624680",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "76676983854",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/540701845_17845392912559855_314623920684793722_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=K4vC3bY3Y3EQ7kNvwGLpilX&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afv0IbA-GPNabKoly8_a4DGZg9PqPZuzW_OMBgS4jlVy2A&oe=699FFA72&_nc_sid=d885a2",
+                            "username": "gvasesoriaviajes"
+                        },
+                        "text": "If you go early in the morning  you can take pictures alone and then go into the temple nearby \ud83d\ude4c",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771564646,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1771627517,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18536133430070724",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "67638688334",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/470274169_1769564687161980_7878787008931848869_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=E7qFRRgp3HkQ7kNvwFysgDv&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfspBFNQZV6XR24OPt2HP7B99jjBIOulJ2VgRg682mp1xA&oe=69A028A1&_nc_sid=d885a2",
+                                            "username": "upscaleadventurers"
+                                        },
+                                        "text": "@arini.roamy \u2764\ufe0f\u2764\ufe0f",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18563983813009222",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "80534312950",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/627382129_17846872539680951_7870656241461242062_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=vJd_yxDXGdcQ7kNvwGmdseZ&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftXULcv-dNrDU-Nk5wcBUOG9878YYAVGwGhUwCT7f9bDQ&oe=69A01F29&_nc_sid=d885a2",
+                            "username": "arini.roamy"
+                        },
+                        "text": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771546534,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1771627444,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18095017037050766",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "67638688334",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/470274169_1769564687161980_7878787008931848869_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=E7qFRRgp3HkQ7kNvwFysgDv&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfspBFNQZV6XR24OPt2HP7B99jjBIOulJ2VgRg682mp1xA&oe=69A028A1&_nc_sid=d885a2",
+                                            "username": "upscaleadventurers"
+                                        },
+                                        "text": "@bluelily17 it may be helpful to go very early too! Hope you all enjoy!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17928943953055771",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1823892",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/446935229_1581783032366399_8194277675741046626_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=ZTCzi7XztiIQ7kNvwECuopv&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu9GNe5xPW95G3ajgOG0fmJ8UHP-1U91vBbiuApkExkvA&oe=699FFCBB&_nc_sid=d885a2",
+                            "username": "bluelily17"
+                        },
+                        "text": "Hmm I have an anxious family member that may appreciate the other one",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771517962,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 5
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1771518334,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17928928641054067",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "67638688334",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/470274169_1769564687161980_7878787008931848869_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=E7qFRRgp3HkQ7kNvwFysgDv&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfspBFNQZV6XR24OPt2HP7B99jjBIOulJ2VgRg682mp1xA&oe=69A028A1&_nc_sid=d885a2",
+                                            "username": "upscaleadventurers"
+                                        },
+                                        "text": "@breannastockholm thank you for sharing \u2764\ufe0f we got lucky and it was this empty for us!!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17912630295146010",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "3039445207",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/445387881_445489758077083_2299083768654279838_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=yPgpP_D9MnAQ7kNvwExHLl1&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvgWdT0HwpLzAgSs-TnJZyd5WzrzQkZ0z6Qdc6VEUE1dg&oe=69A02BA1&_nc_sid=d885a2",
+                            "username": "breannastockholm"
+                        },
+                        "text": "For those womdering: it is not actually that empty but much better than the larger forest. It is also a much smaller section of bamboo. BUT the temple there is beautiful and there is a cafe right at the bottom of the entrance with great tea and coffee and a wonderful shop owner. And if you walk back into the main area of arashiyama, you will pass a lot of local shops with handmade goods. You will also see signs for cocoon art, definitely go up the steps into the shop. Some of the most unique souvenirs you could buy.",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "{\"server_cursor\": \"QVFCX3BwU25YT0tNYjA3eTRRdWF2d01WblBJWENubGVqQjhSY01xUEprOS1IYUN6bHU3em80NXRtc181Y2huMnRKcTBkUGQ3anR5Nl9wWVZXN2txRmZoZg==\", \"is_server_cursor_inverse\": true}",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "3786073890447449560@37093274182",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "Japan \u65e5\u672c \ud83c\uddef\ud83c\uddf5 Asia Travel | Hotels | Food | Tips",
+                            "id": "37093274182",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/542757457_18069019067234183_2236430607536670317_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTEuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=IU2PLth_yg4Q7kNvwFg47B2&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuMBmN1Ms2pbpKQe0lJawxqW_U-1wmhbThFTD2R7M4cbQ&oe=699FFF5A&_nc_sid=d885a2",
+                            "username": "japan.explores"
+                        },
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3786073890447449560@6062709306",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "Visit Japan International",
+                            "id": "6062709306",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/22157766_901791229969876_1515675962845429760_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=eVlmW9dmTmwQ7kNvwGVH7xj&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvVwOSm2iMu0hN-yLgLiq5IqlYsj8TIraI_mB59RBpxbQ&oe=69A020D0&_nc_sid=d885a2",
+                            "username": "visitjapanjp"
+                        },
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3786073890447449560@3225768660",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "City of Kyoto Official Account",
+                            "id": "3225768660",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/125101954_3811677422199500_1975049262510578167_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTIuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=vwg-keJAWkQQ7kNvwG2fGsv&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftbOlwViQ1HLCDnsTdw-WlhBwpLYiGiS6MMteaH6z2Prg&oe=69A01EC9&_nc_sid=d885a2",
+                            "username": "visit_kyoto"
+                        },
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_ranked_comments": false,
+        "id": "3786073890447449560",
+        "is_ad": false,
+        "is_affiliate": false,
+        "is_paid_partnership": false,
+        "is_published": true,
+        "is_video": true,
+        "like_and_view_counts_disabled": false,
+        "location": {
+            "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Kawasaki-shi, Kanagawa, Japan\", \"region_name\": \"\", \"country_code\": \"\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}",
+            "has_public_page": true,
+            "id": "423759364",
+            "name": "Kyoto, Japan",
+            "slug": "kyoto-japan"
+        },
+        "media_overlay_info": null,
+        "media_preview": "ABgq0VHOB09/8/jUYRvzPqP8adGdzFexoV1PXPf/AD1rn5YvVvUBGUr9KKR3yMDgUU9AIhIEO7Oe3Hr6fWgMu4qThsHj/PHSswSkfielPeQsfcZ5788frTtqdCpN7WuXjmNfnIHXoc9D6/lRTIQwi+cc8gZ7Z70UnpuZFGcEMM/eI5x69KcwII9cCiT/AFn4j+lbEajOcDPHNaN9fU3g+Rp7+7sQM7Mg9hz/AJ+tFNPQ/U/zoojFS3RzybT0P//Z",
+        "nft_asset_info": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 105114
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 266
+            },
+            "followed_by_viewer": false,
+            "full_name": "KRISTIN + DAVID | \ud83e\udd7e Outdoorsy World Travel + Hiking",
+            "has_blocked_viewer": false,
+            "id": "67638688334",
+            "is_embeds_disabled": false,
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": true,
+            "pass_tiering_recommendation": true,
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/470274169_1769564687161980_7878787008931848869_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=E7qFRRgp3HkQ7kNvwFysgDv&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfspBFNQZV6XR24OPt2HP7B99jjBIOulJ2VgRg682mp1xA&oe=69A028A1&_nc_sid=d885a2",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "username": "upscaleadventurers"
+        },
+        "pinned_for_users": [],
+        "product_type": "clips",
+        "sensitivity_friction_info": null,
+        "sharing_friction_info": {
+            "bloks_app_url": null,
+            "should_have_sharing_friction": false
+        },
+        "shortcode": "DSK1iTVgF3Y",
+        "taken_at_timestamp": 1765555200,
+        "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/589429134_1522866905595122_2805033798790481741_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QF5Lp7NJcvbkUK49ndhMf2uqjLKkh00YBKYDnZ3lVhOgO3Y72ORRFR273KXiO3W-VA&_nc_ohc=wPQayL40dsgQ7kNvwEk9bDr&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs5f3j2NRILoqLXTb43ye_r37KB3KPnQPsvJ6BvXyD6qw&oe=69A0015E&_nc_sid=d885a2",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYTI3NmZiMWVlOTZiNDUzYThkMDViYmFhOTIxMjdiN2QzNzg2MDczODkwNDQ3NDQ5NTYwIn0sInNpZ25hdHVyZSI6IiJ9",
+        "upcoming_event": null,
+        "video_duration": 12.666,
+        "video_play_count": 1689451,
+        "video_url": "https://scontent-sjc6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMtNBRwIHD7LZVSxbLglKQtfFgq-32ZdTYg7-GDdiFsV4WwGdnrB4Dx5s4n0W7Q6D2a9obCRPL7EZAbVHh5WoObiD1g2-FbxfDuboU.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_ohc=7j5mRY_U3uQQ7kNvwHCJO36&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6Mjk3NzcxMDk0OTA5MzUxNiwiYXNzZXRfYWdlX2RheXMiOjcxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=hXEaYwqxBjgG3p7aOFIuFg&_nc_zt=28&vs=e4c5164782ef623c&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MTQwRkYwRUM0MjEwRDY0MEU0RjFCOEY4QjFGNTE5RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSy1Sb2lPM0ZwLVRPNkVKQUF4YTVPSml2M015YnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmmMLqtcuNygoVAigCQzMsF0ApVP3ztkWiGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_Afvqkkgkp8Wh4YXc8mH4cXjrWKSWZYDIVkGaTtxzfb7Cow&oe=699C014E",
+        "video_view_count": 848829,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

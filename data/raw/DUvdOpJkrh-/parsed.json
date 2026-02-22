@@ -1,0 +1,236 @@
+{
+  "url": "https://instagram.com/p/DUvdOpJkrh-/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DUvdOpJkrh-/2026-02-14_14-23-27_UTC.mp4",
+  "caption": "One of my favorite hidden yakitori spots in Shinjuku—so good.\n\n【Michishirube】Shinjuku, Tokyo\n📍 1-3-7 Kabukicho, Shinjuku-ku, Tokyo\n\nMore Tokyo info → @mr.tokyo.adventures\n\n#tokyotravel #visittokyo\n#tokyofoodie #yakitori #tokyofoodie",
+  "transcript": "Today, I'm gonna show you the best Hiden Yakitori in Shinjuku, which is hard for tourists to find. Let's go! This is a Hiden Yakitori spot, tucked away in the backstreet of Shinjuku. The cozy homie vibe makes me feel super welcoming. And the yakitori here, it's on a whole new level. Every skewer is incredibly delicious and pairs perfectly with a cold beer. It's hard to believe, this amazing yakitori is only 200 yen per skewer. Once you try it, you won't be able to go back to regular yakitori. And the ramen here is seriously good too. The chewy noodle combined with a rich soy-based broth are absolutely perfect. This place is called Michishilbe. For me, this is the best spot in Shinjuku. You've gotta check it out.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Today, I'm gonna show you the best Hiden Yakitori in Shinjuku, which is hard for tourists to find."
+    },
+    {
+      "start": 5.54,
+      "end": 6.2,
+      "text": "Let's go!"
+    },
+    {
+      "start": 6.42,
+      "end": 10.02,
+      "text": "This is a Hiden Yakitori spot, tucked away in the backstreet of Shinjuku."
+    },
+    {
+      "start": 10.16,
+      "end": 12.94,
+      "text": "The cozy homie vibe makes me feel super welcoming."
+    },
+    {
+      "start": 13.14,
+      "end": 15.64,
+      "text": "And the yakitori here, it's on a whole new level."
+    },
+    {
+      "start": 15.78,
+      "end": 19.58,
+      "text": "Every skewer is incredibly delicious and pairs perfectly with a cold beer."
+    },
+    {
+      "start": 19.72,
+      "end": 24.02,
+      "text": "It's hard to believe, this amazing yakitori is only 200 yen per skewer."
+    },
+    {
+      "start": 24.12,
+      "end": 27.26,
+      "text": "Once you try it, you won't be able to go back to regular yakitori."
+    },
+    {
+      "start": 27.26,
+      "end": 29.58,
+      "text": "And the ramen here is seriously good too."
+    },
+    {
+      "start": 29.58,
+      "end": 33.78,
+      "text": "The chewy noodle combined with a rich soy-based broth are absolutely perfect."
+    },
+    {
+      "start": 33.9,
+      "end": 35.6,
+      "text": "This place is called Michishilbe."
+    },
+    {
+      "start": 35.78,
+      "end": 38.1,
+      "text": "For me, this is the best spot in Shinjuku."
+    },
+    {
+      "start": 38.22,
+      "end": 39.18,
+      "text": "You've gotta check it out."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "placeis called",
+      "confidence": 1.0,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Michishirube",
+      "confidence": 1.0,
+      "timestamp": 0.0
+    },
+    {
+      "text": "This isa hidden",
+      "confidence": 0.709,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Yakitorispot",
+      "confidence": 0.751,
+      "timestamp": 8.0
+    },
+    {
+      "text": "tuckedawayinthe",
+      "confidence": 1.0,
+      "timestamp": 10.0
+    },
+    {
+      "text": "backstreetofshinjuku",
+      "confidence": 0.901,
+      "timestamp": 10.0
+    },
+    {
+      "text": "The cozy;homeyvibe makesit",
+      "confidence": 0.747,
+      "timestamp": 12.0
+    },
+    {
+      "text": "feelsuperwelcoming",
+      "confidence": 0.898,
+      "timestamp": 12.0
+    },
+    {
+      "text": "Andthe Yakitorihere;",
+      "confidence": 0.84,
+      "timestamp": 14.0
+    },
+    {
+      "text": "itgonawhole newlevel",
+      "confidence": 0.981,
+      "timestamp": 14.0
+    },
+    {
+      "text": "Everyskewersig『ncredibly",
+      "confidence": 0.841,
+      "timestamp": 16.0
+    },
+    {
+      "text": "delicious and",
+      "confidence": 0.713,
+      "timestamp": 16.0
+    },
+    {
+      "text": "pairs",
+      "confidence": 1.0,
+      "timestamp": 16.0
+    },
+    {
+      "text": "Everyskewersisincredibly",
+      "confidence": 0.606,
+      "timestamp": 18.0
+    },
+    {
+      "text": "deliciousandpau",
+      "confidence": 0.517,
+      "timestamp": 18.0
+    },
+    {
+      "text": "thisamazing Yakitoriis only",
+      "confidence": 0.903,
+      "timestamp": 22.0
+    },
+    {
+      "text": "ZOOyenperskewer",
+      "confidence": 0.874,
+      "timestamp": 22.0
+    },
+    {
+      "text": "this amazing Yakitoriis only",
+      "confidence": 0.741,
+      "timestamp": 24.0
+    },
+    {
+      "text": "youwonttbeable togo back",
+      "confidence": 0.835,
+      "timestamp": 26.0
+    },
+    {
+      "text": "to",
+      "confidence": 0.793,
+      "timestamp": 26.0
+    },
+    {
+      "text": "regular Yakitori",
+      "confidence": 0.956,
+      "timestamp": 26.0
+    },
+    {
+      "text": "andtheramenhereis",
+      "confidence": 0.922,
+      "timestamp": 28.0
+    },
+    {
+      "text": "seriously goodtoo",
+      "confidence": 0.762,
+      "timestamp": 28.0
+    },
+    {
+      "text": "The chewy noodlecombined",
+      "confidence": 0.745,
+      "timestamp": 30.0
+    },
+    {
+      "text": "D川",
+      "confidence": 0.534,
+      "timestamp": 30.0
+    },
+    {
+      "text": "The chewy noodle combined",
+      "confidence": 0.886,
+      "timestamp": 32.0
+    },
+    {
+      "text": "with the rich,soy-basedbroth",
+      "confidence": 0.781,
+      "timestamp": 32.0
+    },
+    {
+      "text": "This placeis called",
+      "confidence": 0.712,
+      "timestamp": 34.0
+    },
+    {
+      "text": "Michishirube\"",
+      "confidence": 0.711,
+      "timestamp": 34.0
+    },
+    {
+      "text": "Forme,this igthelestspot",
+      "confidence": 0.443,
+      "timestamp": 36.0
+    },
+    {
+      "text": "inshinjuku",
+      "confidence": 0.837,
+      "timestamp": 36.0
+    },
+    {
+      "text": "Forme,thisisthebestspot",
+      "confidence": 0.924,
+      "timestamp": 38.0
+    }
+  ]
+}

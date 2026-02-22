@@ -1,0 +1,56 @@
+{
+  "url": "https://instagram.com/p/C3yo8sGP24c/",
+  "video_path": "/Users/bherms/src/japan/data/raw/C3yo8sGP24c/2024-02-26_00-53-13_UTC.mp4",
+  "caption": "This Food Truck In Japan Serves Wagyu Beef Rib Bentos! 🍖\nFollow @hachikodistrict For More Japan Content 🇯🇵\n\n@slice_of_life_bbq Uses Ultra-Rare Kokusan Beef, A Premium Hybrid Of Native Wagyu And Holstein Cattle, (That’s Now Bred In Japan). They’re The Only Ones in The World to Serve These Types of Beef Ribs Texas BBQ-Style. Here’s The Catch: Only 40% Of The Raw Meat Makes The Cut Due To Parts of The Ribs With Excessive Marbling. Each Rib is Seasoned With A Secret Rub And Smoked For 12 Hours. Pair It With Their Homemade Green Chunky Vinaigrette For The Ultimate Combo. Served Over Rice, Right Outside Their Trendy Food Truck!\n\n📍Slice of Life, Omotesando, Tokyo\n\n*In Order To Reserve A Kokusan Beef Rib, Slice Of Life Will Announce On Their Instagram When They Will Be Smoking Their Next Batch Of Ribs. Please DM Them Directly With The Amount (In Grams) You Would Like. One Beef Rib Size is Between 250-1000 Grams. On The Designated Date, Your Beef Ribs Will Be Waiting For You At Their Location In Omotesando!\n\n#BBQ #Omotesando #Wagyu #Streetfood #HachikoDistrict #JapanTravel",
+  "transcript": "This ain't Texas, ain't no hold'em, so lay your cards down, down, down, down So park your Lexus and throw your keys up, stick around, round, round, round, round And I'll be damned if I can't slow dance with you, come throw some sugar on me honey too It's a real live boogie and a real live hold'em, don't be a, come take it to the floor now There's a tornado in my city",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 8.64,
+      "text": "This ain't Texas, ain't no hold'em, so lay your cards down, down, down, down"
+    },
+    {
+      "start": 8.64,
+      "end": 17.36,
+      "text": "So park your Lexus and throw your keys up, stick around, round, round, round, round"
+    },
+    {
+      "start": 17.36,
+      "end": 23.0,
+      "text": "And I'll be damned if I can't slow dance with you, come throw some sugar on me honey too"
+    },
+    {
+      "start": 23.0,
+      "end": 27.74,
+      "text": "It's a real live boogie and a real live hold'em, don't be a, come take it to the floor now"
+    },
+    {
+      "start": 27.74,
+      "end": 32.56,
+      "text": "There's a tornado in my city"
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "WAGYUBEEF RIB BENTO",
+      "confidence": 0.881,
+      "timestamp": 0.0
+    },
+    {
+      "text": "WAGYU BEEF RIB BENTO",
+      "confidence": 0.432,
+      "timestamp": 1.97
+    },
+    {
+      "text": "WAGYU BEEFRIB BENTO",
+      "confidence": 0.842,
+      "timestamp": 21.65
+    },
+    {
+      "text": "WAGYUBEE RIB BENTO",
+      "confidence": 0.669,
+      "timestamp": 25.59
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "url": "https://instagram.com/p/DTqIcR3gVbi/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DTqIcR3gVbi/2026-01-18_16-13-29_UTC.mp4",
+  "caption": "A fairy-tale cave bar near Tokyo ✨🕯️🍹\n\nThis spot just turned one and came highly recommended by my local friend. The cave-like interiors, warm glow and curved walls make the whole space feel super cozy. The cocktails are beautiful and creative, with subtle colors, a little shimmer, and really balanced flavors! Met Futa, Kaede and Hirose behind the bar—all super fun, nice, and easy to chat with. Such a great spot to end the night!!\n📍 Bar Now (Kawasaki)\n🗺️ Japan, 〒210-0005 Kanagawa, Kawasaki, Kawasaki Ward, Higashidacho, 4-3 ＳＳＢ川崎ビル 2F\n.\n#tokyo #japan #bar #cocktails #japantrip",
+  "transcript": "Thank you.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 29.98,
+      "text": "Thank you."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "A",
+      "confidence": 0.991,
+      "timestamp": 0.0
+    },
+    {
+      "text": "fairy-talecavebar",
+      "confidence": 0.998,
+      "timestamp": 0.0
+    },
+    {
+      "text": "near",
+      "confidence": 0.839,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Tokyo",
+      "confidence": 1.0,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Afairy-talecavebar",
+      "confidence": 0.992,
+      "timestamp": 2.0
+    },
+    {
+      "text": "Warmglow",
+      "confidence": 0.926,
+      "timestamp": 4.0
+    },
+    {
+      "text": "curvedwalls",
+      "confidence": 0.91,
+      "timestamp": 4.0
+    },
+    {
+      "text": "Pretty;",
+      "confidence": 0.46,
+      "timestamp": 6.0
+    },
+    {
+      "text": "creativecocktails",
+      "confidence": 0.816,
+      "timestamp": 6.0
+    },
+    {
+      "text": "Cocktails",
+      "confidence": 0.996,
+      "timestamp": 8.0
+    },
+    {
+      "text": "(810-22)",
+      "confidence": 0.722,
+      "timestamp": 8.0
+    },
+    {
+      "text": "11,500-43300",
+      "confidence": 0.526,
+      "timestamp": 10.0
+    },
+    {
+      "text": "BarNow",
+      "confidence": 0.987,
+      "timestamp": 12.0
+    }
+  ]
+}

@@ -7,12 +7,21 @@ Usage:
     python scripts/process_reel.py https://www.instagram.com/reel/ABC123/
 """
 
+from __future__ import annotations
+
 import json
 import os
 import re
 import sys
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
+
+# Fix SSL certificate verification on macOS
+try:
+    import certifi
+    os.environ.setdefault("SSL_CERT_FILE", certifi.where())
+except ImportError:
+    pass
 
 import cv2
 import easyocr
@@ -230,8 +239,12 @@ def process_reel(url: str, output_dir: str = "data/raw", force: bool = False) ->
         print(f"  Transcript: {result.transcript[:120]}...")
 
     print(f"[3/3] Extracting on-screen text (OCR)...")
-    result.onscreen_texts = extract_onscreen_text(result.video_path)
-    print(f"  Found {len(result.onscreen_texts)} unique text elements")
+    try:
+        result.onscreen_texts = extract_onscreen_text(result.video_path)
+        print(f"  Found {len(result.onscreen_texts)} unique text elements")
+    except Exception as e:
+        print(f"  OCR failed (non-fatal): {e}")
+        result.onscreen_texts = []
 
     # Save results as JSON
     with open(parsed_path, "w", encoding="utf-8") as f:

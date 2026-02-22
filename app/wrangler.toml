@@ -1,0 +1,10 @@
+name = "japan-trip"
+compatibility_date = "2024-12-01"
+pages_build_output_dir = "dist"
+
+[[kv_namespaces]]
+binding = "TRIP_KV"
+id = "1da27038ec5b432a8d3ff227cceeb07d"
+
+# Environment variables set via: wrangler pages secret put <NAME>
+# Required secrets: BASIC_AUTH_PASS, ADMIN_USERS, VIEWER_USERS, ANTHROPIC_API_KEY

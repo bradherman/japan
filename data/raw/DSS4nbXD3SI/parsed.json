@@ -1,0 +1,376 @@
+{
+  "url": "https://instagram.com/p/DSS4nbXD3SI/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DSS4nbXD3SI/2025-12-15_19-00-00_UTC.mp4",
+  "caption": "#japan #japanese #injapan #japonia #fyp",
+  "transcript": "I'm going to go to Shizuoka. What?! Hey, you are going to Shizuoka? Yeah, I think Shizuoka is one of the best towns in Japan. Like Lake Kawaguchi or Hakone? No, no. I know a better place. Just follow me. If you're taking the Shinkansen from Tokyo to Kyoto, Shizuoka is one stop you'll actually want to get off at. Just one bus ride from Shizuoka Station in Hondaira is a hidden gem where the essence of Japan comes alive. Sweeping tea fields, Shinizu port and Mt. Fuji all in one view. In the area, Maruichi Mizuno Tea Farm offers trust green tea tasting with Mt. Fuji in the background, plus hands-on tea picking in traditional attire. Also nearby, Kunouzan Toshogu Shrine preserves the timeless atmosphere of Old Japan and includes a Tokugawa Shogu stomp. If you are visiting Japan, don't miss this quietly spectacular corner of Shizuoka. Of Shizuoka.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 13.0,
+      "text": "I'm going to go to Shizuoka."
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "What?!"
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "Hey, you are going to Shizuoka?"
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "Yeah, I think Shizuoka is one of the best towns in Japan."
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "Like Lake Kawaguchi or Hakone?"
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": "No, no. I know a better place. Just follow me."
+    },
+    {
+      "start": 30.0,
+      "end": 38.0,
+      "text": "If you're taking the Shinkansen from Tokyo to Kyoto, Shizuoka is one stop you'll actually want to get off at."
+    },
+    {
+      "start": 38.0,
+      "end": 44.0,
+      "text": "Just one bus ride from Shizuoka Station in Hondaira is a hidden gem where the essence of Japan comes alive."
+    },
+    {
+      "start": 44.0,
+      "end": 49.0,
+      "text": "Sweeping tea fields, Shinizu port and Mt. Fuji all in one view."
+    },
+    {
+      "start": 49.0,
+      "end": 58.0,
+      "text": "In the area, Maruichi Mizuno Tea Farm offers trust green tea tasting with Mt. Fuji in the background, plus hands-on tea picking in traditional attire."
+    },
+    {
+      "start": 58.0,
+      "end": 66.0,
+      "text": "Also nearby, Kunouzan Toshogu Shrine preserves the timeless atmosphere of Old Japan and includes a Tokugawa Shogu stomp."
+    },
+    {
+      "start": 66.0,
+      "end": 70.0,
+      "text": "If you are visiting Japan, don't miss this quietly spectacular corner of Shizuoka."
+    },
+    {
+      "start": 70.0,
+      "end": 72.0,
+      "text": "Of Shizuoka."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "ぜひご覧ください !",
+      "confidence": 0.889,
+      "timestamp": 0.0
+    },
+    {
+      "text": "11",
+      "confidence": 1.0,
+      "timestamp": 2.0
+    },
+    {
+      "text": "C",
+      "confidence": 0.992,
+      "timestamp": 2.0
+    },
+    {
+      "text": "AB",
+      "confidence": 0.56,
+      "timestamp": 2.0
+    },
+    {
+      "text": "(Thistraingoeswest,so",
+      "confidence": 0.8,
+      "timestamp": 10.0
+    },
+    {
+      "text": "hesprobablygoingto",
+      "confidence": 0.998,
+      "timestamp": 10.0
+    },
+    {
+      "text": "KyotoorOsaka )",
+      "confidence": 0.733,
+      "timestamp": 10.0
+    },
+    {
+      "text": "KyotoorOsaka…)",
+      "confidence": 0.493,
+      "timestamp": 12.0
+    },
+    {
+      "text": "5",
+      "confidence": 0.983,
+      "timestamp": 16.0
+    },
+    {
+      "text": "09",
+      "confidence": 0.98,
+      "timestamp": 16.0
+    },
+    {
+      "text": "TOKYOIWARD",
+      "confidence": 0.739,
+      "timestamp": 16.0
+    },
+    {
+      "text": "都区内】",
+      "confidence": 0.637,
+      "timestamp": 16.0
+    },
+    {
+      "text": "川AR",
+      "confidence": 0.769,
+      "timestamp": 16.0
+    },
+    {
+      "text": ")AREA)",
+      "confidence": 0.674,
+      "timestamp": 16.0
+    },
+    {
+      "text": "川月?2日まこ",
+      "confidence": 0.456,
+      "timestamp": 16.0
+    },
+    {
+      "text": "SHIzUOKA",
+      "confidence": 0.908,
+      "timestamp": 16.0
+    },
+    {
+      "text": "~RESERVED",
+      "confidence": 0.855,
+      "timestamp": 16.0
+    },
+    {
+      "text": "1",
+      "confidence": 0.586,
+      "timestamp": 18.0
+    },
+    {
+      "text": "Heyg",
+      "confidence": 0.488,
+      "timestamp": 18.0
+    },
+    {
+      "text": "り",
+      "confidence": 0.948,
+      "timestamp": 20.0
+    },
+    {
+      "text": "orHakoneg",
+      "confidence": 0.537,
+      "timestamp": 24.0
+    },
+    {
+      "text": "静岡",
+      "confidence": 0.995,
+      "timestamp": 32.0
+    },
+    {
+      "text": "かけがわ",
+      "confidence": 0.996,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Ifvovretakingthe Shinkansen",
+      "confidence": 0.599,
+      "timestamp": 32.0
+    },
+    {
+      "text": "しずおか",
+      "confidence": 0.999,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Kakegawa",
+      "confidence": 0.906,
+      "timestamp": 32.0
+    },
+    {
+      "text": "from TokyotoKyoto;",
+      "confidence": 0.619,
+      "timestamp": 34.0
+    },
+    {
+      "text": "Shizuokaisone",
+      "confidence": 0.753,
+      "timestamp": 36.0
+    },
+    {
+      "text": "actuallywanna",
+      "confidence": 0.982,
+      "timestamp": 36.0
+    },
+    {
+      "text": "offat",
+      "confidence": 0.985,
+      "timestamp": 36.0
+    },
+    {
+      "text": "stop",
+      "confidence": 1.0,
+      "timestamp": 36.0
+    },
+    {
+      "text": "Voui",
+      "confidence": 0.639,
+      "timestamp": 36.0
+    },
+    {
+      "text": "get",
+      "confidence": 1.0,
+      "timestamp": 36.0
+    },
+    {
+      "text": "Shizuokaisonestop Vouli",
+      "confidence": 0.524,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Justonebusridefrom",
+      "confidence": 0.9,
+      "timestamp": 40.0
+    },
+    {
+      "text": "Shizuoka Station;",
+      "confidence": 0.828,
+      "timestamp": 40.0
+    },
+    {
+      "text": "Nihondlaira (日本平)",
+      "confidence": 0.722,
+      "timestamp": 42.0
+    },
+    {
+      "text": "Nihondairaisahiddengem",
+      "confidence": 0.718,
+      "timestamp": 42.0
+    },
+    {
+      "text": "Nihondlaia (日本平)",
+      "confidence": 0.771,
+      "timestamp": 44.0
+    },
+    {
+      "text": "wheretheessenceofJapancomesalive",
+      "confidence": 0.633,
+      "timestamp": 44.0
+    },
+    {
+      "text": "sweepingteafields, ShimizuPort;",
+      "confidence": 0.401,
+      "timestamp": 46.0
+    },
+    {
+      "text": "まるいち水野製茶",
+      "confidence": 0.613,
+      "timestamp": 50.0
+    },
+    {
+      "text": "TEA TERRACE",
+      "confidence": 1.0,
+      "timestamp": 50.0
+    },
+    {
+      "text": "NaruichiNiizunoTeaFarmoffers",
+      "confidence": 0.519,
+      "timestamp": 50.0
+    },
+    {
+      "text": "NiaruichiniizunoTeaFarm",
+      "confidence": 0.501,
+      "timestamp": 52.0
+    },
+    {
+      "text": "terracegreen-teatasting",
+      "confidence": 0.78,
+      "timestamp": 52.0
+    },
+    {
+      "text": "plushands-onteapicking",
+      "confidence": 0.752,
+      "timestamp": 56.0
+    },
+    {
+      "text": "intraditionalattire",
+      "confidence": 0.983,
+      "timestamp": 56.0
+    },
+    {
+      "text": "NiaruichilizunoTeaFarm",
+      "confidence": 0.411,
+      "timestamp": 58.0
+    },
+    {
+      "text": "Kunozan Toshogi Shrine",
+      "confidence": 0.832,
+      "timestamp": 60.0
+    },
+    {
+      "text": "KunozanToshogi Shrinepreseres",
+      "confidence": 0.884,
+      "timestamp": 60.0
+    },
+    {
+      "text": "KunozanToshogiShrine",
+      "confidence": 0.784,
+      "timestamp": 62.0
+    },
+    {
+      "text": "拝石本",
+      "confidence": 0.996,
+      "timestamp": 62.0
+    },
+    {
+      "text": "の",
+      "confidence": 0.999,
+      "timestamp": 62.0
+    },
+    {
+      "text": "thetimelessatmosphereofoldJapan",
+      "confidence": 0.989,
+      "timestamp": 62.0
+    },
+    {
+      "text": "andincudesaTokugawashogwnstomb:",
+      "confidence": 0.562,
+      "timestamp": 64.0
+    },
+    {
+      "text": "言",
+      "confidence": 0.509,
+      "timestamp": 66.0
+    },
+    {
+      "text": "IfyourevisitingJapan",
+      "confidence": 0.649,
+      "timestamp": 66.0
+    },
+    {
+      "text": "dontmissthis qietlyspectacular",
+      "confidence": 0.829,
+      "timestamp": 68.0
+    },
+    {
+      "text": "cornerofShizuoka:",
+      "confidence": 0.57,
+      "timestamp": 68.0
+    }
+  ]
+}

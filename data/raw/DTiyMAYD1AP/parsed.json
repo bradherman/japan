@@ -1,0 +1,216 @@
+{
+  "url": "https://instagram.com/p/DTiyMAYD1AP/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DTiyMAYD1AP/2026-01-15_19-45-23_UTC.mp4",
+  "caption": "if you’re looking for the perfect day of relaxation in tokyo, I definitely recommend booking a private onsen through @kudochi_sauna ! rooms are tattoo friendly and you get access for 2.5 hours. 10/10 experience 🙂‍↕️ #onsen #spa #tokyo #spaday #japan",
+  "transcript": "This was the most relaxing part of my Tokyo trip and the perfect way to recover from walking 20,000 steps a day. For about 20,000 yen, you can rent a private onsen or sauna in Tokyo where you get access to a fully stocked vanity, a cold plunge, and a hot sauna that you get to enjoy for up to two and a half hours. So I definitely recommend running to the konbini nearby, grabbing all your favorite snacks to enjoy for your private spa experience. All of the rooms are tattoo friendly and easily big enough for groups of four to six people. They have locations all over Tokyo, so if you're looking for the perfect day of relaxation, I definitely recommend Kudochi.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 5.3,
+      "text": "This was the most relaxing part of my Tokyo trip and the perfect way to recover from walking 20,000 steps a day."
+    },
+    {
+      "start": 5.38,
+      "end": 15.7,
+      "text": "For about 20,000 yen, you can rent a private onsen or sauna in Tokyo where you get access to a fully stocked vanity, a cold plunge, and a hot sauna that you get to enjoy for up to two and a half hours."
+    },
+    {
+      "start": 15.84,
+      "end": 21.52,
+      "text": "So I definitely recommend running to the konbini nearby, grabbing all your favorite snacks to enjoy for your private spa experience."
+    },
+    {
+      "start": 21.64,
+      "end": 25.24,
+      "text": "All of the rooms are tattoo friendly and easily big enough for groups of four to six people."
+    },
+    {
+      "start": 25.24,
+      "end": 31.02,
+      "text": "They have locations all over Tokyo, so if you're looking for the perfect day of relaxation, I definitely recommend Kudochi."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "private onsen",
+      "confidence": 0.827,
+      "timestamp": 0.0
+    },
+    {
+      "text": "this wasthemostrelaxing",
+      "confidence": 1.0,
+      "timestamp": 0.0
+    },
+    {
+      "text": "part of",
+      "confidence": 0.897,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Tokyotrip",
+      "confidence": 0.962,
+      "timestamp": 0.0
+    },
+    {
+      "text": "tokyo",
+      "confidence": 1.0,
+      "timestamp": 0.0
+    },
+    {
+      "text": "my",
+      "confidence": 1.0,
+      "timestamp": 0.0
+    },
+    {
+      "text": "IUDoCH",
+      "confidence": 0.403,
+      "timestamp": 2.0
+    },
+    {
+      "text": "this wastheostreaxing",
+      "confidence": 0.857,
+      "timestamp": 2.0
+    },
+    {
+      "text": "ofmyTokyotrip",
+      "confidence": 0.983,
+      "timestamp": 2.0
+    },
+    {
+      "text": "part",
+      "confidence": 0.999,
+      "timestamp": 2.0
+    },
+    {
+      "text": "walking20,ooO stepsaday",
+      "confidence": 0.52,
+      "timestamp": 4.0
+    },
+    {
+      "text": "you canrentaprivateonsen",
+      "confidence": 0.861,
+      "timestamp": 8.0
+    },
+    {
+      "text": "where",
+      "confidence": 1.0,
+      "timestamp": 10.0
+    },
+    {
+      "text": "getaccesstoa",
+      "confidence": 0.957,
+      "timestamp": 10.0
+    },
+    {
+      "text": "you",
+      "confidence": 0.937,
+      "timestamp": 10.0
+    },
+    {
+      "text": "acold plunge",
+      "confidence": 0.988,
+      "timestamp": 12.0
+    },
+    {
+      "text": "なにがあるかな",
+      "confidence": 0.941,
+      "timestamp": 14.0
+    },
+    {
+      "text": "今も;",
+      "confidence": 0.713,
+      "timestamp": 14.0
+    },
+    {
+      "text": "ホカホカ。",
+      "confidence": 0.875,
+      "timestamp": 14.0
+    },
+    {
+      "text": "CHrNGE",
+      "confidence": 0.616,
+      "timestamp": 14.0
+    },
+    {
+      "text": "AN",
+      "confidence": 1.0,
+      "timestamp": 14.0
+    },
+    {
+      "text": "5",
+      "confidence": 0.999,
+      "timestamp": 16.0
+    },
+    {
+      "text": "24)",
+      "confidence": 0.998,
+      "timestamp": 18.0
+    },
+    {
+      "text": "白くま",
+      "confidence": 0.49,
+      "timestamp": 18.0
+    },
+    {
+      "text": "386.",
+      "confidence": 0.704,
+      "timestamp": 18.0
+    },
+    {
+      "text": "eperience",
+      "confidence": 0.814,
+      "timestamp": 20.0
+    },
+    {
+      "text": "alloftheroomsaretattoofriendly",
+      "confidence": 0.938,
+      "timestamp": 22.0
+    },
+    {
+      "text": "andeasily big enoughfor",
+      "confidence": 0.817,
+      "timestamp": 24.0
+    },
+    {
+      "text": "groups 0f4-6people",
+      "confidence": 0.595,
+      "timestamp": 24.0
+    },
+    {
+      "text": "they have locationsalloverTokyo",
+      "confidence": 0.896,
+      "timestamp": 26.0
+    },
+    {
+      "text": "5una",
+      "confidence": 0.417,
+      "timestamp": 28.0
+    },
+    {
+      "text": "soifyourelooking",
+      "confidence": 0.998,
+      "timestamp": 28.0
+    },
+    {
+      "text": "the",
+      "confidence": 1.0,
+      "timestamp": 28.0
+    },
+    {
+      "text": "perfect day ofrelaxation",
+      "confidence": 0.719,
+      "timestamp": 28.0
+    },
+    {
+      "text": "for",
+      "confidence": 0.592,
+      "timestamp": 28.0
+    },
+    {
+      "text": "Idefinitelyrecommend Kudochi",
+      "confidence": 0.931,
+      "timestamp": 30.0
+    }
+  ]
+}

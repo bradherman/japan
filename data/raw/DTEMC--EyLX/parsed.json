@@ -1,0 +1,316 @@
+{
+  "url": "https://instagram.com/p/DTEMC--EyLX/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DTEMC--EyLX/2026-01-03_22-34-24_UTC.mp4",
+  "caption": "This place was SO worth it… I’m still dreaming about their Neve (Parmesan and raw mushroom) pizza 🤤 \n\nReservations can be made 2 days in advance from 12pm via TableCheck (just Google 400c Pizza Tokyo), but you have to try and make a reservation right at 12 because slots fill up real quick!! \n\nWhat we ordered: \n\n🍕Neve (twice!!) — raw mushrooms, Parmesan cheese, liver sauce \n🍕Prosciutto — prosciutto, tomatoes, mozzarella, arugula \n🍕DOC — premium Margherita \n\nKids under 6 are not allowed 🚫\n\n📍400c PIZZA TOKYO (Kagurazaka) \n\n#pizza #tokyoeats #tokyofoodie #pizzeria #traveltokyo",
+  "transcript": "So I finally got to try the best rated pizza in Japan and it did not disappoint. Their main store is in Okayama, but they have another location conveniently in Tokyo, so we went there instead. Their parmesan and raw mushroom pizza looked and tasted insane that we actually ordered it twice because it was that good. We also ordered two other kinds of pizza, but since the dough is light and fluffy, it didn't feel like too much food. The only thing is that this Kagurazaka location is reservation only and they open up their slots two days in advance at 12pm. Also, slots fill up real quick, so it's super difficult to get in, but once you do, it's so worth it. Would you try this place on your next trip to Japan?",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "So I finally got to try the best rated pizza in Japan and it did not disappoint."
+    },
+    {
+      "start": 3.88,
+      "end": 8.62,
+      "text": "Their main store is in Okayama, but they have another location conveniently in Tokyo, so we went there instead."
+    },
+    {
+      "start": 8.78,
+      "end": 14.06,
+      "text": "Their parmesan and raw mushroom pizza looked and tasted insane that we actually ordered it twice because it was that good."
+    },
+    {
+      "start": 14.16,
+      "end": 18.84,
+      "text": "We also ordered two other kinds of pizza, but since the dough is light and fluffy, it didn't feel like too much food."
+    },
+    {
+      "start": 18.84,
+      "end": 25.08,
+      "text": "The only thing is that this Kagurazaka location is reservation only and they open up their slots two days in advance at 12pm."
+    },
+    {
+      "start": 25.2,
+      "end": 29.96,
+      "text": "Also, slots fill up real quick, so it's super difficult to get in, but once you do, it's so worth it."
+    },
+    {
+      "start": 30.0,
+      "end": 32.24,
+      "text": "Would you try this place on your next trip to Japan?"
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "Pov:tryingthebest-rated",
+      "confidence": 0.85,
+      "timestamp": 0.0
+    },
+    {
+      "text": "BizzaplaceinJapan",
+      "confidence": 0.623,
+      "timestamp": 0.0
+    },
+    {
+      "text": "PizzaplaceimJapan",
+      "confidence": 0.605,
+      "timestamp": 4.0
+    },
+    {
+      "text": "『@Vatryimgthebest-rated",
+      "confidence": 0.436,
+      "timestamp": 6.0
+    },
+    {
+      "text": "nex",
+      "confidence": 0.722,
+      "timestamp": 6.0
+    },
+    {
+      "text": "On",
+      "confidence": 0.752,
+      "timestamp": 8.0
+    },
+    {
+      "text": "39",
+      "confidence": 0.447,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Cheese",
+      "confidence": 0.974,
+      "timestamp": 8.0
+    },
+    {
+      "text": "sliced",
+      "confidence": 0.877,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Prosciutto;",
+      "confidence": 0.575,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Prosciutto",
+      "confidence": 0.933,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Tomato,",
+      "confidence": 0.689,
+      "timestamp": 8.0
+    },
+    {
+      "text": "「leek;",
+      "confidence": 0.409,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Negizza",
+      "confidence": 0.84,
+      "timestamp": 8.0
+    },
+    {
+      "text": "(Salsiccia;",
+      "confidence": 0.94,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Garic;",
+      "confidence": 0.507,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Olive;",
+      "confidence": 0.629,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Duck;",
+      "confidence": 0.85,
+      "timestamp": 8.0
+    },
+    {
+      "text": "(Smoked",
+      "confidence": 0.998,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Ethnic",
+      "confidence": 0.998,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Mondo",
+      "confidence": 0.999,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Mo",
+      "confidence": 0.998,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Sauce;",
+      "confidence": 0.633,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Sardines;",
+      "confidence": 0.976,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Arugula;",
+      "confidence": 0.693,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Wild",
+      "confidence": 0.992,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Enon",
+      "confidence": 1.0,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Mushrooms;",
+      "confidence": 0.971,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Mozz",
+      "confidence": 0.536,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Enoki",
+      "confidence": 1.0,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Liver",
+      "confidence": 0.999,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Neve",
+      "confidence": 1.0,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Ham;",
+      "confidence": 0.929,
+      "timestamp": 8.0
+    },
+    {
+      "text": "nherita;",
+      "confidence": 0.693,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Shaved",
+      "confidence": 0.999,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Moz",
+      "confidence": 0.984,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Rare",
+      "confidence": 1.0,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Parmigiano;",
+      "confidence": 0.94,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Buffalo",
+      "confidence": 0.997,
+      "timestamp": 8.0
+    },
+    {
+      "text": "3300",
+      "confidence": 1.0,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Mozzarella",
+      "confidence": 0.99,
+      "timestamp": 8.0
+    },
+    {
+      "text": "and",
+      "confidence": 1.0,
+      "timestamp": 8.0
+    },
+    {
+      "text": "2900",
+      "confidence": 0.996,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Dried",
+      "confidence": 0.995,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Tomatoe",
+      "confidence": 0.683,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Pov:tryimgthebest-rated",
+      "confidence": 0.569,
+      "timestamp": 14.0
+    },
+    {
+      "text": "pizzaplaceinJapan",
+      "confidence": 0.94,
+      "timestamp": 14.0
+    },
+    {
+      "text": "Theonlythingisa",
+      "confidence": 0.442,
+      "timestamp": 20.0
+    },
+    {
+      "text": "PiznaplaceimJapam",
+      "confidence": 0.49,
+      "timestamp": 22.0
+    },
+    {
+      "text": "FEVER-TRE",
+      "confidence": 0.799,
+      "timestamp": 24.0
+    },
+    {
+      "text": "PREMIUM",
+      "confidence": 0.61,
+      "timestamp": 24.0
+    },
+    {
+      "text": "GINGER",
+      "confidence": 0.705,
+      "timestamp": 24.0
+    },
+    {
+      "text": "BEER",
+      "confidence": 0.878,
+      "timestamp": 24.0
+    },
+    {
+      "text": "getinbut",
+      "confidence": 0.812,
+      "timestamp": 28.0
+    }
+  ]
+}

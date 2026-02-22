@@ -1,0 +1,299 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.15"
+    },
+    "node": {
+        "__isXDTGraphMediaInterface": "XDTGraphVideo",
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "can_see_insights_as_brand": false,
+        "caption_is_edited": false,
+        "clips_music_attribution_info": {
+            "artist_name": "Meiko Nakahara",
+            "audio_id": "367723920635873",
+            "should_mute_audio": false,
+            "should_mute_audio_reason": "",
+            "song_name": "Fantasy",
+            "uses_original_audio": false
+        },
+        "coauthor_producers": [],
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 1136,
+            "width": 640
+        },
+        "display_resources": [
+            {
+                "config_height": 1136,
+                "config_width": 640,
+                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/610945885_788272143641839_413040513856298927_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QEhnIMh9q6mU2ss9Gbl_-IgRKox6RYS3T0hQCwri2Ew9CxxUXnSlgNJ3VwzrBLIf-Y&_nc_ohc=W6DruRqV6NEQ7kNvwF4tzUb&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvWqCtpUwgEbbU99GbbBHfcrYX8kGluYNBGHPe4_cdZxg&oe=69A01E3A&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1331,
+                "config_width": 750,
+                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/610945885_788272143641839_413040513856298927_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QEhnIMh9q6mU2ss9Gbl_-IgRKox6RYS3T0hQCwri2Ew9CxxUXnSlgNJ3VwzrBLIf-Y&_nc_ohc=W6DruRqV6NEQ7kNvwF4tzUb&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvWqCtpUwgEbbU99GbbBHfcrYX8kGluYNBGHPe4_cdZxg&oe=69A01E3A&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1917,
+                "config_width": 1080,
+                "src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/610945885_788272143641839_413040513856298927_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QEhnIMh9q6mU2ss9Gbl_-IgRKox6RYS3T0hQCwri2Ew9CxxUXnSlgNJ3VwzrBLIf-Y&_nc_ohc=W6DruRqV6NEQ7kNvwF4tzUb&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvWqCtpUwgEbbU99GbbBHfcrYX8kGluYNBGHPe4_cdZxg&oe=69A01E3A&_nc_sid=d885a2"
+            }
+        ],
+        "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/610945885_788272143641839_413040513856298927_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QEhnIMh9q6mU2ss9Gbl_-IgRKox6RYS3T0hQCwri2Ew9CxxUXnSlgNJ3VwzrBLIf-Y&_nc_ohc=W6DruRqV6NEQ7kNvwF4tzUb&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvWqCtpUwgEbbU99GbbBHfcrYX8kGluYNBGHPe4_cdZxg&oe=69A01E3A&_nc_sid=d885a2",
+        "edge_media_preview_comment": {
+            "count": 149,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1771535550,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18307405876283712",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "4996791761",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/523627085_18337621624167762_8091383438086986711_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QEhnIMh9q6mU2ss9Gbl_-IgRKox6RYS3T0hQCwri2Ew9CxxUXnSlgNJ3VwzrBLIf-Y&_nc_ohc=FBFvKz4stp0Q7kNvwGYskfX&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsosTvOOWcUWCmR54l2171vPKIPKgW4fPvH4ngyo6W-ig&oe=69A005AE&_nc_sid=d885a2",
+                            "username": "vampyric_dystopia"
+                        },
+                        "text": "Bars to go to for punk/metal head culture? Stuff where other Japanese punks would go?",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771707449,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18095376334981373",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1415235700",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/631880098_18591830068003701_3922280944340275651_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEhnIMh9q6mU2ss9Gbl_-IgRKox6RYS3T0hQCwri2Ew9CxxUXnSlgNJ3VwzrBLIf-Y&_nc_ohc=Fs-lcSWcTwcQ7kNvwHD7tgF&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvK6rh6qJS4e84QtX2E69_dhRMY6CGjjO5RtjFePKVR0w&oe=69A00D86&_nc_sid=d885a2",
+                            "username": "scheleta"
+                        },
+                        "text": "@carriemeister same \ud83d\ude2d it lasted 6 days\u2026",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 19445,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "created_at": "1767877491",
+                        "id": "18032123630781113",
+                        "text": "Don\u2019t go to Golden Gai\u2026 unless you know where to go.\n280+ bars.\nMost people walk into the wrong ones\nSave this before your Japan trip \ud83c\uddef\ud83c\uddf5\ud83c\udf7a\n\nMore info \u2192 @mr.tokyo.adventures \n\n#goldengai #tokyonightlife #hiddenbar"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 149,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1771535550,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18307405876283712",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "4996791761",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/523627085_18337621624167762_8091383438086986711_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QEhnIMh9q6mU2ss9Gbl_-IgRKox6RYS3T0hQCwri2Ew9CxxUXnSlgNJ3VwzrBLIf-Y&_nc_ohc=FBFvKz4stp0Q7kNvwGYskfX&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsosTvOOWcUWCmR54l2171vPKIPKgW4fPvH4ngyo6W-ig&oe=69A005AE&_nc_sid=d885a2",
+                            "username": "vampyric_dystopia"
+                        },
+                        "text": "Bars to go to for punk/metal head culture? Stuff where other Japanese punks would go?",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771203341,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18087659762135691",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "6057845",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/559941811_18527886067041846_2096059950226627015_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QEhnIMh9q6mU2ss9Gbl_-IgRKox6RYS3T0hQCwri2Ew9CxxUXnSlgNJ3VwzrBLIf-Y&_nc_ohc=aRs35VICcDEQ7kNvwFbC_t6&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsvT3r0PIAPjRmRJmDjE886GtbFGAGXJzBj_Wbh_AFcKw&oe=69A01E2E&_nc_sid=d885a2",
+                            "username": "plastickid"
+                        },
+                        "text": "Open book\ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771183414,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17842501224693704",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "436473067",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/588558097_18545042773057068_6153055371790362474_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QEhnIMh9q6mU2ss9Gbl_-IgRKox6RYS3T0hQCwri2Ew9CxxUXnSlgNJ3VwzrBLIf-Y&_nc_ohc=KvjgsdOnZ4QQ7kNvwHK-LOf&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsOSDPTYwwL0t8e4fBjwq0Hj3zA0pX8yHWRx_andXCDaQ&oe=69A02024&_nc_sid=d885a2",
+                            "username": "burnied626"
+                        },
+                        "text": "Rock Bar Mother!!! Buy you drink and pick your songs",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771052786,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17864992530577658",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "6329341486",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/56182700_2254600901296894_784953037675298816_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QEhnIMh9q6mU2ss9Gbl_-IgRKox6RYS3T0hQCwri2Ew9CxxUXnSlgNJ3VwzrBLIf-Y&_nc_ohc=Wx5V3W-6PO8Q7kNvwF8n0Tr&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftHm9uBc9071rxrjp87LM5K7CeJSJHwppnEHN5ha_HtNA&oe=69A00E83&_nc_sid=d885a2",
+                            "username": "mrkyuusai"
+                        },
+                        "text": "If you like wrestling you definetely need to go to CIELO. There's always a couple of wrestlers of wrestling fans drinking there and they even have a book where they spot the wrestlers that have been there.",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "{\"server_cursor\": \"QVFBT3ZJRnNiZHdMUmZxRHBBbUpndGE4Q3FsQXZWTWtDYzBYZ1VxeFVQeGkyMVY4MGtJV2hFNm5iel9sbGNfWDhoLV9oZ1ZoZzBjcU50RnhIUVd6QlAzbQ==\", \"is_server_cursor_inverse\": true}",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_ranked_comments": false,
+        "id": "3805552753989823002",
+        "is_ad": false,
+        "is_affiliate": false,
+        "is_paid_partnership": false,
+        "is_published": true,
+        "is_video": true,
+        "like_and_view_counts_disabled": false,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": "ABgqYYRcRowPGNp9iBzWfJHHFuib5nO3aw4Az14qaBwoz1XOSCeenPHpz1pXtRvBDbwQcEcdOhByMn/DvQg8yryQRj5R378en9aKlRSzNjoQRjOeuBzx1opDHiYZwUVj7dv0PufT1BqdkYZwgI478d8fw9fUj0Hbisu3Y5OPSrLDdknqST+dMRcglUnkBS/T8Rn2/PFFUISBKueAP8KKza1LI4gB0qx1qFKfVkikAnriikPSikM//9k=",
+        "nft_asset_info": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 181993
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 160
+            },
+            "followed_by_viewer": false,
+            "full_name": "Mr.Tokyo",
+            "has_blocked_viewer": false,
+            "id": "65652526306",
+            "is_embeds_disabled": false,
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "pass_tiering_recommendation": true,
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/435016957_392871123569705_8842138275942283672_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QEhnIMh9q6mU2ss9Gbl_-IgRKox6RYS3T0hQCwri2Ew9CxxUXnSlgNJ3VwzrBLIf-Y&_nc_ohc=FVVF7NXj_dwQ7kNvwEBxXeW&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuE4sRZLnIly11qkOPjg7pT21KfkKSJDKen6RrgDm44fA&oe=69A00B74&_nc_sid=d885a2",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "username": "mr.tokyo.adventures"
+        },
+        "pinned_for_users": [],
+        "product_type": "clips",
+        "sensitivity_friction_info": null,
+        "sharing_friction_info": {
+            "bloks_app_url": null,
+            "should_have_sharing_friction": false
+        },
+        "shortcode": "DTQChErkqoa",
+        "taken_at_timestamp": 1767877490,
+        "thumbnail_src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-15/610945885_788272143641839_413040513856298927_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QEhnIMh9q6mU2ss9Gbl_-IgRKox6RYS3T0hQCwri2Ew9CxxUXnSlgNJ3VwzrBLIf-Y&_nc_ohc=W6DruRqV6NEQ7kNvwF4tzUb&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfseBoA_rMlCJkm-RViqB527BXLyzQaQlf9L_WWo1yJ46A&oe=69A01E3A&_nc_sid=d885a2",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYjBmZDdmOTk0Yzk5NDY2OGEzNDNkOTc3OTE4NDhmOGMzODA1NTUyNzUzOTg5ODIzMDAyIn0sInNpZ25hdHVyZSI6IiJ9",
+        "upcoming_event": null,
+        "video_duration": 45.301,
+        "video_play_count": 630841,
+        "video_url": "https://scontent-sjc3-1.cdninstagram.com/o1/v/t2/f2/m86/AQObKqnfB1TgPcX0Mbdaj_Xw40iwni_mX20mQ-vmjqdSoBi3PGu9N-IWK2eZA2N5GIMriicc_c4ozxdh52p1SMYgge2Ot28tImJ_xyI.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=bDmzq1KWGmMQ7kNvwE3ssbc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTI1NTM2NTMxNjQ4OTI1OSwiYXNzZXRfYWdlX2RheXMiOjQ0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=YbFPxqyVd6dl2ZT20OhhbA&_nc_zt=28&vs=84790f85d8933332&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNjQ3REZDNThBM0MyQTBBMDdCMjZFMzNDMUY5RUU5M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYRmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMTYyNDc3ODE1OTY5MjE3XzczODc1NTA3MDY4OTA5NjM0Mi5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm1sCFvPDvugQVAigCQzMsF0BGpmZmZmZmGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_AftVD2ZsROHEZoGs2JXCv3h9vKs5Ttebb1J0c0ULWQaNng&oe=699C2FC8",
+        "video_view_count": 359190,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

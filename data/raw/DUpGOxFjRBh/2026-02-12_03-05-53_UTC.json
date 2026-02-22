@@ -1,0 +1,935 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.15"
+    },
+    "node": {
+        "__isXDTGraphMediaInterface": "XDTGraphSidecar",
+        "__typename": "GraphSidecar",
+        "accessibility_caption": "Photo by Abhaya Tamrakar on February 11, 2026. May be an image of train, overcoat, suit, jacket, turtleneck, magazine and text that says '10 Iwentto35+fashionstores 1 went to 35+ fashion stores in Tokyo in 4 days Here are 5 stores swear by tokyo shopping \u00ae Abhaya Shared list 52 places'.",
+        "can_see_insights_as_brand": false,
+        "caption_is_edited": false,
+        "coauthor_producers": [],
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 800,
+                "config_width": 640,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631535156_17863720854581151_1454306758359252973_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=BY6tXIYTD5kQ7kNvwHUj-8Q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvGnT2KKRyvYlUckeuUt2n5yzDkSD6D8R33XeCTp43gdg&oe=69A04108&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 937,
+                "config_width": 750,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631535156_17863720854581151_1454306758359252973_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=BY6tXIYTD5kQ7kNvwHUj-8Q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftXn8YYuayzrkIH8yLFuwXu3xzQMK9xnCtpJO7I9f1OIQ&oe=69A04108&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1350,
+                "config_width": 1080,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631535156_17863720854581151_1454306758359252973_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=BY6tXIYTD5kQ7kNvwHUj-8Q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuszNY-Ln4ZIHM2bygnJaURcqqn1UjHz4aO6aUwd_uKeQ&oe=69A04108&_nc_sid=d885a2"
+            }
+        ],
+        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631535156_17863720854581151_1454306758359252973_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=BY6tXIYTD5kQ7kNvwHUj-8Q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuFxakIDRUEG4Be0krchg2FPEDM3MwJPdlf1KyAP6DqHA&oe=69A04108&_nc_sid=d885a2",
+        "edge_media_preview_comment": {
+            "count": 205,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1771703734,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18008709752833794",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2082210407",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/926498_1109956239014440_1783354390_a.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=Dsn1RwZmH-4Q7kNvwHK54z6&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuNs0qttXSNMdGSJKD3aYDQG_bBPsm6ZfqPCN-GqdcHXA&oe=69A036F4&_nc_sid=d885a2",
+                            "username": "pat_clifford29"
+                        },
+                        "text": "@ah.bayy yes all good thank you. \ud83d\ude4f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1771716317,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17921823660091966",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "182205599",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/399403620_666139755330390_1419871439653300372_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDcuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=5i82UkcRWBcQ7kNvwEunqJg&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvUQGm00Drpikk2Il-exeSJscF8ex4gE4Uas7IFYIKLIQ&oe=69A037E0&_nc_sid=d885a2",
+                            "username": "titegalvez"
+                        },
+                        "text": "@ah.bayy no =(",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": -1,
+            "edges": [
+                {
+                    "node": {
+                        "id": "51324672",
+                        "is_verified": false,
+                        "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/499192152_18507902854060673_568864284678797717_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=D8Y5py9ZMvwQ7kNvwELQPKs&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftqKBwLBaEry_5tjK4VnY62O5IwGhCEXbMPLhe3twv7Ew&oe=69A020C4&_nc_sid=d885a2",
+                        "username": "chris.mucklownorell"
+                    }
+                },
+                {
+                    "node": {
+                        "id": "236457959",
+                        "is_verified": false,
+                        "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/623306558_18555805108041960_8819815790767326495_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=L1HWx2QNodwQ7kNvwEKSMzF&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsVky5qL3NdK_r88AHJDmoxqrfjGHtayzfiXqxW260_HA&oe=69A0403D&_nc_sid=d885a2",
+                        "username": "brand.bot"
+                    }
+                },
+                {
+                    "node": {
+                        "id": "383609870",
+                        "is_verified": false,
+                        "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/456194022_1089864915896333_5860474309644564035_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=YnoBQe7--50Q7kNvwFq5l6Z&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsJa16WBeQ_Cc_zqn1tKTAj-JZurTX4OjQVc6-PUu8UgQ&oe=69A0412C&_nc_sid=d885a2",
+                        "username": "m_syahiran"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "created_at": "1770865556",
+                        "id": "17858277192554749",
+                        "text": "Japan\u2019s fashion scene is on a different level \ud83d\ude2e\u200d\ud83d\udca8\n\nThe creativity, the silhouettes, the attention to detail, you can really feel it when you walk into these stores. A lot of the brands focus heavily on quality and fabric, but the prices are still surprisingly reasonable for what you\u2019re getting.\n\nIf Japan is on your travel list, \ud83d\udcbe save this for later!\n\nThese are just my top 5, I mapped out 52 stores in total and will continue to add more.\n\nComment \u201cTOKYO\u201d and I\u2019ll send you the full Google Maps list!\n\nHappy shopping :)\nfollow for more fashion content \u2728\n\n@hare_official \n@public_tokyo \n@studious_official \n@oy_harajuku \n@neighborhood_official \n\n#japanshopping #mensfashion #tokyo #mensshopping"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 205,
+            "edges": [],
+            "page_info": {
+                "end_cursor": "{\"server_cursor\": \"QVFDRk1tRFFHWm56SkhXM1IxeWE1eUpHS0U3T0FjQmpLWGdBZldsbkpiY0ZSTUVuTTJCZ0F0d2RMY21KbzRwRDVOTUlRRDh2VWVFUW5oYjhTT0htRU11Sw==\", \"is_server_cursor_inverse\": true}",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "3830620361113538657@1171493658",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "NEIGHBORHOOD\u00ae\ufe0e",
+                            "id": "1171493658",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/16789743_1783632258630060_2334830271775375360_a.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=b2cLcPkbEgIQ7kNvwFMvnN3&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afv596i99_DyfXlDr4-IACLiRjzEHCCFTZhg5x9tFuOxMA&oe=69A01E51&_nc_sid=d885a2",
+                            "username": "neighborhood_official"
+                        },
+                        "x": 0.8747927032,
+                        "y": 0.9836601298000001
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3830620361113538657@1580822384",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "HARE(\u30cf\u30ec)",
+                            "id": "1580822384",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/435085101_366634056356679_986940928042524558_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MTAuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=r5Jp63W515UQ7kNvwEkTJfN&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftX5bGzCBZbFdntu1x8BZB5d63FlpVcST3H0c0vgG5qzw&oe=69A0304B&_nc_sid=d885a2",
+                            "username": "hare_official"
+                        },
+                        "x": 0.8383084577000001,
+                        "y": 0.9836601298000001
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3830620361113538657@1188813354",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "STUDIOUS\u3008\u30b9\u30c6\u30e5\u30c6\u3099\u30a3\u30aa\u30b9\u3009",
+                            "id": "1188813354",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/448935266_377685591993289_3242990090048037308_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=2hys_YP7K64Q7kNvwFZTCoI&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvY3AMeUMJKzPS85T2SH4jmLkd2sI-MCbYnJOm-4d6wzA&oe=69A01083&_nc_sid=d885a2",
+                            "username": "studious_official"
+                        },
+                        "x": 0.8524046434,
+                        "y": 0.9836601298000001
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3830620361113538657@7650815570",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "PUBLIC  TOKYO",
+                            "id": "7650815570",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/448917422_996122605019508_310634145885723525_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=BVGOrnBbILsQ7kNvwFnUJvf&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs4tFaAvJ8dbO_8xD5QKBNimu3803bo1vIcu5gbG0F-ow&oe=69A011D3&_nc_sid=d885a2",
+                            "username": "public_tokyo"
+                        },
+                        "x": 0.8689883914000001,
+                        "y": 0.9836601298000001
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3830620361113538657@39502145692",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "OPENYARD",
+                            "id": "39502145692",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/326061660_6092864700734323_2825009571877547476_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=aEAbnHhFYsYQ7kNvwGiDW_n&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvQyDbJ2267Qn61VKsLtN_Esvv8lh1wwJdKCGxIWUGL8g&oe=69A017FC&_nc_sid=d885a2",
+                            "username": "oy_harajuku"
+                        },
+                        "x": 0.868159204,
+                        "y": 0.9836601298000001
+                    }
+                },
+                {
+                    "node": {
+                        "id": "3830620361113538657@64245778512",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "STUDIOUS TOKYO NEW YORK",
+                            "id": "64245778512",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/461615020_569102148879759_5990633670997154425_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=TiDfnmdCJYkQ7kNvwFu5-K0&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftZAhUWFls_ofSn_wk8ImJ-RK42L-UylicQdyMwmhr2Rg&oe=69A0390C&_nc_sid=d885a2",
+                            "username": "studious_tokyo_newyork"
+                        },
+                        "x": 0.2064676617,
+                        "y": 0.9836601298000001
+                    }
+                }
+            ]
+        },
+        "edge_sidecar_to_children": {
+            "edges": [
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Abhaya Tamrakar on February 11, 2026. May be an image of train, overcoat, suit, jacket, turtleneck, magazine and text that says '10 Iwentto35+fashionstores 1 went to 35+ fashion stores in Tokyo in 4 days Here are 5 stores swear by tokyo shopping \u00ae Abhaya Shared list 52 places'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631535156_17863720854581151_1454306758359252973_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=BY6tXIYTD5kQ7kNvwHUj-8Q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvGnT2KKRyvYlUckeuUt2n5yzDkSD6D8R33XeCTp43gdg&oe=69A04108&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631535156_17863720854581151_1454306758359252973_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=BY6tXIYTD5kQ7kNvwHUj-8Q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftXn8YYuayzrkIH8yLFuwXu3xzQMK9xnCtpJO7I9f1OIQ&oe=69A04108&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631535156_17863720854581151_1454306758359252973_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=BY6tXIYTD5kQ7kNvwHUj-8Q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuszNY-Ln4ZIHM2bygnJaURcqqn1UjHz4aO6aUwd_uKeQ&oe=69A04108&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631535156_17863720854581151_1454306758359252973_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=BY6tXIYTD5kQ7kNvwHUj-8Q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuFxakIDRUEG4Be0krchg2FPEDM3MwJPdlf1KyAP6DqHA&oe=69A04108&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3830619411523168860",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqf5SQ/NMcf7I+9/8AW/H8qqzalxtiGxfbv9T1NVfK3nMj5Ptz+pxU6xRJyAT6Fun9BWeiNuST1dkvMq4eU4HJ61MtkerkD6c/4D9am8xXOcAMowCO/wBP8KhZj260NsuFNSV2x/2aL1P5j/Cin/ZX/vL+f/1qKXN5lWp/0/8AgkzxLyoz69M//XqvN8rAZyCB7fpWvFarIxZ+eMDBI4P4/rRJaLkfLu29Ov8AjzRFp6o523szCZugH41cjghdQxcgntxV9bNM52D9T+YzzVqWBAmSASPar3CL5e/yM77PF/fP/jtFSeUnoKKOUPd8/uX+ZVjuGj46j0/wpt3fSRbTE3DZ7AnIx65qE1TuegqVFc3Mt/zJvpY0rTUZZGKyNwR6Ac/gBV8sT3rnIPvfhWtbk4PtWgi3mim0UCP/2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUpGA8tjepc",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjE5NDExNTIzMTY4ODYwIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Abhaya Tamrakar on February 11, 2026 tagging @hare_official. May be an image of display case, signboard, poster and text that says '3n\u043bH 2N HARE HABE HARE Japanese design featuring formal pieces & modern streetwear Shinjuku, Shibuya & Harajuku'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631689845_17863720908581151_5344633634186223721_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=p2AJwORzxjEQ7kNvwHUjTGu&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvZ2ICOX8C-rMYPdemf6xgydujYXlu50aixjnRQd9vMQw&oe=69A01626&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631689845_17863720908581151_5344633634186223721_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=p2AJwORzxjEQ7kNvwHUjTGu&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftvhMs89p1oyJJ-u-kJgPyRF0--YfszvwgliIh8Y0YL1w&oe=69A01626&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631689845_17863720908581151_5344633634186223721_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=p2AJwORzxjEQ7kNvwHUjTGu&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsFvHfwQSf-XE9LdOKgFe9aD2sbXkhxKvbJQ0MB3zCxjA&oe=69A01626&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631689845_17863720908581151_5344633634186223721_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=p2AJwORzxjEQ7kNvwHUjTGu&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvxkV1rSPEd8mmlLx5Rn_RhCH0rDvTsCHlXPYXlY-Rycw&oe=69A01626&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3830619416573070625@1580822384",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "HARE(\u30cf\u30ec)",
+                                            "id": "1580822384",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/435085101_366634056356679_986940928042524558_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MTAuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=r5Jp63W515UQ7kNvwEkTJfN&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftX5bGzCBZbFdntu1x8BZB5d63FlpVcST3H0c0vgG5qzw&oe=69A0304B&_nc_sid=d885a2",
+                                            "username": "hare_official"
+                                        },
+                                        "x": 0.8383084577000001,
+                                        "y": 0.9836601298000001
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3830619416573070625",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqzhdsOo/n/wDXqdbpT1BFUQCf5CrQjTbhvzzWbZpYvJcR/wB7B9MGnufM6KT7niqAmW0P7shg2Mk/jQ2okggHB7Y4pq/yE7GgFYDGP1/+tRWaLuT1/lRWhmUpMtwvIXI/XrSpkZyAfy47f1qx9iLDLcUotccAkVBoVpiXGAoHuCD61CI2HJHFW3j2d8+2arhc9BzVIksKOB9KKVTgAe1FMkmM0r9M/wAqYUcnDk/zq1OdqDHGeuKr+lSVcZhB0BY+/T8h/jShyPp6ChqbVCHZX0/WitNI12jgdB2FFAj/2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUpGBBajU0h",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjE5NDE2NTczMDcwNjI1In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Abhaya Tamrakar on February 11, 2026. May be an image of \u200eduffle coat, overcoat, cardigan, fleece, sweater, clothes hanger and \u200etext that says '\u200e\u0644\u0644\u0644 BARE Honestly, one of my favorite stores in Japan. Every item feels rooted in Japanese design, very unique, and one of the more affordable stores on this list without compromising on quality. Please don't skip this one.\u200e'\u200e\u200e.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631709658_17863720935581151_139544971913213000_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=KaDaVceZgnsQ7kNvwGfBLAK&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftGO67nBrdUQo3Fz5HyMNAVlKcBPVlO0l0XbnhKp91Obw&oe=69A01254&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631709658_17863720935581151_139544971913213000_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=KaDaVceZgnsQ7kNvwGfBLAK&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvFBW_a6YLOmIvSKPsT8nMV71VONZGXjbPVCVUD9oTUIw&oe=69A01254&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631709658_17863720935581151_139544971913213000_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=KaDaVceZgnsQ7kNvwGfBLAK&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afu2IO2NJWyZnhJpUWQ5dy4Xow2xKBj4cZjFgT3BAaHwyA&oe=69A01254&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631709658_17863720935581151_139544971913213000_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=KaDaVceZgnsQ7kNvwGfBLAK&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs7dFCqK6iF9x_BBim247TdmYPqwYqNshCZVB9oAQkMfA&oe=69A01254&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3830619418435327488",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqhggYJu4AJOByT69Pft/hU4jckDDc/QAfX0rMiuH35TqAeOwGOf5VsW4c4aQ5JGQBwPxqdStBptwBgZPvk4P0qskkbNtxgjnBz2rQSYquwr8xIHU4x6gevXpVHUAFZZB15z746c/TikBOBGRngfhRXNmVs9TRTsFx8LfPW7523aaw7dGLbscYbnoOB6+oq4ZOn4VaIZsudrsR22/nj/69Y9/ITKR2Xj/H9a0WkAAJI5wx+gUf1rEJ82Tn+I//AK6hIolXT3cBuOefzora3CiqJuYUJZlK4yFz2/Gowy/5FaEAxGcdyaz5QABjjr/OhFMezggHHQelMVsMCPWr6KDbkkchG/nWavagC757etFVKKZJ/9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUpGBDJjRYA",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjE5NDE4NDM1MzI3NDg4In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Abhaya Tamrakar on February 11, 2026 tagging @oy_harajuku. May be an image of clothes hanger, poster and text that says 'OPENYARD Korean contemporary streetwear with clean, modern silhouettes Harajuku uku'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/633933778_17863720863581151_1148926487714059817_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=7FCcl8TceaEQ7kNvwEJjiQ5&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afvur3EIAuW6e4GIZs59XFJvgnCfrUoV9G-Iu2q1fpmQBQ&oe=69A0168F&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/633933778_17863720863581151_1148926487714059817_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=7FCcl8TceaEQ7kNvwEJjiQ5&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuiowSxXJ1ElU4sTSWwa8FiYiIy8R2NI2Ri6k9Qtq0Psw&oe=69A0168F&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/633933778_17863720863581151_1148926487714059817_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=7FCcl8TceaEQ7kNvwEJjiQ5&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvuYt_5UHXgVrK0wv_YXXqE7t1y4DFAL-AtfODuMlRGzw&oe=69A0168F&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/633933778_17863720863581151_1148926487714059817_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=7FCcl8TceaEQ7kNvwEJjiQ5&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuX21edBOxtPTwjE1Zd5Cm5rcSNWg9ZKKZzpD467KCwnw&oe=69A0168F&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3830619414534671579@39502145692",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "OPENYARD",
+                                            "id": "39502145692",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/326061660_6092864700734323_2825009571877547476_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=aEAbnHhFYsYQ7kNvwGiDW_n&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvQyDbJ2267Qn61VKsLtN_Esvv8lh1wwJdKCGxIWUGL8g&oe=69A017FC&_nc_sid=d885a2",
+                                            "username": "oy_harajuku"
+                                        },
+                                        "x": 0.868159204,
+                                        "y": 0.9836601298000001
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3830619414534671579",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqjXJ5pxx0zzTH+XkEcelQggnk5z7/AOfagCU4FNLLSx7Ce2Mc8859KPNULlduRQA3cPeio/tTe35UUAVZHLbR12j+tIGOMBR09u3r9avHTt3U9KW3t1ZtpzjHrQBRDFTyo/Mf56f41CxJYHGOfbua0ruARISDg5GOaFsEfDgnoCR39+fSgCHco7Cip/s0fqf0ooA0sY61DHGEYtnPHQDP+fpUbsS3U05DzSGPdweCOn94f06VE0x6UyWoRUsY/dRTaKQz/9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUpGA_hDczb",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjE5NDE0NTM0NjcxNTc5In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Abhaya Tamrakar on February 11, 2026. May be an image of heart, turtleneck, sweater, clothes hanger and text that says 'I kind of stumbled across this store when was lost, and I'm really glad did. Their pieces lean \u03b1 little edgier, but the streetwear selection is strong. Prices are very affordable, ended up buying this sweater in black. If you're into Asian streetwear, definitely check them out.'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631348613_17863720887581151_8950216189718910483_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=1hIcslWzAY8Q7kNvwGgF14q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftJHwkqgdFeW3xLQyGuO2rp34oNDjnl9-zvhc4Qltt9lg&oe=69A01BC2&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631348613_17863720887581151_8950216189718910483_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=1hIcslWzAY8Q7kNvwGgF14q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfssfRu-RwBEMATjXz-px5q0B_9lQ_iBeXzCEhtbHEeuag&oe=69A01BC2&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631348613_17863720887581151_8950216189718910483_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=1hIcslWzAY8Q7kNvwGgF14q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvnIZUBiymrE1dI4JLlxQ0WvpbrfVfD13_970Sh-DDqCg&oe=69A01BC2&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631348613_17863720887581151_8950216189718910483_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=1hIcslWzAY8Q7kNvwGgF14q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftyeilkPHfjPXzI7gcEEVQgNUmXdTyaOtqc7G4zkv1zQg&oe=69A01BC2&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3830619415943906521",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqDEsi7W5B/wA8UiRtbgiEBicZ3Hk/T2plo2I8HqCf51YDg1IydZN65IKtjp7+3rVaPLfLJ98d+x9P/r0/fTWkJI9fWncLGebvBxtPH+fSitDcaKegtexWiTy+M5Byfzqo7FZDt61O8vlkDqcVEzq/JUk/h/jSNIy5d+wkTOJMZySeauXPCZHDDpUMcyJzjB/D/Gkkm8z5RnLcDp3pBKXNb0KovWoq0LFQPvfpRVWRF2QzMSQQM8VGpPoadUi0CIXJB6Gkjcs4GDwQasSdR9KcAAw+goAt5optFID/2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUpGBA1DQTZ",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjE5NDE1OTQzOTA2NTIxIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Abhaya Tamrakar on February 11, 2026 tagging @public_tokyo. May be an image of poster and text that says '0 PUBLIC TOKY Minimal, premium Japanese essentials Shinjuku Shinjuku&Shibuya & Shibuya'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631769184_17863720890581151_4037758479229761118_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=k8RZYfYU_3kQ7kNvwGqeon2&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvZaAYvGE6Zth_NWWqwZxsZISyLvOfFoQKLflbcJikc_w&oe=69A00CD9&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631769184_17863720890581151_4037758479229761118_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=k8RZYfYU_3kQ7kNvwGqeon2&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aftf-5XK3zW74m6ZEbOjxWxfSDhcLiLBvpMSQKmRB2JbTQ&oe=69A00CD9&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631769184_17863720890581151_4037758479229761118_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=k8RZYfYU_3kQ7kNvwGqeon2&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsXqHGS1mL-vFfKIyyuy8KeapQc7ov-HgNxN6S6Q5DaBg&oe=69A00CD9&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631769184_17863720890581151_4037758479229761118_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=k8RZYfYU_3kQ7kNvwGqeon2&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftCvDMRK9nY0eb4HwlAu9Qf2FnCL02Fr61foBdElt8WZA&oe=69A00CD9&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3830619416875088025@7650815570",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "PUBLIC  TOKYO",
+                                            "id": "7650815570",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/448917422_996122605019508_310634145885723525_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=BVGOrnBbILsQ7kNvwFnUJvf&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs4tFaAvJ8dbO_8xD5QKBNimu3803bo1vIcu5gbG0F-ow&oe=69A011D3&_nc_sid=d885a2",
+                                            "username": "public_tokyo"
+                                        },
+                                        "x": 0.8689883914000001,
+                                        "y": 0.9836601298000001
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3830619416875088025",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqtbMrk8mmAYoaaINtyQR6/wD1qWN0kJCkcdc8UDGmRV71ZhXzh8rLn071WaJG6kZz2z6/Sq8kHl5ZX6H0I/WgDRNs9FZ4vbkfxf8AoNFP5B9xRuWBfHXjk8dc9qYGwT8oGRjjHrnP9KvPaN1AyPcf/r/TFSQ26HqFJ/3T/n9Km4+UzY2JxlRgfTnPr9KEJchSAOQO3fgflVnyntWzle2QR159x/8AXogiJyR0znjApisVDMo/hFFXDCn939aKLj5S3JPu45FRRsy8jJz6c1HViCo2KTuKDM/BB/EcfrVaRG/iGP0rYTpUT8k5pXKsY+2itbYvoPyop3Cx/9k=",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUpGBBsjbiZ",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjE5NDE2ODc1MDg4MDI1In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Abhaya Tamrakar on February 11, 2026. May be an image of duffle coat, goosedown coat, overcoat, fleece, parka, jacket, wool and text that says 'Another one of my favorite stores in Japan! I've bought at least atleast2 2- 3 pieces every time I've visited. They specialize in minimal but modern Japanese essentials that just fit really well. The prices are very reasonable for the quality.'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632269857_17863720878581151_5368701584601388761_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=kH1jJ_pyRb8Q7kNvwF66zjr&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs5_BnRlh1sgm-cJdrvaHb8iuoVA518MAU8P4JLxLGNmg&oe=69A00E07&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632269857_17863720878581151_5368701584601388761_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=kH1jJ_pyRb8Q7kNvwF66zjr&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuZeCJUgljVo8ApTFWXdZvFoDMBPsquKJC6hHoRVAZm0A&oe=69A00E07&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632269857_17863720878581151_5368701584601388761_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=kH1jJ_pyRb8Q7kNvwF66zjr&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsq0VD-nRJDNN-CDifMkTgQ9T5ZKlCLgHXgrFqOi4aGHA&oe=69A00E07&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632269857_17863720878581151_5368701584601388761_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=kH1jJ_pyRb8Q7kNvwF66zjr&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuSs8o2RRrFcOGC6g4plHi6YhIqnddPdy0HEsxaivv4jA&oe=69A00E07&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3830619416942169493",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIquMqDuKqtIAQgXzGboFAz+fsPesy7lBbCfdx6981C1xnGM5HfOP5c0AbSMmSrLsI67h39OuM/nUhTjev3exXg/kO1YCtvYk89+ea1LCclAme5/ADkAfWiw7lnzMd2/M0VY2r6fqf8aKdibnKf4AU2nZ5P1pM85pDJYxhc+tS2sxidSOhOD9DURYYq1p6qZBu6ryv1zRsPc2Pxoqfyx6UUc6HyM5XafMKgFjnjFP2sOoPvVq1H74/WryqNx4HQ1LY0rmLnnABJzjFWbE7plwDwcn6U2XiZsccH/wBBqXT+p+g/nT6CW50mR60VVoqbFXP/2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUpGBBwjU2V",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjE5NDE2OTQyMTY5NDkzIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Abhaya Tamrakar on February 11, 2026 tagging @studious_official, and @studious_tokyo_newyork. May be a graphic of magazine, poster, book and text that says 'JAPAN from to the WORLD Thefead \"TOKYORRANDUNTON STUDIOUS Itisthecal Curated Japanese designers with an original originalin-housecollection in-house collection STUDIOUS Shinjuku, Shibuya, Harajuku & Chuo City'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631485175_17863720905581151_8820364677867919718_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=EMER_Y5DlnEQ7kNvwGMSYQY&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Aft613057eYMl1-OL5UsMmLJW9SvEbkOe5DVziHnQxBotA&oe=69A01376&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631485175_17863720905581151_8820364677867919718_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=EMER_Y5DlnEQ7kNvwGMSYQY&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs42EC36v3jLJZrx_KZqk-CkSEEnzxgBEahBy6tdN2NCQ&oe=69A01376&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631485175_17863720905581151_8820364677867919718_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=EMER_Y5DlnEQ7kNvwGMSYQY&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afv90G_RiU3FDhMp-JT9p2848DpBHPsg9D7g6sXSX4jGtQ&oe=69A01376&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631485175_17863720905581151_8820364677867919718_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=EMER_Y5DlnEQ7kNvwGMSYQY&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsRml94Hln8PHf5XdixLacpMqQNB-E-o0asrMuQ-TvVNA&oe=69A01376&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3830619418116569557@1188813354",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "STUDIOUS\u3008\u30b9\u30c6\u30e5\u30c6\u3099\u30a3\u30aa\u30b9\u3009",
+                                            "id": "1188813354",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/448935266_377685591993289_3242990090048037308_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=2hys_YP7K64Q7kNvwFZTCoI&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvY3AMeUMJKzPS85T2SH4jmLkd2sI-MCbYnJOm-4d6wzA&oe=69A01083&_nc_sid=d885a2",
+                                            "username": "studious_official"
+                                        },
+                                        "x": 0.8524046434,
+                                        "y": 0.9836601298000001
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "3830619418116569557@64245778512",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "STUDIOUS TOKYO NEW YORK",
+                                            "id": "64245778512",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/461615020_569102148879759_5990633670997154425_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=TiDfnmdCJYkQ7kNvwFu5-K0&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftZAhUWFls_ofSn_wk8ImJ-RK42L-UylicQdyMwmhr2Rg&oe=69A0390C&_nc_sid=d885a2",
+                                            "username": "studious_tokyo_newyork"
+                                        },
+                                        "x": 0.2064676617,
+                                        "y": 0.9836601298000001
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3830619418116569557",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIq0lWlK4qE8HIYA+/FKJOxKn8aQycU8Lmq5mRepH51OkyHuPzpiHbKKXevqKKQznr05dfp/Wq2f9kfp3z/AI/pWjJCspy3am/Zk9/zNAGW8hzjaMYx2/P606GUrKrEYAI6YqCRsOcZxn1oXGc96Yjo/t6f3T+lFYm+igDZxTN3s35f/Xp4qSszSxQlhRiWKkkg9vQdfr71Ru7dbcKVJ+Ynhhjpj/GtiXp+DfyrP1fqn/Av5iqRLM3fRUYoqiT/2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUpGBC2jTnV",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjE5NDE4MTE2NTY5NTU3In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Abhaya Tamrakar on February 11, 2026. May be an image of sweatpants, clothes hanger and text that says 'This is \u03b1 great store if you want to check out multiple Japanese brands all in one place. They carry really clean, elevated essentials that you could wear for almost any occasion. Their in-house in- designs are also super modern, good quality, and easy to style.'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632009549_17863720929581151_4224461629280079701_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=4QmJDJzC6cAQ7kNvwH1OCKA&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvRe2PqdGoPwfnj_SJwhZtM4_DW9LFkgyLzH3glb32ITg&oe=69A040EE&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632009549_17863720929581151_4224461629280079701_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=4QmJDJzC6cAQ7kNvwH1OCKA&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftPvY4k97avWGt6PZv-WQg9kw-48K6MkRLYonLXiP-zhw&oe=69A040EE&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632009549_17863720929581151_4224461629280079701_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=4QmJDJzC6cAQ7kNvwH1OCKA&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfttYWbNLLhq4RH4emg0Jfb78X16nfKM7xqm5mlfYsBkZg&oe=69A040EE&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632009549_17863720929581151_4224461629280079701_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=4QmJDJzC6cAQ7kNvwH1OCKA&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsNoezQFb9uOh1W7fi6jif9uHXFaeZBex9LCwBiApvCNg&oe=69A040EE&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3830619419609776140",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIq0Kzk1JQfnUH1qWeZlXKnGQc/lWGWzmpQzdbUol6BhjqP8OTUE2p5I2DgjPPXn+VZIOOKuNG08JxgGI/KfUAcr+fT3NFh36C/b5PQUVm7yODRTEa0n3XB6BcisrNatwygOCecEVmJjBJ7A/0pIGOQZYe3NaRPlwqndjk/h8x/M7RVC3ALHnGB3z+X41pBUZgSwOOABn6k9PWhgiLyVPLMcnr9aKviJMdKKm7L0M+ZDJIdoJBHao3tpI0LFWx64PStewHDfX/GrcdVck5y1jaQEqCw6cCrcUEgdSVYAHJ4rdVQvQAfSn0mwsUPLHpRVzFFSM//2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUpGBEPjcAM",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjE5NDE5NjA5Nzc2MTQwIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo shared by Abhaya Tamrakar on February 11, 2026 tagging @neighborhood_official. May be an image of magazine and text that says 'STUDIO SHIBUX TOMo MON EVUDIO \u30a2\u8b80 NEIGHBORHOOD Heritage Japanese HeritageJapanesestretwearinspie streetwear inspired by military and American workwear Harajuku Harajuku&Shibuya & Shibuya'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631341932_17863720923581151_3761815387886122795_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=YLYyWnRn7uYQ7kNvwF5hWNq&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfteAeGAxftnPNr-HUcgt0_3-pwQ2iE18ITSaFAa5XgDbA&oe=69A014ED&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631341932_17863720923581151_3761815387886122795_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=YLYyWnRn7uYQ7kNvwF5hWNq&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftroGnTvpEvRngupWZOnWVMTSVXjeBcpbIu2TUHsZHWlg&oe=69A014ED&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631341932_17863720923581151_3761815387886122795_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=YLYyWnRn7uYQ7kNvwF5hWNq&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfssHDGSQieiPvxIEvfCdKea9N5Zdi5UYl4EP7HneWzDfA&oe=69A014ED&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631341932_17863720923581151_3761815387886122795_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=YLYyWnRn7uYQ7kNvwF5hWNq&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftIsQfvRbkmMJZ-XdwhgTEKyWBuj_XMOAMUZHqwCx5Dkw&oe=69A014ED&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "3830619420155025071@1171493658",
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "NEIGHBORHOOD\u00ae\ufe0e",
+                                            "id": "1171493658",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/16789743_1783632258630060_2334830271775375360_a.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=b2cLcPkbEgIQ7kNvwFMvnN3&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afv596i99_DyfXlDr4-IACLiRjzEHCCFTZhg5x9tFuOxMA&oe=69A01E51&_nc_sid=d885a2",
+                                            "username": "neighborhood_official"
+                                        },
+                                        "x": 0.8747927032,
+                                        "y": 0.9836601298000001
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3830619420155025071",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqt/Zm+v4//qqJ7dxn5T36c/41mLdlejsPxNTDUHH8f5//AKqLBctAFM5yOOD71KLjbgZPJxk8/wA6q/2i46lfxp39og8MEP4//rosBp7/AEPH0/8Ar0Vm/b4/7i/99UVNmO5hK5XjaDj1x7/407cQMbB254z0/wAmrLxfPuCEHrhcke/J5pwgc8gED0Pp7ZqyStuJGNoyOO3PbP171GdwGdo6D9D1+p6GtIWp6sSPan/Z1PB5+pP9MfzoAyPKJ5wfyorcEGOhH6//ABVFAFjmmM2PU/QVLimUCGB88YP4ikK+lPpaAIM0VYoouB//2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUpGBEwDZav",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjE5NDIwMTU1MDI1MDcxIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Abhaya Tamrakar on February 11, 2026. May be an image of duffle coat, overcoat, raincoat, parka and text that says 'Japanese streetwear heritgage. Can't say more than this. It's definitely on the pricier side, but the quality justifies it. Every piece feels like an elevated basic with a touch of modern streetwear, the kind of pieces that get noticed immediately.'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631375747_17863720944581151_6771025626403785663_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=tNVmUZaqmkwQ7kNvwHdSh7Z&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsR4BUWta4WsSv3b-jBRiAgsUUsQhHmWq8jPeIy5zgt3Q&oe=69A037CD&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631375747_17863720944581151_6771025626403785663_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=tNVmUZaqmkwQ7kNvwHdSh7Z&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuBne0xudqFbV5Q7v7jqoK0bqzIjXpIQb7FxcxqiPwczg&oe=69A037CD&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631375747_17863720944581151_6771025626403785663_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=tNVmUZaqmkwQ7kNvwHdSh7Z&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afue6TDc9iA715mJBp2hG--ZNfUbVIdN8E4Ms7M9wvp1BQ&oe=69A037CD&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631375747_17863720944581151_6771025626403785663_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=tNVmUZaqmkwQ7kNvwHdSh7Z&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfslfNcGuC_BNQ709_lDeO5IHPNosQNqRpJR_MtF5AJlxQ&oe=69A037CD&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3830619425616014114",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqw8noKXDbdwyRnHAPHpk9OaljO8jt/n8/1raSIG2YL8quTx1xjjIP1Ge+BSasrgnfQxQrBC5zx9Me/v8ApUe9k5xj2IrRiKMFizk85Ix7k+vT16VRlIBA64JHPpkUvIrzK5f2oqx5yDjaDj2ooEQo3AI7ce/5V0Fukwj2lSMnOWIA59up9xisq0uGtXyuDu6g9Dz6849q0kvWmOJXECf7Gc/mRn8sfSm3dWC1jKe3aFyO/t6fzxUXkSZzg4qzM0YbEWSP7xzlvf1/Oq5YnuanUrQn8tff9KKrZNFIY4/KcjmgPnrmgUw9adxEm7vzTC+e1IOtFADs0UlFAH//2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUpGBJ1jasi",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjE5NDI1NjE2MDE0MTE0In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "XDTGraphImage",
+                        "accessibility_caption": "Photo by Abhaya Tamrakar on February 11, 2026. May be a graphic of poster, magazine and text that says 'Hare OY Public Tokyo Studious Neighborhood These are my top 5. But there are plenty more worth exploring. Comment \"OYO\" and ' send you the full list (52 stores) Save this for your next trip Follow for more fashion content:)'.",
+                        "dimensions": {
+                            "height": 1350,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 800,
+                                "config_width": 640,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632557063_17863720953581151_4806542989156185340_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=GN2mU2XtUJUQ7kNvwEslbis&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsjkOx_JUjQN5gIKVkQVAeFjJHl3xNZq8rZZt3_YvOriw&oe=69A02EB4&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 937,
+                                "config_width": 750,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632557063_17863720953581151_4806542989156185340_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=GN2mU2XtUJUQ7kNvwEslbis&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afs4DebfixwLP-761jRGIGwgHo-AZCx3uxcGQpoRVDMzQQ&oe=69A02EB4&_nc_sid=d885a2"
+                            },
+                            {
+                                "config_height": 1350,
+                                "config_width": 1080,
+                                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632557063_17863720953581151_4806542989156185340_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=GN2mU2XtUJUQ7kNvwEslbis&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvLnI9vZUhgV8zqUVMr-unvU1wDoQCYoutS37RpGU1g8A&oe=69A02EB4&_nc_sid=d885a2"
+                            }
+                        ],
+                        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/632557063_17863720953581151_4806542989156185340_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=GN2mU2XtUJUQ7kNvwEslbis&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvNr56Ii9R89PRDRL9JSeBprhuFz0qPmQFn_gSBGfb-pA&oe=69A02EB4&_nc_sid=d885a2",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "3830619429583816764",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACIqz5ZioG3HvQtyzcHHHtTbiLBAOB1NMRAOeDSGS/aWUjgY/H/Gporou4XAwxx37/jVVkB9M1JAmJF6daYjZ3x+1FHlf7n6/wCFFIDEPzfe5+tKqr6UU8GkUO2KewNSKoU524PtTgPSpVANIBd/1oqTaKKBmK7MPu0/ccDGenPHf8ulNpM1RJMsjj/9VO8yUHp39KhBqRSaQy75relFUSaKQH//2Q==",
+                        "sensitivity_friction_info": null,
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DUpGBNiDYg8",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjE5NDI5NTgzODE2NzY0In0sInNpZ25hdHVyZSI6IiJ9",
+                        "upcoming_event": null
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "3830620361113538657",
+        "is_ad": false,
+        "is_affiliate": false,
+        "is_paid_partnership": false,
+        "is_video": false,
+        "like_and_view_counts_disabled": true,
+        "location": null,
+        "media_overlay_info": null,
+        "media_preview": null,
+        "nft_asset_info": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 8178
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 27
+            },
+            "followed_by_viewer": false,
+            "full_name": "Abhaya Tamrakar",
+            "has_blocked_viewer": false,
+            "id": "77423117150",
+            "is_embeds_disabled": false,
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": true,
+            "pass_tiering_recommendation": true,
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/561652784_17845993455581151_2433602623019530490_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NDkuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=78i-EACAB9YQ7kNvwHhSKay&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuiNLeZSBmO7tAgTMq-StiXl17hhcjt39Cl6Oh7mMLFxA&oe=69A04098&_nc_sid=d885a2",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "username": "ah.bayy"
+        },
+        "pinned_for_users": [],
+        "sensitivity_friction_info": null,
+        "sharing_friction_info": {
+            "bloks_app_url": null,
+            "should_have_sharing_friction": false
+        },
+        "shortcode": "DUpGOxFjRBh",
+        "taken_at_timestamp": 1770865553,
+        "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/631535156_17863720854581151_1454306758359252973_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGVb4BdneOdlx1KLnlp-z5ylrsWSPi69R-L6_PlrUe8yPeAfjlIgm3GcR9yZoKUZpY&_nc_ohc=BY6tXIYTD5kQ7kNvwHUj-8Q&_nc_gid=1TXGDRXE6NRF1K-D3mwXuQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsTzGBzVrdW08W3A9vMylLbDECuTNO5lK1w4uGtteiT2w&oe=69A04108&_nc_sid=d885a2",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjkyNjg4NTQxNjEwNGFmN2I1YjA4NmM0M2YzZTZjMWEzODMwNjIwMzYxMTEzNTM4NjU3In0sInNpZ25hdHVyZSI6IiJ9",
+        "upcoming_event": null,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

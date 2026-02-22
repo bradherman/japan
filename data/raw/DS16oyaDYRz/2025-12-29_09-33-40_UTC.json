@@ -1,0 +1,376 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.15"
+    },
+    "node": {
+        "__isXDTGraphMediaInterface": "XDTGraphVideo",
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "can_see_insights_as_brand": false,
+        "caption_is_edited": false,
+        "clips_music_attribution_info": {
+            "artist_name": "albertomariabergo",
+            "audio_id": "25880751838210312",
+            "should_mute_audio": false,
+            "should_mute_audio_reason": "",
+            "song_name": "Original audio",
+            "uses_original_audio": true
+        },
+        "coauthor_producers": [],
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 1136,
+            "width": 640
+        },
+        "display_resources": [
+            {
+                "config_height": 1136,
+                "config_width": 640,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/607205010_1583586466317090_1069597094745402929_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4Lm5mcmFtZV9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=vS8Zs1zL9GsQ7kNvwHfvn-Z&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvGHPImglNyEpPGWeKSbN_Ilfqq0auUdMWm0gU07SBN-g&oe=69A01AF7&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1331,
+                "config_width": 750,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/607205010_1583586466317090_1069597094745402929_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4Lm5mcmFtZV9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=vS8Zs1zL9GsQ7kNvwHfvn-Z&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvGHPImglNyEpPGWeKSbN_Ilfqq0auUdMWm0gU07SBN-g&oe=69A01AF7&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1917,
+                "config_width": 1080,
+                "src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/607205010_1583586466317090_1069597094745402929_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4Lm5mcmFtZV9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=vS8Zs1zL9GsQ7kNvwHfvn-Z&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvGHPImglNyEpPGWeKSbN_Ilfqq0auUdMWm0gU07SBN-g&oe=69A01AF7&_nc_sid=d885a2"
+            }
+        ],
+        "display_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/607205010_1583586466317090_1069597094745402929_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=vS8Zs1zL9GsQ7kNvwHfvn-Z&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvGHPImglNyEpPGWeKSbN_Ilfqq0auUdMWm0gU07SBN-g&oe=69A01AF7&_nc_sid=d885a2",
+        "edge_media_preview_comment": {
+            "count": 22,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1770938518,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "17951550441079959",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "72489101531",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/475676445_587007754198320_794200908766236535_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=XYm59LgCEI8Q7kNvwEGvIfl&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftZp4-NziT7H9bpS1jDHyGwDfr3S9Rq3IQYNZUqBEfaeQ&oe=699FF635&_nc_sid=d885a2",
+                            "username": "vladmirsantos71"
+                        },
+                        "text": "Where' the best shop to buy a used tag heuer?",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1770992543,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "18036118337780992",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "28875039803",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/482283558_1199614955108257_734300002773191699_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=iIFHop3sD4oQ7kNvwEfSdDD&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsx617oBWsveW4arCDUH5_bLN2kl1zdqdn7bgD49xH0dg&oe=699FFA37&_nc_sid=d885a2",
+                            "username": "albertomariabergo"
+                        },
+                        "text": "@vladmirsantos71 there is no specialist unfortunately. If you are looking for modern models I would look around Nakano while for vintage check out the socialist dealers like private eyes!",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 4233,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "created_at": "1767000820",
+                        "id": "18391234390180967",
+                        "text": "Over the last years working as a watch dealer, I have had the opportunity to explore the Tokyo watch scene and all of its best spots. These are my favorites watch shops where you will find amazing Rolex, Grand Seiko, Omega, Cartier, Seiko and more pieces at incredible prices!"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 22,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1770938518,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1770992543,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18036118337780992",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "28875039803",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/482283558_1199614955108257_734300002773191699_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=iIFHop3sD4oQ7kNvwEfSdDD&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsx617oBWsveW4arCDUH5_bLN2kl1zdqdn7bgD49xH0dg&oe=699FFA37&_nc_sid=d885a2",
+                                            "username": "albertomariabergo"
+                                        },
+                                        "text": "@vladmirsantos71 there is no specialist unfortunately. If you are looking for modern models I would look around Nakano while for vintage check out the socialist dealers like private eyes!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17951550441079959",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "72489101531",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/475676445_587007754198320_794200908766236535_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=XYm59LgCEI8Q7kNvwEGvIfl&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AftZp4-NziT7H9bpS1jDHyGwDfr3S9Rq3IQYNZUqBEfaeQ&oe=699FF635&_nc_sid=d885a2",
+                            "username": "vladmirsantos71"
+                        },
+                        "text": "Where' the best shop to buy a used tag heuer?",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1770722311,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1770726454,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18110636173726977",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "28875039803",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/482283558_1199614955108257_734300002773191699_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=iIFHop3sD4oQ7kNvwEfSdDD&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsx617oBWsveW4arCDUH5_bLN2kl1zdqdn7bgD49xH0dg&oe=699FFA37&_nc_sid=d885a2",
+                                            "username": "albertomariabergo"
+                                        },
+                                        "text": "@itsc_1 indeed very reliable for new watches. They have great range and choices but prices are slightly less competitive I would say but it\u2019s all relative",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18363283012166336",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "12587581",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/482693792_1355156092188186_2451136742159757626_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=ZAP0NU6YTXEQ7kNvwHmZhG5&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfvXyG5bOCBNi3WWjexwY32hiCYRKr3KPsrqYRFtoZfHFQ&oe=69A022C1&_nc_sid=d885a2",
+                            "username": "itsc_1"
+                        },
+                        "text": "Watchnian is great too!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1770446925,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 3,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1770491292,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18078421055364048",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "28875039803",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/482283558_1199614955108257_734300002773191699_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=iIFHop3sD4oQ7kNvwEfSdDD&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsx617oBWsveW4arCDUH5_bLN2kl1zdqdn7bgD49xH0dg&oe=699FFA37&_nc_sid=d885a2",
+                                            "username": "albertomariabergo"
+                                        },
+                                        "text": "@leetegordon yes it\u2019s a great store!",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1770491337,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18038068826532083",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "30862396",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/277032235_3129243487350779_6154497649686785234_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=6V_oBRrmhMQQ7kNvwG8YDHb&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuZRDqj5HcpqaJyR6nBdiYIu9Szc6ZTepdzQJFRSP_vtg&oe=69A0119D&_nc_sid=d885a2",
+                                            "username": "leetegordon"
+                                        },
+                                        "text": "@albertomariabergo also - Quark lab - exceptional. Very small - but excellent pieces and better value than a lot of other spots.",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1770491529,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18377642896088496",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "28875039803",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/482283558_1199614955108257_734300002773191699_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=iIFHop3sD4oQ7kNvwEfSdDD&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsx617oBWsveW4arCDUH5_bLN2kl1zdqdn7bgD49xH0dg&oe=699FFA37&_nc_sid=d885a2",
+                                            "username": "albertomariabergo"
+                                        },
+                                        "text": "@leetegordon yes for sure! Quark is definitely up there for everything Rolex",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18163385044408801",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "30862396",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/277032235_3129243487350779_6154497649686785234_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=6V_oBRrmhMQQ7kNvwG8YDHb&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfuZRDqj5HcpqaJyR6nBdiYIu9Szc6ZTepdzQJFRSP_vtg&oe=69A0119D&_nc_sid=d885a2",
+                            "username": "leetegordon"
+                        },
+                        "text": "I really enjoyed Kame-Kichi in Nakano.",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "{\"server_cursor\": \"QVFCLXdLN0ZWek1IYjZ1Ulo0elNYVVBnZW8yY0tGM3FON0pWZ1pna2ZFNVEzVjdWejVfdGV6NW5PdVJ6ZTQ2N1BMemxoMTREcUpzMkQwd1U2cGt0QVBKSA==\", \"is_server_cursor_inverse\": true}",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_ranked_comments": false,
+        "id": "3798199750357779571",
+        "is_ad": false,
+        "is_affiliate": false,
+        "is_paid_partnership": false,
+        "is_published": true,
+        "is_video": true,
+        "like_and_view_counts_disabled": false,
+        "location": {
+            "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Shibuya, Tokyo\", \"region_name\": \"\", \"country_code\": \"\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}",
+            "has_public_page": true,
+            "id": "100847574753640",
+            "name": "Tokyo, Japan",
+            "slug": "tokyo-japan"
+        },
+        "media_overlay_info": null,
+        "media_preview": "ABgqkC1UuY8sMDp7Ub5Gk3or7cYIzj6HuP61ND58e7CZ3MWGW6Z7VFixkYaR9xBCgdPeipWkn7hFPbkn+tFAEg3uCEz2PPX3qbbJuDZAUjHXv9Pr/hVWKdmG4nnpgd6VnIwQOx6noaFcTJZY+BlgMHaQBnIPcHtj+XFFMnKui7eG7gD+vSiizYtilHdRDj5nJ7IMfr/9eke7cnKIsfu3zGqWSCMcdamQ/Mh70ihJTLKNzMWH5foKKsxfcb2Ix+lFS5W0Ha5//9k=",
+        "nft_asset_info": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 130802
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 180
+            },
+            "followed_by_viewer": false,
+            "full_name": "Alberto Maria Bergo",
+            "has_blocked_viewer": false,
+            "id": "28875039803",
+            "is_embeds_disabled": false,
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": true,
+            "pass_tiering_recommendation": true,
+            "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/482283558_1199614955108257_734300002773191699_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=iIFHop3sD4oQ7kNvwEfSdDD&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Afsx617oBWsveW4arCDUH5_bLN2kl1zdqdn7bgD49xH0dg&oe=699FFA37&_nc_sid=d885a2",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "username": "albertomariabergo"
+        },
+        "pinned_for_users": [],
+        "product_type": "clips",
+        "sensitivity_friction_info": null,
+        "sharing_friction_info": {
+            "bloks_app_url": null,
+            "should_have_sharing_friction": false
+        },
+        "shortcode": "DS16oyaDYRz",
+        "taken_at_timestamp": 1767000820,
+        "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/607205010_1583586466317090_1069597094745402929_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QEiQFIkhGgDua0XTb0mw2v2YTxDnY-6W0k_DWtzNRwJZ5C6dssNvKY1AuaXYDNdRlM&_nc_ohc=vS8Zs1zL9GsQ7kNvwHfvn-Z&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfsxcEpXTOvgnIyTnYg8EG82GUpByIZTWdrOWzMUyXeY7w&oe=69A01AF7&_nc_sid=d885a2",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTI0YTJlYmNmOTY2NGZkMGI0NjQ5ZTAzOWU2MjYyN2MzNzk4MTk5NzUwMzU3Nzc5NTcxIn0sInNpZ25hdHVyZSI6IiJ9",
+        "upcoming_event": null,
+        "video_duration": 56.377,
+        "video_play_count": 231869,
+        "video_url": "https://scontent-sjc6-1.cdninstagram.com/o1/v/t2/f2/m86/AQM6b756sbiF_b2QXhbpk5L6I1pXSvZHA991Nx0h740UNt0ClB5HauYN1nzrihtutHBqdpCmz5PKMx-zEuUWkxGbgiA_h7CimiAYkEU.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_ohc=LMMHU2feH2MQ7kNvwHGUe4_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTIwMjUwNjU2MTMxMjI4NiwiYXNzZXRfYWdlX2RheXMiOjU0LCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6NTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qEiOkQKamISJir3ZzFw9oQ&_nc_zt=28&vs=84bff2453ddde99c&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MDRDNjFCQjQ0MDY2MEI0OTA5RUUxQzdGRENCMTM4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR3FaRlNTVS1jSHBoOThKQU9wMW9wZVVGVUVWYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmvNjqhozrogQVAigCQzMsF0BMLtkWhysCGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2WWqQEA&oh=00_AftcPVDpWIQGzgK_h74jtBydSa0cIO0GD_Wvsdo9uxSnNA&oe=699C1E1C",
+        "video_view_count": 109520,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

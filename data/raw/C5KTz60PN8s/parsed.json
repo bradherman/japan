@@ -1,0 +1,66 @@
+{
+  "url": "https://instagram.com/p/C5KTz60PN8s/",
+  "video_path": "/Users/bherms/src/japan/data/raw/C5KTz60PN8s/2024-03-31_02-01-09_UTC.mp4",
+  "caption": "Things that exist only in Japan.\n\nChoco Monaka Jumbo is one of my favorite ice creams of all time! It’s so popular that one bar gets sold every 0.17 seconds. \n\nThe ice cream is covered in a crispy monaka and it has delicious piece of chocolate inside\n\nYou can find it in almost every convenience store. \n\nBut before you it be sure to put in the toaster for 30 seconds. This will make your choco monaka jumbo taste even better!\n\n#pr #japan #japanthings #japanesefood #chocomonakajumbo",
+  "transcript": "Things that exist only in Japan. This ice cream is so popular that one bar gets sold every 0.17 seconds. It's called Choco Monaca Jumbo. And the reason it's so popular is because it's covered in a monaca wafer. And inside, you'll find the very crispy chocolate butt. The ice cream makers recommend putting it in the toaster for 30 seconds before eating it. It'll melt the ice cream and the chocolate and make the monaca even crispier. And once you take a bite, you'll know why everyone loves it.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "Things that exist only in Japan."
+    },
+    {
+      "start": 1.8,
+      "end": 6.04,
+      "text": "This ice cream is so popular that one bar gets sold every 0.17 seconds."
+    },
+    {
+      "start": 6.18,
+      "end": 7.88,
+      "text": "It's called Choco Monaca Jumbo."
+    },
+    {
+      "start": 7.98,
+      "end": 11.16,
+      "text": "And the reason it's so popular is because it's covered in a monaca wafer."
+    },
+    {
+      "start": 11.26,
+      "end": 13.54,
+      "text": "And inside, you'll find the very crispy chocolate butt."
+    },
+    {
+      "start": 13.66,
+      "end": 17.62,
+      "text": "The ice cream makers recommend putting it in the toaster for 30 seconds before eating it."
+    },
+    {
+      "start": 17.68,
+      "end": 20.76,
+      "text": "It'll melt the ice cream and the chocolate and make the monaca even crispier."
+    },
+    {
+      "start": 20.88,
+      "end": 23.12,
+      "text": "And once you take a bite, you'll know why everyone loves it."
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "Thimgsthatexist",
+      "confidence": 0.877,
+      "timestamp": 0.0
+    },
+    {
+      "text": "OnlyinJapan",
+      "confidence": 0.994,
+      "timestamp": 0.0
+    },
+    {
+      "text": "八",
+      "confidence": 0.991,
+      "timestamp": 12.0
+    }
+  ]
+}

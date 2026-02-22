@@ -1,0 +1,371 @@
+{
+  "url": "https://instagram.com/p/DUwzLwqkoZ6/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DUwzLwqkoZ6/2026-02-15_02-59-49_UTC.mp4",
+  "caption": "Tokyo, Japan 🇯🇵 \n\n📷 @lukemcameron \n\nTokyo Travel | Things to do in Tokyo Japan | Places to visit in Japan | Tokyo Cafes | Shibuya | Shinjuku | #japan #tokyo #japantravel #visitjapan",
+  "transcript": "Welcome to Tokyo TOKYO TOKYO 夜のゲートをくぐれば 街が呼んでる コソビルの陰で 夢が瞬く あなたの足音だけが リズムになる 初めての",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Welcome to Tokyo"
+    },
+    {
+      "start": 3.7,
+      "end": 7.7,
+      "text": "TOKYO"
+    },
+    {
+      "start": 11.4,
+      "end": 15.4,
+      "text": "TOKYO"
+    },
+    {
+      "start": 19.4,
+      "end": 25.9,
+      "text": "夜のゲートをくぐれば 街が呼んでる"
+    },
+    {
+      "start": 25.9,
+      "end": 33.9,
+      "text": "コソビルの陰で 夢が瞬く"
+    },
+    {
+      "start": 33.9,
+      "end": 41.9,
+      "text": "あなたの足音だけが リズムになる"
+    },
+    {
+      "start": 41.9,
+      "end": 43.5,
+      "text": "初めての"
+    }
+  ],
+  "detected_language": "ja",
+  "onscreen_texts": [
+    {
+      "text": "20",
+      "confidence": 1.0,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Things to do",
+      "confidence": 0.961,
+      "timestamp": 0.0
+    },
+    {
+      "text": "in ToKyO",
+      "confidence": 0.404,
+      "timestamp": 0.0
+    },
+    {
+      "text": "Gotokuji cat_temple",
+      "confidence": 0.643,
+      "timestamp": 2.0
+    },
+    {
+      "text": "2",
+      "confidence": 1.0,
+      "timestamp": 4.0
+    },
+    {
+      "text": "Teau Lal Planets",
+      "confidence": 0.508,
+      "timestamp": 4.0
+    },
+    {
+      "text": "3.Strawherry",
+      "confidence": 0.548,
+      "timestamp": 6.0
+    },
+    {
+      "text": "mania",
+      "confidence": 0.998,
+      "timestamp": 6.0
+    },
+    {
+      "text": "4",
+      "confidence": 0.997,
+      "timestamp": 8.0
+    },
+    {
+      "text": "Omoide Yokocho",
+      "confidence": 0.886,
+      "timestamp": 8.0
+    },
+    {
+      "text": "豚足料理",
+      "confidence": 0.998,
+      "timestamp": 8.0
+    },
+    {
+      "text": "あくがき",
+      "confidence": 0.808,
+      "timestamp": 8.0
+    },
+    {
+      "text": "しんちゃん",
+      "confidence": 0.72,
+      "timestamp": 8.0
+    },
+    {
+      "text": "5",
+      "confidence": 1.0,
+      "timestamp": 10.0
+    },
+    {
+      "text": "Hie shrine",
+      "confidence": 0.843,
+      "timestamp": 10.0
+    },
+    {
+      "text": "Shibuya",
+      "confidence": 0.841,
+      "timestamp": 12.0
+    },
+    {
+      "text": "ShIBUVASkY",
+      "confidence": 0.551,
+      "timestamp": 12.0
+    },
+    {
+      "text": "Sky",
+      "confidence": 0.995,
+      "timestamp": 12.0
+    },
+    {
+      "text": "Asakusa",
+      "confidence": 0.999,
+      "timestamp": 14.0
+    },
+    {
+      "text": "(uC)",
+      "confidence": 0.664,
+      "timestamp": 16.0
+    },
+    {
+      "text": "8",
+      "confidence": 1.0,
+      "timestamp": 16.0
+    },
+    {
+      "text": "Shibuya Grossing",
+      "confidence": 0.845,
+      "timestamp": 16.0
+    },
+    {
+      "text": "VI",
+      "confidence": 0.818,
+      "timestamp": 16.0
+    },
+    {
+      "text": "DHC",
+      "confidence": 0.989,
+      "timestamp": 16.0
+    },
+    {
+      "text": "州",
+      "confidence": 0.885,
+      "timestamp": 16.0
+    },
+    {
+      "text": "RAL",
+      "confidence": 0.97,
+      "timestamp": 18.0
+    },
+    {
+      "text": "Onibus Cafe",
+      "confidence": 0.941,
+      "timestamp": 18.0
+    },
+    {
+      "text": "川",
+      "confidence": 0.815,
+      "timestamp": 18.0
+    },
+    {
+      "text": "RD",
+      "confidence": 0.999,
+      "timestamp": 18.0
+    },
+    {
+      "text": "POUR",
+      "confidence": 0.577,
+      "timestamp": 18.0
+    },
+    {
+      "text": "MOT",
+      "confidence": 0.455,
+      "timestamp": 18.0
+    },
+    {
+      "text": "4-5",
+      "confidence": 0.918,
+      "timestamp": 18.0
+    },
+    {
+      "text": "Poun",
+      "confidence": 0.472,
+      "timestamp": 18.0
+    },
+    {
+      "text": "BACK",
+      "confidence": 0.748,
+      "timestamp": 18.0
+    },
+    {
+      "text": "STEhDY",
+      "confidence": 0.48,
+      "timestamp": 18.0
+    },
+    {
+      "text": "TW",
+      "confidence": 0.889,
+      "timestamp": 18.0
+    },
+    {
+      "text": "ToWARD",
+      "confidence": 0.976,
+      "timestamp": 18.0
+    },
+    {
+      "text": "0",
+      "confidence": 0.979,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Shinjuku",
+      "confidence": 0.995,
+      "timestamp": 20.0
+    },
+    {
+      "text": "S",
+      "confidence": 0.467,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Cat",
+      "confidence": 0.964,
+      "timestamp": 20.0
+    },
+    {
+      "text": "Pet",
+      "confidence": 0.924,
+      "timestamp": 20.0
+    },
+    {
+      "text": "The Matcha Tokyo",
+      "confidence": 0.476,
+      "timestamp": 22.0
+    },
+    {
+      "text": "12 .",
+      "confidence": 0.412,
+      "timestamp": 24.0
+    },
+    {
+      "text": "Shiro-Iige's Bakery",
+      "confidence": 0.565,
+      "timestamp": 24.0
+    },
+    {
+      "text": "13",
+      "confidence": 1.0,
+      "timestamp": 26.0
+    },
+    {
+      "text": "Rikugien gardens",
+      "confidence": 0.911,
+      "timestamp": 26.0
+    },
+    {
+      "text": "14.",
+      "confidence": 0.719,
+      "timestamp": 28.0
+    },
+    {
+      "text": "Shopping",
+      "confidence": 0.852,
+      "timestamp": 28.0
+    },
+    {
+      "text": "7",
+      "confidence": 0.958,
+      "timestamp": 28.0
+    },
+    {
+      "text": "'::",
+      "confidence": 0.84,
+      "timestamp": 30.0
+    },
+    {
+      "text": "16.",
+      "confidence": 0.535,
+      "timestamp": 32.0
+    },
+    {
+      "text": "uip",
+      "confidence": 0.845,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Kauakura",
+      "confidence": 0.889,
+      "timestamp": 32.0
+    },
+    {
+      "text": "Day",
+      "confidence": 0.776,
+      "timestamp": 32.0
+    },
+    {
+      "text": "映画",
+      "confidence": 0.939,
+      "timestamp": 34.0
+    },
+    {
+      "text": "演",
+      "confidence": 0.809,
+      "timestamp": 34.0
+    },
+    {
+      "text": "矢口",
+      "confidence": 0.419,
+      "timestamp": 34.0
+    },
+    {
+      "text": "Nciji shvine",
+      "confidence": 0.515,
+      "timestamp": 36.0
+    },
+    {
+      "text": "19",
+      "confidence": 0.976,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Iarujuku",
+      "confidence": 0.774,
+      "timestamp": 38.0
+    },
+    {
+      "text": "Shinjuku Gyoen garden",
+      "confidence": 0.57,
+      "timestamp": 40.0
+    },
+    {
+      "text": "(",
+      "confidence": 0.71,
+      "timestamp": 42.0
+    },
+    {
+      "text": "VISA",
+      "confidence": 0.994,
+      "timestamp": 42.0
+    },
+    {
+      "text": "龍角前",
+      "confidence": 0.785,
+      "timestamp": 42.0
+    }
+  ]
+}

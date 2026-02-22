@@ -1,0 +1,176 @@
+{
+  "url": "https://instagram.com/p/DUyNtMyiOS9/",
+  "video_path": "/Users/bherms/src/japan/data/raw/DUyNtMyiOS9/2026-02-15_16-04-22_UTC_7.mp4",
+  "caption": "@foodiswhyimbroke takes us on a food tour with some of Japan’s most amazing chefs! 👨‍🍳🎌\n\n💡Restaurants mentioned:\n\n1. Kichi Kichi Omurice キチ・キチ\n185-4 Zaimokucho, Nakagyo Ward, Kyoto, 604-8017, Japan\n\n2. Hekkelun コーヒー＆プリン へッケルン\nJapan, 〒105-0003 Tokyo, Minato City, Nishishinbashi, 1 Chome−20−11 安藤ビル 1F\n\n3. Izakaya Toyo 京橋居酒屋 とよ\n3 Chome-2-26 Higashinodamachi, Miyakojima Ward, Osaka, 534-0024, Japan\n\n4. Tensuke 天すけ\n3 Chome-22-7 Koenjikita, Suginami City, Tokyo 166-0002, Japan\n\n5. Sushi Taira\nNo address until you book. Not on google map.\n\n6. Sushi Yoshikawa 鮨 よしかわ\nJapan, 〒150-0013 Tokyo, Shibuya City, Ebisu, 1 Chome−6−3 ゼネラル恵比寿イースト1階\n\nHave you visited any of these places before? Tell us in the comments below 😋",
+  "transcript": "eight this monster dragon ball roll this is the most iconic part of my omakase at sushi yoshikawa in ibisu it's actually a very affordable meal at only 11 000 yen that's 80 us dollars and you get a wide selection of fish there are a total of 17 pieces with a mix of nigiri and small dishes however the star of this show is definitely the dragon ball roll with ekyo toro and uni this is one of the most beautiful things i've ever seen i could eat the entire thing by myself though the meal is finished with an unagi hand roll so if you want an affordable place to experience omakase in tokyo check this place out",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 7.12,
+      "text": "eight this monster dragon ball roll this is the most iconic part of my omakase at sushi yoshikawa"
+    },
+    {
+      "start": 7.12,
+      "end": 14.48,
+      "text": "in ibisu it's actually a very affordable meal at only 11 000 yen that's 80 us dollars and you get"
+    },
+    {
+      "start": 14.48,
+      "end": 20.96,
+      "text": "a wide selection of fish there are a total of 17 pieces with a mix of nigiri and small dishes"
+    },
+    {
+      "start": 20.96,
+      "end": 28.0,
+      "text": "however the star of this show is definitely the dragon ball roll with ekyo toro and uni this is"
+    },
+    {
+      "start": 28.0,
+      "end": 33.44,
+      "text": "one of the most beautiful things i've ever seen i could eat the entire thing by myself though"
+    },
+    {
+      "start": 33.44,
+      "end": 38.24,
+      "text": "the meal is finished with an unagi hand roll so if you want an affordable place to experience"
+    },
+    {
+      "start": 38.24,
+      "end": 50.0,
+      "text": "omakase in tokyo check this place out"
+    }
+  ],
+  "detected_language": "en",
+  "onscreen_texts": [
+    {
+      "text": "otniyomalase",
+      "confidence": 0.415,
+      "timestamp": 4.0
+    },
+    {
+      "text": "atsushi Yoshikawain Ebisu",
+      "confidence": 0.978,
+      "timestamp": 8.0
+    },
+    {
+      "text": "its",
+      "confidence": 0.95,
+      "timestamp": 10.0
+    },
+    {
+      "text": "actuallyavery affordable",
+      "confidence": 0.575,
+      "timestamp": 10.0
+    },
+    {
+      "text": "mealatonly 11,OOOyen",
+      "confidence": 0.826,
+      "timestamp": 10.0
+    },
+    {
+      "text": "itsactuallya very affordable",
+      "confidence": 0.769,
+      "timestamp": 12.0
+    },
+    {
+      "text": "mealatonly11,OOOyen",
+      "confidence": 0.595,
+      "timestamp": 12.0
+    },
+    {
+      "text": "thats $80 and you",
+      "confidence": 0.72,
+      "timestamp": 14.0
+    },
+    {
+      "text": "a",
+      "confidence": 0.902,
+      "timestamp": 14.0
+    },
+    {
+      "text": "wide selection offish",
+      "confidence": 0.759,
+      "timestamp": 14.0
+    },
+    {
+      "text": "get",
+      "confidence": 1.0,
+      "timestamp": 14.0
+    },
+    {
+      "text": "thats $80 andyougeta",
+      "confidence": 0.982,
+      "timestamp": 16.0
+    },
+    {
+      "text": "there are_atotalof17pieces",
+      "confidence": 0.717,
+      "timestamp": 18.0
+    },
+    {
+      "text": "witha mix ofnigiris and",
+      "confidence": 0.924,
+      "timestamp": 20.0
+    },
+    {
+      "text": "small dishes",
+      "confidence": 0.631,
+      "timestamp": 20.0
+    },
+    {
+      "text": "howeverthe star ofthe",
+      "confidence": 0.628,
+      "timestamp": 22.0
+    },
+    {
+      "text": "showis definitely",
+      "confidence": 0.845,
+      "timestamp": 22.0
+    },
+    {
+      "text": "the Dragon Ballrollwith egg",
+      "confidence": 0.454,
+      "timestamp": 24.0
+    },
+    {
+      "text": "yolk",
+      "confidence": 0.996,
+      "timestamp": 24.0
+    },
+    {
+      "text": "could eattheentire thing",
+      "confidence": 0.682,
+      "timestamp": 32.0
+    },
+    {
+      "text": "bymyselfthough",
+      "confidence": 0.722,
+      "timestamp": 32.0
+    },
+    {
+      "text": "the mealis iinished withan",
+      "confidence": 0.539,
+      "timestamp": 34.0
+    },
+    {
+      "text": "unagihandroll",
+      "confidence": 1.0,
+      "timestamp": 34.0
+    },
+    {
+      "text": "the mealis finished with an",
+      "confidence": 0.666,
+      "timestamp": 36.0
+    },
+    {
+      "text": "uagihandroll",
+      "confidence": 0.624,
+      "timestamp": 36.0
+    },
+    {
+      "text": "placetoexperience",
+      "confidence": 0.998,
+      "timestamp": 38.0
+    }
+  ]
+}
