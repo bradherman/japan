@@ -1,5 +1,5 @@
 import { useRef, useEffect } from 'react'
-import { cn, getDayCity, formatDate, getDayOfWeek, getCityBg } from '@/lib/utils'
+import { cn, getDayCity, formatDate, getDayOfWeek, getCityBg, getCityTextColor } from '@/lib/utils'
 
 interface Props {
   selectedDay: number
@@ -34,13 +34,16 @@ export function DayPicker({ selectedDay, onSelect }: Props) {
             className={cn(
               'flex shrink-0 flex-col items-center rounded-xl px-2.5 py-1.5 text-xs transition-all',
               isSelected
-                ? 'bg-surface-2 text-text ring-1 ring-border shadow-lg'
+                ? cn('bg-surface-2 shadow-lg', getCityTextColor(city))
                 : 'text-text-tertiary hover:bg-surface hover:text-text-secondary'
             )}
+            style={isSelected ? {
+              boxShadow: `0 0 20px var(--color-${city.toLowerCase()})15, 0 0 0 1px var(--color-${city.toLowerCase()})40`,
+            } : undefined}
           >
             <span className="text-[10px]">{getDayOfWeek(day)}</span>
-            <span className="text-sm font-bold tabular-nums">{formatDate(day).split(' ')[1]}</span>
-            <span className={cn('mt-0.5 h-1.5 w-1.5 rounded-full transition-transform', getCityBg(city), isSelected && 'scale-125')} />
+            <span className={cn('text-sm font-bold tabular-nums', isSelected ? 'text-text' : '')}>{formatDate(day).split(' ')[1]}</span>
+            <span className={cn('mt-0.5 h-1.5 w-1.5 rounded-full transition-transform', getCityBg(city), isSelected && 'scale-150')} />
           </button>
         )
       })}

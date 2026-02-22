@@ -1,18 +1,42 @@
 import { useState, useRef, useEffect } from 'react'
 import { MessageCircle, X, Send } from 'lucide-react'
-import { cn } from '@/lib/utils'
+import { cn, getTripDay, getDayCity, getTimeGreeting } from '@/lib/utils'
 
 interface Message {
   role: 'user' | 'assistant'
   content: string
 }
 
-const SUGGESTIONS = [
-  'What should we eat near us?',
-  'How do we get to our next stop?',
-  'What time is dinner?',
-  'Backup plan for tonight?',
-]
+function getSuggestions(): string[] {
+  const h = new Date().getHours()
+  const day = getTripDay()
+  const city = day ? getDayCity(day) : null
+
+  if (h < 10) return [
+    'Where should we get coffee?',
+    "What's the plan this morning?",
+    'Any tips for today?',
+    'How do we get to our first stop?',
+  ]
+  if (h < 14) return [
+    'What should we eat for lunch?',
+    'How do we get to our next stop?',
+    "What's the afternoon plan?",
+    city === 'Tokyo' ? 'Any good shops nearby?' : 'What should we see nearby?',
+  ]
+  if (h < 18) return [
+    "Where's dinner tonight?",
+    'Backup plan for this evening?',
+    "What time do we need to be there?",
+    'Any bars near our restaurant?',
+  ]
+  return [
+    "What's the plan for tomorrow?",
+    'Any good late-night spots?',
+    'How do we get back to the hotel?',
+    "What time do we start tomorrow?",
+  ]
+}
 
 function renderMarkdown(text: string) {
   return text
@@ -52,7 +76,15 @@ export function ChatSheet() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ messages: newMessages }),
       })
+      const contentType = res.headers.get('content-type') || ''
+      if (!contentType.includes('application/json')) {
+        const text = await res.text()
+        setMessages(prev => [...prev, { role: 'assistant', content: `Server error (${res.status}). Try again in a moment.` }])
+        console.error('Chat non-JSON response:', res.status, text.slice(0, 200))
+        return
+      }
       const data = await res.json()
+      if (data.detail) console.error('Chat API detail:', data.detail)
       setMessages(prev => [...prev, { role: 'assistant', content: data.response || data.error || 'Something went wrong' }])
     } catch {
       setMessages(prev => [...prev, { role: 'assistant', content: 'Could not reach the server. Are you offline?' }])
@@ -72,6 +104,9 @@ export function ChatSheet() {
       </button>
     )
   }
+
+  const greeting = getTimeGreeting()
+  const suggestions = getSuggestions()
 
   return (
     <div className="fixed inset-0 z-50 flex flex-col bg-bg animate-slide-up">
@@ -97,9 +132,12 @@ export function ChatSheet() {
             <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-accent/10">
               <MessageCircle className="h-6 w-6 text-accent" />
             </div>
-            <p className="text-sm text-text-secondary">Ask me anything about the trip</p>
+            <div className="text-center">
+              <p className="text-sm text-text-secondary">{greeting}! Ask me anything.</p>
+              <p className="mt-0.5 text-xs text-text-tertiary">I know the whole itinerary.</p>
+            </div>
             <div className="flex flex-wrap gap-2 justify-center">
-              {SUGGESTIONS.map(s => (
+              {suggestions.map(s => (
                 <button
                   key={s}
                   onClick={() => send(s)}
@@ -132,7 +170,7 @@ export function ChatSheet() {
         {loading && (
           <div className="flex justify-start">
             <div className="rounded-2xl rounded-bl-lg bg-surface px-4 py-3 ring-1 ring-border/50">
-              <div className="flex gap-1">
+              <div className="flex gap-1.5">
                 <span className="h-1.5 w-1.5 rounded-full bg-text-tertiary animate-bounce" style={{ animationDelay: '0ms' }} />
                 <span className="h-1.5 w-1.5 rounded-full bg-text-tertiary animate-bounce" style={{ animationDelay: '150ms' }} />
                 <span className="h-1.5 w-1.5 rounded-full bg-text-tertiary animate-bounce" style={{ animationDelay: '300ms' }} />

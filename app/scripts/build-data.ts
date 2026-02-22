@@ -122,14 +122,18 @@ function parseItinerary() {
         const trimmed = line.trim()
         if (!trimmed || trimmed.startsWith('*') && trimmed.endsWith('*') && !trimmed.startsWith('**')) continue
 
-        // Numbered or bulleted activity: 1. **[Name](link)** — description
-        const actMatch = trimmed.match(/^(?:\d+\.\s+|\-\s+)\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s*(?:—\s*(.+))?/)
-          || trimmed.match(/^(?:\d+\.\s+|\-\s+)\*\*([^*]+)\*\*\s*(?:—\s*(.+))?/)
+        // Numbered or bulleted activity: 1. **[Name](link)** (optional neighborhood) — description
+        const actMatch = trimmed.match(/^(?:\d+\.\s+|\-\s+)\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s*(.*)/)
+          || trimmed.match(/^(?:\d+\.\s+|\-\s+)\*\*([^*]+)\*\*\s*(.*)/)
 
         if (actMatch) {
           const name = actMatch[1]
           const mapLink = actMatch[2]?.startsWith('http') ? actMatch[2] : undefined
-          const rest = (mapLink ? actMatch[3] : actMatch[2]) || ''
+          // Everything after ** — find description after em-dash
+          const afterBold = (mapLink ? actMatch[3] : actMatch[2]) || ''
+          // Strip leading (Neighborhood) and find description after —
+          const dashIdx = afterBold.indexOf('—')
+          const rest = dashIdx >= 0 ? afterBold.slice(dashIdx + 1).trim() : ''
 
           const priority = /PRIORITY|PICK/i.test(rest) || /PRIORITY|PICK/i.test(trimmed)
           const reservationRequired = /reservation|BOOK|ADVANCE TICKET/i.test(trimmed)
@@ -147,13 +151,17 @@ function parseItinerary() {
           })
         } else if (trimmed.startsWith('- **') && !trimmed.startsWith('- **~')) {
           // Bulleted bold item (sub-items, venues, etc.)
-          const subMatch = trimmed.match(/^-\s+\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s*(?:[—–-]\s*(.+))?/)
-            || trimmed.match(/^-\s+\*\*([^*]+)\*\*\s*(?:[—–-]\s*(.+))?/)
+          const subMatch = trimmed.match(/^-\s+\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s*(.*)/)
+            || trimmed.match(/^-\s+\*\*([^*]+)\*\*\s*(.*)/)
           if (subMatch) {
+            const subMapLink = subMatch[2]?.startsWith('http') ? subMatch[2] : undefined
+            const subAfterBold = (subMapLink ? subMatch[3] : subMatch[2]) || ''
+            const subDashIdx = subAfterBold.search(/[—–]/)
+            const subDesc = subDashIdx >= 0 ? subAfterBold.slice(subDashIdx + 1).trim() : ''
             activities.push({
               name: subMatch[1],
-              mapLink: subMatch[2]?.startsWith('http') ? subMatch[2] : extractMapLink(trimmed),
-              description: cleanText(subMatch[subMatch[2]?.startsWith('http') ? 3 : 2] || '').trim() || undefined,
+              mapLink: subMapLink || extractMapLink(trimmed),
+              description: cleanText(subDesc).trim() || undefined,
             })
           }
         } else if (trimmed.startsWith('- **') || /^\d+\.\s+\*\*/.test(trimmed)) {
@@ -575,8 +583,8 @@ function parseTransport() {
 // ============================================================
 // 5. Parse packing-list.md
 // ============================================================
-function parsePackingList() {
-  const md = read('notes/finalized/packing-list.md')
+function parsePackingFile(filePath: string, idPrefix: string) {
+  const md = read(filePath)
   const categories: Array<{ name: string; items: Array<{ id: string; text: string; checked: boolean }> }> = []
   let currentCategory: typeof categories[0] | null = null
   let itemIdx = 0
@@ -603,7 +611,7 @@ function parsePackingList() {
       const checked = trimmed.startsWith('- [x]')
       const text = trimmed.replace(/^- \[[ x]\]\s*/, '')
       currentCategory.items.push({
-        id: `pack-${itemIdx++}`,
+        id: `${idPrefix}-${itemIdx++}`,
         text: cleanText(text),
         checked,
       })
@@ -618,7 +626,7 @@ function parsePackingList() {
       if (/^- \[[ x]\]/.test(line.trim())) {
         const checked = line.trim().startsWith('- [x]')
         items.push({
-          id: `pack-${itemIdx++}`,
+          id: `${idPrefix}-${itemIdx++}`,
           text: cleanText(line.trim().replace(/^- \[[ x]\]\s*/, '')),
           checked,
         })
@@ -630,6 +638,13 @@ function parsePackingList() {
   }
 
   return categories
+}
+
+function parsePackingList() {
+  return {
+    male: parsePackingFile('notes/finalized/packing-list.md', 'pack-m'),
+    female: parsePackingFile('notes/finalized/packing-list-female.md', 'pack-f'),
+  }
 }
 
 // ============================================================
@@ -676,11 +691,12 @@ function parseRestaurantGuide() {
       if (fieldMatch) {
         fields[fieldMatch[1].toLowerCase()] = cleanText(fieldMatch[2])
       }
-      // Tags from name line
-      if (/Michelin|Bib Gourmand/i.test(nameLine)) tags.push('Michelin')
-      if (/TOP PICK|BEST/i.test(nameLine)) tags.push('Top Pick')
-      if (/INSTAGRAM/i.test(nameLine)) tags.push('Instagram Rec')
     }
+
+    // Tags from name line (outside the loop — once per restaurant)
+    if (/Michelin|Bib Gourmand/i.test(nameLine)) tags.push('Michelin')
+    if (/TOP PICK|BEST/i.test(nameLine)) tags.push('Top Pick')
+    if (/INSTAGRAM/i.test(nameLine)) tags.push('Instagram Rec')
 
     if (fields['payment']?.toLowerCase().includes('cash')) tags.push('Cash Only')
     if (fields['what to order']) tags.push('Must Order')

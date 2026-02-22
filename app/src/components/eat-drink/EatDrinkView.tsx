@@ -3,6 +3,7 @@ import { MapPin, Search, X, UtensilsCrossed, Wine } from 'lucide-react'
 import { restaurants, nightlife } from '@/data'
 import { CityBadge } from '@/components/ui/CityBadge'
 import { cn } from '@/lib/utils'
+import { YenUsd } from '@/components/ui/YenUsd'
 
 type Tab = 'restaurants' | 'nightlife'
 const cities = ['All', 'Tokyo', 'Kyoto', 'Osaka'] as const
@@ -60,9 +61,9 @@ export function EatDrinkView() {
                 key={t.key}
                 onClick={() => setTab(t.key)}
                 className={cn(
-                  'flex flex-1 items-center justify-center gap-1.5 rounded-lg px-3 py-2 text-xs font-medium transition-all',
+                  'flex flex-1 items-center justify-center gap-1.5 rounded-lg px-3 py-2 text-xs font-semibold transition-all',
                   tab === t.key
-                    ? 'bg-surface-2 text-text shadow-sm'
+                    ? 'bg-accent/15 text-accent shadow-sm'
                     : 'text-text-tertiary hover:text-text-secondary'
                 )}
               >
@@ -74,20 +75,29 @@ export function EatDrinkView() {
 
           {/* City chips */}
           <div className="mt-2.5 flex gap-1.5">
-            {cities.map(c => (
-              <button
-                key={c}
-                onClick={() => setCity(c)}
-                className={cn(
-                  'rounded-lg px-3 py-1.5 text-xs font-medium transition-all',
-                  city === c
-                    ? 'bg-surface-2 text-text ring-1 ring-border'
-                    : 'text-text-tertiary hover:text-text-secondary'
-                )}
-              >
-                {c}
-              </button>
-            ))}
+            {cities.map(c => {
+              const isActive = city === c
+              const colorMap: Record<string, string> = {
+                'Tokyo': 'bg-tokyo/15 text-tokyo ring-tokyo/30',
+                'Kyoto': 'bg-kyoto/15 text-kyoto ring-kyoto/30',
+                'Osaka': 'bg-osaka/15 text-osaka ring-osaka/30',
+                'All': 'bg-surface-2 text-text ring-border',
+              }
+              return (
+                <button
+                  key={c}
+                  onClick={() => setCity(c)}
+                  className={cn(
+                    'rounded-lg px-3 py-1.5 text-xs font-semibold transition-all',
+                    isActive
+                      ? cn('ring-1', colorMap[c] || 'bg-surface-2 text-text ring-border')
+                      : 'text-text-tertiary hover:text-text-secondary hover:bg-surface'
+                  )}
+                >
+                  {c}
+                </button>
+              )
+            })}
           </div>
 
           {/* Search */}
@@ -127,7 +137,7 @@ export function EatDrinkView() {
           <div className="stagger-children space-y-2">
             {tab === 'restaurants' ? (
               filteredRestaurants.map(r => (
-                <div key={r.id} className="rounded-2xl bg-surface p-4">
+                <div key={r.id} className={cn('rounded-2xl bg-surface p-4', `card-accent-${(r.city || 'tokyo').toLowerCase()}`)}>
                   <div className="flex items-start justify-between gap-3">
                     <div className="min-w-0 flex-1">
                       <div className="flex items-center gap-2 flex-wrap">
@@ -137,7 +147,7 @@ export function EatDrinkView() {
                       <div className="mt-1 flex items-center gap-1.5 flex-wrap text-[11px] text-text-tertiary">
                         {r.category && <span>{r.category}</span>}
                         {r.category && r.price && <span>·</span>}
-                        {r.price && <span className="text-emerald-400">{r.price}</span>}
+                        {r.price && <YenUsd text={r.price} />}
                         {(r.category || r.price) && r.neighborhood && <span>·</span>}
                         {r.neighborhood && <span>{r.neighborhood}</span>}
                       </div>
@@ -176,7 +186,7 @@ export function EatDrinkView() {
               ))
             ) : (
               filteredVenues.map(v => (
-                <div key={v.id} className="rounded-2xl bg-surface p-4">
+                <div key={v.id} className={cn('rounded-2xl bg-surface p-4', `card-accent-${(v.city || 'tokyo').toLowerCase()}`)}>
                   <div className="flex items-start justify-between gap-3">
                     <div className="min-w-0 flex-1">
                       <div className="flex items-center gap-2 flex-wrap">
@@ -187,7 +197,7 @@ export function EatDrinkView() {
                         {v.category && <span>{v.category}</span>}
                         {v.category && v.neighborhood && <span>·</span>}
                         {v.neighborhood && <span>{v.neighborhood}</span>}
-                        {v.cover && <><span>·</span><span className="text-emerald-400">{v.cover}</span></>}
+                        {v.cover && <><span>·</span><YenUsd text={v.cover} /></>}
                       </div>
                       {v.tags && v.tags.length > 0 && (
                         <div className="mt-1.5 flex gap-1 flex-wrap">

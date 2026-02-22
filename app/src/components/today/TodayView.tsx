@@ -1,8 +1,9 @@
 import { useState, useMemo } from 'react'
-import { ChevronLeft, ChevronRight, MapPin, AlertTriangle, Coffee, Train, Info } from 'lucide-react'
+import { ChevronLeft, ChevronRight, MapPin, AlertTriangle, Coffee, Train, Info, Cake } from 'lucide-react'
 import { schedule, itinerary, transport } from '@/data'
 import { CityBadge } from '@/components/ui/CityBadge'
-import { cn, getDayCity, getCityAccent, formatDate, getDayOfWeek, getTripDay } from '@/lib/utils'
+import { YenUsd } from '@/components/ui/YenUsd'
+import { cn, getDayCity, getCityAccent, formatDate, getDayOfWeek, getTripDay, getTripCountdown, getTimeGreeting, isBradsBirthday } from '@/lib/utils'
 
 export function TodayView() {
   const tripDay = getTripDay()
@@ -13,14 +14,32 @@ export function TodayView() {
   const dayTransport = useMemo(() => transport.days.find(t => t.dayNumber === selectedDay), [selectedDay])
   const city = getDayCity(selectedDay)
   const cityAccent = getCityAccent(city)
+  const countdown = getTripCountdown()
+  const birthday = isBradsBirthday(selectedDay)
 
   const prev = () => setSelectedDay(d => Math.max(1, d - 1))
   const next = () => setSelectedDay(d => Math.min(16, d + 1))
 
   return (
-    <div className="flex flex-col pb-20">
+    <div className={cn('flex flex-col pb-20', `city-glow-${city.toLowerCase()}`)}>
       {/* Day header */}
       <div className="sticky top-0 z-40 border-b border-border bg-bg/90 backdrop-blur-xl">
+        {/* Pre-trip countdown or during-trip greeting */}
+        {countdown.type === 'before' && (
+          <div className="mx-auto max-w-lg px-4 pt-2">
+            <p className="text-center text-xs text-text-tertiary">
+              {countdown.days === 1 ? 'Tomorrow!' : `${countdown.days} days to go`}
+            </p>
+          </div>
+        )}
+        {countdown.type === 'during' && tripDay === selectedDay && (
+          <div className="mx-auto max-w-lg px-4 pt-2">
+            <p className={cn('text-center text-xs', cityAccent)}>
+              {getTimeGreeting()}, {city}
+            </p>
+          </div>
+        )}
+
         <div className="mx-auto flex max-w-lg items-center justify-between px-4 py-3">
           <button
             onClick={prev}
@@ -56,6 +75,21 @@ export function TodayView() {
       </div>
 
       <div className="mx-auto w-full max-w-lg space-y-3 p-4">
+        {/* Brad's 40th birthday! */}
+        {birthday && (
+          <div className="animate-fade-up rounded-2xl bg-kyoto/8 p-4 ring-1 ring-kyoto/20">
+            <div className="flex items-center gap-3">
+              <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-kyoto/15 animate-gentle-pulse">
+                <Cake className="h-5 w-5 text-kyoto" />
+              </div>
+              <div>
+                <p className="text-sm font-bold text-kyoto">Happy 40th, Brad!</p>
+                <p className="text-xs text-text-secondary">The big one. Make it count.</p>
+              </div>
+            </div>
+          </div>
+        )}
+
         {/* Morning coffee — featured */}
         {dayItinerary?.morningCoffee && (
           <div className="animate-fade-up rounded-2xl bg-amber-500/8 p-4 ring-1 ring-amber-500/15">
@@ -98,7 +132,7 @@ export function TodayView() {
                   <span className="w-14 shrink-0 font-mono text-text-tertiary">{leg.time || '—'}</span>
                   <span className="font-medium">{leg.transport}</span>
                   <span className="text-text-tertiary">{leg.duration}</span>
-                  {leg.cost && <span className="ml-auto font-mono text-emerald-400/80">{leg.cost}</span>}
+                  {leg.cost && <span className="ml-auto font-mono text-xs"><YenUsd text={leg.cost} /></span>}
                 </div>
               ))}
             </div>

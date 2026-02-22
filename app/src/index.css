@@ -1,15 +1,15 @@
 @import "tailwindcss";
 
 @theme {
-  --color-bg: #0a0f1a;
-  --color-surface: #141c2b;
-  --color-surface-2: #1e293b;
-  --color-surface-3: #2a3548;
-  --color-border: #2a3548;
-  --color-border-subtle: #1e293b;
+  --color-bg: #080d16;
+  --color-surface: #111827;
+  --color-surface-2: #1a2332;
+  --color-surface-3: #243044;
+  --color-border: #1e293b;
+  --color-border-subtle: #162030;
   --color-text: #f1f5f9;
-  --color-text-secondary: #8896ab;
-  --color-text-tertiary: #5a6a80;
+  --color-text-secondary: #94a3b8;
+  --color-text-tertiary: #64748b;
   --color-accent: #ef4444;
   --color-accent-hover: #f87171;
   --color-accent-subtle: #ef444415;
@@ -99,4 +99,52 @@ body {
 }
 .animate-slide-up {
   animation: slide-up 0.3s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* Checkbox pop */
+@keyframes check-pop {
+  0% { transform: scale(1); }
+  40% { transform: scale(1.25); }
+  100% { transform: scale(1); }
+}
+.animate-check-pop {
+  animation: check-pop 0.25s cubic-bezier(0.18, 0.89, 0.32, 1.28) both;
+}
+
+/* Confetti burst for packing completion */
+@keyframes confetti-fall {
+  0% { transform: translateY(-10px) rotate(0deg); opacity: 1; }
+  100% { transform: translateY(60px) rotate(360deg); opacity: 0; }
+}
+
+/* City glow — ambient light from headers */
+.city-glow-tokyo { background: radial-gradient(ellipse at 50% 0%, #60a5fa18 0%, transparent 60%); }
+.city-glow-kyoto { background: radial-gradient(ellipse at 50% 0%, #c084fc18 0%, transparent 60%); }
+.city-glow-osaka { background: radial-gradient(ellipse at 50% 0%, #fb923c18 0%, transparent 60%); }
+.city-glow-hakone { background: radial-gradient(ellipse at 50% 0%, #4ade8018 0%, transparent 60%); }
+
+/* Colored card left border accent */
+.card-accent-tokyo { border-left: 3px solid #60a5fa40; }
+.card-accent-kyoto { border-left: 3px solid #c084fc40; }
+.card-accent-osaka { border-left: 3px solid #fb923c40; }
+.card-accent-hakone { border-left: 3px solid #4ade8040; }
+
+/* Shimmer effect for priority items */
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+.priority-shimmer {
+  background: linear-gradient(90deg, transparent, #fbbf2408, transparent);
+  background-size: 200% 100%;
+  animation: shimmer 3s ease-in-out infinite;
+}
+
+/* Pulse for birthday */
+@keyframes gentle-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+.animate-gentle-pulse {
+  animation: gentle-pulse 2s ease-in-out infinite;
 }

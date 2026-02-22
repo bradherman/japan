@@ -1,8 +1,20 @@
-import { ArrowLeft, Plane, Users, Info } from 'lucide-react'
+import { ArrowLeft, Plane, Users, Info, Calendar } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'
+import { getTripCountdown } from '@/lib/utils'
 
 export function SettingsView() {
   const navigate = useNavigate()
+  const countdown = getTripCountdown()
+
+  const countdownText = countdown.type === 'before'
+    ? countdown.days === 1
+      ? 'Tomorrow. This is really happening.'
+      : countdown.days <= 7
+        ? `${countdown.days} days. Almost time.`
+        : `${countdown.days} days until takeoff`
+    : countdown.type === 'during'
+      ? `Day ${countdown.days} of 16. Soak it in.`
+      : 'What a trip.'
 
   return (
     <div className="flex flex-col pb-20">
@@ -20,6 +32,15 @@ export function SettingsView() {
       </header>
 
       <div className="mx-auto w-full max-w-lg stagger-children space-y-3 p-4">
+        {/* Countdown */}
+        <div className="rounded-2xl bg-accent/[0.06] p-4 ring-1 ring-accent/15 text-center">
+          <Calendar className="mx-auto h-5 w-5 text-accent" />
+          <p className="mt-2 text-2xl font-bold tabular-nums">
+            {countdown.type === 'before' ? countdown.days : countdown.type === 'during' ? `${countdown.days}/16` : '16/16'}
+          </p>
+          <p className="mt-0.5 text-xs text-text-secondary">{countdownText}</p>
+        </div>
+
         <div className="rounded-2xl bg-surface p-4">
           <div className="flex items-center gap-2 mb-2">
             <Plane className="h-4 w-4 text-tokyo" />

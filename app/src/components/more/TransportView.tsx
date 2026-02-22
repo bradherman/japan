@@ -4,6 +4,7 @@ import { DayPicker } from '@/components/itinerary/DayPicker'
 import { CityBadge } from '@/components/ui/CityBadge'
 import { getDayCity } from '@/lib/utils'
 import { ArrowRight, ArrowLeft } from 'lucide-react'
+import { YenUsd } from '@/components/ui/YenUsd'
 import { useNavigate } from 'react-router-dom'
 
 export function TransportView() {
@@ -52,7 +53,7 @@ export function TransportView() {
                   <div className="mt-2 flex items-center gap-2.5 text-xs">
                     <span className="rounded-lg bg-surface-2 px-2 py-0.5 font-medium">{leg.transport}</span>
                     <span className="text-text-tertiary">{leg.duration}</span>
-                    {leg.cost && <span className="font-mono text-emerald-400">{leg.cost}</span>}
+                    {leg.cost && <span className="font-mono text-xs"><YenUsd text={leg.cost} /></span>}
                   </div>
                   {leg.notes && <p className="mt-1.5 text-xs text-text-secondary leading-relaxed">{leg.notes}</p>}
                 </div>
@@ -91,7 +92,7 @@ export function TransportView() {
               {transport.costs.map((c, i) => (
                 <div key={i} className="flex justify-between text-xs">
                   <span className="text-text-secondary">{c.segment}</span>
-                  <span className="font-mono font-medium tabular-nums">{c.cost}</span>
+                  <span className="font-mono font-medium tabular-nums text-xs"><YenUsd text={c.cost} /></span>
                 </div>
               ))}
             </div>

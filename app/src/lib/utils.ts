@@ -6,8 +6,9 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
 
-export const TRIP_START = new Date('2026-04-25')
-export const TRIP_END = new Date('2026-05-10')
+// Use constructor to avoid UTC midnight parse shifting dates back in US timezones
+export const TRIP_START = new Date(2026, 3, 25) // Apr 25
+export const TRIP_END = new Date(2026, 4, 10)   // May 10
 
 export function getCityColor(city: City | string): string {
   switch (city) {
@@ -90,4 +91,27 @@ export function getDayOfWeek(dayNumber: number): string {
 
 export function slugify(text: string): string {
   return text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')
+}
+
+export function getTripCountdown(): { type: 'before' | 'during' | 'after'; days: number } {
+  const now = new Date()
+  const start = TRIP_START
+  const end = TRIP_END
+  const msPerDay = 1000 * 60 * 60 * 24
+  if (now < start) return { type: 'before', days: Math.ceil((start.getTime() - now.getTime()) / msPerDay) }
+  if (now > end) return { type: 'after', days: Math.floor((now.getTime() - end.getTime()) / msPerDay) }
+  return { type: 'during', days: Math.floor((now.getTime() - start.getTime()) / msPerDay) + 1 }
+}
+
+export function getTimeGreeting(): string {
+  const h = new Date().getHours()
+  if (h < 6) return 'Night owl'
+  if (h < 12) return 'Good morning'
+  if (h < 17) return 'Good afternoon'
+  if (h < 21) return 'Good evening'
+  return 'Night owl'
+}
+
+export function isBradsBirthday(dayNumber: number): boolean {
+  return dayNumber === 12 // May 6 = Day 12
 }

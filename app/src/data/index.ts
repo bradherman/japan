@@ -48,10 +48,15 @@ type TransportData = {
   luggage: Array<{ sendDate: string; route: string; arrives: string; cost: string }>
 }
 
-type PackingData = Array<{
+type PackingCategory = {
   name: string
   items: Array<{ id: string; text: string; checked: boolean }>
-}>
+}
+
+type PackingData = {
+  male: PackingCategory[]
+  female: PackingCategory[]
+}
 
 export const itinerary = itineraryData as unknown as ItineraryData
 export const schedule = scheduleData as unknown as ScheduleData

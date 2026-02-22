@@ -2,6 +2,7 @@ import { useMemo } from 'react'
 import { MapPin, Bell, ExternalLink, CheckCircle, AlertCircle, Clock } from 'lucide-react'
 import { reservations } from '@/data'
 import { cn } from '@/lib/utils'
+import { YenUsd } from '@/components/ui/YenUsd'
 
 const statusConfig = {
   booked: { label: 'Booked', color: 'text-booked', icon: CheckCircle },
@@ -33,14 +34,14 @@ export function ReservationView() {
       <header className="sticky top-0 z-40 border-b border-border bg-bg/90 backdrop-blur-xl px-4 py-3">
         <div className="mx-auto max-w-lg">
           <h1 className="text-lg font-bold">Reservations</h1>
-          <div className="mt-1.5 flex items-center gap-3 text-xs">
-            <span className="flex items-center gap-1 text-booked">
+          <div className="mt-2 flex items-center gap-2 text-xs">
+            <span className="flex items-center gap-1.5 rounded-lg bg-booked/10 px-2 py-1 font-semibold text-booked">
               <CheckCircle className="h-3 w-3" /> {grouped.booked.length}
             </span>
-            <span className="flex items-center gap-1 text-urgent">
+            <span className="flex items-center gap-1.5 rounded-lg bg-urgent/10 px-2 py-1 font-semibold text-urgent">
               <AlertCircle className="h-3 w-3" /> {grouped.urgent.length}
             </span>
-            <span className="flex items-center gap-1 text-soon">
+            <span className="flex items-center gap-1.5 rounded-lg bg-soon/10 px-2 py-1 font-semibold text-soon">
               <Clock className="h-3 w-3" /> {grouped['book-soon'].length}
             </span>
           </div>
@@ -92,14 +93,14 @@ export function ReservationView() {
               </div>
               <div className="stagger-children space-y-2">
                 {items.map((r, i) => (
-                  <div key={i} className="rounded-2xl bg-surface p-4">
+                  <div key={i} className="rounded-2xl bg-surface p-4" style={{ borderLeft: `3px solid ${status === 'booked' ? '#34d39960' : status === 'urgent' ? '#f8717160' : status === 'book-soon' ? '#fbbf2460' : '#64748b30'}` }}>
                     <div className="flex items-start justify-between gap-3">
                       <div className="min-w-0 flex-1">
                         <p className="text-sm font-semibold">{r.name}</p>
                         {r.date && <p className="mt-0.5 text-xs text-text-tertiary">{r.date}</p>}
                         {r.details && <p className="mt-1 text-xs text-text-secondary leading-relaxed">{r.details}</p>}
                         <div className="mt-2 flex items-center gap-3 flex-wrap">
-                          {r.cost && <span className="text-xs font-medium text-emerald-400">{r.cost}</span>}
+                          {r.cost && <YenUsd text={r.cost} className="text-xs font-medium" />}
                           {r.bookingMethod && (
                             <span className="flex items-center gap-1 text-[10px] text-tokyo">
                               <ExternalLink className="h-3 w-3" /> {r.bookingMethod.substring(0, 40)}
