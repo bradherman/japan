@@ -874,6 +874,750 @@ function parseNightlifeGuide() {
 }
 
 // ============================================================
+// 8. Parse coffee-donuts-matcha-guide.md
+// ============================================================
+type RecCategory = 'coffee' | 'donuts' | 'matcha' | 'shopping' | 'activities' | 'events'
+
+interface Recommendation {
+  id: string
+  name: string
+  category: RecCategory
+  subcategory?: string
+  city: City | 'Nara'
+  neighborhood?: string
+  address?: string
+  hours?: string
+  closed?: string
+  price?: string
+  description?: string
+  tip?: string
+  tags?: string[]
+  mapLink?: string
+  dates?: string
+  bookingInfo?: string
+}
+
+// Entries we decided against — filter these out
+const EXCLUDED_NAMES = [
+  'STUDIO GHIBLI MUSEUM',
+  'The Seiko Museum Ginza',
+]
+
+function isExcluded(name: string): boolean {
+  return EXCLUDED_NAMES.some(ex => name.toLowerCase().includes(ex.toLowerCase()))
+}
+
+function parseCoffeeDonutsMatchaGuide(): Recommendation[] {
+  const md = read('notes/coffee-donuts-matcha-guide.md')
+  const recs: Recommendation[] = []
+  let idx = 0
+  let currentCity: City = 'Tokyo'
+  let currentCategory: RecCategory = 'coffee'
+
+  // Track city & category by scanning section headers
+  const lines = md.split('\n')
+
+  // Build a position map of city/category changes
+  const cityMarkers: Array<{ pos: number; city: City }> = []
+  const categoryMarkers: Array<{ pos: number; category: RecCategory }> = []
+  let charPos = 0
+  for (const line of lines) {
+    if (/^### TOKYO/i.test(line)) cityMarkers.push({ pos: charPos, city: 'Tokyo' })
+    else if (/^### KYOTO/i.test(line)) cityMarkers.push({ pos: charPos, city: 'Kyoto' })
+    else if (/^### OSAKA/i.test(line)) cityMarkers.push({ pos: charPos, city: 'Osaka' })
+    else if (/^### HAKONE/i.test(line)) cityMarkers.push({ pos: charPos, city: 'Hakone' })
+    // Also catch Tea Ceremony / Matcha sections that don't have city prefix
+    if (/^## PART 1: SPECIALTY COFFEE/i.test(line)) categoryMarkers.push({ pos: charPos, category: 'coffee' })
+    else if (/^## PART 2: DONUTS/i.test(line)) categoryMarkers.push({ pos: charPos, category: 'donuts' })
+    else if (/^## PART 3: MATCHA/i.test(line)) categoryMarkers.push({ pos: charPos, category: 'matcha' })
+    charPos += line.length + 1
+  }
+
+  // Split by #### headings for individual entries
+  const blocks = md.split(/^####\s+/m)
+
+  let blockCharPos = 0
+  for (const block of blocks.slice(1)) {
+    const headerLine = block.split('\n')[0].trim()
+    blockCharPos = md.indexOf('#### ' + headerLine, blockCharPos)
+    if (blockCharPos < 0) blockCharPos = 0
+
+    // Determine city from position
+    for (const m of cityMarkers) {
+      if (m.pos <= blockCharPos) currentCity = m.city
+    }
+    // Determine category from position
+    for (const m of categoryMarkers) {
+      if (m.pos <= blockCharPos) currentCategory = m.category
+    }
+
+    // Skip non-entry headers (tables, game plan, sources, etc.)
+    if (/^(DAILY|SOURCES|Matcha Shopping)/i.test(headerLine)) continue
+    // Skip sub-location entries like "Nakamura Tokichi Honten" under Uji day trip
+    // but keep the main entry headings
+
+    // Clean name
+    const nameClean = headerLine
+      .replace(/^\d+\.\s*/, '')
+      .replace(/\s*\(.*?(HIGH PRIORITY|TOP RECOMMENDATION|TWO locations).*?\)/i, '')
+      .replace(/\s*—.*$/, '')
+      .replace(/\s*--.*$/, '')
+      .replace(/^Honorable Mention:\s*/i, '')
+      .trim()
+
+    if (!nameClean || nameClean.length > 80) continue
+
+    // Extract fields
+    const fields: Record<string, string> = {}
+    const blockLines = block.split('\n')
+    for (const line of blockLines) {
+      const trimmed = line.trim()
+      const fieldMatch = trimmed.match(/^-\s+\*\*(\w[\w\s/&]+?)(?:\*\*)?:\*\*\s*(.+)/)
+      if (fieldMatch) {
+        fields[fieldMatch[1].toLowerCase()] = cleanText(fieldMatch[2])
+      }
+      // Also match standalone patterns like "- Address: ..." or "- Hours: ..."
+      const simpleField = trimmed.match(/^-\s+(Address|Hours|Phone|Nearest Station|Location|Locations):\s*(.+)/i)
+      if (simpleField) {
+        fields[simpleField[1].toLowerCase()] = cleanText(simpleField[2])
+      }
+    }
+
+    // Tags
+    const tags: string[] = []
+    if (/HIGH PRIORITY/i.test(headerLine) || /HIGH PRIORITY/i.test(block.slice(0, 200))) tags.push('High Priority')
+    if (/TOP RECOMMENDATION/i.test(headerLine) || /TOP MATCHA/i.test(headerLine)) tags.push('Top Pick')
+    if (/TWO locations/i.test(headerLine)) tags.push('Multiple Locations')
+    if (/reservations?\s+(required|recommended|strongly)/i.test(block)) tags.push('Reservation Required')
+
+    // Description: first narrative paragraph (not a bullet, not a heading, not a table)
+    let description = ''
+    let inBlock = false
+    for (const line of blockLines.slice(1)) {
+      const trimmed = line.trim()
+      if (!trimmed || trimmed.startsWith('#') || trimmed.startsWith('|') || trimmed.startsWith('---')) {
+        if (inBlock) break
+        continue
+      }
+      if (trimmed.startsWith('-') || trimmed.startsWith('*')) continue
+      if (/^\*\*/.test(trimmed) && /\*\*$/.test(trimmed)) continue // bold-only line (sub-heading)
+      if (/^\*\*\w/.test(trimmed) && !trimmed.includes(':')) continue // bold sub-location headers
+      description = cleanText(trimmed)
+      inBlock = true
+      break
+    }
+
+    // Extract "Why it's special" or "What to expect" as fallback description
+    const whyMatch = block.match(/\*\*Why it's (?:special|the best)\*\*:\s*(.+?)(?:\n\n|\n\*\*)/s)
+    if (whyMatch && !description) {
+      description = cleanText(whyMatch[1].split('\n')[0])
+    }
+    if (!description && whyMatch) {
+      description = cleanText(whyMatch[1].split('\n')[0])
+    }
+
+    // Tip from Recommendation or Strategy or Important
+    const tipMatch = block.match(/\*\*(?:Recommendation|Strategy|Important|Tip|Note)\*\*:\s*(.+)/i)
+    const tip = tipMatch ? cleanText(tipMatch[1]) : undefined
+
+    // Price
+    const priceMatch = block.match(/\*\*Price range\*\*:\s*(.+)/i)
+    const price = priceMatch ? cleanText(priceMatch[1]) : (fields['price range'] || fields['cost'] || undefined)
+
+    // Address (try fields, then look for bold sub-locations)
+    const address = fields['address'] || fields['location'] || fields['locations'] || undefined
+
+    // Hours
+    const hours = fields['hours'] || undefined
+
+    // Closed
+    const closedMatch = block.match(/\*\*closed\s+(\w+(?:\s+and\s+\w+)?)\*\*/i)
+      || block.match(/closed\s+(\w+day(?:\s+and\s+\w+day)?)/i)
+    const closed = closedMatch ? closedMatch[1] : undefined
+
+    // Map link
+    const mapLink = extractMapLink(block)
+
+    // Subcategory for matcha
+    let subcategory: string | undefined
+    if (currentCategory === 'matcha') {
+      const beforeBlock = md.substring(0, blockCharPos)
+      const lastH3 = beforeBlock.lastIndexOf('### ')
+      if (lastH3 >= 0) {
+        const h3Line = beforeBlock.substring(lastH3).split('\n')[0].replace('### ', '')
+        if (/Tea Ceremony/i.test(h3Line)) subcategory = 'Tea Ceremony'
+        else if (/Matcha Dessert/i.test(h3Line)) subcategory = 'Matcha Desserts'
+        else if (/Day Trip.*Uji/i.test(h3Line)) subcategory = 'Uji Day Trip'
+      }
+    }
+    if (currentCategory === 'coffee') subcategory = 'Specialty Coffee'
+    if (currentCategory === 'donuts') subcategory = 'Donuts'
+
+    recs.push({
+      id: `rec-cdm-${idx++}`,
+      name: nameClean,
+      category: currentCategory,
+      subcategory,
+      city: currentCity,
+      address,
+      hours,
+      closed,
+      price,
+      description: description || undefined,
+      tip,
+      tags: tags.length > 0 ? tags : undefined,
+      mapLink,
+    })
+
+    blockCharPos += 1
+  }
+
+  return recs
+}
+
+// ============================================================
+// 9. Parse shopping-guide.md
+// ============================================================
+function parseShoppingGuide(): Recommendation[] {
+  const md = read('notes/shopping-guide.md')
+  const recs: Recommendation[] = []
+  let idx = 0
+  let currentCity: City = 'Tokyo'
+  let currentSubcategory = ''
+
+  // City markers
+  const tokyoStart = md.indexOf('# TOKYO')
+  const kyotoStart = md.indexOf('# KYOTO')
+  const osakaStart = md.indexOf('# OSAKA')
+  const hakoneStart = md.indexOf('# HAKONE')
+  const priorityStart = md.indexOf('# SHOPPING PRIORITY')
+  const comboStart = md.indexOf('# SUGGESTED SHOPPING')
+
+  function getCityAtPos(pos: number): City {
+    if (hakoneStart >= 0 && pos >= hakoneStart && (priorityStart < 0 || pos < priorityStart)) return 'Hakone'
+    if (osakaStart >= 0 && pos >= osakaStart && (hakoneStart < 0 || pos < hakoneStart)) return 'Osaka'
+    if (kyotoStart >= 0 && pos >= kyotoStart && (osakaStart < 0 || pos < osakaStart)) return 'Kyoto'
+    return 'Tokyo'
+  }
+
+  // Split by ### for individual shops/experiences
+  const blocks = md.split(/^###\s+/m)
+  let blockCharPos = 0
+
+  for (const block of blocks.slice(1)) {
+    const headerLine = block.split('\n')[0].trim()
+    blockCharPos = md.indexOf('### ' + headerLine, blockCharPos)
+    if (blockCharPos < 0) blockCharPos = 0
+
+    // Skip sections that are past the shopping guide content
+    if (priorityStart >= 0 && blockCharPos >= priorityStart) break
+    if (comboStart >= 0 && blockCharPos >= comboStart) break
+
+    currentCity = getCityAtPos(blockCharPos)
+
+    // Track subcategory from ## headings before this block
+    const beforeBlock = md.substring(0, blockCharPos)
+    const lastH2 = beforeBlock.lastIndexOf('\n## ')
+    if (lastH2 >= 0) {
+      const h2Line = beforeBlock.substring(lastH2 + 4).split('\n')[0].trim()
+      // Skip city-level ## headings and meta sections
+      if (!/^(TOKYO|KYOTO|OSAKA|HAKONE|Tax-Free|Other)/i.test(h2Line)) {
+        currentSubcategory = h2Line
+      }
+    }
+
+    // Skip non-entry headings
+    if (/^(Option \d|Recommendation|Multi-Brand|Custom Denim Tips|What to Look|Customs|Steel Types|Price Guidance|Other Tokyo|Other Kyoto|Other Osaka|Nishikawa Pillow)/i.test(headerLine)) {
+      // Nishikawa is special — include it
+      if (!/^Nishikawa/i.test(headerLine)) {
+        blockCharPos += 1
+        continue
+      }
+    }
+
+    // Some ### are sub-locations (like "Kappabashi Street") that contain #### entries
+    // Check if this block has #### sub-entries
+    const hasSubEntries = /^####\s+/m.test(block)
+
+    if (hasSubEntries) {
+      // Parse #### sub-entries within this ### block
+      const subBlocks = block.split(/^####\s+/m)
+      let subCharPos = blockCharPos
+
+      for (const subBlock of subBlocks.slice(1)) {
+        const subHeader = subBlock.split('\n')[0].trim()
+        if (!subHeader) continue
+
+        const nameClean = subHeader
+          .replace(/^\d+\.\s*/, '')
+          .replace(/\s*\(.*?\)\s*$/, '')
+          .replace(/\s*—.*$/, '')
+          .trim()
+
+        if (!nameClean || nameClean.length > 80) continue
+        // Skip meta sub-entries
+        if (/^(What to Look|Customs|Steel Types|Price Guidance|Option \d)/i.test(nameClean)) continue
+
+        const fields: Record<string, string> = {}
+        for (const line of subBlock.split('\n')) {
+          const trimmed = line.trim()
+          const fieldMatch = trimmed.match(/^-\s+\*\*(\w[\w\s/&]+?)(?:\*\*)?:\*\*\s*(.+)/)
+          if (fieldMatch) {
+            fields[fieldMatch[1].toLowerCase()] = cleanText(fieldMatch[2])
+          }
+        }
+
+        const tags: string[] = []
+        if (/tax-free/i.test(subBlock)) tags.push('Tax-Free')
+
+        let description = ''
+        const whatMatch = subBlock.match(/\*\*What to expect\*\*:\s*(.+)/i)
+          || subBlock.match(/\*\*Why go\*\*:\s*(.+)/i)
+          || subBlock.match(/\*\*What to expect:\*\*\s*(.+)/i)
+        if (whatMatch) description = cleanText(whatMatch[1])
+
+        const tipMatch = subBlock.match(/\*\*Tip\*\*:\s*(.+)/i)
+          || subBlock.match(/\*\*(?:Recommendation|Strategy|Important)\*\*:\s*(.+)/i)
+
+        recs.push({
+          id: `rec-shop-${idx++}`,
+          name: nameClean,
+          category: 'shopping',
+          subcategory: currentSubcategory || undefined,
+          city: currentCity,
+          neighborhood: fields['address']?.match(/\b(Shibuya|Ginza|Shinjuku|Ebisu|Roppongi|Asakusa|Akihabara|Aoyama|Tsukiji|Harajuku|Shimokitazawa|Kagurazaka|Nakameguro|Daikanyama|Ueno|Nihonbashi|Kuramae|Gion|Pontocho|Higashiyama|Nishiki|Dotonbori|Shinsekai|Shinsaibashi|Amerikamura|Namba|Horie|Kita-Aoyama|Togoshi)\b/i)?.[1],
+          address: fields['address'],
+          hours: fields['hours'],
+          price: fields['price range'] || fields['cost'],
+          description: description || undefined,
+          tip: tipMatch ? cleanText(tipMatch[1]) : undefined,
+          tags: tags.length > 0 ? tags : undefined,
+          mapLink: extractMapLink(subBlock),
+        })
+      }
+    } else {
+      // This ### heading IS the individual entry
+      const nameClean = headerLine
+        .replace(/^\d+\.\s*/, '')
+        .replace(/\s*\(.*?\)\s*$/, '')
+        .replace(/\s*—.*$/, '')
+        .trim()
+
+      if (!nameClean || nameClean.length > 80) {
+        blockCharPos += 1
+        continue
+      }
+
+      const fields: Record<string, string> = {}
+      for (const line of block.split('\n')) {
+        const trimmed = line.trim()
+        const fieldMatch = trimmed.match(/^-\s+\*\*(\w[\w\s/&]+?)(?:\*\*)?:\*\*\s*(.+)/)
+        if (fieldMatch) {
+          fields[fieldMatch[1].toLowerCase()] = cleanText(fieldMatch[2])
+        }
+      }
+
+      const tags: string[] = []
+      if (/tax-free/i.test(block.slice(0, 500))) tags.push('Tax-Free')
+      if (/reservation|book/i.test(headerLine)) tags.push('Reservation Required')
+
+      let description = ''
+      const whatMatch = block.match(/\*\*What to expect\*\*:\s*(.+)/i)
+        || block.match(/\*\*What to expect:\*\*\s*(.+)/i)
+        || block.match(/\*\*Why go\*\*:\s*(.+)/i)
+        || block.match(/\*\*Why go:\*\*\s*(.+)/i)
+      if (whatMatch) description = cleanText(whatMatch[1])
+
+      // Fallback: first narrative paragraph
+      if (!description) {
+        for (const line of block.split('\n').slice(1)) {
+          const trimmed = line.trim()
+          if (!trimmed || trimmed.startsWith('-') || trimmed.startsWith('*') || trimmed.startsWith('#') || trimmed.startsWith('|')) continue
+          description = cleanText(trimmed)
+          break
+        }
+      }
+
+      const tipMatch = block.match(/\*\*Tip\*\*:\s*(.+)/i)
+        || block.match(/\*\*(?:Recommendation|Strategy|Important)\*\*:\s*(.+)/i)
+
+      recs.push({
+        id: `rec-shop-${idx++}`,
+        name: nameClean,
+        category: 'shopping',
+        subcategory: currentSubcategory || undefined,
+        city: currentCity,
+        neighborhood: fields['address']?.match(/\b(Shibuya|Ginza|Shinjuku|Ebisu|Roppongi|Asakusa|Akihabara|Aoyama|Tsukiji|Harajuku|Shimokitazawa|Kagurazaka|Nakameguro|Daikanyama|Ueno|Nihonbashi|Kuramae|Gion|Pontocho|Higashiyama|Nishiki|Dotonbori|Shinsekai|Shinsaibashi|Amerikamura|Namba|Horie|Togoshi)\b/i)?.[1],
+        address: fields['address'],
+        hours: fields['hours'],
+        price: fields['price range'] || fields['price'] || fields['cost'],
+        description: description || undefined,
+        tip: tipMatch ? cleanText(tipMatch[1]) : undefined,
+        tags: tags.length > 0 ? tags : undefined,
+        mapLink: extractMapLink(block),
+      })
+    }
+
+    blockCharPos += 1
+  }
+
+  return recs
+}
+
+// ============================================================
+// 10. Parse activities-and-sightseeing-research.md
+// ============================================================
+function parseActivitiesGuide(): Recommendation[] {
+  const md = read('notes/activities-and-sightseeing-research.md')
+  const recs: Recommendation[] = []
+  let idx = 0
+
+  // City markers by position
+  const cityPositions: Array<{ pos: number; city: City }> = []
+  const lines = md.split('\n')
+  let pos = 0
+  for (const line of lines) {
+    if (/^## .*(Tokyo)/i.test(line)) cityPositions.push({ pos, city: 'Tokyo' })
+    else if (/^## .*(Kyoto)/i.test(line)) cityPositions.push({ pos, city: 'Kyoto' })
+    else if (/^## .*(Osaka)/i.test(line)) cityPositions.push({ pos, city: 'Osaka' })
+    else if (/^## .*(Hakone)/i.test(line)) cityPositions.push({ pos, city: 'Hakone' })
+    else if (/^## NARA/i.test(line)) cityPositions.push({ pos, city: 'Tokyo' as City }) // Nara is a day trip
+    pos += line.length + 1
+  }
+
+  function getCityAtPos(p: number): City {
+    let city: City = 'Tokyo'
+    for (const m of cityPositions) {
+      if (m.pos <= p) city = m.city
+    }
+    return city
+  }
+
+  // Split by ## for major sections
+  const sections = md.split(/^## /m).slice(1)
+  let sectionPos = md.indexOf('## ')
+
+  for (const section of sections) {
+    const sectionHeader = section.split('\n')[0].trim()
+    const thisPos = md.indexOf('## ' + sectionHeader, sectionPos)
+    if (thisPos >= 0) sectionPos = thisPos
+
+    // Skip non-activity sections
+    if (/^(GOLDEN WEEK SURVIVAL|QUICK REFERENCE|Sources)/i.test(sectionHeader)) {
+      sectionPos += 1
+      continue
+    }
+
+    const city = getCityAtPos(sectionPos)
+
+    // Extract the main activity name from the ## heading
+    const activityName = sectionHeader
+      .replace(/\s*\(.*?\)\s*$/, '')
+      .replace(/\s*—.*$/, '')
+      .trim()
+
+    if (!activityName || activityName.length > 80) {
+      sectionPos += 1
+      continue
+    }
+
+    // Extract fields from the section
+    const fields: Record<string, string> = {}
+    for (const line of section.split('\n')) {
+      const trimmed = line.trim()
+      const fieldMatch = trimmed.match(/^-\s+\*\*(\w[\w\s/&:]+?)(?:\*\*)?:\*\*\s*(.+)/)
+      if (fieldMatch) {
+        fields[fieldMatch[1].toLowerCase()] = cleanText(fieldMatch[2])
+      }
+      // Simpler patterns
+      const simpleMatch = trimmed.match(/^-\s+(Address|Hours|Admission|Entry|Location):\s*(.+)/i)
+      if (simpleMatch) {
+        fields[simpleMatch[1].toLowerCase()] = cleanText(simpleMatch[2])
+      }
+    }
+
+    // Description
+    let description = ''
+    for (const line of section.split('\n').slice(1)) {
+      const trimmed = line.trim()
+      if (!trimmed || trimmed.startsWith('-') || trimmed.startsWith('*') || trimmed.startsWith('#') || trimmed.startsWith('|') || trimmed.startsWith('---')) continue
+      if (/^\*\*/.test(trimmed)) continue
+      description = cleanText(trimmed)
+      break
+    }
+
+    // Price / admission
+    const priceMatch = section.match(/\*\*(?:Admission|Entry|Ticket Price)\*\*:\s*(.+)/i)
+      || section.match(/- (?:Admission|Entry):\s*(.+)/i)
+    const price = priceMatch ? cleanText(priceMatch[1]) : (fields['admission'] || fields['entry'] || undefined)
+
+    // Tip
+    const tipMatch = section.match(/\*\*(?:Tip|Best Time|Strategy|Recommendation|Verdict)\*\*:\s*(.+)/i)
+      || section.match(/\*\*(?:Best Time of Day|Best Time to Arrive)\*\*\n\n-\s*(.+)/i)
+    const tip = tipMatch ? cleanText(tipMatch[1]) : undefined
+
+    // Booking info
+    const bookingMatch = section.match(/\*\*How to Buy\*\*\n\n([\s\S]*?)(?:\n\n###|\n\n##|\n\n\*\*)/i)
+    const bookingInfo = bookingMatch ? cleanText(bookingMatch[1].split('\n')[1]?.replace(/^-\s+/, '') || '') : undefined
+
+    // Tags
+    const tags: string[] = []
+    if (/free\s+(admission|entry)/i.test(section)) tags.push('Free')
+    if (/reservation|advance\s+ticket|book\s+early|pre-book/i.test(section)) tags.push('Reservation Required')
+
+    const mapLink = extractMapLink(section)
+
+    // Address
+    const addrMatch = section.match(/- Address:\s*(.+)/i)
+      || section.match(/\*\*Address\*\*:\s*(.+)/i)
+    const address = addrMatch ? cleanText(addrMatch[1]) : (fields['address'] || fields['location'] || undefined)
+
+    // Determine subcategory
+    let subcategory: string | undefined
+    if (/onsen|sento|bath/i.test(sectionHeader)) subcategory = 'Onsen'
+    else if (/temple|shrine|inari/i.test(sectionHeader)) subcategory = 'Temples & Shrines'
+    else if (/market/i.test(sectionHeader)) subcategory = 'Markets'
+    else if (/teamlab/i.test(sectionHeader)) subcategory = 'Immersive Art'
+    else if (/ghibli/i.test(sectionHeader)) subcategory = 'Museums'
+    else if (/sky|observation/i.test(sectionHeader)) subcategory = 'Observation'
+    else if (/nara/i.test(sectionHeader)) subcategory = 'Day Trips'
+
+    recs.push({
+      id: `rec-act-${idx++}`,
+      name: activityName,
+      category: 'activities',
+      subcategory,
+      city,
+      address,
+      hours: fields['hours'],
+      price,
+      description: description || undefined,
+      tip,
+      tags: tags.length > 0 ? tags : undefined,
+      mapLink,
+      bookingInfo,
+    })
+
+    sectionPos += 1
+  }
+
+  return recs
+}
+
+// ============================================================
+// 11. Parse events guides
+// ============================================================
+function parseEventsGuides(): Recommendation[] {
+  const recs: Recommendation[] = []
+  let idx = 0
+
+  // Parse both event files
+  for (const filePath of ['data/golden-week-events-2026.md', 'data/tokyo-events-april-may-2026.md']) {
+    const md = read(filePath)
+    const isTokyoFile = filePath.includes('tokyo-events')
+    let currentCity: City = isTokyoFile ? 'Tokyo' : 'Tokyo'
+
+    // City markers
+    const cityMarkers: Array<{ pos: number; city: City }> = []
+    let charPos = 0
+    for (const line of md.split('\n')) {
+      if (/^## (?:KYOTO|.*Kyoto)/i.test(line)) cityMarkers.push({ pos: charPos, city: 'Kyoto' })
+      else if (/^## (?:OSAKA|.*Osaka)/i.test(line)) cityMarkers.push({ pos: charPos, city: 'Osaka' })
+      else if (/^## (?:HAKONE|.*Hakone)/i.test(line)) cityMarkers.push({ pos: charPos, city: 'Hakone' })
+      else if (/^## (?:TOKYO|.*Tokyo|\d+\.\s)/i.test(line)) cityMarkers.push({ pos: charPos, city: 'Tokyo' })
+      charPos += line.length + 1
+    }
+
+    // Split by #### for individual events
+    const blocks = md.split(/^####\s+/m)
+    let blockCharPos = 0
+
+    for (const block of blocks.slice(1)) {
+      const headerLine = block.split('\n')[0].trim()
+      blockCharPos = md.indexOf('#### ' + headerLine, blockCharPos)
+      if (blockCharPos < 0) blockCharPos = 0
+
+      // Determine city
+      currentCity = isTokyoFile ? 'Tokyo' : 'Tokyo'
+      for (const m of cityMarkers) {
+        if (m.pos <= blockCharPos) currentCity = m.city
+      }
+
+      // Skip non-event headers
+      if (/^(TRANSPORT|SUMMARY|TOP REC|Crowd|Market Alternative)/i.test(headerLine)) {
+        blockCharPos += 1
+        continue
+      }
+
+      const nameClean = headerLine
+        .replace(/^\d+\.\s*/, '')
+        .replace(/\s*\(.*?\)\s*$/, '')
+        .replace(/\s*—.*$/, '')
+        .trim()
+
+      if (!nameClean || nameClean.length > 100) {
+        blockCharPos += 1
+        continue
+      }
+
+      // Extract fields
+      const fields: Record<string, string> = {}
+      for (const line of block.split('\n')) {
+        const trimmed = line.trim()
+        const fieldMatch = trimmed.match(/^-\s+\*\*(\w[\w\s/&:]+?)(?:\*\*)?:\*\*\s*(.+)/)
+        if (fieldMatch) {
+          fields[fieldMatch[1].toLowerCase()] = cleanText(fieldMatch[2])
+        }
+      }
+
+      // Dates
+      const datesMatch = block.match(/\*\*Dates?\*\*:\s*(.+)/i)
+        || block.match(/\*\*When\*\*:\s*(.+)/i)
+        || headerLine.match(/\(([^)]*(?:April|May|Apr|Jun|Jul|Aug|Sep)[^)]*)\)/)
+      const dates = datesMatch ? cleanText(datesMatch[1]) : undefined
+
+      // Description
+      let description = ''
+      const whatMatch = block.match(/\*\*(?:What|Highlights?)\*\*:\s*(.+)/i)
+      if (whatMatch) {
+        description = cleanText(whatMatch[1])
+      } else {
+        for (const line of block.split('\n').slice(1)) {
+          const trimmed = line.trim()
+          if (!trimmed || trimmed.startsWith('-') || trimmed.startsWith('*') || trimmed.startsWith('#') || trimmed.startsWith('|')) continue
+          if (/^\*\*/.test(trimmed)) continue
+          description = cleanText(trimmed)
+          break
+        }
+      }
+
+      // Location / address
+      const location = fields['location'] || fields['venue'] || undefined
+
+      // Price
+      const price = fields['admission'] || fields['tickets'] || undefined
+
+      // Tip / note
+      const tipMatch = block.match(/\*\*(?:Tip|Note)\*\*:\s*(.+)/i)
+      const tip = tipMatch ? cleanText(tipMatch[1]) : undefined
+
+      // Tags
+      const tags: string[] = []
+      if (/free/i.test(block.slice(0, 200)) && !/tax-free/i.test(block.slice(0, 200))) tags.push('Free')
+
+      // Subcategory
+      let subcategory: string | undefined
+      const beforeBlock = md.substring(0, blockCharPos)
+      const lastH3 = beforeBlock.lastIndexOf('### ')
+      if (lastH3 >= 0) {
+        const h3Line = beforeBlock.substring(lastH3 + 4).split('\n')[0]
+        if (/Festival/i.test(h3Line)) subcategory = 'Festivals'
+        else if (/Market/i.test(h3Line)) subcategory = 'Markets'
+        else if (/Temple|Shrine/i.test(h3Line)) subcategory = 'Temple Events'
+        else if (/Art|Culture/i.test(h3Line)) subcategory = 'Art & Culture'
+        else if (/Jazz|Rock|Music/i.test(h3Line)) subcategory = 'Live Music'
+      }
+      if (isTokyoFile) {
+        if (/festival|matsuri/i.test(headerLine)) subcategory = 'Festivals'
+        else if (/jazz|music|concert/i.test(headerLine)) subcategory = 'Live Music'
+        else if (/art|exhibition|museum/i.test(headerLine)) subcategory = 'Art & Culture'
+      }
+
+      recs.push({
+        id: `rec-evt-${idx++}`,
+        name: nameClean,
+        category: 'events',
+        subcategory,
+        city: currentCity,
+        address: location,
+        price,
+        dates,
+        description: description || undefined,
+        tip,
+        tags: tags.length > 0 ? tags : undefined,
+        mapLink: extractMapLink(block),
+      })
+
+      blockCharPos += 1
+    }
+
+    // Also parse ### entries from the Tokyo events file (some events are at ### level)
+    if (isTokyoFile) {
+      const h3Blocks = md.split(/^###\s+/m).slice(1)
+      let h3Pos = 0
+      for (const block of h3Blocks) {
+        const headerLine = block.split('\n')[0].trim()
+        h3Pos = md.indexOf('### ' + headerLine, h3Pos)
+        if (h3Pos < 0) h3Pos = 0
+
+        // Only process entries that don't contain #### sub-entries (those were already handled)
+        if (/^####/m.test(block)) {
+          h3Pos += 1
+          continue
+        }
+
+        // Skip venue lists, meta sections
+        if (/^(Confirmed|Slightly After|Venues to Check|Key Dates|Kikagaku|Guruguru|Tomo|Go Kurosawa|Maya)/i.test(headerLine)) {
+          h3Pos += 1
+          continue
+        }
+
+        // Skip if it's a non-event section
+        if (/^(Which|Best|Must-See|How|Ticket|Location|Golden Week)/i.test(headerLine)) {
+          h3Pos += 1
+          continue
+        }
+
+        const nameClean = headerLine.replace(/^\d+\.\s*/, '').replace(/\s*—.*$/, '').trim()
+        if (!nameClean || nameClean.length > 100) {
+          h3Pos += 1
+          continue
+        }
+
+        // Some ### entries are real events
+        const datesMatch = block.match(/\*\*Dates?\*\*:\s*(.+)/i)
+          || block.match(/\*\*Date\*\*:\s*(.+)/i)
+        if (!datesMatch && !/festival|matsuri|exhibition|concert|event/i.test(headerLine)) {
+          h3Pos += 1
+          continue
+        }
+
+        const fields: Record<string, string> = {}
+        for (const line of block.split('\n')) {
+          const trimmed = line.trim()
+          const fieldMatch = trimmed.match(/^-\s+\*\*(\w[\w\s/&:]+?)(?:\*\*)?:\*\*\s*(.+)/)
+          if (fieldMatch) {
+            fields[fieldMatch[1].toLowerCase()] = cleanText(fieldMatch[2])
+          }
+        }
+
+        let description = ''
+        const whatMatch = block.match(/\*\*(?:What|Highlights?)\*\*:\s*(.+)/i)
+        if (whatMatch) description = cleanText(whatMatch[1])
+
+        recs.push({
+          id: `rec-evt-${idx++}`,
+          name: nameClean,
+          category: 'events',
+          subcategory: /exhibition|art|museum/i.test(nameClean) ? 'Art & Culture' : /festival|matsuri/i.test(nameClean) ? 'Festivals' : /jazz|music/i.test(nameClean) ? 'Live Music' : undefined,
+          city: 'Tokyo',
+          address: fields['location'] || fields['venue'],
+          price: fields['admission'] || fields['tickets'],
+          dates: datesMatch ? cleanText(datesMatch[1]) : undefined,
+          description: description || undefined,
+          tags: /free/i.test(block.slice(0, 300)) ? ['Free'] : undefined,
+          mapLink: extractMapLink(block),
+        })
+
+        h3Pos += 1
+      }
+    }
+  }
+
+  return recs
+}
+
+// ============================================================
 // Main
 // ============================================================
 console.log('Building trip data from markdown sources...\n')
@@ -899,4 +1643,13 @@ write('restaurants.json', restaurants)
 const nightlife = parseNightlifeGuide()
 write('nightlife.json', nightlife)
 
-console.log(`\nDone! ${7} files generated in src/data/generated/`)
+const recommendations = [
+  ...parseCoffeeDonutsMatchaGuide(),
+  ...parseShoppingGuide(),
+  ...parseActivitiesGuide(),
+  ...parseEventsGuides(),
+].filter(r => !isExcluded(r.name))
+write('recommendations.json', recommendations)
+
+console.log(`\nDone! ${8} files generated in src/data/generated/`)
+console.log(`  Recommendations: ${recommendations.length} items`)

@@ -1,8 +1,9 @@
 import { NavLink } from 'react-router-dom'
-import { Train, Package, Settings, ChevronRight, CircleDollarSign } from 'lucide-react'
+import { Train, Package, Settings, ChevronRight, CircleDollarSign, Sparkles } from 'lucide-react'
 import { PageHeader } from '@/components/layout/PageHeader'
 
 const links = [
+  { to: '/more/recommendations', icon: Sparkles, label: 'Discover', desc: 'Coffee, shopping, activities & events', color: 'bg-accent/15 text-accent' },
   { to: '/more/transport', icon: Train, label: 'Transport', desc: 'Day-by-day transit, costs', color: 'bg-tokyo/15 text-tokyo' },
   { to: '/more/packing', icon: Package, label: 'Packing List', desc: 'Interactive checklist', color: 'bg-booked/15 text-booked' },
   { to: '/more/currency', icon: CircleDollarSign, label: 'Currency', desc: 'USD ↔ Yen converter', color: 'bg-osaka/15 text-osaka' },

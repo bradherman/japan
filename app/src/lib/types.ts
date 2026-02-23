@@ -156,3 +156,25 @@ export interface EveningItinerary {
   city: City
   steps: string[]
 }
+
+// === Recommendations ===
+export type RecommendationCategory = 'coffee' | 'donuts' | 'matcha' | 'shopping' | 'activities' | 'events'
+
+export interface Recommendation {
+  id: string
+  name: string
+  category: RecommendationCategory
+  subcategory?: string
+  city: City | 'Nara'
+  neighborhood?: string
+  address?: string
+  hours?: string
+  closed?: string
+  price?: string
+  description?: string
+  tip?: string
+  tags?: string[]
+  mapLink?: string
+  dates?: string
+  bookingInfo?: string
+}

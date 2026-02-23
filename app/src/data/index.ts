@@ -1,4 +1,4 @@
-import type { Restaurant, Venue, EveningItinerary } from '@/lib/types'
+import type { Restaurant, Venue, EveningItinerary, Recommendation } from '@/lib/types'
 import itineraryData from './generated/itinerary.json'
 import scheduleData from './generated/daily-schedule.json'
 import reservationsData from './generated/reservations.json'
@@ -6,6 +6,7 @@ import transportData from './generated/transport.json'
 import packingData from './generated/packing.json'
 import restaurantsData from './generated/restaurants.json'
 import nightlifeData from './generated/nightlife.json'
+import recommendationsData from './generated/recommendations.json'
 
 // Use loose types for JSON data — fields may be missing on individual items
 type ItineraryData = {
@@ -65,3 +66,4 @@ export const transport = transportData as unknown as TransportData
 export const packing = packingData as unknown as PackingData
 export const restaurants = restaurantsData as unknown as Restaurant[]
 export const nightlife = nightlifeData as unknown as { venues: Venue[]; itineraries: EveningItinerary[] }
+export const recommendations = recommendationsData as unknown as Recommendation[]

@@ -9,6 +9,7 @@ import { TransportView } from '@/components/more/TransportView'
 import { PackingView } from '@/components/more/PackingView'
 import { SettingsView } from '@/components/more/SettingsView'
 import { CurrencyView } from '@/components/more/CurrencyView'
+import { RecommendationsView } from '@/components/more/RecommendationsView'
 import { ChatSheet } from '@/components/chat/ChatSheet'
 
 export default function App() {
@@ -25,6 +26,7 @@ export default function App() {
             <Route path="/more/transport" element={<TransportView />} />
             <Route path="/more/packing" element={<PackingView />} />
             <Route path="/more/currency" element={<CurrencyView />} />
+            <Route path="/more/recommendations" element={<RecommendationsView />} />
             <Route path="/more/settings" element={<SettingsView />} />
           </Routes>
         </main>
