@@ -18,7 +18,7 @@ export function ItineraryView() {
       <header className="sticky top-0 z-40 border-b border-border bg-bg/90 backdrop-blur-xl">
         <div className="mx-auto max-w-lg px-4 pt-3 pb-1">
           <div className="flex items-center justify-between">
-            <h1 className="text-lg font-bold">Itinerary</h1>
+            <h1 className="font-display text-2xl tracking-tight">Itinerary</h1>
             <CityBadge city={city} />
           </div>
         </div>
@@ -28,7 +28,7 @@ export function ItineraryView() {
       {day && (
         <div className="mx-auto w-full max-w-lg space-y-4 p-4">
           <div className="animate-fade-up">
-            <h2 className={cn('text-base font-bold', getCityAccent(city))}>{day.title}</h2>
+            <h2 className={cn('font-display text-xl', getCityAccent(city))}>{day.title}</h2>
             {day.subtitle && <p className="mt-1 text-xs text-text-tertiary">{day.subtitle}</p>}
           </div>
 
@@ -99,7 +99,7 @@ export function ItineraryView() {
                   <div
                     key={ai}
                     className={cn(
-                      'rounded-2xl bg-surface p-4 transition-colors',
+                      'rounded-2xl bg-surface p-4 transition-colors card-interactive',
                       act.priority
                         ? 'ring-1 ring-priority/30 bg-priority/[0.04] priority-shimmer'
                         : `card-accent-${cityLower}`

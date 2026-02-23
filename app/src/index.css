@@ -25,7 +25,12 @@
   --color-urgent: #f87171;
   --color-soon: #fbbf24;
   --color-priority: #fbbf24;
+  --color-coffee: #d97706;
+  --color-shopping: #e879a0;
+  --color-activities: #2dd4bf;
+  --color-events: #a78bfa;
   --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-display: "Instrument Serif", Georgia, serif;
 }
 
 * {
@@ -60,6 +65,11 @@ body {
 }
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
+}
+
+/* Display font for headings */
+.font-display {
+  font-family: var(--font-display);
 }
 
 /* Focus ring for keyboard navigation */
@@ -128,6 +138,14 @@ body {
 .card-accent-kyoto { border-left: 3px solid #c084fc40; }
 .card-accent-osaka { border-left: 3px solid #fb923c40; }
 .card-accent-hakone { border-left: 3px solid #4ade8040; }
+
+/* Category ambient glow for Discover view */
+.cat-glow-coffee { background: radial-gradient(ellipse at 50% 0%, #d9770618 0%, transparent 50%); }
+.cat-glow-shopping { background: radial-gradient(ellipse at 50% 0%, #e879a018 0%, transparent 50%); }
+.cat-glow-activities { background: radial-gradient(ellipse at 50% 0%, #2dd4bf18 0%, transparent 50%); }
+.cat-glow-events { background: radial-gradient(ellipse at 50% 0%, #a78bfa18 0%, transparent 50%); }
+.cat-glow-all { background: radial-gradient(ellipse at 30% 0%, #d9770610 0%, transparent 40%),
+                             radial-gradient(ellipse at 70% 0%, #a78bfa10 0%, transparent 40%); }
 
 /* Shimmer effect for priority items */
 @keyframes shimmer {

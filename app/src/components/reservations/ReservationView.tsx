@@ -33,7 +33,7 @@ export function ReservationView() {
     <div className="flex flex-col pb-20">
       <header className="sticky top-0 z-40 border-b border-border bg-bg/90 backdrop-blur-xl px-4 py-3">
         <div className="mx-auto max-w-lg">
-          <h1 className="text-lg font-bold">Reservations</h1>
+          <h1 className="font-display text-2xl tracking-tight">Reservations</h1>
           <div className="mt-2 flex items-center gap-2 text-xs">
             <span className="flex items-center gap-1.5 rounded-lg bg-booked/10 px-2 py-1 font-semibold text-booked">
               <CheckCircle className="h-3 w-3" /> {grouped.booked.length}

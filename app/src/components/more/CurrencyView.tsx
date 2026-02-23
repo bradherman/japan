@@ -50,7 +50,7 @@ export function CurrencyView() {
               <ArrowLeft className="h-5 w-5" />
             </button>
             <div>
-              <h1 className="text-lg font-bold">Currency</h1>
+              <h1 className="font-display text-2xl tracking-tight">Currency</h1>
               <p className="text-[11px] text-text-tertiary">
                 1 USD = ¥{rate.toFixed(1)} <span className="text-text-tertiary/60">· updated daily</span>
               </p>

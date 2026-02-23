@@ -81,7 +81,7 @@ export function PackingView() {
               <ArrowLeft className="h-5 w-5" />
             </button>
             <div className="flex-1">
-              <h1 className="text-lg font-bold">Packing List</h1>
+              <h1 className="font-display text-2xl tracking-tight">Packing List</h1>
               <p className="text-xs text-text-tertiary">
                 {allDone ? 'All packed! Ready for Japan.' : `${checkedCount} / ${totalItems} packed · ${pct}%`}
               </p>

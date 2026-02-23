@@ -27,7 +27,7 @@ export function SettingsView() {
           >
             <ArrowLeft className="h-5 w-5" />
           </button>
-          <h1 className="text-lg font-bold">Settings</h1>
+          <h1 className="font-display text-2xl tracking-tight">Settings</h1>
         </div>
       </header>
 

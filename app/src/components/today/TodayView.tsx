@@ -51,7 +51,7 @@ export function TodayView() {
           </button>
           <div className="text-center">
             <div className="flex items-center justify-center gap-2.5">
-              <span className="text-xl font-bold tracking-tight">Day {selectedDay}</span>
+              <span className="font-display text-2xl">Day {selectedDay}</span>
               <CityBadge city={city} />
             </div>
             <p className="mt-0.5 text-xs text-text-tertiary">

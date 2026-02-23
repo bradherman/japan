@@ -25,7 +25,7 @@ export function TransportView() {
             >
               <ArrowLeft className="h-5 w-5" />
             </button>
-            <h1 className="text-lg font-bold">Transport</h1>
+            <h1 className="font-display text-2xl tracking-tight">Transport</h1>
           </div>
         </div>
         <DayPicker selectedDay={selectedDay} onSelect={setSelectedDay} />

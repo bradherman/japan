@@ -49,7 +49,7 @@ export function EatDrinkView() {
     <div className="flex flex-col pb-20">
       <header className="sticky top-0 z-40 border-b border-border bg-bg/90 backdrop-blur-xl">
         <div className="mx-auto max-w-lg px-4 pt-3">
-          <h1 className="text-lg font-bold">Eat & Drink</h1>
+          <h1 className="font-display text-2xl tracking-tight">Eat & Drink</h1>
 
           {/* Tab switcher */}
           <div className="mt-2.5 flex rounded-xl bg-surface p-1">
@@ -128,16 +128,23 @@ export function EatDrinkView() {
         <p className="mb-3 text-xs text-text-tertiary">{count} {tab === 'restaurants' ? 'restaurants' : 'venues'}</p>
 
         {count === 0 ? (
-          <div className="flex flex-col items-center gap-2 py-16 text-text-tertiary">
-            <Search className="h-8 w-8 opacity-40" />
-            <p className="text-sm">No {tab} found</p>
+          <div className="flex flex-col items-center gap-3 py-20 text-text-tertiary animate-fade-up">
+            <div className="animate-float">
+              {tab === 'restaurants'
+                ? <UtensilsCrossed className="h-10 w-10 opacity-20" />
+                : <Wine className="h-10 w-10 opacity-20" />
+              }
+            </div>
+            <p className="font-display text-lg italic text-text-secondary">
+              No {tab} found
+            </p>
             <p className="text-xs">Try a different search or filter</p>
           </div>
         ) : (
           <div className="stagger-children space-y-2">
             {tab === 'restaurants' ? (
               filteredRestaurants.map(r => (
-                <div key={r.id} className={cn('rounded-2xl bg-surface p-4', `card-accent-${(r.city || 'tokyo').toLowerCase()}`)}>
+                <div key={r.id} className={cn('rounded-2xl bg-surface p-4 card-interactive', `card-accent-${(r.city || 'tokyo').toLowerCase()}`)}>
                   <div className="flex items-start justify-between gap-3">
                     <div className="min-w-0 flex-1">
                       <div className="flex items-center gap-2 flex-wrap">
