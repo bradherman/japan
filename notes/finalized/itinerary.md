@@ -16,7 +16,7 @@
 **Cuisine Tracker** (no consecutive repeats):
 | Day | Lunch Cuisine | Dinner Cuisine |
 |-----|--------------|----------------|
-| 1 (Apr 25) | — | Tsukemen/dipping ramen |
+| 1 (Apr 25) | — | Beef cutlet (or tsukemen) |
 | 2 (Apr 26) | Sardine (Michelin) | Tonkatsu |
 | 3 (Apr 27) | Sushi (Michelin) | Teppanyaki |
 | 4 (Apr 28) | Ramen (Michelin) | Izakaya |
@@ -44,10 +44,10 @@
 - **~4:30 PM** — Board Narita Express (N'EX) to Shibuya (direct, ~75 min, 3,250 yen/pp)
 - **~6:00 PM** — Arrive [Shibuya Station](https://maps.google.com/?q=Shibuya+Station+Tokyo). Walk 5-10 min to hotel. Check in, drop bags, freshen up
 
-### Dinner (~7:30 PM) — Tsukemen / Street Food
-*No reservations needed for any of these.*
-1. **[Fuunji](https://maps.google.com/?q=Fuunji+Yoyogi+Tokyo)** — Tsukemen (dipping ramen) — ~1,200-1,450 yen/pp — Near Shinjuku South Exit. Take JR Yamanote Line 1 stop from Shibuya to Shinjuku (5 min, 170 yen), then 5-8 min walk south. ~15-20 min door-to-door. Rich, intense fish-based dipping noodles. Cash only, vending machine order. *No reservation needed. LINE UP: Arrive by 7pm to minimize wait (typically 15-30 min on weeknights).*
-2. **[Gyukatsu Motomura Shibuya](https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya)** — Beef cutlet — ~2,000-2,600 yen/pp — DIY grilling at your table. Fun, interactive, close to hotel. *LINE UP: Expect 30-60 min wait. Arrive by 7pm.*
+### Dinner (~7:30 PM) — Beef Cutlet / Tsukemen
+*No reservations needed for either. Both cash-friendly.*
+1. **[Gyukatsu Motomura Shibuya](https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya)** — PICK. Beef cutlet — ~2,000-2,600 yen/pp — 5-10 min walk from hotel. DIY grilling at your table — fun, interactive, perfect first-night-in-Japan energy. *LINE UP: Expect 30-60 min wait. Arrive by 7pm.*
+2. **[Fuunji](https://maps.google.com/?q=Fuunji+Yoyogi+Tokyo)** — Tsukemen (dipping ramen) — ~1,200-1,450 yen/pp — Near Shinjuku South Exit (~15-20 min from hotel: JR Yamanote 1 stop to Shinjuku + 5-8 min walk). Rich, intense fish-based dipping noodles. Cash only, vending machine order. *If you're feeling energetic after the flight. LINE UP: Arrive by 7pm to minimize wait (typically 15-30 min on weeknights).*
 
 ### Evening
 - **[Grandfather's](https://maps.google.com/?q=Grandfather's+listening+bar+Shibuya)** (Shibuya) — Underground listening bar since 1971. Owner Toru Ishikawa has curated 2,000+ albums of 70s/80s Billboard hits. Vintage sound system, dark wood, dim lights, Suntory highball. This is the source of Japan's listening bar culture. Walking distance from hotel. *Perfect low-key first night.*
@@ -57,7 +57,7 @@
 ### Logistics
 - At Narita: Buy physical Suica card OR set up Apple Wallet Suica before landing (load 3,000-5,000 yen)
 - N'EX one-way ticket: buy at JR counter in arrivals
-- Carry cash tonight — Fuunji and most alley bars are cash-only
+- Carry cash tonight — Motomura, Fuunji, and most alley bars are cash-only
 - 7-Eleven ATMs accept foreign cards
 
 ---

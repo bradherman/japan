@@ -86,7 +86,8 @@
 
 | Restaurant | Cuisine / What to Order | Target Date & Time | Cost/pp | Line-Up Strategy | Map |
 |-----------|------------------------|-------------------|---------|-----------------|-----|
-| **Fuunji** | Tsukemen (dipping ramen) — get special size 400g | Apr 25, ~7:00 PM | ¥1,200-1,450 | Arrive 7pm. 15-30 min wait weeknights. Cash/vending machine. | [Map](https://maps.google.com/?q=Fuunji+Yoyogi+Tokyo) |
+| **Gyukatsu Motomura Shibuya** | Beef cutlet — DIY grilling at table | Apr 25, ~7:00 PM | ¥2,000-2,600 | Arrive 7pm. 30-60 min wait. Cash OK. 5-10 min walk from hotel. | [Map](https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya) |
+| **Fuunji** (backup) | Tsukemen (dipping ramen) — get special size 400g | Apr 25, ~7:00 PM | ¥1,200-1,450 | JR Yamanote 1 stop to Shinjuku + 5-8 min walk. 15-30 min wait. Cash/vending machine. | [Map](https://maps.google.com/?q=Fuunji+Yoyogi+Tokyo) |
 | **Nakajima** | Michelin sardine set lunch — Yanagawa Nabe set (990¥) | Apr 26, ~11:15 AM | ¥990 | Queue by 11:15am for 11:30 opening. 30-45 min if arriving later. | [Map](https://maps.google.com/?q=Shinjuku+Kappo+Nakajima) |
 | **I'm Donut?** | Brioche donuts w/ cream filling | Apr 27, ~9:30 AM | ¥400-600/donut | Arrive 30 min before 10am opening. Sells out by early afternoon. | [Map](https://maps.google.com/?q=I'm+Donut+Nakameguro) |
 | **Udon Maruka** | Kamaage udon (Sanuki-style dipping) | Apr 28, ~10:00 AM | ¥500-800 | Queue by 10:00-10:30 for 11am opening. Cash only. Sells out early. | [Map](https://maps.google.com/?q=Udon+Maruka+Jimbocho+Tokyo) |

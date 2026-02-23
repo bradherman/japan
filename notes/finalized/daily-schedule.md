@@ -14,9 +14,9 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 5:45       Arrive Shibuya Station
 5:45-6:00  Walk to Shibuya Granbell Hotel (10 min)
 6:00-6:45  Check in, drop bags, freshen up, change
-7:00       Walk to Fuunji (5 min from hotel)
-7:00-7:20  Queue at Fuunji (~15-30 min Fri evening)
-7:20-7:50  Eat tsukemen
+7:00       Walk to Gyukatsu Motomura Shibuya (5-10 min from hotel)
+7:00-7:30  Queue at Motomura (~30-60 min Fri evening)
+7:30-8:00  Eat gyukatsu (beef cutlet, DIY grilling)
 7:50-8:00  Walk to Grandfather's listening bar (10 min)
 8:00-9:00  Grandfather's — vinyl + highball, decompress from flight
 9:00-9:05  Walk to Nonbei Yokocho (5 min)
