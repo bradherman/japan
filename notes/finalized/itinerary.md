@@ -46,12 +46,12 @@
 
 ### Dinner (~7:30 PM) — Tsukemen / Street Food
 *No reservations needed for any of these.*
-1. **[Fuunji](https://maps.google.com/?q=Fuunji+Yoyogi+Tokyo)** — Tsukemen (dipping ramen) — ~1,200-1,450 yen/pp — Only 5 min walk from hotel. Rich, intense fish-based dipping noodles. Cash only, vending machine order. *No reservation needed. LINE UP: Arrive by 7pm to minimize wait (typically 15-30 min on weeknights).*
+1. **[Fuunji](https://maps.google.com/?q=Fuunji+Yoyogi+Tokyo)** — Tsukemen (dipping ramen) — ~1,200-1,450 yen/pp — Near Shinjuku South Exit. Take JR Yamanote Line 1 stop from Shibuya to Shinjuku (5 min, 170 yen), then 5-8 min walk south. ~15-20 min door-to-door. Rich, intense fish-based dipping noodles. Cash only, vending machine order. *No reservation needed. LINE UP: Arrive by 7pm to minimize wait (typically 15-30 min on weeknights).*
 2. **[Gyukatsu Motomura Shibuya](https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya)** — Beef cutlet — ~2,000-2,600 yen/pp — DIY grilling at your table. Fun, interactive, close to hotel. *LINE UP: Expect 30-60 min wait. Arrive by 7pm.*
 
 ### Evening
 - **[Grandfather's](https://maps.google.com/?q=Grandfather's+listening+bar+Shibuya)** (Shibuya) — Underground listening bar since 1971. Owner Toru Ishikawa has curated 2,000+ albums of 70s/80s Billboard hits. Vintage sound system, dark wood, dim lights, Suntory highball. This is the source of Japan's listening bar culture. Walking distance from hotel. *Perfect low-key first night.*
-- **[Nonbei Yokocho](https://maps.google.com/?q=Nonbei+Yokocho+Shibuya)** (Shibuya) — Tiny bar alley right near the hotel. Grab a nightcap at one of the pint-sized standing bars. No cover, just point and order. *One drink is ~30 min — do both Grandfather's AND Nonbei Yokocho.*
+- **[Nonbei Yokocho](https://maps.google.com/?q=Nonbei+Yokocho+Shibuya)** (Shibuya) — Tiny bar alley ~10 min walk from hotel (opposite side of Shibuya Station). Grab a nightcap at one of the pint-sized standing bars. No cover, just point and order. *One drink is ~30 min — do both Grandfather's AND Nonbei Yokocho.*
 - Or crash early. You just flew across the Pacific. No shame.
 
 ### Logistics
@@ -69,7 +69,7 @@
 **Morning Coffee:** [Streamer Coffee Shibuya](https://maps.google.com/?q=Streamer+Coffee+Company+Shibuya) (walking distance from hotel, opens 10am Sat — grab on the way out OR get station coffee pre-Tsukiji)
 
 ### Morning — Tsukiji Outer Market (arrive ~7:30-8:00 AM)
-- Take Ginza Line from Shibuya to Tsukiji (~20 min, 210 yen)
+- Take Ginza Line from Shibuya to Ginza (~16 min), transfer to Hibiya Line 1 stop to Tsukiji (~2 min). Total ~20-25 min, ~210 yen. *(Or walk from Ginza to Tsukiji Outer Market, ~15 min)*
 - **[Tsukiji Outer Market](https://maps.google.com/?q=Tsukiji+Outer+Market+Tokyo)** — 2-3 hours of eating your way through 400+ stalls
   - Must-eat: tamagoyaki (Shouro or Yamachou), grilled scallops (Kakigoya), fresh sashimi, uni, ichigo daifuku (Soratsuki), tuna skewers + beer
   - Cash at most stalls. Closed Wed/Sun — Saturday is great
@@ -94,7 +94,7 @@
 - **Shibuya Crossing** — You're literally above it. Watch from the sky, then experience it at street level after.
 
 ### Dinner (~7:30-8:00 PM) — Tonkatsu
-1. **[Tonkatsu Narikura](https://maps.google.com/?q=Tonkatsu+Narikura+Minami-Asagaya)** — PRIORITY. Best tonkatsu in Tokyo — ~6,000 yen/pp — Reservation ONLY via Omakase.in or TableCheck. *(Take Marunouchi Line to Minami-Asagaya, 3 min walk)*
+1. **[Tonkatsu Narikura](https://maps.google.com/?q=Tonkatsu+Narikura+Minami-Asagaya)** — PRIORITY. Best tonkatsu in Tokyo — ~6,000 yen/pp — Reservation ONLY via Omakase.in or TableCheck. *(Take Ginza Line from Shibuya, transfer at Akasaka-mitsuke to Marunouchi Line toward Ogikubo, ride to Minami-Asagaya. ~30-35 min total. 3 min walk from station.)*
   - **ADVANCE TICKETS: Slots open 1 week ahead at noon JST on TableCheck. Set alarm for Sat Apr 19 at 8pm PDT (= noon JST Apr 20)**
 2. **[Tonkatsu Sugita](https://maps.google.com/?q=Tonkatsu+Sugita+Kuramae+Tokyo)** — Bib Gourmand, 10 consecutive years — ~3,000-4,500 yen/pp — Near Asakusa. Book via Omakase or byFood.
 3. **[Gyukatsu Motomura Shibuya](https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya)** — Beef cutlet — ~2,600 yen/pp — If tonkatsu reservations fell through.
@@ -195,7 +195,7 @@
 **Morning Coffee:** [Koffee Mameya Omotesando](https://maps.google.com/?q=Koffee+Mameya+Omotesando+Tokyo) — Opens 10am. Coffee sommelier picks your bean.
 
 ### Morning — Meiji Shrine + Harajuku (~8:30-11:00 AM)
-- **[Meiji Shrine](https://maps.google.com/?q=Meiji+Shrine+Tokyo)** — Early morning is best (less crowded). Free, serene, majestic torii gate. 10-min walk from Shibuya.
+- **[Meiji Shrine](https://maps.google.com/?q=Meiji+Shrine+Tokyo)** — Early morning is best (less crowded). Free, serene, majestic torii gate. Take JR Yamanote 1 stop to Harajuku (3 min), then 10 min walk to shrine entrance. *(Or ~20-25 min walk from Shibuya.)*
 - Walk to **[Harajuku / Takeshita-dori](https://maps.google.com/?q=Takeshita+Street+Harajuku+Tokyo)** — Window shopping, people watching
 - **[Harajuku Gyoza Ru](https://maps.google.com/?q=Harajuku+Gyoza+Ro+Tokyo)** — Best gyoza in Tokyo per multiple Instagram recs. Perfect mid-morning snack. ~500-800 yen.
 - **[#FFFFFFT (White T-Shirt Store)](https://maps.google.com/?q=FFFFFFT+Sendagaya+Tokyo)** — The world's first store selling ONLY white t-shirts. 2-3-5 Sendagaya, Shibuya-ku. **Open weekends only (Sat 12-7pm, Sun 12-6pm).** ~5 min walk from JR Sendagaya Station or ~10 min walk from Harajuku. Owner helps you find your perfect white tee from curated Japanese and international brands. *Today is Tuesday so CLOSED — move to Day 3 (Sunday) afternoon if interested, or skip.*
@@ -274,6 +274,11 @@
   - *Rule: eat in front of the stall, no walking and eating*
 - **[Aritsugu Knives](https://maps.google.com/?q=Aritsugu+knives+Nishiki+Market+Kyoto)** — Inside Nishiki Market. Est. 1560, originally swordsmiths.
 - **[Kuoe Watches](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — Teramachi Shopping District. Custom vintage-inspired watches from ~$290. *(Closed Tue — Wed is fine)*
+- **Japanese Jazz Vinyl — Teramachi Record Shop Crawl** (~10 min walk north from hotel, all clustered together):
+  - **[Hard Bop](https://maps.google.com/?q=Hard+Bop+records+Teramachi+Kyoto)** — THE jazz vinyl destination. 30+ year jazz-only shop. Japanese Blue Note pressings, original US pressings, mint reissues. Old-school owner, cash preferred. Opens 12:30pm.
+  - **[100000t alonetoco](https://maps.google.com/?q=100000t+alonetoco+Teramachi+Kyoto)** — Eclectic digger's paradise: jazz, city pop, psych rock, funk. Same building as Workshop Records. Opens ~12pm.
+  - **[Workshop Records](https://maps.google.com/?q=Workshop+Records+Teramachi+Kyoto)** — Jazz + rock, fair prices. Same building as 100000t.
+  - *All three are on Teramachi north of Oike — hit them as a cluster after Kuoe Watches and before/after Ippodo Tea.*
 
 ### Lunch — Keep Open / Flexible
 *Just Brad & Alyona now. Be flexible with Nishiki grazing as your "lunch" or sit down somewhere:*
@@ -327,8 +332,8 @@
 - **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — Award-winning matcha parfait. Open Thu-Mon. Closes 5pm cafe. Book ahead.
 
 ### Dinner (~6:30 PM) — Ramen
-1. **[Menya Inoichi](https://maps.google.com/?q=Menya+Inoichi+Ichijoji+Kyoto)** — PRIORITY. Bib Gourmand, Ichijoji — ~1,000 yen — Seafood shio ramen, 9 consecutive years. Take Eizan Railway to Ichijoji (~20 min). *Walkable fallback: if too tired for Ichijoji trek, see #2.*
-2. **[Wagyu Ramen Julia](https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto)** — Gion — ~1,200-1,800 yen — Walking distance from hotel. Fallback.
+1. **[Menya Inoichi](https://maps.google.com/?q=Menya+Inoichi+Shimogyo+Kyoto)** — PRIORITY. Bib Gourmand — ~1,000 yen — Seafood shio ramen, 9 consecutive years. In Shimogyo-ku, ~10-15 min walk south from hotel. No train needed.
+2. **[Wagyu Ramen Julia](https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto)** — Gion — ~1,200-1,800 yen — Walking distance from hotel. Backup.
 
 ### Evening
 - **[Kamogawa Odori](https://maps.google.com/?q=Pontocho+Kaburenjo+Theater+Kyoto)** — Geisha dance performance at Pontocho Kaburenjo Theater. May 1-3. ~4,000-7,000 yen.
@@ -473,6 +478,10 @@
 - **[Nakanoshima Festival](https://maps.google.com/?q=Nakanoshima+Park+Osaka)** — Day 2 if you didn't do it last night. Free! Also walk the beautiful **[Nakanoshima riverside](https://maps.google.com/?q=Nakanoshima+Island+Osaka)** — especially lovely lit up.
 - **[Shinsaibashi Shopping Arcade](https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka)** — 180 stores. Onitsuka Tiger flagship, Don Quijote. Tax-free.
 - **[Momotaro Jeans Osaka](https://maps.google.com/?q=Momotaro+Jeans+Osaka+Horie)** — Horie neighborhood. If you haven't bought denim yet.
+- **Japanese Jazz Vinyl — Shinsaibashi Record Run** (all walking distance from hotel):
+  - **[Rare Groove](https://maps.google.com/?q=Rare+Groove+Records+Nishi-Shinsaibashi+Osaka)** — On The Vinyl Factory's "World's Best Record Shops" list. Rare Japanese pressings specialty. ~8 min walk from hotel. Building has 5 other record shops too. **Closed Wednesdays** — today (Mon) is perfect.
+  - **[HMV Record Shop Shinsaibashi](https://maps.google.com/?q=HMV+Record+Shop+Shinsaibashi+OPA+Osaka)** — 8F of Shinsaibashi OPA. 50,000 records, rated 5/5 for jazz. ~5 min from hotel.
+  - **[Groovenut Records](https://maps.google.com/?q=Groovenut+Records+Amerikamura+Osaka)** — Amerikamura. Original pressings: soul, funk, jazz, rare groove. ~10 min from hotel.
 
 ### Dinner (~7:00 PM) — Ramen
 1. **[Shoyu-Ramen Sodaisho](https://maps.google.com/?q=Shoyu+Ramen+Sodaisho+Temma+Osaka)** — PICK. Temma — ~1,000 yen — Chicken-clam shoyu ramen. Baseball-themed. Local gem.

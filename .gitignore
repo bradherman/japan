@@ -24,4 +24,11 @@ Thumbs.db
 # Data (large files, credentials)
 *.mp4
 *.mov
+data/raw/
 notes/originals/
+
+# App build artifacts
+app/dist/
+app/node_modules/
+app/src/data/generated/
+node_modules/

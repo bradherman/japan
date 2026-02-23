@@ -53,8 +53,8 @@ config/                   # API keys, trip dates, category definitions
 # Set up virtual environment
 python3 -m venv .venv && source .venv/bin/activate
 
-# Install dependencies
-pip install -r requirements.txt
+# Install dependencies (scripts only — not needed for app deployment)
+pip install -r scripts/requirements.txt
 
 # Process an Instagram reel (download + transcribe + OCR)
 python scripts/process_reel.py <reel_url>

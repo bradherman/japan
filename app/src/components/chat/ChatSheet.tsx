@@ -1,10 +1,16 @@
 import { useState, useRef, useEffect } from 'react'
-import { MessageCircle, X, Send } from 'lucide-react'
+import { MessageCircle, X, Send, Globe, FileText, Pencil } from 'lucide-react'
 import { cn, getTripDay, getDayCity, getTimeGreeting } from '@/lib/utils'
+
+interface ToolUsed {
+  name: string
+  input: Record<string, string>
+}
 
 interface Message {
   role: 'user' | 'assistant'
   content: string
+  toolsUsed?: ToolUsed[]
 }
 
 function getSuggestions(): string[] {
@@ -15,24 +21,24 @@ function getSuggestions(): string[] {
   if (h < 10) return [
     'Where should we get coffee?',
     "What's the plan this morning?",
-    'Any tips for today?',
+    'Find a good breakfast spot nearby',
     'How do we get to our first stop?',
   ]
   if (h < 14) return [
-    'What should we eat for lunch?',
+    'Search for ramen near us',
     'How do we get to our next stop?',
     "What's the afternoon plan?",
     city === 'Tokyo' ? 'Any good shops nearby?' : 'What should we see nearby?',
   ]
   if (h < 18) return [
     "Where's dinner tonight?",
-    'Backup plan for this evening?',
+    'Find a quiet bar nearby',
     "What time do we need to be there?",
-    'Any bars near our restaurant?',
+    'Search for a cocktail bar in the area',
   ]
   return [
     "What's the plan for tomorrow?",
-    'Any good late-night spots?',
+    'Find a late-night izakaya nearby',
     'How do we get back to the hotel?',
     "What time do we start tomorrow?",
   ]
@@ -44,6 +50,58 @@ function renderMarkdown(text: string) {
     .replace(/\*(.+?)\*/g, '<em>$1</em>')
     .replace(/`(.+?)`/g, '<code class="rounded bg-surface-2 px-1 py-0.5 text-[11px]">$1</code>')
     .replace(/\n/g, '<br/>')
+}
+
+function ToolBadge({ tool }: { tool: ToolUsed }) {
+  const config = {
+    web_search: {
+      icon: Globe,
+      label: `Searched: ${tool.input.query}`,
+      color: 'bg-blue-500/10 text-blue-600 dark:text-blue-400 ring-blue-500/20',
+    },
+    read_itinerary_file: {
+      icon: FileText,
+      label: `Read: ${tool.input.file_path?.split('/').pop()}`,
+      color: 'bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 ring-emerald-500/20',
+    },
+    edit_itinerary_file: {
+      icon: Pencil,
+      label: `Updated: ${tool.input.file_path?.split('/').pop()}`,
+      color: 'bg-amber-500/10 text-amber-600 dark:text-amber-400 ring-amber-500/20',
+    },
+  }[tool.name]
+
+  if (!config) return null
+  const Icon = config.icon
+
+  return (
+    <span className={cn('inline-flex items-center gap-1 rounded-lg px-2 py-0.5 text-[10px] font-medium ring-1', config.color)}>
+      <Icon className="h-2.5 w-2.5" />
+      <span className="max-w-[180px] truncate">{config.label}</span>
+    </span>
+  )
+}
+
+function ToolActivity({ name }: { name?: string }) {
+  const labels: Record<string, string> = {
+    web_search: 'Searching the web...',
+    read_itinerary_file: 'Reading itinerary...',
+    edit_itinerary_file: 'Updating itinerary...',
+  }
+  return (
+    <div className="flex justify-start">
+      <div className="rounded-2xl rounded-bl-lg bg-surface px-4 py-3 ring-1 ring-border/50">
+        <div className="flex items-center gap-2">
+          <div className="flex gap-1.5">
+            <span className="h-1.5 w-1.5 rounded-full bg-text-tertiary animate-bounce" style={{ animationDelay: '0ms' }} />
+            <span className="h-1.5 w-1.5 rounded-full bg-text-tertiary animate-bounce" style={{ animationDelay: '150ms' }} />
+            <span className="h-1.5 w-1.5 rounded-full bg-text-tertiary animate-bounce" style={{ animationDelay: '300ms' }} />
+          </div>
+          {name && <span className="text-[10px] text-text-tertiary">{labels[name] || 'Thinking...'}</span>}
+        </div>
+      </div>
+    </div>
+  )
 }
 
 export function ChatSheet() {
@@ -71,10 +129,12 @@ export function ChatSheet() {
     setLoading(true)
 
     try {
+      // Send only role+content to the API (strip toolsUsed)
+      const apiMessages = newMessages.map(({ role, content }) => ({ role, content }))
       const res = await fetch('/api/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ messages: newMessages }),
+        body: JSON.stringify({ messages: apiMessages }),
       })
       const contentType = res.headers.get('content-type') || ''
       if (!contentType.includes('application/json')) {
@@ -85,7 +145,11 @@ export function ChatSheet() {
       }
       const data = await res.json()
       if (data.detail) console.error('Chat API detail:', data.detail)
-      setMessages(prev => [...prev, { role: 'assistant', content: data.response || data.error || 'Something went wrong' }])
+      setMessages(prev => [...prev, {
+        role: 'assistant',
+        content: data.response || data.error || 'Something went wrong',
+        toolsUsed: data.toolsUsed,
+      }])
     } catch {
       setMessages(prev => [...prev, { role: 'assistant', content: 'Could not reach the server. Are you offline?' }])
     } finally {
@@ -134,7 +198,7 @@ export function ChatSheet() {
             </div>
             <div className="text-center">
               <p className="text-sm text-text-secondary">{greeting}! Ask me anything.</p>
-              <p className="mt-0.5 text-xs text-text-tertiary">I know the whole itinerary.</p>
+              <p className="mt-0.5 text-xs text-text-tertiary">I can search the web and read the itinerary.</p>
             </div>
             <div className="flex flex-wrap gap-2 justify-center">
               {suggestions.map(s => (
@@ -151,7 +215,7 @@ export function ChatSheet() {
         )}
 
         {messages.map((msg, i) => (
-          <div key={i} className={cn('flex', msg.role === 'user' ? 'justify-end' : 'justify-start')}>
+          <div key={i} className={cn('flex flex-col', msg.role === 'user' ? 'items-end' : 'items-start')}>
             <div className={cn(
               'max-w-[85%] rounded-2xl px-3.5 py-2.5 text-sm leading-relaxed',
               msg.role === 'user'
@@ -164,20 +228,18 @@ export function ChatSheet() {
                 msg.content
               )}
             </div>
+            {/* Tool badges */}
+            {msg.toolsUsed && msg.toolsUsed.length > 0 && (
+              <div className="flex flex-wrap gap-1 mt-1.5 max-w-[85%]">
+                {msg.toolsUsed.map((tool, j) => (
+                  <ToolBadge key={j} tool={tool} />
+                ))}
+              </div>
+            )}
           </div>
         ))}
 
-        {loading && (
-          <div className="flex justify-start">
-            <div className="rounded-2xl rounded-bl-lg bg-surface px-4 py-3 ring-1 ring-border/50">
-              <div className="flex gap-1.5">
-                <span className="h-1.5 w-1.5 rounded-full bg-text-tertiary animate-bounce" style={{ animationDelay: '0ms' }} />
-                <span className="h-1.5 w-1.5 rounded-full bg-text-tertiary animate-bounce" style={{ animationDelay: '150ms' }} />
-                <span className="h-1.5 w-1.5 rounded-full bg-text-tertiary animate-bounce" style={{ animationDelay: '300ms' }} />
-              </div>
-            </div>
-          </div>
-        )}
+        {loading && <ToolActivity />}
         <div ref={messagesEndRef} />
       </div>
 
