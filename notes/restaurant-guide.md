@@ -51,7 +51,7 @@ Comprehensive restaurant research for Tokyo (Apr 25-30, May 9-10), Kyoto (Apr 30
 - **Reservations:** None. Walk-in only with queue.
 - **Payment:** Cash (vending machine)
 - **What to order:** Special Tsukemen (dipping noodles). Rich, intense fish-based broth for dipping thick noodles. The broth is viscous and deeply savory -- possibly the best tsukemen in Tokyo.
-- **Notes:** Very convenient to your Shibuya hotel. Perpetual queue but it moves fast. Outstanding for tsukemen specifically. Get the special size (400g) if hungry.
+- **Notes:** Near Shinjuku South Exit, NOT near Shibuya hotel (~15-20 min from hotel: JR Yamanote 1 stop to Shinjuku + 5-8 min walk). Backup option for Day 1 dinner (Gyukatsu Motomura is the primary pick — actually walkable from hotel). Perpetual queue but it moves fast. Outstanding for tsukemen specifically. Get the special size (400g) if hungry.
 - **Golden Week:** Closed Sundays; weekday visits recommended.
 
 #### Mugi to Olive (Bonus pick - if in Ginza area)

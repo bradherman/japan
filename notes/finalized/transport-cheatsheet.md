@@ -26,7 +26,7 @@
 
 **At Narita airport:** Buy Suica card at JR counter (¥500 deposit + load ¥3,000-5,000) OR use Apple Wallet Suica set up before landing.
 
-**Evening transit:** Fuunji is 5 min walk from hotel. Grandfather's/Nonbei Yokocho are walking distance.
+**Evening transit:** Gyukatsu Motomura is 5-10 min walk from hotel (primary dinner pick). Fuunji (backup) is near Shinjuku — JR Yamanote 1 stop + 5-8 min walk (~15-20 min total). Grandfather's/Nonbei Yokocho are walking distance.
 
 ---
 
