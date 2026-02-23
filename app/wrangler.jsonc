@@ -10,5 +10,11 @@
       "binding": "TRIP_KV",
       "id": "1da27038ec5b432a8d3ff227cceeb07d"
     }
-  ]
+  ],
+  "observability": {
+    "logs": {
+      "enabled": false,
+      "invocation_logs": true
+    }
+  }
 }

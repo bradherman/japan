@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback, useEffect } from 'react'
+import { useState, useMemo, useCallback, useEffect, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { MapPin, Search, X, ArrowLeft, Sparkles, Coffee, ShoppingBag, Compass, CalendarDays, Heart } from 'lucide-react'
 import { recommendations } from '@/data'
@@ -34,12 +34,12 @@ function saveFavorites(favs: Set<string>) {
   localStorage.setItem(FAVORITES_KEY, JSON.stringify([...favs]))
 }
 
-const emptyMessages: Record<Tab, { icon: string; title: string; subtitle: string }> = {
-  all: { icon: '', title: 'Nothing here yet', subtitle: 'Try a different search or filter' },
-  coffee: { icon: '', title: 'No coffee spots found', subtitle: 'Adjust your filters — there\'s always coffee somewhere' },
-  shopping: { icon: '', title: 'No shops match', subtitle: 'Try widening your search' },
-  activities: { icon: '', title: 'No activities found', subtitle: 'Try a different city or search term' },
-  events: { icon: '', title: 'No events match', subtitle: 'Check other cities or dates' },
+const emptyMessages: Record<Tab, { title: string; subtitle: string }> = {
+  all: { title: 'Nothing here yet', subtitle: 'Try a different search or filter' },
+  coffee: { title: 'No coffee spots found', subtitle: 'Adjust your filters — there\'s always coffee somewhere' },
+  shopping: { title: 'No shops match', subtitle: 'Try widening your search' },
+  activities: { title: 'No activities found', subtitle: 'Try a different city or search term' },
+  events: { title: 'No events match', subtitle: 'Check other cities or dates' },
 }
 
 export function RecommendationsView() {
@@ -49,6 +49,8 @@ export function RecommendationsView() {
   const [search, setSearch] = useState('')
   const [showSaved, setShowSaved] = useState(false)
   const [favorites, setFavorites] = useState<Set<string>>(loadFavorites)
+  const [justToggled, setJustToggled] = useState<string | null>(null)
+  const tabBarRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     saveFavorites(favorites)
@@ -61,6 +63,8 @@ export function RecommendationsView() {
       else next.add(id)
       return next
     })
+    setJustToggled(id)
+    setTimeout(() => setJustToggled(null), 400)
   }, [])
 
   const activeTab = tabs.find(t => t.key === tab)!
@@ -91,8 +95,9 @@ export function RecommendationsView() {
     <div className="flex flex-col pb-20">
       <header className="sticky top-0 z-40 border-b border-border bg-bg/90 backdrop-blur-xl">
         <div className="mx-auto max-w-lg px-4 pt-3">
-          <div className="flex items-center gap-3">
-            <button onClick={() => navigate('/more')} className="flex h-8 w-8 items-center justify-center rounded-lg text-text-tertiary hover:text-text-secondary hover:bg-surface transition-colors">
+          {/* Title row */}
+          <div className="flex items-center gap-3 animate-fade-up">
+            <button onClick={() => navigate('/more')} className="flex h-8 w-8 items-center justify-center rounded-lg text-text-tertiary hover:text-text-secondary hover:bg-surface transition-colors active:scale-95">
               <ArrowLeft className="h-4 w-4" />
             </button>
             <div>
@@ -102,26 +107,30 @@ export function RecommendationsView() {
           </div>
 
           {/* Tab switcher */}
-          <div className="mt-2.5 flex rounded-xl bg-surface p-1">
+          <div
+            ref={tabBarRef}
+            className="mt-2.5 flex rounded-xl bg-surface p-1 animate-fade-up"
+            style={{ animationDelay: '30ms' }}
+          >
             {tabs.map(t => (
               <button
                 key={t.key}
                 onClick={() => setTab(t.key)}
                 className={cn(
-                  'flex flex-1 items-center justify-center gap-1 rounded-lg px-2 py-2 text-[11px] font-semibold transition-all',
+                  'flex flex-1 items-center justify-center gap-1 rounded-lg px-2 py-2 text-[11px] font-semibold transition-all duration-200',
                   tab === t.key
                     ? 'bg-accent/15 text-accent shadow-sm'
                     : 'text-text-tertiary hover:text-text-secondary'
                 )}
               >
-                <t.icon className="h-3.5 w-3.5" />
+                <t.icon className={cn('h-3.5 w-3.5 transition-transform duration-200', tab === t.key && 'scale-110')} />
                 <span className="hidden min-[380px]:inline">{t.label}</span>
               </button>
             ))}
           </div>
 
           {/* City chips + Saved filter */}
-          <div className="mt-2.5 flex gap-1.5">
+          <div className="mt-2.5 flex gap-1.5 animate-fade-up" style={{ animationDelay: '60ms' }}>
             {cities.map(c => {
               const isActive = city === c
               const colorMap: Record<string, string> = {
@@ -136,7 +145,7 @@ export function RecommendationsView() {
                   key={c}
                   onClick={() => setCity(c)}
                   className={cn(
-                    'rounded-lg px-3 py-1.5 text-xs font-semibold transition-all',
+                    'rounded-lg px-3 py-1.5 text-xs font-semibold transition-all duration-200',
                     isActive
                       ? cn('ring-1', colorMap[c] || 'bg-surface-2 text-text ring-border')
                       : 'text-text-tertiary hover:text-text-secondary hover:bg-surface'
@@ -149,19 +158,19 @@ export function RecommendationsView() {
             <button
               onClick={() => setShowSaved(!showSaved)}
               className={cn(
-                'ml-auto flex items-center gap-1 rounded-lg px-2.5 py-1.5 text-xs font-semibold transition-all',
+                'ml-auto flex items-center gap-1 rounded-lg px-2.5 py-1.5 text-xs font-semibold transition-all duration-200',
                 showSaved
                   ? 'bg-red-500/15 text-red-400 ring-1 ring-red-500/30'
                   : 'text-text-tertiary hover:text-text-secondary hover:bg-surface'
               )}
             >
-              <Heart className={cn('h-3 w-3', showSaved && 'fill-current')} />
+              <Heart className={cn('h-3 w-3 transition-transform duration-200', showSaved && 'fill-current scale-110')} />
               {favCount > 0 && <span>{favCount}</span>}
             </button>
           </div>
 
           {/* Search */}
-          <div className="relative mt-2.5 pb-3">
+          <div className="relative mt-2.5 pb-3 animate-fade-up" style={{ animationDelay: '90ms' }}>
             <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-text-tertiary" />
             <input
               type="search"
@@ -175,13 +184,13 @@ export function RecommendationsView() {
                 'Search all recommendations...'
               }
               aria-label="Search"
-              className="w-full rounded-xl bg-surface py-2.5 pl-9 pr-8 text-sm text-text placeholder:text-text-tertiary outline-none ring-1 ring-transparent transition-all focus:ring-border"
+              className="w-full rounded-xl bg-surface py-2.5 pl-9 pr-8 text-sm text-text placeholder:text-text-tertiary outline-none ring-1 ring-transparent transition-all duration-200 focus:ring-border"
             />
             {search && (
               <button
                 onClick={() => setSearch('')}
                 aria-label="Clear search"
-                className="absolute right-3 top-1/2 -translate-y-1/2 text-text-tertiary hover:text-text-secondary"
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-text-tertiary hover:text-text-secondary transition-colors"
               >
                 <X className="h-4 w-4" />
               </button>
@@ -191,21 +200,27 @@ export function RecommendationsView() {
       </header>
 
       <div className="mx-auto w-full max-w-lg p-4">
-        <p className="mb-3 text-xs text-text-tertiary">
+        <p className="mb-3 text-xs text-text-tertiary animate-fade-up" style={{ animationDelay: '120ms' }}>
           {filtered.length} {filtered.length === 1 ? 'spot' : 'spots'}
           {showSaved && ' saved'}
         </p>
 
         {filtered.length === 0 ? (
-          <div className="flex flex-col items-center gap-2 py-16 text-text-tertiary">
-            <Search className="h-8 w-8 opacity-40" />
+          <div className="flex flex-col items-center gap-2 py-16 text-text-tertiary animate-fade-up">
+            <Search className="h-8 w-8 opacity-40 animate-float" />
             <p className="text-sm">{emptyMessages[tab].title}</p>
             <p className="text-xs">{emptyMessages[tab].subtitle}</p>
           </div>
         ) : (
           <div className="stagger-children space-y-2">
             {filtered.map(r => (
-              <div key={r.id} className={cn('relative rounded-2xl bg-surface p-4', `card-accent-${(r.city || 'tokyo').toLowerCase()}`)}>
+              <div
+                key={r.id}
+                className={cn(
+                  'relative rounded-2xl bg-surface p-4 card-interactive',
+                  `card-accent-${(r.city || 'tokyo').toLowerCase()}`
+                )}
+              >
                 <div className="flex items-start justify-between gap-3">
                   <div className="min-w-0 flex-1">
                     <div className="flex items-center gap-2 flex-wrap">
@@ -249,13 +264,17 @@ export function RecommendationsView() {
                       onClick={() => toggleFavorite(r.id)}
                       aria-label={favorites.has(r.id) ? 'Remove from saved' : 'Save'}
                       className={cn(
-                        'flex h-10 w-10 items-center justify-center rounded-xl transition-colors',
+                        'flex h-10 w-10 items-center justify-center rounded-xl transition-colors duration-200',
                         favorites.has(r.id)
                           ? 'bg-red-500/15 text-red-400'
                           : 'bg-surface-2 text-text-tertiary hover:text-red-400'
                       )}
                     >
-                      <Heart className={cn('h-4 w-4', favorites.has(r.id) && 'fill-current')} />
+                      <Heart className={cn(
+                        'h-4 w-4 transition-transform duration-200',
+                        favorites.has(r.id) && 'fill-current',
+                        justToggled === r.id && 'animate-heart-pop'
+                      )} />
                     </button>
                     {r.mapLink && (
                       <a
@@ -263,7 +282,7 @@ export function RecommendationsView() {
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label={`Map to ${r.name}`}
-                        className="flex h-10 w-10 items-center justify-center rounded-xl bg-surface-2 text-text-tertiary transition-colors hover:text-tokyo"
+                        className="flex h-10 w-10 items-center justify-center rounded-xl bg-surface-2 text-text-tertiary transition-all duration-200 hover:text-tokyo hover:scale-105 active:scale-95"
                       >
                         <MapPin className="h-4 w-4" />
                       </a>
