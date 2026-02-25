@@ -39,6 +39,10 @@
 
 *With Dave & Gail. You land at 3pm, clear customs ~4pm, N'EX to Shibuya ~6pm. Tonight is about shaking off jet lag with a low-key first dinner.*
 
+> You just crossed the Pacific. Tonight's the soft landing — beef cutlet where you grill it yourself at the table,
+> then a 50-year-old underground listening bar with Suntory highballs. Maybe a nightcap in the tiny Nonbei Yokocho
+> bar alley if you're still standing. No pressure, no agenda. Just shake off the jet lag and let Tokyo sink in.
+
 ### Afternoon
 - **3:00 PM** — Land at Narita. Clear immigration/customs (~45-60 min)
 - **~4:30 PM** — Board Narita Express (N'EX) to Shibuya (direct, ~75 min, 3,250 yen/pp)
@@ -65,6 +69,11 @@
 ## Day 2: Saturday, April 26 — Tokyo — Tsukiji / Ginza / Shibuya Sky
 
 *With Dave & Gail. Big first full day: morning market crawl, chopstick workshop, Michelin lunch, sunset views. Pre-Golden Week — take advantage of smaller crowds.*
+
+> The big first full day. Eat your way through Tsukiji market at dawn, make your own chopsticks in Ginza,
+> then grab the cheapest Michelin meal in Tokyo (sardine set lunch, 990 yen). Afternoon is Shibuya Sky
+> at sunset — golden hour from 229 meters above the crossing. Cap it with the best tonkatsu in the city
+> and vinyl jazz bars within walking distance of the hotel.
 
 **Morning Coffee:** [Streamer Coffee Shibuya](https://maps.google.com/?q=Streamer+Coffee+Company+Shibuya) (walking distance from hotel, opens 10am Sat — grab on the way out OR get station coffee pre-Tsukiji)
 
@@ -114,6 +123,11 @@
 
 *With Dave & Gail. Morning donuts and coffee, Michelin sushi lunch, teamLab Planets in the afternoon, teppanyaki dinner.*
 
+> The splurge day. Morning starts with Japan's most hyped donuts in Nakameguro, then the real event:
+> Michelin-starred sushi omakase at a concrete gallery counter. Afternoon is teamLab Planets barefoot
+> with Dave and Gail — the immersive one everyone talks about. Dinner is teppanyaki with a private chef
+> at Ukaitei. Then Shimokitazawa for soul vinyl and live music if you've got anything left.
+
 **Morning Coffee:** [Onibus Coffee Nakameguro](https://maps.google.com/?q=Onibus+Coffee+Nakameguro) — Beautiful converted house, excellent light-roast pour-over. Opens 9am.
 
 ### Morning — Nakameguro / Daikanyama (~9:00-11:30 AM)
@@ -149,6 +163,11 @@
 ## Day 4: Monday, April 28 — Tokyo — Jimbocho / Kappabashi / Asakusa / Shinjuku Night Out
 
 *With Dave & Gail. Coffee flight at Glitch, best udon in Tokyo, knife shopping, live music night. Last full weekday before Golden Week.*
+
+> Coffee nerd paradise in the morning — a 3-bean tasting flight at Glitch, then the best udon in Tokyo
+> (weekdays only, closes for Golden Week, today is your shot). Afternoon is knife shopping on Kappabashi
+> Street and Sensoji Temple. Dinner at a hidden izakaya in Kagurazaka, then the real highlight: Shinjuku
+> Pit Inn for legendary jazz, a bar with 2,500 maneki-neko cats, and cocktails at a World's 50 Best bar.
 
 **Morning Coffee:** [Glitch Coffee Jimbocho](https://maps.google.com/?q=Glitch+Coffee+Roasters+Jimbocho+Tokyo) — THE coffee destination. Order the 2-3 bean tasting flight (~1,500-2,000 yen). Opens 7:30am weekdays.
 
@@ -191,6 +210,11 @@
 ## Day 5: Tuesday, April 29 — Tokyo — Showa Day (Golden Week Begins) — Harajuku / Shimokitazawa
 
 *With Dave & Gail. Golden Week Day 1 (Showa Day). Many family-run restaurants closed. Stick to areas that thrive on holidays.*
+
+> Golden Week begins — crowds are real but the energy is electric. Meiji Shrine in the morning calm,
+> then Harajuku for people-watching, gyoza, and maybe a wagyu burger. All four of you get custom pillow
+> fittings at Nishikawa in the afternoon (booked). Then Shimokitazawa for vintage shopping — Japanese
+> denim, graphic tees, vinyl records. Sushi for dinner, listening bars to close it out.
 
 **Morning Coffee:** [Koffee Mameya Omotesando](https://maps.google.com/?q=Koffee+Mameya+Omotesando+Tokyo) — Opens 10am. Coffee sommelier picks your bean.
 
@@ -254,6 +278,11 @@
 
 *Dave & Gail depart (or stay in Tokyo). Brad & Alyona take Nozomi 23 to Kyoto. Arrive 12:23 PM.*
 
+> Travel day — say goodbye to Dave and Gail, grab an ekiben bento, and bullet-train to Kyoto. You arrive
+> just after noon and the vibe shifts completely. Afternoon is Nishiki Market grazing, Japanese jazz vinyl
+> shopping on Teramachi Street, and maybe your first look at SOU SOU haori jackets. Evening is 560-year-old
+> soba, a walk through Gion at dusk, and Pontocho alley along the river.
+
 **Morning Coffee:** Quick coffee near Shibuya Station or Tokyo Station before the train. Streamer Coffee Shibuya opens 8am weekdays.
 
 ### Morning — Departure
@@ -312,6 +341,11 @@
 
 *Peak temple and culture day. Early start for empty torii gates (but not 6am — 7:30am). Kamogawa Odori runs May 1-3.*
 
+> The iconic Kyoto day. Fushimi Inari's vermillion torii gates at 7:30am before the crowds, then a sake
+> tasting flight in the historic brewing district. Walk the stone lanes to Kiyomizu-dera. Lunch is Bib
+> Gourmand tempura. Afternoon is matcha everything — whisk your own at Ippodo (since 1717) and hit
+> Assemblages for the famous parfait. Ramen for dinner, then geisha dance at Kamogawa Odori if you scored tickets.
+
 **Morning Coffee:** [Weekenders Coffee Tominokoji](https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto) — THE Kyoto coffee destination. Opens 7:30am. Closed Wed (today is Thu, perfect).
 
 ### Morning — Fushimi Inari (~7:30-9:30 AM)
@@ -357,6 +391,11 @@
 
 *Half-day in Nara (deer, giant Buddha), return for Kyoto afternoon and evening.*
 
+> Day trip to Nara — the one with the bowing deer and the world's largest bronze Buddha. Feed deer,
+> gawk at Todai-ji, eat persimmon leaf sushi (a Nara-only thing). Back to Kyoto for a flat, easy walk
+> along the Philosopher's Path and the gorgeous Nanzen-ji aqueduct. Dinner is unagi — eel over rice
+> with a thin egg blanket. Then live jazz at Hello Dolly on Pontocho. It's Friday night, this is the one.
+
 **Morning Coffee:** [Iolite Coffee Roasters](https://maps.google.com/?q=Iolite+Coffee+Roasters+Kyoto) — Hidden gem in Nakagyo.
 
 ### Morning — Nara Day Trip (depart ~9:00 AM)
@@ -392,6 +431,11 @@
 ## Day 9: Saturday, May 3 — Kyoto — Constitution Memorial Day — Relaxed Day
 
 *Golden Week peak. Many restaurants closed. Slow morning, explore what's open.*
+
+> The chill day. Sleep in, or go hunt for AMAM DACOTAN's insane artisan bread and the warabi mochi that
+> takes 4 hours to knead. Mackerel pressed sushi near Yasaka Shrine for lunch. Afternoon is the haori
+> shopping tour — five stores in walking distance, from affordable modern cuts to high-end indigo boro.
+> Hamburger steak at a Kyoto cult favorite, then the last night of Kamogawa Odori if you haven't seen it.
 
 **Morning Coffee:** [% Arabica Higashiyama](https://maps.google.com/?q=Arabica+Higashiyama+Kyoto) — Go early (opens 8am). Stunning Yasaka Pagoda backdrop. *LINE UP: GW lines can be 20-30 min by 10am. Go right at opening.*
 
@@ -442,6 +486,11 @@
 
 *Travel to Osaka (~55 min). Afternoon exploring. Nakanoshima Festival starts today.*
 
+> Kyoto to Osaka on the Hankyu Line — under an hour, completely different energy. Osaka is louder, wilder,
+> more neon. Lunch is okonomiyaki at a Dotonbori institution since 1945, then Shinsekai for retro alley
+> vibes and kushikatsu (don't double-dip). Tower Knives for the knife nerds. Evening is the Nakanoshima
+> Festival — a free handmade amusement park on an island — and Dotonbori lit up like Times Square on steroids.
+
 **Morning Coffee:** [Weekenders Coffee Tominokoji](https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto) — One last Kyoto coffee. *(Closed Wed — Sun is fine)*
 
 ### Morning — Departure
@@ -482,6 +531,11 @@
 
 *Golden Week continues. Explore Osaka's landmarks, food gems, and shopping.*
 
+> Osaka Castle in the morning (elevator, no stairs — Brad's foot is fine), then Japan's longest shopping
+> arcade for the best cheap sushi you'll eat on this trip and Brad's Flower Mountain shoes. Afternoon is
+> record shopping — Rare Groove is literally on the "World's Best Record Shops" list. Ramen for dinner
+> at a baseball-themed chicken-clam spot, then a speakeasy hidden behind a bookshelf for the nightcap.
+
 **Morning Coffee:** [Takamura Wine & Coffee Roasters](https://maps.google.com/?q=Takamura+Wine+Coffee+Roasters+Osaka) — Wine shop + coffee roaster. Opens 11am. For pre-11am: Lilo Coffee (closer to hotel).
 
 ### Morning — Kuromon Market + Osaka Castle (~8:30-12:00)
@@ -518,6 +572,11 @@
 ## Day 12: Wednesday, May 6 — Osaka — Brad's 40th Birthday!
 
 *HAPPY BIRTHDAY BRAD! Sleep in, great coffee, birthday takoyaki, shopping, then the main event.*
+
+> Happy 40th. No alarm. Sleep in, birthday coffee, then Michelin-listed takoyaki — crispy outside,
+> molten inside, best in the city. Afternoon is whatever you want — birthday shopping, kitchen street
+> browsing, pure wandering. Pre-game cocktails with jazz and skyline views at the Waldorf Astoria 28th
+> floor, then the main event: Matsuzaka wagyu yakiniku (confirmed 7pm). Finish at a speakeasy parfait bar.
 
 **Morning Coffee:** [Mel Coffee Roasters](https://maps.google.com/?q=Mel+Coffee+Roasters+Osaka) — Birthday coffee! Opens 9am.
 
@@ -556,6 +615,11 @@
 
 *Longest transit day. Shin-Osaka to Odawara by Shinkansen, then Hakone Tozan Railway to Gora.*
 
+> The big transition — Shinkansen from Osaka, then the scenic mountain switchback railway up to Gora.
+> You arrive at the ryokan mid-afternoon and everything downshifts. Private onsen in your room, yukata
+> robes, tatami floors. Tonight is multi-course kaiseki dinner served at the inn. After 12 days of
+> going hard, this is where you exhale. The ryokan IS the destination.
+
 **Morning Coffee:** [Lilo Coffee Roasters](https://maps.google.com/?q=Lilo+Coffee+Roasters+Osaka) — One last Osaka coffee.
 
 ### Morning — Departure
@@ -588,6 +652,11 @@
 
 *Full day in Hakone. Art, volcanic valley, lake cruise. All transport-based — minimal walking.*
 
+> The Hakone loop — all aboard. Open-Air Museum for Picassos and a hot spring foot bath, then cable car
+> and ropeway up to the volcanic valley where you eat sulfur-boiled black eggs that supposedly add 7 years
+> to your life. Mt. Fuji views if the sky cooperates. Pirate ship across Lake Ashi. All transport, minimal
+> walking — the Free Pass covers everything. Second kaiseki dinner tonight, different menu from last night.
+
 **Morning Coffee:** Ryokan breakfast (traditional Japanese, included).
 
 ### Morning — Hakone Open-Air Museum (~9:30 AM-12:00 PM)
@@ -616,6 +685,11 @@
 ## Day 15: Saturday, May 9 — Hakone to Tokyo — Nippori / Yanaka
 
 *Golden Week is over. Quieter Tokyo. Hit missed spots. Last proper evening.*
+
+> Back to Tokyo for the final stretch. Golden Week is over, the city is calmer, and all those restaurants
+> that were closed are open again. Afternoon in Yanaka Ginza — an old-school shopping street with cat-shaped
+> everything, right by your hotel. Tonight is the last real dinner — pasta omakase, Michelin yakitori, or
+> a sushi counter with an otoro-uni dragon ball roll. Last night cocktails at Gen Yamamoto. Make it count.
 
 **Morning Coffee:** Ryokan breakfast, then coffee in Tokyo upon arrival.
 
@@ -663,6 +737,11 @@
 ## Day 16: Saturday, May 10 — Tokyo — Departure Day
 
 *Last morning. Yanaka Ginza stroll, final food, then Skyliner to Narita. 5pm flight.*
+
+> Last morning in Japan. One final stroll through Yanaka Ginza for cat-tail donuts and taiyaki, maybe
+> a quick lap through Ameyoko Market under the train tracks in Ueno. Skyliner from Nippori is a direct
+> 36-minute shot to Narita — no stress. Buy Royce chocolate at duty-free (the good stuff needs
+> refrigeration, airport only). Knives in checked bags. See you next time, Japan.
 
 ### Morning — Last Bites (~8:30-11:00 AM)
 - **[Yanaka Ginza](https://maps.google.com/?q=Yanaka+Ginza+shopping+street+Tokyo)** — Morning stroll. Cat-tail donuts, fresh taiyaki.

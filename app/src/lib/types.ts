@@ -37,6 +37,7 @@ export interface Day {
   title: string
   city: City
   subtitle?: string
+  summary?: string
   morningCoffee?: Activity
   sections: DaySection[]
   logistics: LogisticsItem[]

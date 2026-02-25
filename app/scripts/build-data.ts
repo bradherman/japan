@@ -92,6 +92,27 @@ function parseItinerary() {
     const subtitleMatch = content.match(/^\*([^*]+)\*$/m)
     const subtitle = subtitleMatch?.[1]?.trim()
 
+    // Summary (blockquote lines after subtitle)
+    let summary: string | undefined
+    const contentLines = content.split('\n')
+    const subtitleIdx = contentLines.findIndex(l => /^\*[^*]+\*$/.test(l.trim()))
+    if (subtitleIdx >= 0) {
+      const quoteLines: string[] = []
+      for (let j = subtitleIdx + 1; j < contentLines.length; j++) {
+        const line = contentLines[j].trim()
+        if (line.startsWith('> ')) {
+          quoteLines.push(line.slice(2).trim())
+        } else if (line === '>' || line === '') {
+          continue // skip blank lines between subtitle and blockquote, or within blockquote
+        } else {
+          break
+        }
+      }
+      if (quoteLines.length > 0) {
+        summary = quoteLines.join(' ')
+      }
+    }
+
     // Morning coffee
     let morningCoffee: Record<string, unknown> | undefined
     const coffeeMatch = content.match(/\*\*Morning Coffee:\*\*\s*\[([^\]]+)\]\(([^)]+)\)\s*(?:—\s*(.+))?/m)
@@ -209,6 +230,7 @@ function parseItinerary() {
       title: dayTitle,
       city,
       subtitle,
+      summary,
       morningCoffee,
       sections,
       logistics,

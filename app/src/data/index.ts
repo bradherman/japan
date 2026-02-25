@@ -14,6 +14,7 @@ type ItineraryData = {
   days: Array<{
     dayNumber: number; date: string; dayOfWeek: string; title: string; city: string
     subtitle?: string
+    summary?: string
     morningCoffee?: { name: string; mapLink?: string; description?: string }
     sections: Array<{
       title: string; subtitle?: string

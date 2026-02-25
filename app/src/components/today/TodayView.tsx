@@ -1,5 +1,5 @@
-import { useState, useMemo } from 'react'
-import { ChevronLeft, ChevronRight, MapPin, AlertTriangle, Coffee, Train, Info, Cake } from 'lucide-react'
+import { useState, useMemo, useEffect } from 'react'
+import { ChevronLeft, ChevronRight, MapPin, AlertTriangle, Coffee, Train, Info, Cake, BookOpen, ChevronDown } from 'lucide-react'
 import { schedule, itinerary, transport } from '@/data'
 import { CityBadge } from '@/components/ui/CityBadge'
 import { YenUsd } from '@/components/ui/YenUsd'
@@ -16,6 +16,13 @@ export function TodayView() {
   const cityAccent = getCityAccent(city)
   const countdown = getTripCountdown()
   const birthday = isBradsBirthday(selectedDay)
+
+  const [summaryOpen, setSummaryOpen] = useState(false)
+
+  // Reset summary collapsed state when day changes
+  useEffect(() => {
+    setSummaryOpen(false)
+  }, [selectedDay])
 
   const prev = () => setSelectedDay(d => Math.max(1, d - 1))
   const next = () => setSelectedDay(d => Math.min(16, d + 1))
@@ -75,6 +82,47 @@ export function TodayView() {
       </div>
 
       <div className="mx-auto w-full max-w-lg space-y-3 p-4">
+        {/* Day overview summary */}
+        {dayItinerary?.summary && (
+          <button
+            onClick={() => setSummaryOpen(o => !o)}
+            className={cn(
+              'w-full animate-fade-up rounded-2xl p-4 text-left ring-1 transition-all',
+              `bg-${city.toLowerCase()}/8 ring-${city.toLowerCase()}/15`
+            )}
+            style={{
+              backgroundColor: `color-mix(in srgb, var(--color-${city.toLowerCase()}) 8%, transparent)`,
+              boxShadow: `inset 0 0 0 1px color-mix(in srgb, var(--color-${city.toLowerCase()}) 15%, transparent)`,
+            }}
+          >
+            <div className="flex items-center gap-3">
+              <div
+                className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl"
+                style={{ backgroundColor: `color-mix(in srgb, var(--color-${city.toLowerCase()}) 15%, transparent)` }}
+              >
+                <BookOpen className="h-4 w-4" style={{ color: `var(--color-${city.toLowerCase()})` }} />
+              </div>
+              <span className="flex-1 text-sm font-medium">Day overview</span>
+              <ChevronDown
+                className={cn(
+                  'h-4 w-4 text-text-tertiary transition-transform duration-200',
+                  summaryOpen && 'rotate-180'
+                )}
+              />
+            </div>
+            <div
+              className="grid transition-[grid-template-rows] duration-200 ease-in-out"
+              style={{ gridTemplateRows: summaryOpen ? '1fr' : '0fr' }}
+            >
+              <div className="overflow-hidden">
+                <p className="pt-3 text-sm leading-relaxed text-text-secondary">
+                  {dayItinerary.summary}
+                </p>
+              </div>
+            </div>
+          </button>
+        )}
+
         {/* Brad's 40th birthday! */}
         {birthday && (
           <div className="animate-fade-up rounded-2xl bg-kyoto/8 p-4 ring-1 ring-kyoto/20">
