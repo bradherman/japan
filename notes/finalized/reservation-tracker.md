@@ -100,6 +100,34 @@
 
 ---
 
+## INSTAGRAM / SOCIAL MEDIA BOOKINGS
+
+*These require Instagram DMs or follows in advance. Do these NOW or at least 1-2 weeks before the trip.*
+
+| Item | Date | What to Do | Account | When |
+|------|------|-----------|---------|------|
+| **Henry's Burger Harami** | Apr 29 lunch | DM with name, phone, date (Apr 29), arrival time (~11:30am), qty (2 Harami Burgers). Without this, only standard wagyu burger available. | @henrysburger_japan | **DM ~1 week before (Apr 22)** |
+| **Ijou Maru Parfait** | May 6 evening (birthday!) | 1) Follow account NOW for "membership." 2) DM to reserve for May 6, ~9:00 PM, 2 people. Try English + Japanese. Cashless only. | @ijou_maru_parfait | **Follow NOW. DM ~1 week before (Apr 29).** |
+| **AMAM DACOTAN Kyoto** | May 3 morning | No reservation — digital queue via Airwait (link on their IG). Register at 9:30 AM day-of. Check IG the night before for irregular closures. | @amam_dacotan_kyoto | **Follow now. Check night of May 2.** |
+
+---
+
+## PHONE BOOKINGS (Concierge-Assisted)
+
+| Item | Date | What to Do | Phone | When |
+|------|------|-----------|-------|------|
+| **Rakushaan Warabi Mochi** | May 3 pickup | Ask Hotel Forza concierge to call and reserve 2x 16-piece boxes for May 3 pickup (11:30 AM). Cash only (¥1,500/box). | 075-494-2551 | **Call May 2 (day before)** |
+
+---
+
+## SAME-DAY ONLINE BOOKING (Daily Attempts)
+
+| Item | Dates | What to Do | URL | Strategy |
+|------|-------|-----------|-----|----------|
+| **Kichi Kichi Omurice** | May 1, 2, or 3 | Same-day dinner reservation. Slots open at **1:00 PM JST**. Fill in 10-15 seconds. Both Brad + Alyona on separate phones at 12:59, refresh at 1:00, type fast. Counter seats. Arrive 20 min early or forfeit. 1-hour dining limit. ~¥5-8k/pp. | [kichikichi.com/kichikichi-reservation](https://kichikichi.com/kichikichi-reservation/) | **Try EVERY day May 1-3 at 1:00 PM. If you score it, swap that night's dinner plan. Standby backup: show up 4:30 PM.** |
+
+---
+
 ## CONFIRM BEFORE TRIP
 
 - [ ] Ryokan pickup from Gora Station (call Hakone Gora Byakudan)
@@ -110,6 +138,8 @@
 - [ ] Grand Seiko Ginza Namiki — no appointment needed but email to confirm stock in your range
 - [ ] Blue Note Tokyo / Shinjuku Pit Inn / UFO Club — check Apr 25-30 schedules when posted
 - [ ] Flower Mountain Osaka Tenjinbashi store hours
+- [ ] Rakushaan warabi mochi — have Hotel Forza concierge call 075-494-2551 on May 2 for May 3 pickup
+- [ ] Kichi Kichi — bookmark reservation page, practice the flow before May 1
 
 ---
 
@@ -120,6 +150,10 @@
 | Date & Time (PDT) | What | Priority |
 |-------------------|------|----------|
 | **NOW** | Book Udatsu/SHIN sushi, Ukaitei, Seiko Museum | CRITICAL |
+| **NOW** | Follow @ijou_maru_parfait on Instagram (Osaka birthday parfait) | HIGH |
+| **NOW** | Follow @amam_dacotan_kyoto on Instagram (Kyoto bakery) | MEDIUM |
+| **~Apr 22** | DM @henrysburger_japan for Harami Burger reservation Apr 29 | HIGH |
+| **~Apr 29** | DM @ijou_maru_parfait to reserve May 6, ~9 PM, 2 people | HIGH |
 | **~Apr 11, 8:00 AM PDT** | Shibuya Sky tickets for Apr 26 (opens ~2 weeks ahead at midnight JST). Open Klook + KKday + Trip.com simultaneously. Target 5:00 PM slot (sunset 6:23 PM). Sunset slots sell out in ~3 min. | CRITICAL |
 | **Mar 8, 7:55 AM PDT** | Pizza Bar on 38th opens for May 9 (midnight JST Mar 9) | CRITICAL |
 | **Mar 9, 6:00 PM PDT** | Ghibli Museum tickets on sale (10 AM JST Mar 10) | CRITICAL |

@@ -83,6 +83,21 @@ Each reel is classified with:
 - **locations[]**: structured place data with name, category, city, neighborhood, items, pricing, reservation info
 - **relevant_to_trip**: whether it applies to our Tokyo/Kyoto/Osaka/Hakone itinerary
 
+## Finalized Trip Files — Keep In Sync
+
+The following files in `notes/finalized/` are the source of truth for the trip and **must stay in sync with each other**:
+
+- `itinerary.md` — Full day-by-day itinerary with restaurants, activities, logistics
+- `daily-schedule.md` — Minute-by-minute timeline version of the same days
+- `reservation-tracker.md` — All bookings, advance reservations, calendar alarms, walk-in strategies
+
+**Rule: When you modify ANY of these files, you MUST check and update the other two to keep them consistent.** For example:
+- Adding a restaurant to the itinerary → add the corresponding time block to daily-schedule.md and any booking info to reservation-tracker.md
+- Changing a dinner plan → update it in all three files
+- Adding a new reservation → add to reservation-tracker.md AND note it in the relevant day in itinerary.md and daily-schedule.md
+
+After updating finalized files, run `npm run build` from `app/` to regenerate the app data.
+
 ## Conventions
 - Use Python 3.11+
 - Keep scripts modular and composable

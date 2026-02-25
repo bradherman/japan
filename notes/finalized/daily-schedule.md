@@ -158,9 +158,12 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 10:45-11:15 Walk to Mofusand Harajuku (Yeva's gifts), browse more shops
 11:15-11:45 Walk to Koffee Mameya Omotesando (opens 10am)
 11:45-12:15 Coffee sommelier experience
-12:15-12:30 Walk/subway to Shin Udon Harajuku
-12:30-1:00 Lunch — carbonara udon (950 yen, walk-in)
-           (B) Gyukatsu Motomura Harajuku if you want something heartier
+12:15-12:30 Walk to Henry's Burger OR Shin Udon (both in Harajuku, ~5 min apart)
+12:30-1:15 Lunch — PICK ONE or split:
+           A) Henry's Burger Harajuku — A5 wagyu burgers. Get the HARAMI BURGER (~3,810 yen) ⚠️ DM @henrysburger_japan 1 WEEK AHEAD for harami reservation. Right on Meiji-dori. Owner speaks English.
+           B) Shin Udon Harajuku — carbonara udon (950 yen, walk-in)
+           (Can split one each — they're both in Harajuku)
+           (C) Gyukatsu Motomura Harajuku if you want something heartier
 1:00-1:30  Free time / browse Harajuku area
 1:30-2:00  Free time / rest
 2:00-2:30  Subway Harajuku → Nihonbashi (~25-30 min)
@@ -209,6 +212,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 3:30-4:00  Walk to Teramachi Shopping District
 4:00-4:30  Kuoe Watches — custom vintage-inspired watch (~$290)
            Optional: Kyoto Loft (Mina Kyoto building, same street)
+           SOU SOU Kyoto (Shinkyogoku-dori, 1 min from Kawaramachi Stn) — modern haori jackets, bold textile prints (~¥14-28k). Right between Nishiki and Teramachi. Quick browse or full stop.
 4:30-5:00  Walk back to hotel, rest
 5:00-5:30  Walk to Honke Owariya (15 min) OR stay near hotel for Omen Pontocho
            Lunch was Nishiki grazing; dinner is the sit-down:
@@ -246,6 +250,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 12:30-1:30 Lunch — Bib Gourmand tempura (~2,000-4,000 yen)
            (B) Yoshikawa Tempura — machiya with koi pond (reserve ahead, ~5,000-8,000 yen)
 1:30-2:00  Walk back toward hotel
+1:00 PM    ⚠️ KICHI KICHI ATTEMPT — both phones on kichikichi.com/kichikichi-reservation at 12:59. Refresh at 1:00. Slots fill in 10-15 sec. If you score dinner, swap tonight's ramen plan. Try EVERY day May 1-3.
 2:00-3:00  Rest at hotel — you started at 6:45am
 3:00-3:10  Walk to Ippodo Tea (Teramachi, 10 min)
 3:10-4:00  Ippodo Tea — whisk matcha, seasonal sweets, buy matcha to bring home
@@ -284,6 +289,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 11:45-12:15 Walk to Kasuga Taisha Shrine (15 min through deer park)
 12:15-12:45 Kasuga Taisha — stone lanterns, forested path (~500 yen)
 12:45-1:00 Walk to Naramachi historic district
+1:00 PM    ⚠️ KICHI KICHI ATTEMPT #2 — both phones, 12:59, refresh at 1:00. Can do this from Nara!
 1:00-1:30  Lunch — kakinoha-zushi (persimmon leaf sushi), Nara specialty (~1,000-1,500 yen)
 1:30-2:00  Browse Naramachi
 2:00-2:15  Walk to Kintetsu-Nara Station
@@ -294,6 +300,8 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 4:30-5:00  Nanzen-ji Temple — brick aqueduct photo op (free)
 5:00-5:30  Walk/subway back to hotel area
 5:30-6:30  Rest at hotel
+           ⚠️ TONIGHT: Ask concierge to call Rakushaan (075-494-2551) for May 3 warabi mochi pickup. 2x 16-piece boxes. Cash only.
+           ⚠️ TONIGHT: Check @amam_dacotan_kyoto IG for tomorrow's closure status.
 6:30-6:45  Walk to Kyogoku Kaneyo
 6:45-7:45  Dinner — kinshi-don (eel + egg omelet over rice, ~2,000-4,000 yen)
            (B) Pontocho Fujita — kaiseki with river terrace
@@ -319,6 +327,13 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 8:30-9:30  Coffee at % Arabica Higashiyama ⚠️ GO AT 8AM OPENING — GW lines 20-30 min by 10am
 9:30-10:30 Walk along Kamo River, browse Teramachi arcades
 10:30-11:30 Wander, rest, explore at your own pace
+           Option C: AMAM DACOTAN breakfast + Rakushaan pickup
+9:30       Register for AMAM DACOTAN queue on Airwait (link on @amam_dacotan_kyoto IG) ⚠️ CHECK IG NIGHT BEFORE for closures
+~10:00     Called for entry (wander Karasuma Oike area while waiting, 10-15 min from hotel)
+10:00-10:45 AMAM DACOTAN — artisan bakery in machiya. Must-grab: mentaiko baguette, rare doughnut. 2F cafe has % Arabica coffee. ~¥1-2k/pp. Cashless OK.
+11:00-11:30 Pick up Rakushaan warabi mochi (Shichiku, 15 min from Kitaoji Stn) ⚠️ HAVE CONCIERGE CALL 075-494-2551 ON MAY 2 to reserve. Cash only, ¥1,500/16pc. Eat ASAP — texture degrades. Bring back to hotel.
+
+1:00 PM    ⚠️ KICHI KICHI ATTEMPT — both phones, 12:59, refresh at 1:00. Day 3 of trying!
 
 11:30-11:45 Walk to Izuju near Yasaka Shrine
 11:45-12:15 Queue at Izuju (~15-20 min)
@@ -327,7 +342,14 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 12:45-1:30 Walk through Gion daytime — different energy than dusk
 1:30-2:30  Rest at hotel or Kodai-ji Temple (Zen gardens, ~600 yen)
 2:30-3:30  Assemblages Kakimoto matcha parfait (if not done yesterday)
-3:30-5:30  Free time — pack for Osaka tomorrow, wander, rest
+3:30-5:30  OPTION: Modern Haori Shopping Tour — all walkable in central Nakagyo-ku:
+           - Musubi Kyoto (Shijo-Shinkyogoku) — clean minimal haori, ~¥5,600-14k. 12pm-8pm.
+           - SOU SOU Kei-i — bold print haori, ~¥14-28k (if didn't visit Day 6)
+           - KAPITAL K.K-POPPO (Gokomachi) — artisanal indigo/boro, ~¥25-60k+
+           - Visvim F.I.L. KYOTO — luxury haori, ~¥40-120k+. 11am-7pm.
+           - FDMTL at FASCINATE Kyoto — denim/indigo haori, ~¥20-50k
+           All within 10-15 min walk radius. Budget 2-3 hrs.
+           OR: Free time — pack for Osaka tomorrow, wander, rest
 5:30-5:45  Walk toward Hikiniku to Come (near Kawaramachi)
 5:45-6:15  Queue at Hikiniku to Come (~30-45 min) ⚠️ ARRIVE BY 5:45 before dinner rush
 6:15-6:45  Eat charcoal-grilled hamburger steak — cult favorite
@@ -441,11 +463,11 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 7:00       Matsuzaka Gyu Yakiniku M Hozenji-Hanare ⚠️ CONFIRMED 7:00 PM
 7:00-9:00  BIRTHDAY DINNER — Matsuzaka wagyu, one of Japan's top 3 beef brands
            Happy 40th, Brad. 🎂
-9:00-9:30  Post-dinner Hozenji Yokocho stroll — lantern-lit, stone-paved
-           Find a tiny bar in the alley for a birthday nightcap
-9:30       Option A: Bar Nayuta (Amerikamura, tiny door, no menu, til 3am)
-           Option B: Another Hozenji alley bar
-           Option C: Content birthday walk home along Dotonbori canal
+9:00-9:15  Walk/subway to Kitashinchi (3 min from Kitashinchi Stn)
+9:15-10:00 Ijou Maru Parfait — birthday dessert. Speakeasy art parfait bar (~¥4,500-5k each) ⚠️ FOLLOW @ijou_maru_parfait NOW for "membership." DM ~1 week ahead to reserve. Cashless only. Parfait revealed through glowing door. Perfect surreal birthday cap.
+           (B) If no Ijou Maru: Hozenji Yokocho stroll — find a tiny bar for a birthday nightcap
+10:00      Option A: Bar Nayuta (Amerikamura, tiny door, no menu, til 3am)
+           Option B: Content birthday walk home along Dotonbori canal
 10:00+     Whenever you want — it's your birthday
 ```
 

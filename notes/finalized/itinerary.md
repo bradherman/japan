@@ -201,9 +201,12 @@
 - **[#FFFFFFT (White T-Shirt Store)](https://maps.google.com/?q=FFFFFFT+Sendagaya+Tokyo)** — The world's first store selling ONLY white t-shirts. 2-3-5 Sendagaya, Shibuya-ku. **Open weekends only (Sat 12-7pm, Sun 12-6pm).** ~5 min walk from JR Sendagaya Station or ~10 min walk from Harajuku. Owner helps you find your perfect white tee from curated Japanese and international brands. *Today is Tuesday so CLOSED — move to Day 3 (Sunday) afternoon if interested, or skip.*
 - **[Mofusand Tokyo Harajuku](https://maps.google.com/?q=Mofusand+Tokyo+Harajuku)** — For Yeva's gifts
 
-### Lunch (~12:00-1:00 PM) — Udon
+### Lunch (~12:00-1:00 PM) — Udon / Wagyu Burger
 1. **[Shin Udon Harajuku](https://maps.google.com/?q=Shin+Udon+Harajuku+Tokyo)** — Carbonara udon — 950 yen/pp — Walk-in, creative udon, open holidays
-2. **[Gyukatsu Motomura Harajuku](https://maps.google.com/?q=Gyukatsu+Motomura+Harajuku)** — Beef cutlet — ~2,600 yen/pp — If you haven't done this yet
+2. **[Henry's Burger Harajuku](https://maps.google.com/?q=Henry's+Burger+Harajuku+Jingumae+Shibuya)** — A5 Wagyu burgers from the chef behind top yakiniku restaurant Sumibi Yakiniku Nakahara. Right on Meiji-dori, 5 min from Meiji-Jingumae Station. The standard wagyu burger (~1,130 yen) is solid but **the move is the Harami Burger** (~3,810 yen) — a skirt steak slab, perfectly charred, with cream-acid-heat sauce. Owner speaks English. 26 seats, less prone to long waits than other locations.
+   - **ADVANCE RESERVATION REQUIRED for Harami:** DM @henrysburger_japan on Instagram ~1 week ahead with name, phone, date, arrival time, quantity. Without the reservation you're limited to the standard menu.
+   - *Can easily do Shin Udon AND Henry's (they're both in Harajuku) — split one of each between you and Alyona.*
+3. **[Gyukatsu Motomura Harajuku](https://maps.google.com/?q=Gyukatsu+Motomura+Harajuku)** — Beef cutlet — ~2,600 yen/pp — If you haven't done this yet
 
 ### Early Afternoon — Nishikawa Pillow Fitting (~3:00-5:00 PM)
 - **[Nishikawa at COREDO Nihonbashi](https://maps.google.com/?q=Nishikawa+COREDO+Nihonbashi+Tokyo)** — ALL 4 of you! Booked 3:00 PM and 4:00 PM slots. Plan to arrive at 3:00 PM — if they can fit all 4 at once, great; otherwise 2 at 3:00 and 2 at 4:00. ~1 hr per fitting.
@@ -237,6 +240,7 @@
   - **[Houseki Hiroba Shibuya](https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo)** — 5 min from hotel. Massive inventory. Rolex, Grand Seiko, Omega. Walk-in browsing.
   - **[Shellman Ginza](https://maps.google.com/?q=Shellman+Ginza+Tokyo)** — Museum-quality vintage. Patek, Breguet, Grand Seiko. Premium but exceptional curation.
   - **Tip:** Cash gives negotiation leverage at Nakano Broadway shops. Ginza shops are more fixed pricing.
+- **Henry's Burger Harami reservation:** DM @henrysburger_japan on Instagram ~1 week before Apr 29. Include name, phone, preferred date (Apr 29), arrival time (~11:30am), and quantity (2 Harami Burgers). Without reservation, only the standard wagyu burger is available.
 - Send luggage to Kyoto via takkyubin this morning (arrange at front desk)
 - Tomorrow: pack a day bag. Shinkansen to Kyoto departs 10:12 AM from Tokyo Station.
 - **Flower Mountain shoes** — Save for Osaka's [Tenjinbashi store](https://maps.google.com/?q=Flower+Mountain+5-8-27+Tenjinbashi+Kita+Osaka) (on the same shopping street as Harukoma sushi).
@@ -279,6 +283,7 @@
   - **[100000t alonetoco](https://maps.google.com/?q=100000t+alonetoco+Teramachi+Kyoto)** — Eclectic digger's paradise: jazz, city pop, psych rock, funk. Same building as Workshop Records. Opens ~12pm.
   - **[Workshop Records](https://maps.google.com/?q=Workshop+Records+Teramachi+Kyoto)** — Jazz + rock, fair prices. Same building as 100000t.
   - *All three are on Teramachi north of Oike — hit them as a cluster after Kuoe Watches and before/after Ippodo Tea.*
+- **[SOU SOU Kyoto](https://maps.google.com/?q=SOU+SOU+Shinkyogoku+Kyoto)** — Modern Japanese fashion brand, 1 min from Kawaramachi Station on Shinkyogoku-dori. Nine shops clustered together — the men's line (SOU SOU Kei-i) carries **modern haori jackets** with bold original textile prints (~14,000-28,000 yen). Not costume-y at all — designed to wear with jeans. Also iconic split-toe tabi shoes and textiles. Hours: 11am-8pm. *Right on the way between Nishiki and Teramachi — pop in while record shopping. For a full haori shopping tour hitting multiple stores, save that for Day 9.*
 
 ### Lunch — Keep Open / Flexible
 *Just Brad & Alyona now. Be flexible with Nishiki grazing as your "lunch" or sit down somewhere:*
@@ -344,6 +349,7 @@
 ### Logistics
 - **Kamogawa Odori runs May 1-3 only** — book today or tomorrow.
 - Fushimi Inari: trains start ~5:30 AM. The 7:30am arrival means leaving hotel ~7:00am.
+- **🍳 Kichi Kichi Side Quest (try EVERY day, May 1-3):** Chef Motokichi's legendary omurice in Pontocho. Tiny 14-seat counter. Same-day online reservations ONLY at [kichikichi.com/kichikichi-reservation](https://kichikichi.com/kichikichi-reservation/). **Dinner slots open at 1:00 PM JST** — they fill in 10-15 SECONDS. Both you and Alyona on the booking page at 12:59, refresh at 1:00, type fast. If you score it, dinner is 5-8:10PM (1-hour strict seating). ~5,000-8,000 yen/pp — get the regular omurice + beef tongue stew. **Counter seats** for the full tableside performance. Arrive 20 min early or lose your seat. **Standby backup:** show up at 4:30 PM (30 min before opening) and wait — no-shows happen because of their strict lateness policy. *Try all 3 days. If you get it, swap that evening's dinner plan. The food is solid yoshoku, not life-changing, but the performance is genuinely one-of-a-kind.*
 
 ---
 
@@ -397,6 +403,10 @@
 **Option B: Slow Morning**
 - Sleep in. Walk along the Kamo River. Browse Teramachi/Shinkyogoku arcades. You're 9 days in.
 
+**Option C: AMAM DACOTAN Breakfast + Rakushaan Warabi Mochi**
+- **[AMAM DACOTAN Kyoto](https://maps.google.com/?q=AMAM+DACOTAN+Kyoto+Karasuma+Oike)** — Artisan bakery in a gorgeous renovated machiya. ~120 varieties of creative bread from an Italian restaurant chef turned baker. 4-min walk from Karasuma Oike Station (10-15 min walk from hotel). Opens 8am. **Register for the digital queue at 9:30am via Airwait** (link on their IG @amam_dacotan_kyoto) — you'll get a number and can wander nearby until called. **Must-grab:** mentaiko peperoncino baguette, rare doughnut (banana brioche, limited daily), maritozzo. 2nd-floor cafe has % Arabica coffee in a beautiful machiya space (buy a drink to sit). ~1,000-2,000 yen/pp. Cashless OK. *Check their IG the night before — they announce irregular closures. Golden Week crowds will be real, but the queue system means you're not standing in line.*
+- **[Rakushaan (洛叉庵) Warabi Mochi](https://maps.google.com/?q=Rakushaan+warabi+mochi+Shichiku+Kita+Kyoto)** — Tabelog Top 100 Sweets WEST. Handmade warabi mochi, each batch kneaded for 4 hours. Ethereal texture coated in kinako with black sugar syrup. **Reservation-only, phone order required.** Have the hotel concierge call **075-494-2551** the day before (May 2) to reserve pickup for the morning of May 3. Pickup only, 11:30am-5pm. 8-piece box 820 yen, 16-piece 1,500 yen. **Cash only.** Location is in Shichiku (15 min from Kitaoji Station) — slightly out of the way, but near Daitoku-ji temple if you want to combine. Eat as soon as possible — the texture degrades within hours. *Could pick up on the way to/from Arashiyama (Option A) or have Alyona grab it while you do something else. Best eaten in the hotel room on a plate — kinako goes everywhere.*
+
 ### Lunch (~12:00-1:00 PM) — Sushi
 1. **[Izuju](https://maps.google.com/?q=Izuju+sushi+Kyoto+Gion)** — PRIORITY. Saba-zushi (mackerel pressed sushi) — ~1,000-2,000 yen — Near Yasaka Shrine. Kyoto's signature sushi. *Brad loves mackerel — this is a must.*
 2. **[Hiyoko Sushi](https://maps.google.com/?q=Hiyoko+Sushi+Kyoto)** — 10-piece omakase from 2,000 yen — Insane value. Locals' favorite.
@@ -404,6 +414,13 @@
 ### Afternoon (~2:00-5:00 PM)
 - **[Kodai-ji Temple](https://maps.google.com/?q=Kodai-ji+Temple+Kyoto)** — Zen temple with stunning gardens. ~600 yen.
 - **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — If you haven't done the matcha parfait yet.
+- **Modern Haori Shopping Tour** — All stores walkable in central Nakagyo-ku (near Shinkyogoku/Gokomachi/Teramachi). Hit in one loop:
+  - **[SOU SOU Kei-i (Menswear)](https://maps.google.com/?q=SOU+SOU+Shinkyogoku+Kyoto)** — Bold print haori jackets, ~14,000-28,000 yen. Modern Japanese pop aesthetic. *(If you didn't visit on Day 6)*
+  - **[Musubi Kyoto (Shijo-Shinkyogoku)](https://maps.google.com/?q=Musubi+Kyoto+Shijo+Shinkyogoku)** — Clean, minimal modern haori designed to wear over t-shirts. 18 men's styles, ~5,600-14,000 yen. The most affordable option. 12pm-8pm.
+  - **[KAPITAL K.K-POPPO STORE](https://maps.google.com/?q=KAPITAL+Kyoto+Gokomachi+Rokkaku)** — Artisanal indigo/boro/sashiko noragi and haori. Fashion-forward Japanese-Americana. ~25,000-60,000+ yen. Walking distance from SOU SOU.
+  - **[Visvim F.I.L. KYOTO](https://maps.google.com/?q=Visvim+FIL+Kyoto)** — Luxury tier. Handcrafted haori, noragi, kimono coats in premium fabrics. ~40,000-120,000+ yen. If budget isn't a concern, this is the pinnacle. 11am-7pm.
+  - **[FDMTL at FASCINATE Kyoto](https://maps.google.com/?q=FASCINATE+Kyoto+Gokomachi)** — Denim/indigo haori, sashiko-stitched. ~20,000-50,000 yen. Grows character with wear.
+  - *All 5 stores are within a 10-15 min walking radius. Budget 2-3 hours. This is the best haori shopping cluster in Japan.*
 
 ### Dinner (~6:30 PM) — Hamburger Steak
 1. **[Hikiniku to Come](https://maps.google.com/?q=Hikiniku+to+Come+Kyoto)** — PRIORITY. Charcoal-grilled hamburger patties with rice — ~1,500-2,000 yen — Cult-favorite Kyoto spot. Walk-in, expect a queue. Near Kawaramachi. *LINE UP: Arrive 30-45 min before dinner rush (by 5:45pm).*
@@ -524,11 +541,13 @@
 - Happy 40th, Brad.
 
 ### Evening — Post-Dinner Birthday Stroll
+- **[Ijou Maru Parfait (パフェと酒 以上。)](https://maps.google.com/?q=Kitashinchi+Malta+Building+South+Osaka)** — THE birthday dessert. Members-only speakeasy parfait bar in Kitashinchi — but "membership" just means following @ijou_maru_parfait on Instagram (do this NOW). Elaborate art parfaits (~4,500-5,000 yen each) paired with sake and cocktails, presented through a glowing reveal door. 15 seats. Holiday hours: 3pm-10:30pm. **Cashless only.** DM on Instagram to reserve — try in both English and Japanese. 3 min walk from Kitashinchi Station. *The perfect surreal birthday cap after yakiniku. Follow the account now, DM a week before your visit.*
 - **[Hozenji Yokocho](https://maps.google.com/?q=Hozenji+Yokocho+Osaka)** — Stone-paved, lantern-lit alley. Find a small bar for a birthday nightcap.
 - **[Bar Nayuta](https://maps.google.com/?q=Bar+Nayuta+Amerikamura+Osaka)** (Amerikamura, til 3am) — If the night is young.
 
 ### Logistics
 - Birthday dinner is CONFIRMED. Arrive on time (7pm).
+- **Ijou Maru Parfait:** Follow @ijou_maru_parfait on Instagram BEFORE the trip. DM to reserve ~1 week ahead. Cashless only (Visa/MC/JCB/Amex/PayPay/IC cards all accepted).
 - Tomorrow: travel to Hakone. Pack tonight.
 
 ---
