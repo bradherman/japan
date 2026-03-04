@@ -62,7 +62,7 @@
 
 | Restaurant | Cuisine / What to Order | Target Date & Time (JST) | Cost/pp | Booking Method | Map |
 |-----------|------------------------|--------------------------|---------|----------------|-----|
-| **Chopstick Making Workshop** | Custom chopsticks for 4 | Apr 26, ~11:00 AM | ~$27/pp | Klook or GetYourGuide | [Map](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo) |
+| ~~**Chopstick Making Workshop**~~ | ~~Custom chopsticks for 4~~ | ~~Apr 26, 10:00 AM~~ | ~~$27/pp~~ | — | **BOOKED — moved to Already Booked** |
 | **Yoshikawa Tempura** (Kyoto) | Counter-seat tempura in machiya w/ koi pond | May 1 lunch, ~1:00 PM | ¥5,000-8,000 | Phone | [Map](https://maps.google.com/?q=Yoshikawa+Tempura+Kyoto) |
 | **Gion Takuma** (Kyoto) | Affordable kaiseki along Shirakawa river | Apr 30 or May 1 lunch | ¥3,600+ | Phone/online | [Map](https://maps.google.com/?q=Gion+Takuma+kaiseki+Kyoto) |
 | **Assemblages Kakimoto** | Matcha parfait | May 1 or 3, ~3:00 PM | ~¥2,000 | Online | [Map](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto) |
