@@ -12,6 +12,7 @@
 |------|---------|-------------------|---------|-----|--------|
 | Matsuzaka Gyu Yakiniku M Hozenji-Hanare | Wagyu yakiniku (birthday dinner) | May 6, 7:00 PM | ~¥15,000-25,000 | [Map](https://maps.google.com/?q=Matsuzaka+Gyu+Yakiniku+M+Hozenji+Osaka) | CONFIRMED |
 | teamLab Planets | 4 tickets, 3:00-3:30 PM entry | Apr 27, 3:00 PM | ¥3,200 | [Map](https://maps.google.com/?q=teamLab+Planets+Toyosu+Tokyo) | CONFIRMED |
+| Chopstick Making Workshop | Custom chopsticks for 4 | Apr 26, 10:00 AM | $27/pp | [Map](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo) | CONFIRMED |
 | Nishikawa Pillow Fitting | COREDO Nihonbashi — 2 slots (3:00 PM + 4:00 PM), all 4 arrive at 3:00 | Apr 29, 3:00 PM | Varies | [Map](https://maps.google.com/?q=Nishikawa+COREDO+Nihonbashi+Tokyo) | CONFIRMED |
 
 ---
