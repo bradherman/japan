@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { ChevronLeft, ChevronRight, MapPin, AlertTriangle, Coffee, Train, Info, Cake, BookOpen, ChevronDown } from 'lucide-react'
+import { ChevronLeft, ChevronRight, MapPin, AlertTriangle, Coffee, Train, Info, Cake, BookOpen, ChevronDown, Map } from 'lucide-react'
 import { schedule, itinerary, transport } from '@/data'
 import { CityBadge } from '@/components/ui/CityBadge'
 import { YenUsd } from '@/components/ui/YenUsd'
@@ -12,6 +12,29 @@ export function TodayView() {
   const daySchedule = useMemo(() => schedule.find(s => s.dayNumber === selectedDay), [selectedDay])
   const dayItinerary = useMemo(() => itinerary.days.find(d => d.dayNumber === selectedDay), [selectedDay])
   const dayTransport = useMemo(() => transport.days.find(t => t.dayNumber === selectedDay), [selectedDay])
+  const dayMapUrl = useMemo(() => {
+    if (!dayItinerary) return null
+    const mapLinks: string[] = []
+    if (dayItinerary.morningCoffee?.mapLink) mapLinks.push(dayItinerary.morningCoffee.mapLink)
+    for (const section of dayItinerary.sections) {
+      for (const act of section.activities) {
+        if (act.mapLink) mapLinks.push(act.mapLink)
+      }
+    }
+    if (mapLinks.length === 0) return null
+    const places = mapLinks
+      .map(link => { const m = link.match(/[?&]q=([^&]+)/); return m ? decodeURIComponent(m[1].replace(/\+/g, ' ')) : null })
+      .filter((p): p is string => p !== null)
+      .filter((p, i, arr) => arr.indexOf(p) === i)
+    if (places.length === 0) return null
+    if (places.length === 1) return `https://www.google.com/maps/search/${encodeURIComponent(places[0])}`
+    const origin = encodeURIComponent(places[0])
+    const destination = encodeURIComponent(places[places.length - 1])
+    const waypoints = places.slice(1, -1).map(p => encodeURIComponent(p)).join('|')
+    let url = `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${destination}&travelmode=transit`
+    if (waypoints) url += `&waypoints=${waypoints}`
+    return url
+  }, [dayItinerary])
   const city = getDayCity(selectedDay)
   const cityAccent = getCityAccent(city)
   const countdown = getTripCountdown()
@@ -76,7 +99,24 @@ export function TodayView() {
         </div>
         {dayItinerary?.title && (
           <div className="mx-auto max-w-lg px-4 pb-2.5">
-            <p className={cn('text-center text-sm font-medium', cityAccent)}>{dayItinerary.title}</p>
+            <div className="flex items-center justify-center gap-3">
+              <p className={cn('text-sm font-medium', cityAccent)}>{dayItinerary.title}</p>
+              {dayMapUrl && (
+                <a
+                  href={dayMapUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-1 rounded-lg px-2 py-1 text-[10px] font-semibold transition-colors"
+                  style={{
+                    backgroundColor: `color-mix(in srgb, var(--color-${city.toLowerCase()}) 10%, transparent)`,
+                    color: `var(--color-${city.toLowerCase()})`,
+                  }}
+                >
+                  <Map className="h-3 w-3" />
+                  Map
+                </a>
+              )}
+            </div>
           </div>
         )}
       </div>
@@ -189,43 +229,53 @@ export function TodayView() {
 
         {/* Timeline */}
         {daySchedule && (
-          <div className="relative animate-fade-up" style={{ animationDelay: '100ms' }}>
-            <div className="absolute left-[72px] top-2 bottom-2 w-px bg-border" />
-            <div className="space-y-0">
-              {daySchedule.entries.map((entry, i) => (
-                <div key={i} className={cn(
-                  'relative flex gap-3 py-2 transition-opacity',
-                  entry.isBackup && 'opacity-50'
-                )}>
-                  <div className="w-[68px] shrink-0 text-right">
-                    <span className={cn(
-                      'text-xs font-mono tabular-nums',
-                      entry.time ? 'text-text-secondary' : 'text-transparent'
-                    )}>
-                      {entry.time || '00:00'}
-                    </span>
+          <div className="relative animate-fade-up rounded-2xl bg-surface p-4" style={{ animationDelay: '100ms' }}>
+            <div className="absolute left-[82px] top-6 bottom-6 w-px bg-border" />
+            <div className="space-y-0.5">
+              {daySchedule.entries.map((entry, i) => {
+                const isTimeEntry = !!entry.time
+                const cleanText = entry.text.replace(/⚠️\s*/g, '')
+                // Detect "BOOKED" in timeline text
+                const hasBooked = /\bBOOKED\b/.test(cleanText)
+                return (
+                  <div key={i} className={cn(
+                    'relative flex gap-3 py-1.5 transition-opacity',
+                    entry.isBackup && 'opacity-40',
+                    entry.isWarning && !entry.isBackup && 'rounded-lg bg-urgent/[0.04] px-2 py-2 -mx-2',
+                    hasBooked && !entry.isBackup && 'rounded-lg bg-booked/[0.04] px-2 py-2 -mx-2'
+                  )}>
+                    <div className="w-[68px] shrink-0 text-right">
+                      <span className={cn(
+                        'text-xs font-mono tabular-nums',
+                        isTimeEntry ? 'text-text-secondary font-medium' : 'text-transparent'
+                      )}>
+                        {entry.time || '00:00'}
+                      </span>
+                    </div>
+                    <div className={cn(
+                      'relative z-10 mt-1.5 h-2.5 w-2.5 shrink-0 rounded-full ring-2 ring-bg',
+                      entry.isWarning ? 'bg-urgent' :
+                      hasBooked ? 'bg-booked' :
+                      entry.isBackup ? 'bg-surface-3' :
+                      `bg-${city.toLowerCase()}`
+                    )} style={
+                      !entry.isWarning && !entry.isBackup && !hasBooked
+                        ? { backgroundColor: `var(--color-${city.toLowerCase()})` }
+                        : undefined
+                    } />
+                    <div className="min-w-0 flex-1">
+                      <p className={cn(
+                        'text-sm leading-relaxed',
+                        entry.isBackup && 'italic text-text-tertiary',
+                        isTimeEntry && !entry.isBackup && 'font-medium'
+                      )}>
+                        {entry.isWarning && <AlertTriangle className="mr-1.5 inline h-3.5 w-3.5 text-urgent" />}
+                        {cleanText}
+                      </p>
+                    </div>
                   </div>
-                  <div className={cn(
-                    'relative z-10 mt-1.5 h-2.5 w-2.5 shrink-0 rounded-full ring-2 ring-bg',
-                    entry.isWarning ? 'bg-urgent' :
-                    entry.isBackup ? 'bg-surface-3' :
-                    `bg-${city.toLowerCase()}`
-                  )} style={
-                    !entry.isWarning && !entry.isBackup
-                      ? { backgroundColor: `var(--color-${city.toLowerCase()})` }
-                      : undefined
-                  } />
-                  <div className="min-w-0 flex-1">
-                    <p className={cn(
-                      'text-sm leading-relaxed',
-                      entry.isBackup && 'italic text-text-tertiary'
-                    )}>
-                      {entry.isWarning && <AlertTriangle className="mr-1.5 inline h-3.5 w-3.5 text-urgent" />}
-                      {entry.text.replace(/⚠️/g, '')}
-                    </p>
-                  </div>
-                </div>
-              ))}
+                )
+              })}
             </div>
           </div>
         )}

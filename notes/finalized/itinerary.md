@@ -88,9 +88,7 @@
 ### Late Morning — Ginza (walk from Tsukiji, ~15 min)
 - **[Chopstick Making Workshop (Ginza Hashikura)](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo)** — PRIORITY. ~30-60 min, ~$27/pp + premium wood. Book for all 4. Take home same day. *(Book via GetYourGuide or Klook)*
   - **ADVANCE TICKETS: Book on Klook/GetYourGuide 2-4 weeks ahead**
-- **[Seiko Museum Ginza](https://maps.google.com/?q=Seiko+Museum+Ginza)** — Free admission, reservation required. 6 floors of horology. Grand Seiko Museum on 6th floor. Allow 1-1.5 hrs. *(Book online at museum.seiko.co.jp)* — *Brad can do this solo another day if group prefers*
-  - **ADVANCE TICKETS: Free but requires online reservation at museum.seiko.co.jp**
-- **[Grand Seiko Flagship Boutique Ginza Namiki](https://maps.google.com/?q=Grand+Seiko+Boutique+Ginza+Namiki)** — 2 min walk from museum. Browse/buy Grand Seiko. Tax-free with passport. — *Brad can do this solo another day*
+- **[Grand Seiko Flagship Boutique Ginza Namiki](https://maps.google.com/?q=Grand+Seiko+Boutique+Ginza+Namiki)** — Browse/buy Grand Seiko. Tax-free with passport. — *Brad can do this solo another day*
 
 ### Lunch (~1:00 PM) — Michelin Sardine
 1. **[Nakajima](https://maps.google.com/?q=Shinjuku+Kappo+Nakajima)** — PRIORITY. Michelin-starred sardine set lunch — 990 yen/pp (!!) — Shinjuku, 15 min subway from Ginza. Cheapest Michelin meal in Tokyo. Closed Sun, so today works. *No reservation. LINE UP: Queue by 11:15am for 11:30 opening — fills immediately. If going after chopsticks, you'll hit the 12:30+ wave — expect 30-45 min wait.*
@@ -115,7 +113,6 @@
 ### Logistics
 - Golden Week starts Apr 29 — today and tomorrow are your best days for harder-to-book restaurants
 - Pre-book Shibuya Sky sunset slot online ASAP
-- Seiko Museum needs online reservation
 
 ---
 
@@ -132,20 +129,20 @@
 
 ### Morning — Nakameguro / Daikanyama (~9:00-11:30 AM)
 - **[I'm Donut? Nakameguro](https://maps.google.com/?q=I'm+Donut+Nakameguro)** — PRIORITY. Opens 10am. Brad's donut destination. *LINE UP: Arrive by 9:30am (30 min before opening). Sells out by early afternoon. Weekend lines can be 45-60 min by midday.*
-- **[Daikanyama T-Site (Tsutaya Books)](https://maps.google.com/?q=Daikanyama+T-Site+Tsutaya+Books)** — Award-winning bookstore complex. Beautiful architecture, great cafe. Worth 30-45 min.
+- **[Daikanyama T-Site (Tsutaya Books)](https://maps.google.com/?q=Daikanyama+T-Site+Tsutaya+Books)** — Award-winning bookstore complex. Beautiful architecture, great cafe. Worth 30-45 min. No reservation needed.
 - **[Okura Daikanyama](https://maps.google.com/?q=Okura+Daikanyama)** — Japanese indigo-dyed goods and denim
 - Nakameguro to Daikanyama is a pleasant 15-min flat walk along the Meguro River
 
-### Lunch (~12:00-1:30 PM) — Michelin Sushi (THE splurge)
-1. **[Udatsu Sushi](https://maps.google.com/?q=Udatsu+Sushi+Nakameguro)** — PRIORITY. 1 Michelin star, Nakameguro — Lunch omakase from 14,400 yen/pp (~$95). "Art x Sushi" in a concrete gallery space. Book via OpenTable. *You're already in Nakameguro — perfect pairing. Book Mon/Tue/Thu/Fri/Sat when head chef is present.*
+### Lunch (12:00 PM) — Michelin Sushi (THE splurge)
+1. **[Udatsu Sushi](https://maps.google.com/?q=Udatsu+Sushi+Nakameguro)** — **BOOKED 12:00 PM.** 1 Michelin star, Nakameguro — Lunch omakase 14,400 yen/pp (~$95). "Art x Sushi" in a concrete gallery space. *Smart casual attire required — no T-shirts, shorts, or sandals. Arrive 5 min before reservation.*
 2. **[Sushi SHIN](https://maps.google.com/?q=Sushi+SHIN+Nishiazabu+Tokyo)** — 1 Michelin star, Nishiazabu — Lunch omakase 18,150 yen/pp (~$120). Book via WhatsApp/email. 10+ consecutive years Michelin. *Great backup if Udatsu is full.*
 
 ### Afternoon — teamLab Planets (~3:00-5:30 PM)
 - **[teamLab Planets Tokyo](https://maps.google.com/?q=teamLab+Planets+Toyosu+Tokyo)** — WITH DAVE & GAIL. Immersive digital art. Barefoot required. Allow 2-3 hours. Take Yurikamome to Shin-Toyosu Station.
   - **ADVANCE TICKETS: Book NOW at teamlab.art/e/planets/ — Golden Week dates sell out weeks ahead. Book for ~3:00 PM slot. ~3,200 yen/pp**
 
-### Dinner (~7:00 PM) — Teppanyaki
-1. **[Ukaitei Omotesando](https://maps.google.com/?q=Ukai+Tei+Omotesando)** — PRIORITY. Splurge teppanyaki for 4 — ~15,000 yen/pp — Private room with dedicated chef. Closed Wed, open Sun. This is the memorable group experience.
+### Dinner (7:00 PM) — Teppanyaki
+1. **[Ukaitei Omotesando](https://maps.google.com/?q=Ukai+Tei+Omotesando)** — **BOOKED 7:00 PM.** Splurge teppanyaki for 4 — ~15,000 yen/pp — Private room with dedicated chef. This is the memorable group experience. *Dress nice-ish (smart casual).*
 2. **[Ebisu Yokocho](https://maps.google.com/?q=Ebisu+Yokocho+Tokyo)** — Izakaya alley near Ebisu Station — ~2,000-4,000 yen/pp — Multiple stalls, locals-heavy, great vibe. Perfect if teppanyaki feels like too much after a big sushi lunch.
 
 ### Evening

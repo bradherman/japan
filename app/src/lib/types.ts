@@ -16,6 +16,8 @@ export interface Activity {
   price?: string
   priority?: boolean
   reservationRequired?: boolean
+  booked?: boolean
+  notes?: string
   lineUpTip?: string
   tags?: string[]
 }
@@ -76,6 +78,8 @@ export interface Reservation {
   bookingMethod?: string
   mapLink?: string
   alarm?: string
+  notes?: string
+  actionDate?: string
   status: ReservationStatus
   category: string
 }

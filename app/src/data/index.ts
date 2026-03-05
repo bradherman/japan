@@ -21,6 +21,7 @@ type ItineraryData = {
       activities: Array<{
         name: string; time?: string; description?: string; mapLink?: string
         price?: string; priority?: boolean; reservationRequired?: boolean
+        booked?: boolean; notes?: string
         lineUpTip?: string; tags?: string[]
       }>
     }>
@@ -37,6 +38,7 @@ type ScheduleData = Array<{
 type ReservationItem = {
   name: string; details?: string; date?: string; time?: string; cost?: string
   bookingMethod?: string; mapLink?: string; alarm?: string
+  notes?: string; actionDate?: string
   status: string; category: string
 }
 

@@ -37,7 +37,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
            Optional: Masamoto knives at market edge
 10:00-10:15 Walk from Tsukiji to Ginza (15 min)
 10:15-11:15 Chopstick Making Workshop — Ginza Hashikura (~60 min) ⚠️ BOOK AHEAD
-11:15-11:30 Walk around Ginza / optional Seiko Museum or Grand Seiko Boutique (Brad solo flex)
+11:15-11:30 Walk around Ginza / optional Grand Seiko Boutique (Brad solo flex)
 11:30      Subway Ginza → Shinjuku-sanchome (15 min) for Nakajima
 11:45-12:30 Queue at Nakajima (~30-45 min for 12:30 wave)
 12:30-1:00 Eat Michelin sardine lunch (990 yen!!)
@@ -80,11 +80,11 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 10:10-10:25 Walk along Meguro River to Daikanyama (15 min)
 10:25-11:00 Browse Daikanyama T-Site (Tsutaya Books), Okura Daikanyama
 11:00-11:15 Walk back toward Nakameguro
-11:30      Arrive Udatsu Sushi ⚠️ RESERVATION REQUIRED
-11:30-1:00 Michelin sushi omakase lunch (~90 min)
+11:55      Arrive Udatsu Sushi ⚠️ BOOKED 12:00 PM — Smart casual: no tees/shorts/sandals
+12:00-1:30 Michelin sushi omakase lunch (~90 min)
            (B) Sushi SHIN in Nishiazabu if Udatsu full
-1:00-1:30  Walk/browse Nakameguro
-1:30-2:15  Train Nakameguro → Shin-Toyosu (Yurikamome, ~40 min with transfer)
+1:30-2:00  Walk/browse Nakameguro
+2:00-2:15  Train Nakameguro → Shin-Toyosu (Yurikamome, ~40 min with transfer)
 2:15-2:30  Walk to teamLab Planets, store bags in lockers, remove shoes
 2:30       Enter teamLab Planets ⚠️ BOOK ~3:00 PM SLOT (arrive early)
 2:30-5:00  teamLab Planets (~2-2.5 hrs)
@@ -93,7 +93,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
            (would need to squeeze in before teamLab or skip)
 5:15-6:00  Train Shin-Toyosu → Omotesando area (~35 min)
 6:00-6:30  Freshen up / walk around Omotesando
-7:00       Arrive Ukaitei Omotesando ⚠️ RESERVATION REQUIRED
+7:00       Arrive Ukaitei Omotesando ⚠️ BOOKED 7:00 PM — dress nice-ish
 7:00-9:00  Teppanyaki dinner — private room, dedicated chef (~2 hrs)
            (B) Ebisu Yokocho — izakaya stall hopping if teppanyaki too much
 9:00-9:15  Train Omotesando → Shimokitazawa (via Shibuya, 10 min)

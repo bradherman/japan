@@ -1,15 +1,48 @@
 import { useState, useMemo } from 'react'
-import { MapPin, Star, Ticket, Clock, Coffee, Train } from 'lucide-react'
+import { MapPin, Star, Ticket, Clock, Coffee, Train, CheckCircle, Map } from 'lucide-react'
 import { itinerary, transport } from '@/data'
 import { DayPicker } from './DayPicker'
 import { CityBadge } from '@/components/ui/CityBadge'
 import { YenUsd } from '@/components/ui/YenUsd'
 import { cn, getDayCity, getCityAccent } from '@/lib/utils'
 
+function buildDayMapUrl(day: typeof itinerary.days[0]): string | null {
+  const mapLinks: string[] = []
+  if (day.morningCoffee?.mapLink) mapLinks.push(day.morningCoffee.mapLink)
+  for (const section of day.sections) {
+    for (const act of section.activities) {
+      if (act.mapLink) mapLinks.push(act.mapLink)
+    }
+  }
+  if (mapLinks.length === 0) return null
+
+  // Extract place names from Google Maps URLs (the ?q= parameter)
+  const places = mapLinks
+    .map(link => {
+      const match = link.match(/[?&]q=([^&]+)/)
+      return match ? decodeURIComponent(match[1].replace(/\+/g, ' ')) : null
+    })
+    .filter((p): p is string => p !== null)
+    // Deduplicate
+    .filter((p, i, arr) => arr.indexOf(p) === i)
+
+  if (places.length === 0) return null
+  if (places.length === 1) return `https://www.google.com/maps/search/${encodeURIComponent(places[0])}`
+
+  // Build directions URL with waypoints
+  const origin = encodeURIComponent(places[0])
+  const destination = encodeURIComponent(places[places.length - 1])
+  const waypoints = places.slice(1, -1).map(p => encodeURIComponent(p)).join('|')
+  let url = `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${destination}&travelmode=transit`
+  if (waypoints) url += `&waypoints=${waypoints}`
+  return url
+}
+
 export function ItineraryView() {
   const [selectedDay, setSelectedDay] = useState(1)
   const day = itinerary.days.find(d => d.dayNumber === selectedDay)
   const dayTransport = useMemo(() => transport.days.find(t => t.dayNumber === selectedDay), [selectedDay])
+  const dayMapUrl = useMemo(() => day ? buildDayMapUrl(day) : null, [day])
   const city = getDayCity(selectedDay)
   const cityLower = city.toLowerCase()
 
@@ -28,7 +61,27 @@ export function ItineraryView() {
       {day && (
         <div className="mx-auto w-full max-w-lg space-y-4 p-4">
           <div className="animate-fade-up">
-            <h2 className={cn('font-display text-xl', getCityAccent(city))}>{day.title}</h2>
+            <div className="flex items-center justify-between gap-3">
+              <h2 className={cn('font-display text-xl', getCityAccent(city))}>{day.title}</h2>
+              {dayMapUrl && (
+                <a
+                  href={dayMapUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={cn(
+                    'flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 text-[10px] font-semibold uppercase tracking-wide transition-colors',
+                    `bg-${cityLower}/10 text-${cityLower} hover:bg-${cityLower}/20`
+                  )}
+                  style={{
+                    backgroundColor: `color-mix(in srgb, var(--color-${cityLower}) 10%, transparent)`,
+                    color: `var(--color-${cityLower})`,
+                  }}
+                >
+                  <Map className="h-3.5 w-3.5" />
+                  Day Map
+                </a>
+              )}
+            </div>
             {day.subtitle && <p className="mt-1 text-xs text-text-tertiary">{day.subtitle}</p>}
           </div>
 
@@ -112,7 +165,12 @@ export function ItineraryView() {
                           {act.priority && (
                             <Star className="h-3.5 w-3.5 fill-priority text-priority" />
                           )}
-                          {act.reservationRequired && (
+                          {act.booked && (
+                            <span className="flex items-center gap-0.5 rounded-md bg-booked/10 px-1.5 py-0.5 text-[10px] font-semibold text-booked">
+                              <CheckCircle className="h-3 w-3" /> Booked
+                            </span>
+                          )}
+                          {act.reservationRequired && !act.booked && (
                             <span className="flex items-center gap-0.5 rounded-md bg-urgent/10 px-1.5 py-0.5 text-[10px] font-semibold text-urgent">
                               <Ticket className="h-3 w-3" /> Book
                             </span>
@@ -125,6 +183,9 @@ export function ItineraryView() {
                         )}
                         {act.description && (
                           <p className="mt-1.5 text-xs text-text-secondary leading-relaxed">{act.description}</p>
+                        )}
+                        {act.notes && (
+                          <p className="mt-1.5 text-xs text-amber-400/80 leading-relaxed">{act.notes}</p>
                         )}
                         <div className="mt-1.5 flex items-center gap-3">
                           {act.price && (

@@ -10,6 +10,8 @@
 
 | Item | Details | Date & Time (JST) | Cost/pp | Map | Status |
 |------|---------|-------------------|---------|-----|--------|
+| Udatsu Sushi | Michelin omakase sushi — smart casual required (no tees/shorts/sandals). Arrive 5 min before. | Apr 27, 12:00 PM | ¥14,400 | [Map](https://maps.google.com/?q=Udatsu+Sushi+Nakameguro) | CONFIRMED |
+| Omotesando Ukai-tei | Teppanyaki for 4 — dress nice-ish (smart casual) | Apr 27, 7:00 PM | ¥15,000 | [Map](https://maps.google.com/?q=Ukai+Tei+Omotesando) | CONFIRMED |
 | Matsuzaka Gyu Yakiniku M Hozenji-Hanare | Wagyu yakiniku (birthday dinner) | May 6, 7:00 PM | ~¥15,000-25,000 | [Map](https://maps.google.com/?q=Matsuzaka+Gyu+Yakiniku+M+Hozenji+Osaka) | CONFIRMED |
 | teamLab Planets | 4 tickets, 3:00-3:30 PM entry | Apr 27, 3:00 PM | ¥3,200 | [Map](https://maps.google.com/?q=teamLab+Planets+Toyosu+Tokyo) | CONFIRMED |
 | Chopstick Making Workshop | Custom chopsticks for 4 | Apr 26, 10:00 AM | $27/pp | [Map](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo) | ✅ CONFIRMED |
@@ -25,18 +27,13 @@
 |------|-----------|---------|----------------|-----|-------------|
 | ~~**teamLab Planets**~~ | ~~Apr 27, 3:00 PM~~ | ~~¥3,200~~ | — | — | **BOOKED — moved to Already Booked** |
 | **Shibuya Sky sunset** | Apr 26, ~17:00 slot (sunset 6:23 PM) | ¥3,400 | Book via **[Klook](https://www.klook.com/en-US/activity/70672-shibuya-sky-tokyo/)**, **[KKday](https://www.kkday.com/en-us/product/133300-shibuya-sky-observatory-e-ticket-tokyo)**, or **[Trip.com](https://us.trip.com/travel-guide/attraction/tokyo/shibuya-sky-136018827/)** — official site requires Japanese credit card | [Map](https://maps.google.com/?q=Shibuya+Sky+observation+deck) | **CAN'T BOOK YET — ~2 week rolling window. See alarm below.** |
-| **Ghibli Museum** | Apr 25-30 window | ~¥1,000 | Lawson Ticket (l-tike.com) | [Map](https://maps.google.com/?q=Ghibli+Museum+Mitaka+Tokyo) | **Mar 10, 10:00 AM JST = Mar 9, 6:00 PM PDT** |
 | **Kamogawa Odori** (geisha dance) | May 1, 2, or 3 | ¥4,000-7,000 | Pontocho Kaburenjo Theater website | [Map](https://maps.google.com/?q=Pontocho+Kaburenjo+Theater+Kyoto) | **Book ASAP — limited run May 1-3 only** |
-| **Seiko Museum Ginza** | Apr 26 morning | Free | [museum.seiko.co.jp](https://museum.seiko.co.jp) | [Map](https://maps.google.com/?q=Seiko+Museum+Ginza) | **Book online now — free but requires reservation** |
 
 ### Restaurants — Book Now
 
 | Restaurant | Cuisine / What to Order | Date & Time (JST) | Cost/pp | Booking Method | Map | Alarm to Set |
 |-----------|------------------------|-------------------|---------|----------------|-----|-------------|
 | **Pizza Bar on 38th** | Omakase pizza (#2 in world) | May 9 lunch, ~12:00 PM | ¥15,000-20,000 | [SevenRooms](https://www.sevenrooms.com/reservations/pizzabar38th) or email motyo-fbres@mohg.com | [Map](https://maps.google.com/?q=Pizza+Bar+38th+Mandarin+Oriental+Tokyo) | **Opens 2 months ahead at midnight JST. For May 9: Mar 9 midnight JST = Mar 8, 8:00 AM PDT.** Only 8 seats — set alarm for 7:55 AM PDT. |
-| **Sushi SHIN** | Michelin omakase sushi (backup for Udatsu) | Apr 27 lunch, ~12:00 PM | ¥18,150 | WhatsApp: +81-80-6219-9295 / Email: reservation-tokyo@sushishin.jp | [Map](https://maps.google.com/?q=Sushi+SHIN+Nishiazabu+Tokyo) | **Call/message NOW — books 1-2 months ahead** |
-| **Udatsu Sushi** | Michelin omakase sushi (priority) | Apr 27 lunch, ~12:00 PM | ¥14,400 | OpenTable or email | [Map](https://maps.google.com/?q=Udatsu+Sushi+Nakameguro) | **Book NOW on OpenTable** |
-| **Ukaitei Omotesando** | Teppanyaki for 4 | Apr 27 dinner, ~7:00 PM | ¥15,000 | Phone: 03-5467-5252 | [Map](https://maps.google.com/?q=Ukai+Tei+Omotesando) | **Call NOW** |
 
 ### Bars — Book When Window Opens
 
@@ -136,7 +133,6 @@
 - [ ] Each hotel accepts takkyubin luggage delivery (if sending luggage)
 - [x] Nishikawa pillow fitting appointment for 4 people — BOOKED Apr 29, 3:00 PM + 4:00 PM
 - [ ] Kurono Tokyo Aoyama — email to check weekday availability (closed Sun/holidays)
-- [ ] Grand Seiko Ginza Namiki — no appointment needed but email to confirm stock in your range
 - [ ] Blue Note Tokyo / Shinjuku Pit Inn / UFO Club — check Apr 25-30 schedules when posted
 - [ ] Flower Mountain Osaka Tenjinbashi store hours
 - [ ] Rakushaan warabi mochi — have Hotel Forza concierge call 075-494-2551 on May 2 for May 3 pickup
@@ -150,14 +146,12 @@
 
 | Date & Time (PDT) | What | Priority |
 |-------------------|------|----------|
-| **NOW** | Book Udatsu/SHIN sushi, Ukaitei, Seiko Museum | CRITICAL |
 | **NOW** | Follow @ijou_maru_parfait on Instagram (Osaka birthday parfait) | HIGH |
 | **NOW** | Follow @amam_dacotan_kyoto on Instagram (Kyoto bakery) | MEDIUM |
 | **~Apr 22** | DM @henrysburger_japan for Harami Burger reservation Apr 29 | HIGH |
 | **~Apr 29** | DM @ijou_maru_parfait to reserve May 6, ~9 PM, 2 people | HIGH |
 | **~Apr 11, 8:00 AM PDT** | Shibuya Sky tickets for Apr 26 (opens ~2 weeks ahead at midnight JST). Open Klook + KKday + Trip.com simultaneously. Target 5:00 PM slot (sunset 6:23 PM). Sunset slots sell out in ~3 min. | CRITICAL |
 | **Mar 8, 7:55 AM PDT** | Pizza Bar on 38th opens for May 9 (midnight JST Mar 9) | CRITICAL |
-| **Mar 9, 6:00 PM PDT** | Ghibli Museum tickets on sale (10 AM JST Mar 10) | CRITICAL |
 | **Mar 20** | Bar Benfiddich opens for April reservations (TableCheck) | HIGH |
 | **Apr 7** | Hikari shinkansen May 7 booking opens (SmartEX app) | HIGH |
 | **Apr 18, 8:00 PM PDT** | Tonkatsu Narikura slots open for Apr 26 (noon JST Apr 19) | HIGH |

@@ -157,9 +157,26 @@ function parseItinerary() {
           const rest = dashIdx >= 0 ? afterBold.slice(dashIdx + 1).trim() : ''
 
           const priority = /PRIORITY|PICK/i.test(rest) || /PRIORITY|PICK/i.test(trimmed)
-          const reservationRequired = /reservation|BOOK|ADVANCE TICKET/i.test(trimmed)
+          const booked = /\bBOOKED\b/.test(trimmed)
+          // Match "BOOK" as a verb (not "Books"/"Bookstore"/"bookshelf")
+          const reservationRequired = booked ? false : /reservation|ADVANCE TICKET|Book\b(?!s|store|shelf)/i.test(trimmed)
           const lineUpMatch = rest.match(/LINE UP:\s*([^*]+)/i)
           const priceMatch = rest.match(/~?([\d,]+(?:-[\d,]+)?)\s*yen/i)
+          // Extract notes — look at subsequent non-activity lines for dress code, arrival tips
+          const actIdx = lines.indexOf(line)
+          let notes: string | undefined
+          if (actIdx >= 0) {
+            for (let nl = actIdx + 1; nl < lines.length; nl++) {
+              const noteLine = lines[nl].trim()
+              if (!noteLine) continue
+              if (noteLine.startsWith('> NOTE:') || noteLine.startsWith('> ')) {
+                notes = noteLine.replace(/^>\s*(?:NOTE:\s*)?/, '').trim()
+                break
+              }
+              // Stop if we hit another activity
+              if (/^(?:\d+\.\s+|\-\s+)\*\*/.test(noteLine)) break
+            }
+          }
 
           activities.push({
             name,
@@ -167,6 +184,8 @@ function parseItinerary() {
             description: cleanText(rest).replace(/PRIORITY\.?\s*/i, '').replace(/LINE UP:[^.]+\.?\s*/i, '').trim() || undefined,
             priority,
             reservationRequired,
+            booked: booked || undefined,
+            notes,
             lineUpTip: lineUpMatch?.[1]?.trim(),
             price: priceMatch ? `¥${priceMatch[1]}` : undefined,
           })
@@ -333,12 +352,16 @@ function parseReservations() {
       const cells = row.split('|').map(c => c.trim()).filter(Boolean)
       if (cells.length >= 5 && !cells[0].startsWith('Item') && !cells[0].startsWith('--')) {
         if (cells[0].includes('~~')) continue // strikethrough = moved
+        const details = cleanText(cells[1])
+        // Extract dress code / special notes from details
+        const notesMatch = details.match(/(?:smart casual|dress[^.]*|no (?:tees?|t-shirts?|shorts|sandals)[^.]*|arrive[^.]*before[^.]*)/i)
         reservations.push({
           name: cleanText(cells[0]),
-          details: cleanText(cells[1]),
+          details,
           date: cleanText(cells[2]),
           cost: cleanText(cells[3]),
           mapLink: extractMapLink(cells[4]),
+          notes: notesMatch ? notesMatch[0].trim() : undefined,
           status: 'booked',
           category: 'booked',
         })
