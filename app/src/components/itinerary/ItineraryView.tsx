@@ -4,45 +4,43 @@ import { itinerary, transport } from '@/data'
 import { DayPicker } from './DayPicker'
 import { CityBadge } from '@/components/ui/CityBadge'
 import { YenUsd } from '@/components/ui/YenUsd'
-import { cn, getDayCity, getCityAccent } from '@/lib/utils'
+import { cn, getDayCity, getCityAccent, buildDayMapUrl } from '@/lib/utils'
 
-function buildDayMapUrl(day: typeof itinerary.days[0]): string | null {
-  const mapLinks: string[] = []
-  if (day.morningCoffee?.mapLink) mapLinks.push(day.morningCoffee.mapLink)
+function getDayMapLinks(day: typeof itinerary.days[0]): string[] {
+  const links: string[] = []
+  if (day.morningCoffee?.mapLink) links.push(day.morningCoffee.mapLink)
   for (const section of day.sections) {
     for (const act of section.activities) {
-      if (act.mapLink) mapLinks.push(act.mapLink)
+      if (act.mapLink && !act.backup) links.push(act.mapLink)
     }
   }
-  if (mapLinks.length === 0) return null
+  return links
+}
 
-  // Extract place names from Google Maps URLs (the ?q= parameter)
-  const places = mapLinks
-    .map(link => {
-      const match = link.match(/[?&]q=([^&]+)/)
-      return match ? decodeURIComponent(match[1].replace(/\+/g, ' ')) : null
-    })
-    .filter((p): p is string => p !== null)
-    // Deduplicate
-    .filter((p, i, arr) => arr.indexOf(p) === i)
-
-  if (places.length === 0) return null
-  if (places.length === 1) return `https://www.google.com/maps/search/${encodeURIComponent(places[0])}`
-
-  // Build directions URL with waypoints
-  const origin = encodeURIComponent(places[0])
-  const destination = encodeURIComponent(places[places.length - 1])
-  const waypoints = places.slice(1, -1).map(p => encodeURIComponent(p)).join('|')
-  let url = `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${destination}&travelmode=transit`
-  if (waypoints) url += `&waypoints=${waypoints}`
-  return url
+function getHotelMapLink(dayNumber: number): string | undefined {
+  for (const h of itinerary.hotels) {
+    const match = h.dates.match(/(Apr|May)\s+(\d+)-((?:Apr|May)\s+)?(\d+)/)
+    if (!match) continue
+    const startMonth = match[1] === 'May' ? 4 : 3
+    const startDay = parseInt(match[2])
+    const endMonth = match[3] ? (match[3].trim() === 'May' ? 4 : 3) : startMonth
+    const endDay = parseInt(match[4])
+    const startDate = new Date(2026, startMonth, startDay)
+    const endDate = new Date(2026, endMonth, endDay)
+    const tripDate = new Date(2026, 3, 24 + dayNumber) // Day 1 = Apr 25
+    if (tripDate >= startDate && tripDate < endDate) return h.mapLink
+  }
+  return undefined
 }
 
 export function ItineraryView() {
   const [selectedDay, setSelectedDay] = useState(1)
   const day = itinerary.days.find(d => d.dayNumber === selectedDay)
   const dayTransport = useMemo(() => transport.days.find(t => t.dayNumber === selectedDay), [selectedDay])
-  const dayMapUrl = useMemo(() => day ? buildDayMapUrl(day) : null, [day])
+  const dayMapUrl = useMemo(() => {
+    if (!day) return null
+    return buildDayMapUrl(getDayMapLinks(day), getHotelMapLink(selectedDay))
+  }, [day, selectedDay])
   const city = getDayCity(selectedDay)
   const cityLower = city.toLowerCase()
 
@@ -152,17 +150,24 @@ export function ItineraryView() {
                   <div
                     key={ai}
                     className={cn(
-                      'rounded-2xl bg-surface p-4 transition-colors card-interactive',
-                      act.priority
-                        ? 'ring-1 ring-priority/30 bg-priority/[0.04] priority-shimmer'
-                        : `card-accent-${cityLower}`
+                      'rounded-2xl p-4 transition-colors card-interactive',
+                      act.backup
+                        ? 'bg-surface/60 opacity-60'
+                        : act.priority
+                        ? 'bg-surface ring-1 ring-priority/30 bg-priority/[0.04] priority-shimmer'
+                        : `bg-surface card-accent-${cityLower}`
                     )}
                   >
                     <div className="flex items-start justify-between gap-3">
                       <div className="min-w-0 flex-1">
                         <div className="flex items-center gap-2 flex-wrap">
-                          <span className="text-sm font-semibold">{act.name}</span>
-                          {act.priority && (
+                          {act.backup && (
+                            <span className="rounded-md bg-surface-2 px-1.5 py-0.5 text-[10px] font-medium text-text-tertiary">
+                              Backup
+                            </span>
+                          )}
+                          <span className={cn('text-sm font-semibold', act.backup && 'text-text-secondary')}>{act.name}</span>
+                          {act.priority && !act.backup && (
                             <Star className="h-3.5 w-3.5 fill-priority text-priority" />
                           )}
                           {act.booked && (

@@ -36,7 +36,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 7:30-10:00 Tsukiji Outer Market food crawl — tamagoyaki, scallops, uni, sashimi, tuna skewers
            Optional: Masamoto knives at market edge
 10:00-10:15 Walk from Tsukiji to Ginza (15 min)
-10:15-11:15 Chopstick Making Workshop — Ginza Hashikura (~60 min) ⚠️ BOOK AHEAD
+10:15-11:15 Chopstick Making Workshop — Ginza Hashikura (~60 min) ⚠️ BOOKED 10:00 AM
 11:15-11:30 Walk around Ginza / optional Grand Seiko Boutique (Brad solo flex)
 11:30      Subway Ginza → Shinjuku-sanchome (15 min) for Nakajima
 11:45-12:30 Queue at Nakajima (~30-45 min for 12:30 wave)

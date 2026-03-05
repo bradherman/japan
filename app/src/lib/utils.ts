@@ -115,3 +115,38 @@ export function getTimeGreeting(): string {
 export function isBradsBirthday(dayNumber: number): boolean {
   return dayNumber === 12 // May 6 = Day 12
 }
+
+/** Extract the ?q= place name from a Google Maps URL */
+export function extractPlaceName(mapUrl: string): string | null {
+  const match = mapUrl.match(/[?&]q=([^&]+)/)
+  return match ? decodeURIComponent(match[1].replace(/\+/g, ' ')) : null
+}
+
+/** Build a Google Maps route URL for a day, starting and ending at the hotel */
+export function buildDayMapUrl(
+  mapLinks: string[],
+  hotelMapLink?: string
+): string | null {
+  const places = mapLinks
+    .map(extractPlaceName)
+    .filter((p): p is string => p !== null)
+    .filter((p, i, arr) => arr.indexOf(p) === i)
+
+  if (places.length === 0) return null
+
+  const hotelPlace = hotelMapLink ? extractPlaceName(hotelMapLink) : null
+
+  // Single place: just search for it
+  if (places.length === 1 && !hotelPlace) {
+    return `https://www.google.com/maps/search/${encodeURIComponent(places[0])}`
+  }
+
+  const origin = encodeURIComponent(hotelPlace || places[0])
+  const destination = encodeURIComponent(hotelPlace || places[places.length - 1])
+  // All activity places become waypoints when hotel bookends the route
+  const waypointPlaces = hotelPlace ? places : places.slice(1, -1)
+  const waypoints = waypointPlaces.map(p => encodeURIComponent(p)).join('|')
+  let url = `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${destination}&travelmode=transit`
+  if (waypoints) url += `&waypoints=${waypoints}`
+  return url
+}

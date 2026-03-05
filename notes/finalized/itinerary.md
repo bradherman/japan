@@ -86,8 +86,7 @@
 - Done by ~10:30 AM
 
 ### Late Morning — Ginza (walk from Tsukiji, ~15 min)
-- **[Chopstick Making Workshop (Ginza Hashikura)](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo)** — PRIORITY. ~30-60 min, ~$27/pp + premium wood. Book for all 4. Take home same day. *(Book via GetYourGuide or Klook)*
-  - **ADVANCE TICKETS: Book on Klook/GetYourGuide 2-4 weeks ahead**
+- **[Chopstick Making Workshop (Ginza Hashikura)](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo)** — PRIORITY. ~30-60 min, ~$27/pp + premium wood. All 4 booked. Take home same day. **BOOKED 10:00 AM.**
 - **[Grand Seiko Flagship Boutique Ginza Namiki](https://maps.google.com/?q=Grand+Seiko+Boutique+Ginza+Namiki)** — Browse/buy Grand Seiko. Tax-free with passport. — *Brad can do this solo another day*
 
 ### Lunch (~1:00 PM) — Michelin Sardine

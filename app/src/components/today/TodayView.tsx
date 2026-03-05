@@ -3,7 +3,7 @@ import { ChevronLeft, ChevronRight, MapPin, AlertTriangle, Coffee, Train, Info, 
 import { schedule, itinerary, transport } from '@/data'
 import { CityBadge } from '@/components/ui/CityBadge'
 import { YenUsd } from '@/components/ui/YenUsd'
-import { cn, getDayCity, getCityAccent, formatDate, getDayOfWeek, getTripDay, getTripCountdown, getTimeGreeting, isBradsBirthday } from '@/lib/utils'
+import { cn, getDayCity, getCityAccent, formatDate, getDayOfWeek, getTripDay, getTripCountdown, getTimeGreeting, isBradsBirthday, buildDayMapUrl } from '@/lib/utils'
 
 export function TodayView() {
   const tripDay = getTripDay()
@@ -18,23 +18,25 @@ export function TodayView() {
     if (dayItinerary.morningCoffee?.mapLink) mapLinks.push(dayItinerary.morningCoffee.mapLink)
     for (const section of dayItinerary.sections) {
       for (const act of section.activities) {
-        if (act.mapLink) mapLinks.push(act.mapLink)
+        if (act.mapLink && !act.backup) mapLinks.push(act.mapLink)
       }
     }
-    if (mapLinks.length === 0) return null
-    const places = mapLinks
-      .map(link => { const m = link.match(/[?&]q=([^&]+)/); return m ? decodeURIComponent(m[1].replace(/\+/g, ' ')) : null })
-      .filter((p): p is string => p !== null)
-      .filter((p, i, arr) => arr.indexOf(p) === i)
-    if (places.length === 0) return null
-    if (places.length === 1) return `https://www.google.com/maps/search/${encodeURIComponent(places[0])}`
-    const origin = encodeURIComponent(places[0])
-    const destination = encodeURIComponent(places[places.length - 1])
-    const waypoints = places.slice(1, -1).map(p => encodeURIComponent(p)).join('|')
-    let url = `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${destination}&travelmode=transit`
-    if (waypoints) url += `&waypoints=${waypoints}`
-    return url
-  }, [dayItinerary])
+    // Find hotel for this day
+    let hotelMapLink: string | undefined
+    for (const h of itinerary.hotels) {
+      const match = h.dates.match(/(Apr|May)\s+(\d+)-((?:Apr|May)\s+)?(\d+)/)
+      if (!match) continue
+      const startMonth = match[1] === 'May' ? 4 : 3
+      const startDay = parseInt(match[2])
+      const endMonth = match[3] ? (match[3].trim() === 'May' ? 4 : 3) : startMonth
+      const endDay = parseInt(match[4])
+      const startDate = new Date(2026, startMonth, startDay)
+      const endDate = new Date(2026, endMonth, endDay)
+      const tripDate = new Date(2026, 3, 24 + selectedDay)
+      if (tripDate >= startDate && tripDate < endDate) { hotelMapLink = h.mapLink; break }
+    }
+    return buildDayMapUrl(mapLinks, hotelMapLink)
+  }, [dayItinerary, selectedDay])
   const city = getDayCity(selectedDay)
   const cityAccent = getCityAccent(city)
   const countdown = getTripCountdown()

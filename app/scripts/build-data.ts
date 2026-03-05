@@ -143,6 +143,16 @@ function parseItinerary() {
         const trimmed = line.trim()
         if (!trimmed || trimmed.startsWith('*') && trimmed.endsWith('*') && !trimmed.startsWith('**')) continue
 
+        // Indented ADVANCE TICKETS sub-bullets → fold into parent activity's notes
+        const isIndentedLine = line.startsWith('  ') || line.startsWith('\t')
+        if (isIndentedLine && /ADVANCE TICKET/i.test(trimmed) && activities.length > 0) {
+          const parent = activities[activities.length - 1]
+          const instrText = cleanText(trimmed.replace(/^-\s+/, ''))
+          parent.notes = parent.notes ? `${parent.notes}. ${instrText}` : instrText
+          if (!parent.reservationRequired && !parent.booked) parent.reservationRequired = true
+          continue
+        }
+
         // Numbered or bulleted activity: 1. **[Name](link)** (optional neighborhood) — description
         const actMatch = trimmed.match(/^(?:\d+\.\s+|\-\s+)\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s*(.*)/)
           || trimmed.match(/^(?:\d+\.\s+|\-\s+)\*\*([^*]+)\*\*\s*(.*)/)
@@ -158,8 +168,12 @@ function parseItinerary() {
 
           const priority = /PRIORITY|PICK/i.test(rest) || /PRIORITY|PICK/i.test(trimmed)
           const booked = /\bBOOKED\b/.test(trimmed)
-          // Match "BOOK" as a verb (not "Books"/"Bookstore"/"bookshelf")
-          const reservationRequired = booked ? false : /reservation|ADVANCE TICKET|Book\b(?!s|store|shelf)/i.test(trimmed)
+          // Match reservation-required: exclude "no reservation" and false positives like "Books"/"Bookstore"
+          const hasNoReservation = /no reservation/i.test(trimmed)
+          const reservationRequired = booked || hasNoReservation ? false : /reservation|ADVANCE TICKET|Book\b(?!s|store|shelf)/i.test(trimmed)
+          // Detect numbered alternatives (2+) as backup options
+          const numberMatch = trimmed.match(/^(\d+)\.\s+/)
+          const isBackup = numberMatch ? parseInt(numberMatch[1]) >= 2 : false
           const lineUpMatch = rest.match(/LINE UP:\s*([^*]+)/i)
           const priceMatch = rest.match(/~?([\d,]+(?:-[\d,]+)?)\s*yen/i)
           // Extract notes — look at subsequent non-activity lines for dress code, arrival tips
@@ -185,6 +199,7 @@ function parseItinerary() {
             priority,
             reservationRequired,
             booked: booked || undefined,
+            backup: isBackup || undefined,
             notes,
             lineUpTip: lineUpMatch?.[1]?.trim(),
             price: priceMatch ? `¥${priceMatch[1]}` : undefined,

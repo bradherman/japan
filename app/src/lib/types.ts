@@ -17,6 +17,7 @@ export interface Activity {
   priority?: boolean
   reservationRequired?: boolean
   booked?: boolean
+  backup?: boolean
   notes?: string
   lineUpTip?: string
   tags?: string[]
