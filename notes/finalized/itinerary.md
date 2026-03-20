@@ -529,8 +529,9 @@
 
 > Osaka Castle in the morning (elevator, no stairs — Brad's foot is fine), then Japan's longest shopping
 > arcade for the best cheap sushi you'll eat on this trip and Brad's Flower Mountain shoes. Afternoon is
-> record shopping — Rare Groove is literally on the "World's Best Record Shops" list. Ramen for dinner
-> at a baseball-themed chicken-clam spot, then a speakeasy hidden behind a bookshelf for the nightcap.
+> record shopping — Rare Groove is literally on the "World's Best Record Shops" list. Early ramen at a
+> baseball-themed chicken-clam spot, then the main event: Casiopea live at Billboard Live Osaka. Japanese
+> jazz fusion legends in an intimate venue. Speakeasy nightcap after.
 
 **Morning Coffee:** [Takamura Wine & Coffee Roasters](https://maps.google.com/?q=Takamura+Wine+Coffee+Roasters+Osaka) — Wine shop + coffee roaster. Opens 11am. For pre-11am: Lilo Coffee (closer to hotel).
 
@@ -550,14 +551,15 @@
   - **[HMV Record Shop Shinsaibashi](https://maps.google.com/?q=HMV+Record+Shop+Shinsaibashi+OPA+Osaka)** — 8F of Shinsaibashi OPA. 50,000 records, rated 5/5 for jazz. ~5 min from hotel.
   - **[Groovenut Records](https://maps.google.com/?q=Groovenut+Records+Amerikamura+Osaka)** — Amerikamura. Original pressings: soul, funk, jazz, rare groove. ~10 min from hotel.
 
-### Dinner (~7:00 PM) — Ramen
+### Early Dinner (~5:00 PM) — Ramen
 1. **[Shoyu-Ramen Sodaisho](https://maps.google.com/?q=Shoyu+Ramen+Sodaisho+Temma+Osaka)** — PICK. Temma — ~1,000 yen — Chicken-clam shoyu ramen. Baseball-themed. Local gem.
 2. **[Chukasoba Kazura](https://maps.google.com/?q=Chukasoba+Kazura+Awaza+Osaka)** — Awaza — ~1,000 yen — "Mousse-like" broth, fabulously light. Backup.
 
-### Evening
-- **[Bible Club Osaka](https://maps.google.com/?q=Bible+Club+Osaka+Shinsaibashi)** — Shinsaibashi speakeasy. Portland sister bar. Hidden entrance. Walking distance.
-- **[Salvis Wine & Records](https://maps.google.com/?q=Salvis+Wine+Records+Tenma+Osaka)** — Hidden bar behind a bookshelf. Wine + vinyl.
-- **[Nakanoshima stroll](https://maps.google.com/?q=Nakanoshima+Island+Osaka)** — Beautiful riverside, lit up at night.
+### Evening — Casiopea at Billboard Live Osaka (7:00 PM) ⚠️ TICKETS PURCHASED
+- **[Billboard Live Osaka](https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT)** — Herbis Plaza ENT, Nishi-Umeda. Japanese jazz fusion legends. 7:00 PM show. Arrive by 6:30 for seating/drinks.
+- After the show (~9:00 PM):
+  - **[Bible Club Osaka](https://maps.google.com/?q=Bible+Club+Osaka+Shinsaibashi)** — Shinsaibashi speakeasy. Portland sister bar. Hidden entrance. Nightcap option.
+  - **[Nakanoshima stroll](https://maps.google.com/?q=Nakanoshima+Island+Osaka)** — Beautiful riverside walk from Umeda back toward hotel, lit up at night.
 
 ### Logistics
 - Children's Day — similar closures to yesterday.

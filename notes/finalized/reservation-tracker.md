@@ -16,6 +16,7 @@
 | teamLab Planets | 4 tickets, 3:00-3:30 PM entry | Apr 27, 3:00 PM | ¥3,200 | [Map](https://maps.google.com/?q=teamLab+Planets+Toyosu+Tokyo) | CONFIRMED |
 | Chopstick Making Workshop | Custom chopsticks for 4 | Apr 26, 10:00 AM | $27/pp | [Map](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo) | ✅ CONFIRMED |
 | Nishikawa Pillow Fitting | COREDO Nihonbashi — 2 slots (3:00 PM + 4:00 PM), all 4 arrive at 3:00 | Apr 29, 3:00 PM | Varies | [Map](https://maps.google.com/?q=Nishikawa+COREDO+Nihonbashi+Tokyo) | CONFIRMED |
+| Casiopea at Billboard Live Osaka | Japanese jazz fusion legends — Herbis Plaza ENT, Nishi-Umeda. Early dinner at Sodaisho before. | May 5, 7:00 PM | — | [Map](https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT) | TICKETS PURCHASED |
 
 ---
 

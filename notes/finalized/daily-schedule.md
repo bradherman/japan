@@ -420,18 +420,16 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
            B) Shinsaibashi Shopping Arcade — 180 stores, tax-free
            C) Momotaro Jeans Osaka (Horie neighborhood)
 3:30-4:00  Takamura Wine & Coffee Roasters (opens 11am — afternoon visit)
-4:00-5:30  Continue shopping/exploring. Nakanoshima riverside walk if not done.
-5:30-6:00  Return to hotel, rest
-6:00-6:15  Subway Namba → Temma area (JR or metro, ~15 min)
-6:15-6:30  Find Shoyu-Ramen Sodaisho (Temma, baseball-themed)
-6:30-7:00  Eat chicken-clam shoyu ramen (~1,000 yen)
+4:00-4:30  Wrap up shopping/exploring
+4:30-4:45  Subway Namba → Temma area (JR or metro, ~15 min)
+4:45-5:00  Find Shoyu-Ramen Sodaisho (Temma, baseball-themed)
+5:00-5:30  Eat chicken-clam shoyu ramen (~1,000 yen)
            (B) Chukasoba Kazura (Awaza) — "mousse-like" broth
-7:00-7:15  Walk to Salvis Wine & Records (Temma)
-7:15-8:15  Hidden bar behind a bookshelf — wine + vinyl
-8:15-8:45  Walk/subway to Shinsaibashi
-8:45-9:45  Bible Club Osaka — speakeasy, Portland sister bar
-9:45-10:00 Walk back to hotel (5 min)
-           Optional: Nakanoshima night stroll (lit up)
+5:30-6:00  Walk/subway Temma → Nishi-Umeda (~10 min)
+6:00-6:30  Arrive Billboard Live Osaka (Herbis Plaza ENT) — get seated, order drinks
+7:00-9:00  🎵 CASIOPEA at Billboard Live Osaka ⚠️ TICKETS PURCHASED
+9:00-9:30  Walk to Shinsaibashi or Nakanoshima night stroll (lit up riverside)
+9:30-10:30 Bible Club Osaka — speakeasy nightcap (optional, walking distance from hotel)
 10:30      Hotel
 ```
 

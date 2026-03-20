@@ -281,7 +281,7 @@ interface ClaudeResponse {
   stop_reason: string
 }
 
-const MAX_TOOL_ROUNDS = 5
+const MAX_TOOL_ROUNDS = 15
 
 async function executeTool(
   name: string, input: Record<string, string>, env: Env, isAdmin: boolean
@@ -356,7 +356,7 @@ Use specific details from the itinerary when relevant. Format times in 12-hour f
       },
       body: JSON.stringify({
         model: 'claude-haiku-4-5-20251001',
-        max_tokens: 2048,
+        max_tokens: 4096,
         system: systemPrompt,
         tools,
         messages,
