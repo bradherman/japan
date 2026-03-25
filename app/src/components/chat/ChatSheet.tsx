@@ -163,6 +163,7 @@ export function ChatSheet() {
         onClick={() => setIsOpen(true)}
         aria-label="Open trip assistant"
         className="fixed bottom-20 right-4 z-50 flex h-14 w-14 items-center justify-center rounded-2xl bg-accent text-white shadow-xl shadow-accent/25 transition-transform hover:scale-105 active:scale-95"
+        style={{ viewTransitionName: 'chat-fab' as string }}
       >
         <MessageCircle className="h-5 w-5" />
       </button>

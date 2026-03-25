@@ -4,6 +4,7 @@ import { schedule, itinerary, transport } from '@/data'
 import { CityBadge } from '@/components/ui/CityBadge'
 import { YenUsd } from '@/components/ui/YenUsd'
 import { cn, getDayCity, getCityAccent, formatDate, getDayOfWeek, getTripDay, getTripCountdown, getTimeGreeting, isBradsBirthday, buildDayMapUrl } from '@/lib/utils'
+import { useCity } from '@/lib/city-context'
 
 export function TodayView() {
   const tripDay = getTripDay()
@@ -41,6 +42,8 @@ export function TodayView() {
   const cityAccent = getCityAccent(city)
   const countdown = getTripCountdown()
   const birthday = isBradsBirthday(selectedDay)
+  const { setCity } = useCity()
+  useEffect(() => { setCity(city) }, [city, setCity])
 
   const [summaryOpen, setSummaryOpen] = useState(false)
 

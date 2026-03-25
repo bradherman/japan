@@ -1,10 +1,11 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import { MapPin, Star, Ticket, Clock, Coffee, Train, CheckCircle, Map } from 'lucide-react'
 import { itinerary, transport } from '@/data'
 import { DayPicker } from './DayPicker'
 import { CityBadge } from '@/components/ui/CityBadge'
 import { YenUsd } from '@/components/ui/YenUsd'
 import { cn, getDayCity, getCityAccent, buildDayMapUrl } from '@/lib/utils'
+import { useCity } from '@/lib/city-context'
 
 function getDayMapLinks(day: typeof itinerary.days[0]): string[] {
   const links: string[] = []
@@ -43,6 +44,8 @@ export function ItineraryView() {
   }, [day, selectedDay])
   const city = getDayCity(selectedDay)
   const cityLower = city.toLowerCase()
+  const { setCity } = useCity()
+  useEffect(() => { setCity(city) }, [city, setCity])
 
   return (
     <div className={cn('flex flex-col pb-20', `city-glow-${cityLower}`)}>

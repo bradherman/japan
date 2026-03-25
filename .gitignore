@@ -32,3 +32,4 @@ app/dist/
 app/node_modules/
 app/src/data/generated/
 node_modules/
+.gstack/
