@@ -193,8 +193,7 @@
 - **[UFO Club Koenji](https://maps.google.com/?q=UFO+Club+Koenji+Tokyo)** — Psych rock venue! The Kikagaku Moyo scene. ~20 min from Shinjuku on Chuo Line. Cover ~1,500-2,500 yen.
 - **Before/after the show:**
   - **[Jazz Bar Samurai](https://maps.google.com/?q=Jazz+Bar+Samurai+Shinjuku+Tokyo)** (Shinjuku 3-chome, 5F) — 2,500+ maneki-neko. Vinyl jazz since 1979. Drinks ~¥700. *Unlike any bar you've ever been to.*
-  - **[Bar Benfiddich](https://maps.google.com/?q=Bar+Benfiddich+Shinjuku+Tokyo)** (Shinjuku) — World's 50 Best Bars. Foraged ingredients, no menu. ~2,500-4,000 yen/cocktail.
-    - **ADVANCE TICKETS: Reservations open March 20 for April visits on TableCheck**
+  - ~~Bar Benfiddich~~ — Sold out for April. Schedule posted Mar 20, all 15 seats booked.
 
 ### Logistics
 - Udon Maruka WILL close Apr 29 - May 6 (holidays). Today is your only chance.
@@ -722,7 +721,7 @@
 
 ### Evening — Last Night in Japan
 - **[Gen Yamamoto](https://maps.google.com/?q=Gen+Yamamoto+Azabu-Juban+Tokyo)** — Cocktail omakase. Book ahead.
-- **[Bar Benfiddich](https://maps.google.com/?q=Bar+Benfiddich+Shinjuku+Tokyo)** — If you missed it on Day 4.
+- **[Bar Benfiddich](https://maps.google.com/?q=Bar+Benfiddich+Shinjuku+Tokyo)** — World's 50 Best Bars. Foraged ingredients, no menu. ~2,500-4,000 yen/cocktail. *(Backup — book Apr 20 when May schedule drops on TableCheck. Only 15 seats.)*
 - Or: revisit **JBS Vinyl Bar** (Shibuya)
 
 ### Logistics

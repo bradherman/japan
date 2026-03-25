@@ -34,13 +34,13 @@
 
 | Restaurant | Cuisine / What to Order | Date & Time (JST) | Cost/pp | Booking Method | Map | Alarm to Set |
 |-----------|------------------------|-------------------|---------|----------------|-----|-------------|
-| **Pizza Bar on 38th** | Omakase pizza (#2 in world) | May 9 lunch, ~12:00 PM | ¥15,000-20,000 | [SevenRooms](https://www.sevenrooms.com/reservations/pizzabar38th) or email motyo-fbres@mohg.com | [Map](https://maps.google.com/?q=Pizza+Bar+38th+Mandarin+Oriental+Tokyo) | **Opens 2 months ahead at midnight JST. For May 9: Mar 9 midnight JST = Mar 8, 8:00 AM PDT.** Only 8 seats — set alarm for 7:55 AM PDT. |
+| **Pizza Bar on 38th** | Omakase pizza (#2 in world) | May 9 lunch, ~12:00 PM | ¥15,000-20,000 | [SevenRooms](https://www.sevenrooms.com/reservations/pizzabar38th) or email motyo-fbres@mohg.com | [Map](https://maps.google.com/?q=Pizza+Bar+38th+Mandarin+Oriental+Tokyo) | **Opens Mar 31, 8:00 AM PDT. Only 8 seats — set alarm for 7:55 AM PDT Mar 31.** |
 
 ### Bars — Book When Window Opens
 
 | Bar | Date | Booking Method | Alarm to Set |
 |-----|------|----------------|-------------|
-| **Bar Benfiddich** | Apr 28 evening, 7:00 or 9:00 PM | TableCheck | **Opens Mar 20 for April. Set alarm: Mar 20.** |
+| **Bar Benfiddich** (backup) | May 9 evening | TableCheck | **May schedule posts Apr 20. Set alarm: Apr 20. Only 15 seats.** |
 | **Gen Yamamoto** | May 9 evening | TableCheck or email | **Book ASAP — limited seats** |
 
 ---
@@ -149,12 +149,11 @@
 |-------------|-------|--------------------|------------|----------|
 | **NOW** | @ijou_maru_parfait | May 6, ~9:00 PM (birthday parfait) | Follow on Instagram — required for "membership" before you can DM to reserve | HIGH |
 | **NOW** | @amam_dacotan_kyoto | May 3, ~9:30 AM (bakery queue) | Follow on Instagram — check IG night of May 2 for closures, register Airwait 9:30 AM day-of | MEDIUM |
-| **Mar 8, 7:55 AM** | Pizza Bar on 38th | May 9, ~12:00 PM (lunch) | Book on SevenRooms right at midnight JST (= 8:00 AM PDT Mar 8). Only 8 seats. | CRITICAL |
-| **Mar 20** | Bar Benfiddich | Apr 28, 7:00 or 9:00 PM | April reservations open on TableCheck | HIGH |
+| **Mar 31, 7:55 AM** | Pizza Bar on 38th | May 9, ~12:00 PM (lunch) | Book on SevenRooms at 8:00 AM PDT. Only 8 seats — be ready at 7:55 AM. | CRITICAL |
 | **~Apr 7** | Shinkansen: Shin-Osaka → Odawara | May 7, ~10:10 AM (Hikari) | Booking opens on SmartEX app | HIGH |
 | **~Apr 11, 8:00 AM** | Shibuya Sky | Apr 26, 5:00 PM (sunset slot) | ~2-week rolling window opens at midnight JST. Open Klook + KKday + Trip.com simultaneously. Sunset slots sell out in ~3 min. | CRITICAL |
 | **Apr 18, 8:00 PM** | Tonkatsu Narikura | Apr 26, ~7:30 PM (dinner) | Slots open noon JST Apr 19. Book on TableCheck or Omakase.in | HIGH |
-| **Apr 20** | Bar Benfiddich | May 9, evening | May reservations open on TableCheck | MEDIUM |
+| **Apr 20** | Bar Benfiddich (backup) | May 9, evening | May schedule posts on Instagram. Book on TableCheck. Only 15 seats. | MEDIUM |
 | **~Apr 22** | Henry's Burger Harami | Apr 29, ~11:30 AM (lunch) | DM @henrysburger_japan — name, phone, date, arrival time, qty (2 Harami Burgers) | HIGH |
 | **Apr 25, before flight** | Ginza Hachigo | Apr 28, ~12:30 PM (lunch) | Book on TableCheck — opens 9:00 AM JST Apr 25. Book before your flight departs! | HIGH |
 | **~Apr 29** | Ijou Maru Parfait | May 6, ~9:00 PM (birthday!) | DM @ijou_maru_parfait — 2 people, Brad's birthday night | HIGH |

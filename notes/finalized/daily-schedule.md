@@ -134,9 +134,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 6:30-8:00  Dinner at Shinpo — crab croquettes, smoked daikon, sake
 8:00-8:15  Subway Kagurazaka → Shinjuku (10 min)
 8:15-9:00  Jazz Bar Samurai (5F, Shinjuku 3-chome) — vinyl jazz + 2,500 maneki-neko
-9:00       Bar Benfiddich (Nishishinjuku) ⚠️ BOOK VIA TABLECHECK — 9pm seating
-9:00-10:00 Craft cocktails — foraged ingredients, no menu
-10:00      Option A: Shinjuku Pit Inn — jazz evening show (~10pm late set)
+9:00-10:00 Option A: Shinjuku Pit Inn — jazz evening show (~10pm late set)
            Option B: JR Chuo to Koenji (10 min) → UFO Club for psych rock
            Option C: Head home — it's been a full day
 11:30      Last train window. Head to Shibuya.
@@ -567,7 +565,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 9:00-9:30  Travel to evening bar
 9:30-11:00 Last night drinks:
            - Gen Yamamoto (cocktail omakase) ⚠️ BOOK AHEAD
-           - Bar Benfiddich (if missed Day 4) ⚠️ BOOK VIA TABLECHECK
+           - Bar Benfiddich (backup — book Apr 20 when May schedule drops) ⚠️ BOOK VIA TABLECHECK
            - JBS Vinyl Bar (one last session — no cover, Shibuya)
 11:00      Head back to Nippori
 11:30      Pack. Last night in Japan.
