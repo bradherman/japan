@@ -1,7 +1,8 @@
-import { NavLink, useLocation } from 'react-router-dom'
+import { NavLink, useLocation, useNavigate } from 'react-router-dom'
 import { Sun, CalendarDays, UtensilsCrossed, ClipboardCheck, MoreHorizontal } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { useRef, useEffect } from 'react'
+import { flushSync } from 'react-dom'
 
 const tabs = [
   { to: '/', icon: CalendarDays, label: 'Itinerary' },
@@ -19,6 +20,7 @@ function getActiveIndex(pathname: string): number {
 
 export function BottomNav() {
   const location = useLocation()
+  const navigate = useNavigate()
   const activeIndex = getActiveIndex(location.pathname)
   const prevIndexRef = useRef(activeIndex)
 
@@ -31,16 +33,26 @@ export function BottomNav() {
     return () => clearTimeout(timer)
   }, [activeIndex])
 
-  const handleTabClick = (index: number) => {
+  const handleTabClick = (e: React.MouseEvent, to: string, index: number) => {
+    e.preventDefault()
     if (index === prevIndexRef.current) return
-    // Set direction for view-transition CSS
+
+    // Set direction for CSS view-transition animations
     document.documentElement.dataset.navDir = index > prevIndexRef.current ? 'forward' : 'back'
+
+    if ('startViewTransition' in document) {
+      ;(document as unknown as { startViewTransition: (cb: () => void) => void }).startViewTransition(() => {
+        flushSync(() => navigate(to))
+      })
+    } else {
+      navigate(to)
+    }
   }
 
   return (
     <nav
       className="fixed bottom-0 left-0 right-0 z-50 border-t border-border bg-bg/95 backdrop-blur-xl safe-area-pb"
-      style={{ viewTransitionName: 'bottom-nav' as string }}
+      style={{ viewTransitionName: 'bottom-nav' }}
     >
       <div className="relative mx-auto flex max-w-lg">
         {/* Sliding indicator — single element that springs between tabs */}
@@ -57,8 +69,7 @@ export function BottomNav() {
             key={to}
             to={to}
             end={to === '/'}
-            viewTransition
-            onClick={() => handleTabClick(index)}
+            onClick={(e) => handleTabClick(e, to, index)}
             className={({ isActive }) =>
               cn(
                 'flex flex-1 flex-col items-center gap-0.5 py-2.5 text-[10px] font-medium transition-colors relative',

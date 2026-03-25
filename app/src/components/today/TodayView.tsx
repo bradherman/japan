@@ -156,14 +156,15 @@ export function TodayView() {
               />
             </div>
             <div
-              className="grid transition-[grid-template-rows] duration-200 ease-in-out"
-              style={{ gridTemplateRows: summaryOpen ? '1fr' : '0fr' }}
+              className="overflow-hidden transition-[max-height,opacity] duration-200 ease-in-out"
+              style={{
+                maxHeight: summaryOpen ? '300px' : '0px',
+                opacity: summaryOpen ? 1 : 0,
+              }}
             >
-              <div className="overflow-hidden">
-                <p className="pt-3 text-sm leading-relaxed text-text-secondary">
-                  {dayItinerary.summary}
-                </p>
-              </div>
+              <p className="pt-3 text-sm leading-relaxed text-text-secondary">
+                {dayItinerary.summary}
+              </p>
             </div>
           </button>
         )}
