@@ -48,6 +48,21 @@ function dayCity(dayNumber: number): City {
   return 'Tokyo'
 }
 
+/** Derive city from a date string like "Apr 26", "May 3 lunch", etc. */
+function cityForDate(dateStr: string): City | undefined {
+  const m = dateStr.match(/(Apr|May)\s+(\d{1,2})/i)
+  if (!m) return undefined
+  const month = m[1].toLowerCase() === 'apr' ? 4 : 5
+  const day = parseInt(m[2])
+  if (month === 4 && day >= 25 && day <= 29) return 'Tokyo'
+  if (month === 4 && day === 30) return 'Kyoto' // travel day, arrive Kyoto
+  if (month === 5 && day >= 1 && day <= 3) return 'Kyoto'
+  if (month === 5 && day >= 4 && day <= 6) return 'Osaka'
+  if (month === 5 && day >= 7 && day <= 8) return 'Hakone'
+  if (month === 5 && day >= 9 && day <= 10) return 'Tokyo'
+  return undefined
+}
+
 // ============================================================
 // 1. Parse itinerary.md
 // ============================================================
@@ -534,19 +549,43 @@ function parseReservations() {
     }
   }
 
-  // Calendar alarms
-  const alarms: Array<Record<string, string>> = []
+  // Calendar alarms (5-column table: Alarm Date | Venue | Booking For | What To Do | Priority)
+  const alarms: Array<Record<string, string | undefined>> = []
   const alarmsSection = md.match(/## CALENDAR ALARM SUMMARY[\s\S]*?\n\n([\s\S]*?)(?=\n---|\n## |$)/)
   if (alarmsSection) {
     const rows = alarmsSection[1].match(/^\|[^|].*\|$/gm) || []
     for (const row of rows) {
       const cells = row.split('|').map(c => c.trim()).filter(Boolean)
-      if (cells.length >= 3 && !cells[0].startsWith('Date') && !cells[0].startsWith('--')) {
+      if (cells.length >= 5 && !cells[0].startsWith('Alarm') && !cells[0].startsWith('--')) {
+        const bookingFor = cleanText(cells[2])
         alarms.push({
-          date: cleanText(cells[0]),
-          what: cleanText(cells[1]),
-          priority: cleanText(cells[2]),
+          alarmDate: cleanText(cells[0]),
+          venue: cleanText(cells[1]),
+          bookingFor,
+          action: cleanText(cells[3]),
+          priority: cleanText(cells[4]),
+          city: cityForDate(bookingFor),
         })
+      }
+    }
+  }
+
+  // Enrich reservations with city and backup flag
+  for (const r of reservations) {
+    if (r.date && typeof r.date === 'string') {
+      r.city = cityForDate(r.date)
+    }
+    // Detect backup items from name, date, or details
+    const text = `${r.name || ''} ${r.date || ''} ${r.details || ''}`.toLowerCase()
+    if (text.includes('backup')) {
+      r.isBackup = true
+      // Clean "backup" from name if present
+      if (typeof r.name === 'string') {
+        r.name = r.name.replace(/\s*\(backup\)\s*/gi, '').trim()
+      }
+      // Clean "backup" from date if present
+      if (typeof r.date === 'string') {
+        r.date = r.date.replace(/\s*backup\s*/gi, '').trim()
       }
     }
   }

@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { MapPin, Bell, ExternalLink, CheckCircle, AlertCircle, Clock, ChevronDown, Calendar, Shirt, Info } from 'lucide-react'
+import { MapPin, Bell, ExternalLink, CheckCircle, AlertCircle, Clock, ChevronDown, Calendar, Shirt, Info, AlertTriangle } from 'lucide-react'
 import { reservations } from '@/data'
 import { cn } from '@/lib/utils'
 import { YenUsd } from '@/components/ui/YenUsd'
@@ -14,6 +14,13 @@ const statusConfig = {
   'walk-in': { label: 'Walk-In', color: 'text-text-tertiary', bg: 'bg-text-tertiary', icon: Clock },
   confirm: { label: 'Confirm', color: 'text-soon', bg: 'bg-soon', icon: Bell },
 } as const
+
+const cityColors: Record<string, { text: string; bg: string }> = {
+  Tokyo: { text: 'text-tokyo', bg: 'bg-tokyo/10' },
+  Kyoto: { text: 'text-kyoto', bg: 'bg-kyoto/10' },
+  Osaka: { text: 'text-osaka', bg: 'bg-osaka/10' },
+  Hakone: { text: 'text-hakone', bg: 'bg-hakone/10' },
+}
 
 // Parse an action date string into a sortable Date (or null for "NOW")
 function parseActionDate(alarm: string | undefined): { date: Date | null; isNow: boolean; isPast: boolean; label: string } {
@@ -43,6 +50,138 @@ function parseActionDate(alarm: string | undefined): { date: Date | null; isNow:
   return { date: null, isNow: false, isPast: false, label: alarm.substring(0, 30) }
 }
 
+function daysFromNow(date: Date): number {
+  const now = new Date()
+  now.setHours(0, 0, 0, 0)
+  const target = new Date(date)
+  target.setHours(0, 0, 0, 0)
+  return Math.round((target.getTime() - now.getTime()) / (1000 * 60 * 60 * 24))
+}
+
+function CityBadge({ city }: { city?: string }) {
+  if (!city) return null
+  const colors = cityColors[city] || { text: 'text-text-tertiary', bg: 'bg-surface-2' }
+  return (
+    <span className={cn('rounded-md px-1.5 py-0.5 text-[10px] font-semibold', colors.text, colors.bg)}>
+      {city}
+    </span>
+  )
+}
+
+type AlarmItem = typeof reservations.alarms[0]
+
+function AlarmCard({ alarm }: { alarm: AlarmItem & { _status: 'overdue' | 'now' | 'upcoming'; _daysAway?: number } }) {
+  const isOverdue = alarm._status === 'overdue'
+  const isNow = alarm._status === 'now'
+
+  return (
+    <div
+      className={cn(
+        'rounded-2xl p-4 transition-all',
+        isOverdue ? 'bg-urgent/[0.06] ring-1 ring-urgent/20' :
+        isNow ? 'bg-soon/[0.06] ring-1 ring-soon/20' :
+        'bg-surface ring-1 ring-border-subtle'
+      )}
+      style={{
+        borderLeft: `3px solid ${
+          isOverdue ? '#f8717160' :
+          isNow ? '#fbbf2460' :
+          alarm.priority === 'CRITICAL' ? '#f8717140' :
+          '#64748b30'
+        }`,
+      }}
+    >
+      {/* Row 1: Priority + countdown/status */}
+      <div className="flex items-center justify-between gap-2">
+        <div className="flex items-center gap-2">
+          <span className={cn(
+            'rounded-md px-1.5 py-0.5 text-[10px] font-bold',
+            alarm.priority === 'CRITICAL' ? 'bg-urgent/15 text-urgent' :
+            alarm.priority === 'HIGH' ? 'bg-soon/15 text-soon' :
+            'bg-surface-2 text-text-tertiary'
+          )}>
+            {alarm.priority}
+          </span>
+          <CityBadge city={alarm.city} />
+        </div>
+        <span className={cn(
+          'text-[10px] font-semibold',
+          isOverdue ? 'text-urgent' :
+          isNow ? 'text-soon' :
+          'text-text-tertiary'
+        )}>
+          {isOverdue ? (
+            <span className="flex items-center gap-1"><AlertTriangle className="h-3 w-3" /> Overdue</span>
+          ) : isNow ? (
+            'Do now'
+          ) : alarm._daysAway !== undefined ? (
+            `In ${alarm._daysAway} day${alarm._daysAway === 1 ? '' : 's'}`
+          ) : ''}
+        </span>
+      </div>
+
+      {/* Row 2: Venue name */}
+      <p className="mt-2 text-sm font-semibold">{alarm.venue}</p>
+
+      {/* Row 3: Two date badges — alarm date + booking-for date */}
+      <div className="mt-2 flex flex-wrap gap-x-4 gap-y-1">
+        <div className="flex items-center gap-1.5 text-xs">
+          <Bell className="h-3 w-3 text-text-tertiary" />
+          <span className="text-text-tertiary">Act:</span>
+          <span className={cn('font-medium', isOverdue ? 'text-urgent' : isNow ? 'text-soon' : 'text-text')}>
+            {alarm.alarmDate}
+          </span>
+        </div>
+        <div className="flex items-center gap-1.5 text-xs">
+          <Calendar className="h-3 w-3 text-text-tertiary" />
+          <span className="text-text-tertiary">For:</span>
+          <span className="font-medium text-text">{alarm.bookingFor}</span>
+        </div>
+      </div>
+
+      {/* Row 4: Action instructions */}
+      <p className="mt-2 text-xs text-text-secondary leading-relaxed">{alarm.action}</p>
+    </div>
+  )
+}
+
+type EnrichedAlarm = AlarmItem & { _status: 'overdue' | 'now' | 'upcoming'; _daysAway?: number }
+
+function AlarmGroup({ title, color, alarms }: { title: string; color: string; alarms: EnrichedAlarm[] }) {
+  const [open, setOpen] = useState(true)
+
+  return (
+    <div>
+      <button
+        onClick={() => setOpen(o => !o)}
+        className="mb-2 flex w-full items-center gap-2 text-left"
+      >
+        <span className={cn('text-[10px] font-semibold uppercase tracking-widest', color)}>{title}</span>
+        <span className={cn(
+          'flex h-5 min-w-5 items-center justify-center rounded-full px-1.5 text-[10px] font-bold',
+          color === 'text-urgent' ? 'bg-urgent/15 text-urgent' :
+          color === 'text-soon' ? 'bg-soon/15 text-soon' :
+          'bg-surface-2 text-text-tertiary'
+        )}>
+          {alarms.length}
+        </span>
+        <div className="flex-1" />
+        <ChevronDown className={cn(
+          'h-4 w-4 text-text-tertiary transition-transform duration-200',
+          !open && '-rotate-90'
+        )} />
+      </button>
+      {open && (
+        <div className="stagger-children space-y-2">
+          {alarms.map((alarm, i) => (
+            <AlarmCard key={i} alarm={alarm} />
+          ))}
+        </div>
+      )}
+    </div>
+  )
+}
+
 function ReservationCard({ r }: { r: typeof reservations.reservations[0] }) {
   const config = statusConfig[r.status as keyof typeof statusConfig] || statusConfig['walk-in']
   const StatusIcon = config.icon
@@ -60,9 +199,10 @@ function ReservationCard({ r }: { r: typeof reservations.reservations[0] }) {
     >
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0 flex-1">
-          {/* Header: name + status badge */}
+          {/* Header: name + status badge + city + backup */}
           <div className="flex items-center gap-2 flex-wrap">
             <p className="text-sm font-semibold">{r.name}</p>
+            <CityBadge city={r.city} />
             <span className={cn(
               'flex items-center gap-0.5 rounded-md px-1.5 py-0.5 text-[10px] font-semibold',
               isBooked ? 'bg-booked/10 text-booked' :
@@ -73,6 +213,11 @@ function ReservationCard({ r }: { r: typeof reservations.reservations[0] }) {
               <StatusIcon className="h-3 w-3" />
               {config.label}
             </span>
+            {r.isBackup && (
+              <span className="rounded-md bg-surface-2 px-1.5 py-0.5 text-[10px] font-semibold text-text-tertiary">
+                Backup
+              </span>
+            )}
           </div>
 
           {/* Date & time */}
@@ -179,7 +324,7 @@ function ActionGroup({ title, subtitle, items, color, defaultOpen = true }: {
 export function ReservationView() {
   const [viewMode, setViewMode] = useState<ViewMode>('action')
 
-  const { actionGroups, statusGroups, alarmsByUrgency } = useMemo(() => {
+  const { actionGroups, statusGroups, alarmGroups } = useMemo(() => {
     const items = reservations.reservations
     const alarms = reservations.alarms
 
@@ -236,16 +381,34 @@ export function ReservationView() {
       return (aMonth * 100 + aDay) - (bMonth * 100 + bDay)
     })
 
-    // Sort alarms by urgency
-    const alarmsByUrgency = [...alarms].sort((a, b) => {
-      const priorityOrder = { CRITICAL: 0, HIGH: 1, MEDIUM: 2 }
-      return (priorityOrder[a.priority as keyof typeof priorityOrder] ?? 3) - (priorityOrder[b.priority as keyof typeof priorityOrder] ?? 3)
-    })
+    // Group alarms chronologically: overdue → now → upcoming
+    type EnrichedAlarm = typeof alarms[0] & { _status: 'overdue' | 'now' | 'upcoming'; _daysAway?: number; _sortDate: number }
+    const overdue: EnrichedAlarm[] = []
+    const alarmNow: EnrichedAlarm[] = []
+    const alarmUpcoming: EnrichedAlarm[] = []
+
+    for (const a of alarms) {
+      const parsed = parseActionDate(a.alarmDate)
+      if (parsed.isNow) {
+        alarmNow.push({ ...a, _status: 'now', _sortDate: 0 })
+      } else if (parsed.isPast) {
+        overdue.push({ ...a, _status: 'overdue', _sortDate: parsed.date?.getTime() ?? 0 })
+      } else if (parsed.date) {
+        const days = daysFromNow(parsed.date)
+        alarmUpcoming.push({ ...a, _status: 'upcoming', _daysAway: days, _sortDate: parsed.date.getTime() })
+      } else {
+        alarmNow.push({ ...a, _status: 'now', _sortDate: 0 })
+      }
+    }
+
+    // Sort each group chronologically
+    overdue.sort((a, b) => a._sortDate - b._sortDate)
+    alarmUpcoming.sort((a, b) => a._sortDate - b._sortDate)
 
     return {
       actionGroups: { now, upcoming, booked, walkIn },
       statusGroups,
-      alarmsByUrgency,
+      alarmGroups: { overdue, now: alarmNow, upcoming: alarmUpcoming },
     }
   }, [])
 
@@ -293,33 +456,31 @@ export function ReservationView() {
       </header>
 
       <div className="mx-auto w-full max-w-lg space-y-6 p-4">
-        {/* Calendar Alarms — always shown at top */}
-        {alarmsByUrgency.length > 0 && (
-          <div className="animate-fade-up">
-            <div className="mb-2.5 flex items-center gap-2">
+        {/* Calendar Alarms — grouped by overdue / now / upcoming, sorted chronologically */}
+        {(alarmGroups.overdue.length > 0 || alarmGroups.now.length > 0 || alarmGroups.upcoming.length > 0) && (
+          <div className="animate-fade-up space-y-4">
+            <div className="flex items-center gap-2">
               <Bell className="h-3.5 w-3.5 text-urgent" />
-              <span className="text-[10px] font-semibold uppercase tracking-widest text-urgent">Set These Alarms</span>
+              <span className="text-[10px] font-semibold uppercase tracking-widest text-urgent">Calendar Alarms</span>
+              <span className="rounded-full bg-urgent/15 px-1.5 py-0.5 text-[10px] font-bold text-urgent">
+                {alarmGroups.overdue.length + alarmGroups.now.length + alarmGroups.upcoming.length}
+              </span>
             </div>
-            <div className="rounded-2xl bg-urgent/[0.04] p-4 ring-1 ring-urgent/10">
-              <div className="space-y-3">
-                {alarmsByUrgency.map((alarm, i) => (
-                  <div key={i} className="flex items-start gap-2.5 text-xs">
-                    <span className={cn(
-                      'shrink-0 rounded-md px-1.5 py-0.5 font-bold text-[10px]',
-                      alarm.priority === 'CRITICAL' ? 'bg-urgent/15 text-urgent' :
-                      alarm.priority === 'HIGH' ? 'bg-soon/15 text-soon' :
-                      'bg-surface-2 text-text-tertiary'
-                    )}>
-                      {alarm.priority}
-                    </span>
-                    <div className="min-w-0 flex-1">
-                      <p className="font-semibold">{alarm.date}</p>
-                      <p className="mt-0.5 text-text-secondary leading-relaxed">{alarm.what}</p>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
+
+            {/* Overdue alarms */}
+            {alarmGroups.overdue.length > 0 && (
+              <AlarmGroup title="Overdue" color="text-urgent" alarms={alarmGroups.overdue} />
+            )}
+
+            {/* Do now alarms */}
+            {alarmGroups.now.length > 0 && (
+              <AlarmGroup title="Do Now" color="text-soon" alarms={alarmGroups.now} />
+            )}
+
+            {/* Upcoming alarms */}
+            {alarmGroups.upcoming.length > 0 && (
+              <AlarmGroup title="Coming Up" color="text-text-secondary" alarms={alarmGroups.upcoming} />
+            )}
           </div>
         )}
 

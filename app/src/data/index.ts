@@ -38,7 +38,7 @@ type ScheduleData = Array<{
 type ReservationItem = {
   name: string; details?: string; date?: string; time?: string; cost?: string
   bookingMethod?: string; mapLink?: string; alarm?: string
-  notes?: string; actionDate?: string
+  notes?: string; actionDate?: string; city?: string; isBackup?: boolean
   status: string; category: string
 }
 
@@ -64,7 +64,11 @@ type PackingData = {
 
 export const itinerary = itineraryData as unknown as ItineraryData
 export const schedule = scheduleData as unknown as ScheduleData
-export const reservations = reservationsData as unknown as { reservations: ReservationItem[]; alarms: Array<{ date: string; what: string; priority: string }> }
+type AlarmItem = {
+  alarmDate: string; venue: string; bookingFor: string; action: string
+  priority: string; city?: string
+}
+export const reservations = reservationsData as unknown as { reservations: ReservationItem[]; alarms: AlarmItem[] }
 export const transport = transportData as unknown as TransportData
 export const packing = packingData as unknown as PackingData
 export const restaurants = restaurantsData as unknown as Restaurant[]
