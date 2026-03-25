@@ -28,7 +28,7 @@
 |------|-----------|---------|----------------|-----|-------------|
 | ~~**teamLab Planets**~~ | ~~Apr 27, 3:00 PM~~ | ~~¥3,200~~ | — | — | **BOOKED — moved to Already Booked** |
 | **Shibuya Sky sunset** | Apr 26, ~17:00 slot (sunset 6:23 PM) | ¥3,400 | Book via **[Klook](https://www.klook.com/en-US/activity/70672-shibuya-sky-tokyo/)**, **[KKday](https://www.kkday.com/en-us/product/133300-shibuya-sky-observatory-e-ticket-tokyo)**, or **[Trip.com](https://us.trip.com/travel-guide/attraction/tokyo/shibuya-sky-136018827/)** — official site requires Japanese credit card | [Map](https://maps.google.com/?q=Shibuya+Sky+observation+deck) | **CAN'T BOOK YET — ~2 week rolling window. See alarm below.** |
-| **Kamogawa Odori** (geisha dance) | May 1, 2, or 3 | ¥4,000-7,000 | Pontocho Kaburenjo Theater website | [Map](https://maps.google.com/?q=Pontocho+Kaburenjo+Theater+Kyoto) | **Book ASAP — limited run May 1-3 only** |
+| **Kamogawa Odori** (geisha dance) | May 5-22 (starts AFTER Kyoto leg) | ¥4,000-7,000 | Pontocho Kaburenjo Theater website | [Map](https://maps.google.com/?q=Pontocho+Kaburenjo+Theater+Kyoto) | **Doesn't overlap with Kyoto stay (May 1-3). Could day-trip from Osaka if an afternoon slot exists.** |
 
 ### Restaurants — Book Now
 
@@ -41,7 +41,7 @@
 | Bar | Date | Booking Method | Alarm to Set |
 |-----|------|----------------|-------------|
 | **Bar Benfiddich** (backup) | May 9 evening | TableCheck | **May schedule posts Apr 20. Set alarm: Apr 20. Only 15 seats.** |
-| **Gen Yamamoto** | May 9 evening | TableCheck or email | **Book ASAP — limited seats** |
+| **Gen Yamamoto** | May 9 evening | Phone only (7 days ahead) | **Call May 2 to book May 9. Phone reservations only, directly from guests.** |
 
 ---
 
@@ -157,6 +157,7 @@
 | **~Apr 22** | Henry's Burger Harami | Apr 29, ~11:30 AM (lunch) | DM @henrysburger_japan — name, phone, date, arrival time, qty (2 Harami Burgers) | HIGH |
 | **Apr 25, before flight** | Ginza Hachigo | Apr 28, ~12:30 PM (lunch) | Book on TableCheck — opens 9:00 AM JST Apr 25. Book before your flight departs! | HIGH |
 | **~Apr 29** | Ijou Maru Parfait | May 6, ~9:00 PM (birthday!) | DM @ijou_maru_parfait — 2 people, Brad's birthday night | HIGH |
+| **May 2** | Gen Yamamoto | May 9, evening | Call to reserve — phone only, 7 days ahead, directly from guests | HIGH |
 
 ---
 

@@ -334,12 +334,12 @@
 
 ## Day 7: Thursday, May 1 — Kyoto — Fushimi Inari / Gion / Higashiyama
 
-*Peak temple and culture day. Early start for empty torii gates (but not 6am — 7:30am). Kamogawa Odori runs May 1-3.*
+*Peak temple and culture day. Early start for empty torii gates (but not 6am — 7:30am).*
 
 > The iconic Kyoto day. Fushimi Inari's vermillion torii gates at 7:30am before the crowds, then a sake
 > tasting flight in the historic brewing district. Walk the stone lanes to Kiyomizu-dera. Lunch is Bib
 > Gourmand tempura. Afternoon is matcha everything — whisk your own at Ippodo (since 1717) and hit
-> Assemblages for the famous parfait. Ramen for dinner, then geisha dance at Kamogawa Odori if you scored tickets.
+> Assemblages for the famous parfait. Ramen for dinner, then Pontocho bars.
 
 **Morning Coffee:** [Weekenders Coffee Tominokoji](https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto) — THE Kyoto coffee destination. Opens 7:30am. Closed Wed (today is Thu, perfect).
 
@@ -370,13 +370,11 @@
 2. **[Wagyu Ramen Julia](https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto)** — Gion — ~1,200-1,800 yen — Walking distance from hotel. Backup.
 
 ### Evening
-- **[Kamogawa Odori](https://maps.google.com/?q=Pontocho+Kaburenjo+Theater+Kyoto)** — Geisha dance performance at Pontocho Kaburenjo Theater. May 1-3. ~4,000-7,000 yen.
-  - **ADVANCE TICKETS: Book via official website or Kyoto tourism office. Sells out.**
-- **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** — Pontocho speakeasy with a magician-bartender. Near hotel. *Can fit before/after Kamogawa Odori or save for later in Kyoto trip.*
-- **[Hello Dolly](https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto)** — Jazz bar on Pontocho. Live music Fri/Sat but check Thu schedule. *Can fit before/after or save for Fri/Sat.*
+- **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** — Pontocho speakeasy with a magician-bartender. Near hotel.
+- **[Hello Dolly](https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto)** — Jazz bar on Pontocho. Live music Fri/Sat but check Thu schedule.
+- ~~Kamogawa Odori~~ — Runs May 5-22 this year, not during your Kyoto stay (May 1-3).
 
 ### Logistics
-- **Kamogawa Odori runs May 1-3 only** — book today or tomorrow.
 - Fushimi Inari: trains start ~5:30 AM. The 7:30am arrival means leaving hotel ~7:00am.
 - **🍳 Kichi Kichi Side Quest (try EVERY day, May 1-3):** Chef Motokichi's legendary omurice in Pontocho. Tiny 14-seat counter. Same-day online reservations ONLY at [kichikichi.com/kichikichi-reservation](https://kichikichi.com/kichikichi-reservation/). **Dinner slots open at 1:00 PM JST** — they fill in 10-15 SECONDS. Both you and Alyona on the booking page at 12:59, refresh at 1:00, type fast. If you score it, dinner is 5-8:10PM (1-hour strict seating). ~5,000-8,000 yen/pp — get the regular omurice + beef tongue stew. **Counter seats** for the full tableside performance. Arrive 20 min early or lose your seat. **Standby backup:** show up at 4:30 PM (30 min before opening) and wait — no-shows happen because of their strict lateness policy. *Try all 3 days. If you get it, swap that evening's dinner plan. The food is solid yoshoku, not life-changing, but the performance is genuinely one-of-a-kind.*
 
@@ -415,7 +413,7 @@
 ### Evening
 - **[Hello Dolly](https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto)** — Live jazz Friday! Three sets at 8pm, 9:30pm, 11pm. *Tonight is Friday — this is the night for it.*
 - **[Jazz Live Candy](https://maps.google.com/?q=Jazz+Live+Candy+Gion+Kyoto)** — Gion. Nightly live jazz. *Can do both — Hello Dolly first, Candy after.*
-- **[Kamogawa Odori](https://maps.google.com/?q=Pontocho+Kaburenjo+Theater+Kyoto)** — If you didn't catch it yesterday (runs May 1-3).
+- ~~Kamogawa Odori~~ — Doesn't start until May 5 this year.
 
 ### Logistics
 - Nara: walk from Kintetsu-Nara to Todai-ji is ~20-25 min on flat ground. Brad fine at relaxed pace.
@@ -430,7 +428,7 @@
 > The chill day. Sleep in, or go hunt for AMAM DACOTAN's insane artisan bread and the warabi mochi that
 > takes 4 hours to knead. Mackerel pressed sushi near Yasaka Shrine for lunch. Afternoon is the haori
 > shopping tour — five stores in walking distance, from affordable modern cuts to high-end indigo boro.
-> Hamburger steak at a Kyoto cult favorite, then the last night of Kamogawa Odori if you haven't seen it.
+> Hamburger steak at a Kyoto cult favorite, then last night bars on Pontocho.
 
 **Morning Coffee:** [% Arabica Higashiyama](https://maps.google.com/?q=Arabica+Higashiyama+Kyoto) — Go early (opens 8am). Stunning Yasaka Pagoda backdrop. *LINE UP: GW lines can be 20-30 min by 10am. Go right at opening.*
 
@@ -466,7 +464,6 @@
 2. **Pontocho walk-in** — Browse the narrow alley, find a restaurant with kawayuka (river terrace) seating.
 
 ### Evening
-- **[Kamogawa Odori](https://maps.google.com/?q=Pontocho+Kaburenjo+Theater+Kyoto)** — LAST NIGHT (May 1-3). If you haven't seen it, GO TONIGHT.
 - **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar, Kiyamachi. Near hotel.
 - **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** — Pontocho speakeasy, magician-bartender. If you haven't been yet.
 
@@ -720,7 +717,7 @@
 4. **[Omoide Yokocho](https://maps.google.com/?q=Omoide+Yokocho+Shinjuku+Tokyo)** — Bookend the trip at Memory Lane. Full circle.
 
 ### Evening — Last Night in Japan
-- **[Gen Yamamoto](https://maps.google.com/?q=Gen+Yamamoto+Azabu-Juban+Tokyo)** — Cocktail omakase. Book ahead.
+- **[Gen Yamamoto](https://maps.google.com/?q=Gen+Yamamoto+Azabu-Juban+Tokyo)** — Cocktail omakase. Phone reservations only, 7 days ahead (call May 2 for May 9).
 - **[Bar Benfiddich](https://maps.google.com/?q=Bar+Benfiddich+Shinjuku+Tokyo)** — World's 50 Best Bars. Foraged ingredients, no menu. ~2,500-4,000 yen/cocktail. *(Backup — book Apr 20 when May schedule drops on TableCheck. Only 15 seats.)*
 - Or: revisit **JBS Vinyl Bar** (Shibuya)
 

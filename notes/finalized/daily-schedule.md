@@ -227,7 +227,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 ---
 
-## Day 7: Thu, May 1 — Fushimi Inari / Gion / Higashiyama / Kamogawa Odori
+## Day 7: Thu, May 1 — Fushimi Inari / Gion / Higashiyama
 
 ```
 6:45 AM    Wake up
@@ -264,9 +264,9 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 7:00-7:30  Train back to hotel area
            (B) Wagyu Ramen Julia in Gion — walking distance, no train needed
 7:30-8:00  Walk to Pontocho area
-8:00-9:30  Kamogawa Odori — geisha dance performance ⚠️ BOOK TICKETS (May 1-3 only)
-9:30-10:00 L'Escamoteur — Pontocho speakeasy, magician-bartender
+8:00-9:00  L'Escamoteur — Pontocho speakeasy, magician-bartender
            OR Hello Dolly — check if Thu live jazz
+9:00-10:00 Pontocho / Kiyamachi bar hop
 10:00-10:15 Walk to hotel
 ```
 
@@ -352,8 +352,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 5:45-6:15  Queue at Hikiniku to Come (~30-45 min) ⚠️ ARRIVE BY 5:45 before dinner rush
 6:15-6:45  Eat charcoal-grilled hamburger steak — cult favorite
            (B) Pontocho walk-in — find a kawayuka (river terrace) restaurant
-7:00-8:30  Kamogawa Odori — LAST NIGHT (May 1-3) ⚠️ IF YOU HAVEN'T SEEN IT, GO TONIGHT
-8:30-9:00  Walk to P.M. Sounds (Kiyamachi, near hotel) — vinyl bar
+7:00-7:15  Walk to P.M. Sounds (Kiyamachi, near hotel) — vinyl bar
            OR L'Escamoteur (Pontocho) — magician-bartender speakeasy
 9:00-10:00 Drinks + music
 10:00      Hotel — pack for Osaka (luggage forwarded via takkyubin tomorrow AM)
@@ -564,7 +563,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
            4) Omoide Yokocho (bookend the trip — yakitori + highballs, full circle)
 9:00-9:30  Travel to evening bar
 9:30-11:00 Last night drinks:
-           - Gen Yamamoto (cocktail omakase) ⚠️ BOOK AHEAD
+           - Gen Yamamoto (cocktail omakase) ⚠️ PHONE ONLY — call May 2 (7 days ahead)
            - Bar Benfiddich (backup — book Apr 20 when May schedule drops) ⚠️ BOOK VIA TABLECHECK
            - JBS Vinyl Bar (one last session — no cover, Shibuya)
 11:00      Head back to Nippori
