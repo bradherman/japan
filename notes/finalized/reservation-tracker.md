@@ -54,7 +54,7 @@
 | **Ginza Hachigo** | Michelin ramen — ravioli truffle-foie gras chuka soba | Apr 28 lunch, ~12:30 PM | ¥1,200 + ¥500 booking fee | TableCheck (opens Sat 9am for following week) | [Map](https://maps.google.com/?q=Ginza+Hachigo+ramen+Tokyo) | **For Apr 28: book Sat Apr 25, 9:00 AM JST. You'll be landing at Narita at 3pm — try to book before your flight departs!** |
 | **Bird Land Ginza** | Michelin yakitori — omakase course | May 9 dinner, ~6:00 PM | ¥6,000-10,000 | OpenTable | [Map](https://maps.google.com/?q=Bird+Land+Ginza+yakitori+Tokyo) | **Book on OpenTable 2-4 weeks ahead** |
 | **Fileja** | 15-course pasta omakase — all handmade pasta | May 9 dinner, ~7:00 PM | ¥10,000-15,000 | Check Instagram @fileja2021 or Tabelog | [Map](https://maps.google.com/?q=Fileja+pasta+omakase+Akihabara+Tokyo) | **Book ASAP — only 8 seats, 1 chef** |
-| **Sushi Yoshikawa** | 17-piece omakase incl. dragon ball roll (otoro+uni) | May 9 dinner, ~7:00 PM | ¥11,000 | Phone or Tabelog | [Map](https://maps.google.com/?q=Sushi+Yoshikawa+Ebisu+Tokyo) | **Book 2-4 weeks ahead** |
+| ~~**Sushi Yoshikawa**~~ | ~~17-piece omakase incl. dragon ball roll (otoro+uni)~~ | ~~May 9 dinner, ~7:00 PM~~ | ~~¥11,000~~ | — | — | **✅ BOOKED May 9, 8:30 PM — moved to Already Booked** |
 
 ---
 
