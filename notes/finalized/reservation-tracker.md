@@ -36,7 +36,7 @@
 
 | Restaurant | Cuisine / What to Order | Date & Time (JST) | Cost/pp | Booking Method | Map | Alarm to Set |
 |-----------|------------------------|-------------------|---------|----------------|-----|-------------|
-| **Pizza Bar on 38th** | Omakase pizza (#2 in world) | May 9 lunch, ~12:00 PM | ¥15,000-20,000 | [SevenRooms](https://www.sevenrooms.com/reservations/pizzabar38th) or email motyo-fbres@mohg.com | [Map](https://maps.google.com/?q=Pizza+Bar+38th+Mandarin+Oriental+Tokyo) | **Opens Mar 31, 8:00 AM PDT. Only 8 seats — set alarm for 7:55 AM PDT Mar 31.** |
+| ~~**Pizza Bar on 38th**~~ | ~~Omakase pizza (#2 in world)~~ | ~~May 9 lunch, ~12:00 PM~~ | ~~¥15,000-20,000~~ | — | — | **✅ BOOKED May 9, 11:30 AM — moved to Already Booked** |
 
 ### Bars — Book When Window Opens
 
@@ -53,8 +53,8 @@
 |-----------|------------------------|--------------------------|---------|----------------|-----|------------------------|
 | **Tonkatsu Narikura** | Best tonkatsu in Tokyo — order rosu katsu | Apr 26 dinner, ~7:30 PM | ¥6,000 | TableCheck or Omakase.in | [Map](https://maps.google.com/?q=Tonkatsu+Narikura+Minami-Asagaya) | **Slots open 1 wk ahead at noon JST. For Apr 26: Apr 19, noon JST = Apr 18, 8:00 PM PDT** |
 | **Ginza Hachigo** | Michelin ramen — ravioli truffle-foie gras chuka soba | Apr 28 lunch, ~12:30 PM | ¥1,200 + ¥500 booking fee | TableCheck (opens Sat 9am for following week) | [Map](https://maps.google.com/?q=Ginza+Hachigo+ramen+Tokyo) | **For Apr 28: book Sat Apr 25, 9:00 AM JST. You'll be landing at Narita at 3pm — try to book before your flight departs!** |
-| **Bird Land Ginza** | Michelin yakitori — omakase course | May 9 dinner, ~6:00 PM | ¥6,000-10,000 | OpenTable | [Map](https://maps.google.com/?q=Bird+Land+Ginza+yakitori+Tokyo) | **Book on OpenTable 2-4 weeks ahead** |
-| **Fileja** | 15-course pasta omakase — all handmade pasta | May 9 dinner, ~7:00 PM | ¥10,000-15,000 | Check Instagram @fileja2021 or Tabelog | [Map](https://maps.google.com/?q=Fileja+pasta+omakase+Akihabara+Tokyo) | **Book ASAP — only 8 seats, 1 chef** |
+| ~~**Bird Land Ginza**~~ | ~~Michelin yakitori — omakase course~~ | ~~May 9 dinner, ~6:00 PM~~ | ~~¥6,000-10,000~~ | — | — | **Dinner confirmed: Sushi Yoshikawa 8:30 PM** |
+| ~~**Fileja**~~ | ~~15-course pasta omakase — all handmade pasta~~ | ~~May 9 dinner, ~7:00 PM~~ | ~~¥10,000-15,000~~ | — | — | **Dinner confirmed: Sushi Yoshikawa 8:30 PM** |
 | ~~**Sushi Yoshikawa**~~ | ~~17-piece omakase incl. dragon ball roll (otoro+uni)~~ | ~~May 9 dinner, ~7:00 PM~~ | ~~¥11,000~~ | — | — | **✅ BOOKED May 9, 8:30 PM — moved to Already Booked** |
 
 ---
@@ -79,7 +79,7 @@
 |-------|-------------------|---------|----------------|-------------|
 | Tokyo → Kyoto | **Apr 30, 10:12 AM (Nozomi 23)** | ¥14,520 | **BOOKED** | — |
 | Shin-Osaka → Odawara | **May 7, ~10:10 AM (Hikari)** | ¥12,620 | SmartEX app | **Booking opens Apr 7. Set alarm: Apr 7 morning.** |
-| Odawara → Tokyo | May 9, ~11:30 AM (Kodama/Hikari) | ¥3,220 | SmartEX app or buy at station | Book when available or buy day-of |
+| Odawara → Tokyo | May 9, ~9:30 AM (Kodama/Hikari) | ¥3,220 | SmartEX app or buy at station | Book when available or buy day-of |
 
 ---
 
@@ -151,7 +151,7 @@
 |-------------|-------|--------------------|------------|----------|
 | **NOW** | @ijou_maru_parfait | May 6, ~9:00 PM (birthday parfait) | Follow on Instagram — required for "membership" before you can DM to reserve | HIGH |
 | **NOW** | @amam_dacotan_kyoto | May 3, ~9:30 AM (bakery queue) | Follow on Instagram — check IG night of May 2 for closures, register Airwait 9:30 AM day-of | MEDIUM |
-| **Mar 31, 7:55 AM** | Pizza Bar on 38th | May 9, ~12:00 PM (lunch) | Book on SevenRooms at 8:00 AM PDT. Only 8 seats — be ready at 7:55 AM. | CRITICAL |
+| ~~**Mar 31, 7:55 AM**~~ | ~~Pizza Bar on 38th~~ | ~~May 9, 11:30 AM (lunch)~~ | ~~✅ BOOKED — moved to Already Booked~~ | ~~DONE~~ |
 | **~Apr 7** | Shinkansen: Shin-Osaka → Odawara | May 7, ~10:10 AM (Hikari) | Booking opens on SmartEX app | HIGH |
 | **~Apr 11, 8:00 AM** | Shibuya Sky | Apr 26, 5:00 PM (sunset slot) | ~2-week rolling window opens at midnight JST. Open Klook + KKday + Trip.com simultaneously. Sunset slots sell out in ~3 min. | CRITICAL |
 | **Apr 18, 8:00 PM** | Tonkatsu Narikura | Apr 26, ~7:30 PM (dinner) | Slots open noon JST Apr 19. Book on TableCheck or Omakase.in | HIGH |
@@ -174,7 +174,7 @@
 - Post-GW May 9 in Tokyo = normal hours resume, shorter lines
 
 **Backup plans:**
-- If Pizza Bar on 38th fails → RistoPizza at Azabudai Hills (walk-in)
-- If Michelin sushi fully booked → Sushi Yoshikawa in Ebisu (¥11,000)
+- ~~If Pizza Bar on 38th fails → RistoPizza at Azabudai Hills (walk-in)~~ **BOOKED**
+- ~~If Michelin sushi fully booked → Sushi Yoshikawa in Ebisu (¥11,000)~~ **BOOKED**
 - If Tonkatsu Narikura fails → Tonkatsu Sugita (Bib Gourmand, near Asakusa)
 - If Ginza Hachigo fails → Nakiryu tantanmen (walk-in, arrive early)

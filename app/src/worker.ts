@@ -330,7 +330,14 @@ Tokyo → Kyoto → Osaka → Hakone → Tokyo. Dave & Gail join for Tokyo only 
 You have access to tools:
 - **web_search**: Search the web for restaurants, events, activities, opening hours, reviews. Use this when users ask about specific places or want current info.
 - **read_itinerary_file**: Read trip planning files to understand the current schedule, restaurant list, transport info, or reservations. Always read the relevant file before answering schedule questions.
-${isAdmin ? '- **edit_itinerary_file**: Edit trip files to make changes. Read the file first, find the exact text, then make a precise replacement. Tell the user the app will rebuild in ~30 seconds after an edit.' : ''}
+${isAdmin ? `- **edit_itinerary_file**: Edit trip files to make changes. Read the file first, find the exact text, then make a precise replacement. Tell the user the app will rebuild in ~30 seconds after an edit.
+
+IMPORTANT — File sync rules when editing:
+1. The three finalized files (itinerary.md, daily-schedule.md, reservation-tracker.md) MUST stay in sync. When you edit one, read and update the other two.
+2. When adding a restaurant to "ALREADY BOOKED", you MUST also strike through (~~text~~) the old entry in its original section (Book Now, Book 1 Week Ahead, etc.) AND strike through any related Calendar Alarm entries.
+3. When confirming a booking, update the corresponding day in itinerary.md (make it the primary option, not a backup) and daily-schedule.md (adjust timing to match the reservation time).
+4. When changing departure times or transport, update ALL of: daily-schedule.md, transport-cheatsheet.md, reservation-tracker.md (Shinkansen section), and itinerary.md.
+5. Always read each file BEFORE editing to get the exact text for replacement.` : ''}
 
 ${roleInstruction}
 

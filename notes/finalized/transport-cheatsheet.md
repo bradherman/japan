@@ -209,10 +209,11 @@
 
 | Time | Leg | Transport | Duration | Cost/pp | Notes |
 |------|-----|-----------|----------|---------|-------|
-| ~10:30 AM | Gora → Odawara | Hakone Tozan Railway | 55 min | Free Pass | Last ride on Free Pass |
-| ~11:30 AM | Odawara → Tokyo Station | Shinkansen Kodama/Hikari | 35 min | ¥3,220 | Buy at station or SmartEX |
-| ~12:10 PM | Tokyo Stn → Nippori | JR Yamanote/Keihin-Tohoku | 12 min | ¥170 | |
-| ~12:30 PM | Nippori Stn → Hotel | Walk | 3-5 min | Free | |
+| ~8:30 AM | Gora → Odawara | Hakone Tozan Railway | 55 min | Free Pass | Last ride on Free Pass |
+| ~9:30 AM | Odawara → Tokyo Station | Shinkansen Kodama/Hikari | 35 min | ¥3,220 | Buy at station or SmartEX |
+| ~10:10 AM | Tokyo Stn → Mandarin Oriental | Walk/taxi | 10 min | Free/~¥1,000 | Pizza Bar on 38th at 11:30 AM |
+| ~1:15 PM | Tokyo Stn → Nippori | JR Yamanote/Keihin-Tohoku | 12 min | ¥170 | After lunch |
+| ~1:30 PM | Nippori Stn → Hotel | Walk | 3-5 min | Free | |
 
 **Afternoon/evening:** All Tokyo transit via Suica. Typical rides ¥170-250.
 

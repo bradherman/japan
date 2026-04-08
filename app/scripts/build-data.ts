@@ -470,6 +470,7 @@ function parseReservations() {
     for (const row of rows) {
       const cells = row.split('|').map(c => c.trim()).filter(Boolean)
       if (cells.length >= 5 && !cells[0].startsWith('Restaurant') && !cells[0].startsWith('--')) {
+        if (cells[0].includes('~~')) continue // strikethrough = moved/booked
         reservations.push({
           name: cleanText(cells[0]),
           details: cleanText(cells[1]),
@@ -557,6 +558,7 @@ function parseReservations() {
     for (const row of rows) {
       const cells = row.split('|').map(c => c.trim()).filter(Boolean)
       if (cells.length >= 5 && !cells[0].startsWith('Alarm') && !cells[0].startsWith('--')) {
+        if (cells[0].includes('~~')) continue // strikethrough = done/booked
         const bookingFor = cleanText(cells[2])
         alarms.push({
           alarmDate: cleanText(cells[0]),

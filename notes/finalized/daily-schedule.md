@@ -529,42 +529,42 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 ---
 
-## Day 15: Sat, May 9 — Hakone → Tokyo / Sushi Yoshikawa Dinner
+## Day 15: Sat, May 9 — Hakone → Tokyo / Pizza Bar Lunch + Sushi Yoshikawa Dinner
 
 ```
-7:00 AM    Wake up
-7:00-8:30  Ryokan breakfast + last morning onsen
-8:30-9:30  Pack up, check out procedures
-9:30-10:00 Walk to Gora Station
-10:00-10:55 Hakone Tozan Railway Gora → Odawara (55 min, Free Pass)
-10:55-11:15 Buy Shinkansen ticket at Odawara (or use SmartEX)
-11:15-11:50 Shinkansen Odawara → Tokyo Station (35 min, ¥3,220)
-11:50-12:05 JR Yamanote Tokyo → Nippori (12 min, ¥170)
-12:05-12:10 Walk to Hotel MyStays Nippori (3-5 min)
-12:10-12:45 Check in, drop bags, freshen up
-12:45-1:00 Walk around Nippori/Yanaka area
-1:00-2:00  Yanaka Ginza — old-school shopping street, cat taiyaki, snacks
-2:00-2:30  Lunch decision:
-           A) Subway to Nakiryu for tantanmen (post-GW short lines)
-           B) Subway to RistoPizza at Azabudai Hills (#13 pizza in world, walk-in)
-           C) Pizza Bar on 38th (if you got the reservation) ⚠️ BOOK 2 MONTHS AHEAD
-2:30-3:00  Travel to lunch spot
-3:00-3:45  Eat lunch
-3:45-4:30  Missed spots flex time:
+6:30 AM    Wake up
+6:30-7:00  Quick morning onsen (last chance!)
+7:00-7:45  Ryokan breakfast
+7:45-8:30  Pack up, check out — luggage already sent via takkyubin
+8:30-9:25  Hakone Tozan Railway Gora → Odawara (55 min, Free Pass)
+9:25-9:35  Buy Shinkansen ticket at Odawara (or use SmartEX)
+~9:35-10:10 Shinkansen Odawara → Tokyo Station (35 min, ¥3,220)
+10:10-10:25 Walk/taxi to Mandarin Oriental Tokyo (~10 min from Tokyo Station)
+10:25-11:25 Buffer — freshen up, coffee in lobby
+11:30-1:00 LUNCH — Pizza Bar on 38th ⚠️ 11:30 AM RESERVATION (¥15,000-20,000/pp)
+           Omakase pizza, #2 in the world, 8 seats, 38th floor Mandarin Oriental
+1:00-1:15  Walk back to Tokyo Station
+1:15-1:30  JR Yamanote Tokyo → Nippori (12 min, ¥170)
+1:30-1:40  Walk to Hotel MyStays Nippori (3-5 min)
+1:40-2:00  Check in, drop bags, freshen up
+2:00-4:30  Yanaka Ginza — old-school shopping street, cat taiyaki, snacks
+           Missed spots flex time:
            - ~~Nishikawa pillows~~ — DONE Apr 29
+           - Nakiryu ramen (post-GW short lines) — optional afternoon snack
            - Any last shopping
-4:30-5:00  Travel back to Nippori area / freshen up
-5:00-6:30  Rest at hotel, get ready for last dinner
-6:30-7:00  Travel to Sushi Yoshikawa (Ebisu)
-7:00-9:00  DINNER — Sushi Yoshikawa omakase ⚠️ 8:30 PM RESERVATION (prepaid ¥11,000/pp)
+4:30-5:00  Travel back to Nippori area
+5:00-7:30  Rest at hotel, get ready for last dinner
+7:30-8:00  Travel to Sushi Yoshikawa (Ebisu)
+8:00-8:30  Arrive early, settle in
+8:30-10:00 DINNER — Sushi Yoshikawa omakase ⚠️ 8:30 PM RESERVATION (prepaid ¥11,000/pp)
            17 pieces + dragon ball roll (otoro + uni combo)
-9:00-9:30  Travel to evening bar spot
-9:30-11:00 Last night drinks:
+10:00-10:30 Travel to evening bar spot
+10:30-12:00 Last night drinks:
            - Gen Yamamoto (cocktail omakase) ⚠️ PHONE ONLY — call May 2 (7 days ahead)
            - Bar Benfiddich (backup — book Apr 20 when May schedule drops) ⚠️ BOOK VIA TABLECHECK
            - JBS Vinyl Bar (one last session — no cover, Shibuya)
-11:00      Head back to Nippori
-11:30      Pack. Last night in Japan.
+12:00      Head back to Nippori
+12:30      Pack. Last night in Japan.
 ```
 
 ---

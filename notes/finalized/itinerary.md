@@ -681,40 +681,38 @@
 *Golden Week is over. Quieter Tokyo. Hit missed spots. Last proper evening.*
 
 > Back to Tokyo for the final stretch. Golden Week is over, the city is calmer, and all those restaurants
-> that were closed are open again. Afternoon in Yanaka Ginza — an old-school shopping street with cat-shaped
-> everything, right by your hotel. Tonight is the last real dinner — pasta omakase, Michelin yakitori, or
-> a sushi counter with an otoro-uni dragon ball roll. Last night cocktails at Gen Yamamoto. Make it count.
+> that were closed are open again. Early departure from Hakone for Pizza Bar on 38th (#2 pizza in the world)
+> at 11:30 AM, then afternoon in Yanaka Ginza — cat-shaped everything, right by your hotel. Tonight is the
+> last real dinner — Sushi Yoshikawa omakase with the otoro-uni dragon ball roll at 8:30 PM. Last night
+> cocktails at Gen Yamamoto. Make it count.
 
-**Morning Coffee:** Ryokan breakfast, then coffee in Tokyo upon arrival.
+**Morning Coffee:** Ryokan breakfast, then coffee at Mandarin Oriental lobby before Pizza Bar.
 
-### Morning — Departure from Hakone
-- Morning onsen soak (last chance!)
-- Check out by 10:00-11:00 AM
-- Gora to Odawara (Hakone Tozan Railway, ~55 min)
-- Odawara to Tokyo Station (Shinkansen, ~35 min, ~3,220 yen/pp)
-- Tokyo Station to Nippori (JR Yamanote, ~12 min, ~170 yen)
-- **Total: ~2 hours. Arrive Nippori ~1:00-1:30 PM**
+### Morning — Early Departure from Hakone (Pizza Bar at 11:30 AM)
+- Quick morning onsen soak (last chance!)
+- Check out by 8:30 AM — luggage already sent via takkyubin
+- Gora to Odawara (Hakone Tozan Railway, ~55 min, depart ~8:30 AM)
+- Odawara to Tokyo Station (Shinkansen ~9:30 AM, ~35 min, ~3,220 yen/pp)
+- Walk/taxi to Mandarin Oriental Tokyo (~10 min from Tokyo Station)
+- **Arrive ~10:20 AM. Buffer time before 11:30 AM reservation.**
 
 ### Arrival
 - **[Hotel MyStays Nippori](https://maps.google.com/?q=Hotel+Mystays+Nippori+Tokyo)** — 3-5 min walk from Nippori Station.
 
-### Afternoon — Yanaka Ginza + Missed Spots (~2:30-5:30 PM)
+### Afternoon — Yanaka Ginza + Missed Spots (~2:00-5:30 PM)
 - **[Yanaka Ginza](https://maps.google.com/?q=Yanaka+Ginza+shopping+street+Tokyo)** — Old-school shopping street right by hotel. Cat-shaped taiyaki, nostalgic charm.
 - **Missed spots:**
   - ~~Nishikawa pillows~~ — DONE Apr 29
   - **[Nakiryu ramen](https://maps.google.com/?q=Nakiryu+ramen+Toshima+Tokyo)** — post-GW, much shorter lines
 
-### Lunch/Late Lunch (~2:30-3:30 PM) — Ramen / Pizza
-1. **[Nakiryu](https://maps.google.com/?q=Nakiryu+ramen+Toshima+Tokyo)** — Legendary tantanmen — ~1,200 yen — Post-GW lines shorter.
-2. **[RistoPizza](https://maps.google.com/?q=RistoPizza+Azabudai+Hills+Tokyo)** — #13 pizza in the world — Azabudai Hills — Walk-in lunch.
-3. **[Pizza Bar on 38th](https://maps.google.com/?q=Pizza+Bar+38th+Mandarin+Oriental+Tokyo)** — #2 pizza in the world — Only 8 seats, ~¥15-20K/pp. *If you got a reservation.*
+### Lunch (11:30 AM) — Pizza Bar on 38th — BOOKED
+- **[Pizza Bar on 38th](https://maps.google.com/?q=Pizza+Bar+38th+Mandarin+Oriental+Tokyo)** — Omakase pizza (#2 in world) — 8 seats, Mandarin Oriental 38F — ~¥15,000-20,000/pp — **✅ BOOKED 11:30 AM**
+- *After lunch (~1:00 PM): Head to Nippori. Tokyo Station → Nippori via JR Yamanote (~12 min, ¥170). Check in at Hotel MyStays ~1:30-2:00 PM.*
 
-### Dinner (~7:00 PM) — Pasta Omakase / Yakitori / Sushi
+### Dinner (8:30 PM) — Sushi Yoshikawa — BOOKED
 *Just Brad & Alyona now. Go wild.*
-1. **[Fileja](https://maps.google.com/?q=Fileja+pasta+omakase+Akihabara+Tokyo)** — 15-course pasta omakase — ~10,000-15,000 yen/pp — Only 8 seats, Akihabara. One chef handcrafts every pasta. Reservation required.
-2. **[Bird Land Ginza](https://maps.google.com/?q=Bird+Land+Ginza+yakitori+Tokyo)** — Michelin-starred yakitori — 6,000-10,000 yen — SATURDAY IS PERFECT. Book via OpenTable.
-3. **[Sushi Yoshikawa](https://maps.google.com/?q=Sushi+Yoshikawa+Ebisu+Tokyo)** — ¥11,000 omakase (~$80/pp) — 17 pieces including "dragon ball roll" (otoro + uni).
-4. **[Omoide Yokocho](https://maps.google.com/?q=Omoide+Yokocho+Shinjuku+Tokyo)** — Bookend the trip at Memory Lane. Full circle.
+- **[Sushi Yoshikawa](https://maps.google.com/?q=Sushi+Yoshikawa+Ebisu+Tokyo)** — ¥11,000 omakase (~$80/pp) — 17 pieces including "dragon ball roll" (otoro + uni) — **✅ BOOKED 8:30 PM (prepaid)**
+- *Backups if cancelled: [Fileja](https://maps.google.com/?q=Fileja+pasta+omakase+Akihabara+Tokyo) (pasta omakase), [Bird Land Ginza](https://maps.google.com/?q=Bird+Land+Ginza+yakitori+Tokyo) (Michelin yakitori), [Omoide Yokocho](https://maps.google.com/?q=Omoide+Yokocho+Shinjuku+Tokyo) (Memory Lane)*
 
 ### Evening — Last Night in Japan
 - **[Gen Yamamoto](https://maps.google.com/?q=Gen+Yamamoto+Azabu-Juban+Tokyo)** — Cocktail omakase. Phone reservations only, 7 days ahead (call May 2 for May 9).
@@ -723,7 +721,7 @@
 
 ### Logistics
 - Golden Week is OVER. Restaurants that were closed are open again.
-- Bird Land: book NOW for Saturday.
+- Both meals confirmed: Pizza Bar 11:30 AM, Sushi Yoshikawa 8:30 PM.
 - Pack tonight. Tomorrow is departure day.
 
 ---
