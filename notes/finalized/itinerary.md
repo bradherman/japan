@@ -696,18 +696,18 @@
 - Walk/taxi to Mandarin Oriental Tokyo (~10 min from Tokyo Station)
 - **Arrive ~10:20 AM. Buffer time before 11:30 AM reservation.**
 
-### Arrival
-- **[Hotel MyStays Nippori](https://maps.google.com/?q=Hotel+Mystays+Nippori+Tokyo)** — 3-5 min walk from Nippori Station.
+### Lunch (11:30 AM) — Pizza Bar on 38th — BOOKED
+- **[Pizza Bar on 38th](https://maps.google.com/?q=Pizza+Bar+38th+Mandarin+Oriental+Tokyo)** — Omakase pizza (#2 in world) — 8 seats, Mandarin Oriental 38F — ~¥15,000-20,000/pp — **✅ BOOKED 11:30 AM**
+
+### Arrival at Hotel (~1:30 PM)
+- *After lunch (~1:00 PM): Walk back to Tokyo Station → Nippori via JR Yamanote (~12 min, ¥170).*
+- **[Hotel MyStays Nippori](https://maps.google.com/?q=Hotel+Mystays+Nippori+Tokyo)** — 3-5 min walk from Nippori Station. Check in, drop bags, freshen up.
 
 ### Afternoon — Yanaka Ginza + Missed Spots (~2:00-5:30 PM)
 - **[Yanaka Ginza](https://maps.google.com/?q=Yanaka+Ginza+shopping+street+Tokyo)** — Old-school shopping street right by hotel. Cat-shaped taiyaki, nostalgic charm.
 - **Missed spots:**
   - ~~Nishikawa pillows~~ — DONE Apr 29
   - **[Nakiryu ramen](https://maps.google.com/?q=Nakiryu+ramen+Toshima+Tokyo)** — post-GW, much shorter lines
-
-### Lunch (11:30 AM) — Pizza Bar on 38th — BOOKED
-- **[Pizza Bar on 38th](https://maps.google.com/?q=Pizza+Bar+38th+Mandarin+Oriental+Tokyo)** — Omakase pizza (#2 in world) — 8 seats, Mandarin Oriental 38F — ~¥15,000-20,000/pp — **✅ BOOKED 11:30 AM**
-- *After lunch (~1:00 PM): Head to Nippori. Tokyo Station → Nippori via JR Yamanote (~12 min, ¥170). Check in at Hotel MyStays ~1:30-2:00 PM.*
 
 ### Dinner (8:30 PM) — Sushi Yoshikawa — BOOKED
 *Just Brad & Alyona now. Go wild.*
