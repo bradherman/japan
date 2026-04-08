@@ -529,7 +529,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 ---
 
-## Day 15: Sat, May 9 — Hakone → Tokyo / Last Evening
+## Day 15: Sat, May 9 — Hakone → Tokyo / Sushi Yoshikawa Dinner
 
 ```
 7:00 AM    Wake up
