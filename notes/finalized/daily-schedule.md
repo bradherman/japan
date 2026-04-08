@@ -555,13 +555,10 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
            - Any last shopping
 4:30-5:00  Travel back to Nippori area / freshen up
 5:00-6:30  Rest at hotel, get ready for last dinner
-6:30-7:00  Travel to dinner spot
-7:00-9:00  DINNER — last proper meal in Japan:
-           1) Fileja pasta omakase (Akihabara, 8 seats, 15 courses) ⚠️ RESERVATION
-           2) Bird Land Ginza (Michelin yakitori, Sat is perfect) ⚠️ BOOK ON OPENTABLE
-           3) Sushi Yoshikawa (Ebisu, ¥11,000, dragon ball roll)
-           4) Omoide Yokocho (bookend the trip — yakitori + highballs, full circle)
-9:00-9:30  Travel to evening bar
+6:30-7:00  Travel to Sushi Yoshikawa (Ebisu)
+7:00-9:00  DINNER — Sushi Yoshikawa omakase ⚠️ 8:30 PM RESERVATION (prepaid ¥11,000/pp)
+           17 pieces + dragon ball roll (otoro + uni combo)
+9:00-9:30  Travel to evening bar spot
 9:30-11:00 Last night drinks:
            - Gen Yamamoto (cocktail omakase) ⚠️ PHONE ONLY — call May 2 (7 days ahead)
            - Bar Benfiddich (backup — book Apr 20 when May schedule drops) ⚠️ BOOK VIA TABLECHECK
