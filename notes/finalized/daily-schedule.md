@@ -47,7 +47,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 3:30-4:00  Grab coffee, freshen up
 4:00-4:15  Walk to Shibuya Sky (5 min from hotel)
 4:15-4:30  Enter Shibuya Sky, go through escalators to observation deck
-4:30-6:00  Shibuya Sky — sunset at ~18:15. Golden hour + city lights ⚠️ BOOK 17:30 SLOT
+6:20-7:50  Shibuya Sky — booked entry at 6:20 PM ✅. Golden hour + city lights. Sunset ~6:23 PM.
 6:00-6:15  Come down, experience Shibuya Crossing at street level
 6:15-6:30  Walk back to hotel, freshen up
            If Narikura booked:
