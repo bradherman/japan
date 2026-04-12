@@ -19,6 +19,7 @@
 | **Shibuya Sky** | **6:20 PM sunset slot — 229m observation deck above Shibuya Crossing** | **Apr 26, 6:20 PM** | **¥3,400** | **[Map](https://maps.google.com/?q=Shibuya+Sky+observation+deck)** | **✅ BOOKED & CONFIRMED** |
 | Chopstick Making Workshop | Custom chopsticks for 4 | Apr 26, 10:00 AM | $27/pp | [Map](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo) | ✅ CONFIRMED |
 | ~~Nishikawa Pillow Fitting~~ | ~~COREDO Nihonbashi — 2 slots~~ | ~~Apr 29, 3:00 PM~~ | ~~Varies~~ | — | ~~CANCELLED~~ |
+| **Camellia Tea Ceremony** | **Kyoto traditional matcha whisking — machiya setting** | **May 3, 12:00 PM** | **~¥4,500-5,000** | **[Map](https://maps.google.com/?q=Camellia+Tea+Ceremony+Kyoto+Gion)** | **✅ BOOKED & CONFIRMED** |
 | Casiopea at Billboard Live Osaka | Japanese jazz fusion legends — Herbis Plaza ENT, Nishi-Umeda. Early dinner at Sodaisho before. | May 5, 7:00 PM | — | [Map](https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT) | TICKETS PURCHASED |
 
 ---
