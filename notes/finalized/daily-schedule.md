@@ -180,7 +180,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 **Brad solo flex (anytime this trip):** Secondhand watch shopping at Nakano Broadway (2-3 hrs), Houseki Hiroba Shibuya (5 min from hotel), or Watch CTI / Shellman in Ginza.
 
-**Pillow fitting: BOOKED** — Nishikawa at COREDO Nihonbashi, 3:00 PM + 4:00 PM slots. All 4 arrive at 3:00 PM.
+~~**Pillow fitting: BOOKED**~~ — **CANCELLED** (not practical for 2-week trip)
 
 ---
 
