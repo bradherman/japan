@@ -326,15 +326,18 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 10:00-10:45 AMAM DACOTAN — artisan bakery in machiya. Must-grab: mentaiko baguette, rare doughnut. 2F cafe has % Arabica coffee. ~¥1-2k/pp. Cashless OK.
 11:00-11:30 Pick up Rakushaan warabi mochi (Shichiku, 15 min from Kitaoji Stn) ⚠️ HAVE CONCIERGE CALL 075-494-2551 ON MAY 2 to reserve. Cash only, ¥1,500/16pc. Eat ASAP — texture degrades. Bring back to hotel.
 
+10:45-11:00 Walk to Camellia Tea Ceremony location (Gion area)
+11:00-12:00 ⚠️ CAMELLIA TEA CEREMONY — BOOKED 12:00 PM — Matcha whisking, seasonal sweets, machiya setting (~45-60 min)
+12:00-12:15 Walk to Izuju near Yasaka Shrine
+12:15-12:30 Queue at Izuju (~15 min)
+12:30-1:00 Eat saba-zushi — mackerel pressed sushi, Kyoto's signature ⚠️ BRAD'S MUST
+           Also try: Hiyoko Sushi nearby for incredible value omakase
+
 1:00 PM    ⚠️ KICHI KICHI ATTEMPT — both phones, 12:59, refresh at 1:00. Day 3 of trying!
 
-11:30-11:45 Walk to Izuju near Yasaka Shrine
-11:45-12:15 Queue at Izuju (~15-20 min)
-12:15-12:45 Eat saba-zushi — mackerel pressed sushi, Kyoto's signature ⚠️ BRAD'S MUST
-           Also try: Hiyoko Sushi nearby for incredible value omakase
-12:45-1:30 Walk through Gion daytime — different energy than dusk
-1:30-2:30  Rest at hotel or Kodai-ji Temple (Zen gardens, ~600 yen)
-2:30-3:30  Assemblages Kakimoto matcha parfait (if not done yesterday)
+1:00-2:00  Walk through Gion daytime — different energy than dusk
+2:00-3:00  Rest at hotel or Kodai-ji Temple (Zen gardens, ~600 yen)
+3:00-4:00  Assemblages Kakimoto matcha parfait (if not done yesterday)
 3:30-5:30  OPTION: Modern Haori Shopping Tour — all walkable in central Nakagyo-ku:
            - Musubi Kyoto (Shijo-Shinkyogoku) — clean minimal haori, ~¥5,600-14k. 12pm-8pm.
            - SOU SOU Kei-i — bold print haori, ~¥14-28k (if didn't visit Day 6)
