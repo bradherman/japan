@@ -43,8 +43,9 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 12:30-1:00 Eat Michelin sardine lunch (990 yen!!)
            (B) Skip Nakajima if stuffed from Tsukiji → graze Ginza Six depachika
 1:00-1:15  Subway back toward Shibuya
-1:15-3:30  Free time — rest at hotel, browse Loft Shibuya, or explore
-3:30-4:00  Grab coffee, freshen up
+1:15-1:30  Walk to Houseki Hiroba Shibuya (5 min from hotel area)
+1:30-3:30  Houseki Hiroba Shibuya — secondhand watch browsing. Rolex, Grand Seiko, Omega. Massive inventory. (2 hrs)
+3:30-4:00  Walk back to hotel, freshen up, grab coffee
 4:00-4:15  Walk to Shibuya Sky (5 min from hotel)
 4:15-4:30  Enter Shibuya Sky, go through escalators to observation deck
 6:20-7:50  Shibuya Sky — booked entry at 6:20 PM ✅. Golden hour + city lights. Sunset ~6:23 PM.
