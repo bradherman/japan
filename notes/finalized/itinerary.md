@@ -87,7 +87,8 @@
 
 ### Late Morning — Ginza (walk from Tsukiji, ~15 min)
 - **[Chopstick Making Workshop (Ginza Hashikura)](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo)** — PRIORITY. ~30-60 min, ~$27/pp + premium wood. All 4 booked. Take home same day. **BOOKED 10:00 AM.**
-- **[Grand Seiko Flagship Boutique Ginza Namiki](https://maps.google.com/?q=Grand+Seiko+Boutique+Ginza+Namiki)** — Browse/buy Grand Seiko. Tax-free with passport. — *Brad can do this solo another day*
+- **[Houseki Hiroba Shibuya](https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo)** — 1:30-3:30 PM on Apr 26 SCHEDULED. Massive secondhand watch inventory: Rolex, Grand Seiko, Omega. 5 min from hotel. Tax-free with passport.
+- **[Grand Seiko Flagship Boutique Ginza Namiki](https://maps.google.com/?q=Grand+Seiko+Boutique+Ginza+Namiki)** — Browse/buy new Grand Seiko. Tax-free with passport. — *Backup if Houseki Hiroba appeal fades*
 
 ### Lunch (~1:00 PM) — Michelin Sardine
 1. **[Nakajima](https://maps.google.com/?q=Shinjuku+Kappo+Nakajima)** — PRIORITY. Michelin-starred sardine set lunch — 990 yen/pp (!!) — Shinjuku, 15 min subway from Ginza. Cheapest Michelin meal in Tokyo. Closed Sun, so today works. *No reservation. LINE UP: Queue by 11:15am for 11:30 opening — fills immediately. If going after chopsticks, you'll hit the 12:30+ wave — expect 30-45 min wait.*
