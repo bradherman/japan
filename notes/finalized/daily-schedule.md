@@ -164,13 +164,8 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
            (C) Gyukatsu Motomura Harajuku if you want something heartier
 1:00-1:30  Free time / browse Harajuku area
 1:30-2:00  Free time / rest
-2:00-2:30  Subway Harajuku → Nihonbashi (~25-30 min)
-2:30-3:00  Arrive COREDO Nihonbashi, find Nishikawa
-3:00-5:00  Nishikawa Pillow Fitting ⚠️ BOOKED 3:00 PM + 4:00 PM — all 4 arrive at 3:00
-           If they can fit all 4 at once → done by ~4:00
-           If split into pairs → 2 at 3:00, 2 at 4:00 → done by ~5:00
-           Browse COREDO shops while waiting for your slot
-5:00-5:15  Subway Nihonbashi → Shibuya (~20 min)
+2:00-5:00  Free time — extra rest time, explore Harajuku more, or early return to hotel
+5:00-5:15  Head back to hotel area
 5:15-5:30  Drop by hotel / freshen up
 5:30       Walk to Midori Sushi Shibuya
 5:30-7:00  Queue at Midori (~60-90 min GW wait) ⚠️ ARRIVE BY 5:30-6PM
