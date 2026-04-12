@@ -227,10 +227,9 @@
    - *Can easily do Shin Udon AND Henry's (they're both in Harajuku) — split one of each between you and Alyona.*
 3. **[Gyukatsu Motomura Harajuku](https://maps.google.com/?q=Gyukatsu+Motomura+Harajuku)** — Beef cutlet — ~2,600 yen/pp — If you haven't done this yet
 
-### Early Afternoon — Nishikawa Pillow Fitting (~3:00-5:00 PM)
-- **[Nishikawa at COREDO Nihonbashi](https://maps.google.com/?q=Nishikawa+COREDO+Nihonbashi+Tokyo)** — ALL 4 of you! Booked 3:00 PM and 4:00 PM slots. Plan to arrive at 3:00 PM — if they can fit all 4 at once, great; otherwise 2 at 3:00 and 2 at 4:00. ~1 hr per fitting.
-  - **BOOKED: 3:00 PM + 4:00 PM slots**
-  - From Harajuku: subway to Nihonbashi (~25-30 min)
+### Early Afternoon — Free Time (~3:00-5:00 PM)
+- Rest at hotel, explore more of Harajuku/Omotesando, or browse shops
+- No pillow fitting — skipping for practicality
 
 ### Late Afternoon — Shimokitazawa (~5:30 PM onward, if time)
 *3 min on Keio Inokashira Line from Shibuya. Shortened — hit your top picks.*
