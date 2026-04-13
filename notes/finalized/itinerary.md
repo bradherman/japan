@@ -252,7 +252,7 @@
 
 ### Logistics
 - **Showa Day closures:** Nakajima, Udon Maruka, Bird Land, most family-run spots closed.
-- **Nishikawa Pillow Fitting at [COREDO Nihonbashi](https://maps.google.com/?q=Nishikawa+COREDO+Nihonbashi+Tokyo)** — BOOKED 3:00 PM + 4:00 PM. All 4 arrive at 3:00 PM — if they can't do all 4 at once, split into pairs across the two slots.
+- ~~Nishikawa Pillow Fitting~~ — **CANCELLED** (not practical for 2-week trip)
 - **Secondhand Watch Shopping (Brad solo flex):** If your dealer locates a piece, Tokyo has world-class pre-owned watch shops:
   - **[Nakano Broadway](https://maps.google.com/?q=Nakano+Broadway+Tokyo)** — THE vintage watch mecca. 3F has dozens of dealers. JR Chuo Line from Shinjuku ~10 min. Allow 2-3 hrs. Key shops: **Jackroad** (largest dealer, multilingual), **Kamekichi** (3,000+ watches, Grand Seiko specialist), **Fire Kids** (curated Japanese vintage). Tax-free with passport.
   - **[Watch CTI Ginza](https://maps.google.com/?q=Watch+CTI+Ginza+Tokyo)** — B1F, best for vintage Grand Seiko and King Seiko. Near Ginza-itchome Station.
@@ -444,7 +444,10 @@
 - **[AMAM DACOTAN Kyoto](https://maps.google.com/?q=AMAM+DACOTAN+Kyoto+Karasuma+Oike)** — Artisan bakery in a gorgeous renovated machiya. ~120 varieties of creative bread from an Italian restaurant chef turned baker. 4-min walk from Karasuma Oike Station (10-15 min walk from hotel). Opens 8am. **Register for the digital queue at 9:30am via Airwait** (link on their IG @amam_dacotan_kyoto) — you'll get a number and can wander nearby until called. **Must-grab:** mentaiko peperoncino baguette, rare doughnut (banana brioche, limited daily), maritozzo. 2nd-floor cafe has % Arabica coffee in a beautiful machiya space (buy a drink to sit). ~1,000-2,000 yen/pp. Cashless OK. *Check their IG the night before — they announce irregular closures. Golden Week crowds will be real, but the queue system means you're not standing in line.*
 - **[Rakushaan (洛叉庵) Warabi Mochi](https://maps.google.com/?q=Rakushaan+warabi+mochi+Shichiku+Kita+Kyoto)** — Tabelog Top 100 Sweets WEST. Handmade warabi mochi, each batch kneaded for 4 hours. Ethereal texture coated in kinako with black sugar syrup. **Reservation-only, phone order required.** Have the hotel concierge call **075-494-2551** the day before (May 2) to reserve pickup for the morning of May 3. Pickup only, 11:30am-5pm. 8-piece box 820 yen, 16-piece 1,500 yen. **Cash only.** Location is in Shichiku (15 min from Kitaoji Station) — slightly out of the way, but near Daitoku-ji temple if you want to combine. Eat as soon as possible — the texture degrades within hours. *Could pick up on the way to/from Arashiyama (Option A) or have Alyona grab it while you do something else. Best eaten in the hotel room on a plate — kinako goes everywhere.*
 
-### Lunch (~12:00-1:00 PM) — Sushi
+### Late Morning — Camellia Tea Ceremony (~12:00 PM)
+- **[Camellia Tea Ceremony](https://maps.google.com/?q=Camellia+Tea+Ceremony+Kyoto+Gion)** — **✅ BOOKED 12:00 PM.** Traditional matcha whisking in a beautiful machiya setting. Seasonal sweets included. ~45-60 min. ~¥4,500-5,000/pp. Gion area.
+
+### Lunch (~12:30-1:00 PM) — Sushi
 1. **[Izuju](https://maps.google.com/?q=Izuju+sushi+Kyoto+Gion)** — PRIORITY. Saba-zushi (mackerel pressed sushi) — ~1,000-2,000 yen — Near Yasaka Shrine. Kyoto's signature sushi. *Brad loves mackerel — this is a must.*
 2. **[Hiyoko Sushi](https://maps.google.com/?q=Hiyoko+Sushi+Kyoto)** — 10-piece omakase from 2,000 yen — Insane value. Locals' favorite.
 
@@ -706,7 +709,7 @@
 ### Afternoon — Yanaka Ginza + Missed Spots (~2:00-5:30 PM)
 - **[Yanaka Ginza](https://maps.google.com/?q=Yanaka+Ginza+shopping+street+Tokyo)** — Old-school shopping street right by hotel. Cat-shaped taiyaki, nostalgic charm.
 - **Missed spots:**
-  - ~~Nishikawa pillows~~ — DONE Apr 29
+  - ~~Nishikawa pillows~~ — CANCELLED
   - **[Nakiryu ramen](https://maps.google.com/?q=Nakiryu+ramen+Toshima+Tokyo)** — post-GW, much shorter lines
 
 ### Dinner (8:30 PM) — Sushi Yoshikawa — BOOKED

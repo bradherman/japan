@@ -155,7 +155,7 @@ const READ_FILE_TOOL = {
 const EDIT_FILE_TOOL = {
   name: 'edit_itinerary_file',
   description:
-    'Edit a trip planning file. ONLY available to admin users (Brad/Alyona). Makes a specific text replacement in the file. After editing, the app will auto-rebuild and redeploy in ~30 seconds.',
+    'Edit a trip planning file. ONLY available to admin users (Brad/Alyona). Makes a specific text replacement in the file. After editing, GitHub Actions will auto-rebuild and redeploy in ~2 minutes.',
   input_schema: {
     type: 'object' as const,
     properties: {
@@ -265,7 +265,7 @@ async function executeEditFile(
     return `Error updating file (${putRes.status}): ${errBody.slice(0, 200)}`
   }
 
-  return 'File updated successfully. The app will auto-rebuild and redeploy in ~30 seconds.'
+  return 'File updated successfully. GitHub Actions will auto-rebuild and redeploy in ~2 minutes.'
 }
 
 interface ContentBlock {
@@ -330,7 +330,7 @@ Tokyo → Kyoto → Osaka → Hakone → Tokyo. Dave & Gail join for Tokyo only 
 You have access to tools:
 - **web_search**: Search the web for restaurants, events, activities, opening hours, reviews. Use this when users ask about specific places or want current info.
 - **read_itinerary_file**: Read trip planning files to understand the current schedule, restaurant list, transport info, or reservations. Always read the relevant file before answering schedule questions.
-${isAdmin ? `- **edit_itinerary_file**: Edit trip files to make changes. Read the file first, find the exact text, then make a precise replacement. Tell the user the app will rebuild in ~30 seconds after an edit.
+${isAdmin ? `- **edit_itinerary_file**: Edit trip files to make changes. Read the file first, find the exact text, then make a precise replacement. Tell the user the app will rebuild and redeploy via GitHub Actions in ~2 minutes after an edit.
 
 IMPORTANT — File sync rules when editing:
 1. The three finalized files (itinerary.md, daily-schedule.md, reservation-tracker.md) MUST stay in sync. When you edit one, read and update the other two.
