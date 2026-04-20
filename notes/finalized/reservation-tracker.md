@@ -44,7 +44,7 @@
 
 | Bar | Date | Booking Method | Alarm to Set |
 |-----|------|----------------|-------------|
-| **Bar Benfiddich** (backup) | May 9 evening | TableCheck | **May schedule posts Apr 20. Set alarm: Apr 20. Only 15 seats.** |
+| ~~**Bar Benfiddich** (backup)~~ | ~~May 9 evening~~ | ~~TableCheck~~ | ~~**May schedule posts Apr 20. Set alarm: Apr 20. Only 15 seats.**~~ **MISSED TIMEZONE ALARM — try walk-in instead** |
 | **Gen Yamamoto** | May 9 evening | Phone only (7 days ahead) | **Call May 2 to book May 9. Phone reservations only, directly from guests.** |
 
 ---
