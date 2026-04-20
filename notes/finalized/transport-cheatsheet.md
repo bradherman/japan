@@ -178,7 +178,7 @@
 |------|-----|-----------|----------|---------|-------|
 | **9:15 AM** | Hotel → Namba Stn | Walk | 4 min | Free | |
 | ~9:20 AM | Namba → Shin-Osaka | Midosuji Line | 15 min | ¥280 | |
-| **~10:10 AM** | **Shin-Osaka → Odawara** | **HIKARI (BOOK VIA SMARTEX)** | 2 hr 5 min | ¥12,620 | **Book Apr 7 when booking opens!** |
+| **10:18 AM** | **Shin-Osaka → Odawara** | **HIKARI 646 (BOOKED)** | 2 hr 20 min | ¥12,620 | **Departure confirmed** |
 | **~12:15 PM** | Arrive Odawara | | | | Buy Hakone Free Pass at Odakyu counter |
 | ~12:30 PM | Odawara → Hakone-Yumoto | Hakone Tozan Railway | 15 min | Free Pass | |
 | ~12:45 PM | Hakone-Yumoto → Gora | Hakone Tozan Railway | 40 min | Free Pass | Scenic switchback! Transfer at Yumoto. |
