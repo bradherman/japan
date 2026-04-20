@@ -476,9 +476,9 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 9:00-9:05  Walk to Namba Station (4 min)
 9:05-9:20  Midosuji Line Namba → Shin-Osaka (15 min, ¥280)
 9:20-9:45  Navigate to Shinkansen platform, buy snacks for the ride
-~10:10     Board Hikari to Odawara ⚠️ BOOK VIA SMARTEX — opens Apr 7
-10:10-12:15 Shinkansen to Odawara (2 hrs 5 min) — relax, read, nap
-12:15      Arrive Odawara Station
+10:18      Board Hikari 646 to Odawara ⚠️ BOOKED
+10:18-12:38 Shinkansen to Odawara (2 hrs 20 min) — relax, read, nap
+12:38      Arrive Odawara Station
 12:15-12:30 Buy Hakone Free Pass at Odakyu counter (2-day, ¥6,000)
            Optional: quick lunch at Odawara Station food court
 12:30-12:45 Hakone Tozan Railway Odawara → Hakone-Yumoto (15 min)
