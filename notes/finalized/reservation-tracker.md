@@ -80,7 +80,7 @@
 | Route | Date & Time (JST) | Cost/pp | Booking Method | Alarm to Set |
 |-------|-------------------|---------|----------------|-------------|
 | Tokyo → Kyoto | **Apr 30, 10:12 AM (Nozomi 23)** | ¥14,520 | **BOOKED** | — |
-| Shin-Osaka → Odawara | **May 7, ~10:10 AM (Hikari)** | ¥12,620 | SmartEX app | **Booking opens Apr 7. Set alarm: Apr 7 morning.** |
+| Shin-Osaka → Odawara | **May 7, 10:18 AM (Hikari 646)** | ¥12,620 | **BOOKED** | — |
 | Odawara → Tokyo | May 9, ~9:30 AM (Kodama/Hikari) | ¥3,220 | SmartEX app or buy at station | Book when available or buy day-of |
 
 ---
