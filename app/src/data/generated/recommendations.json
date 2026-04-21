@@ -1,0 +1,987 @@
+[
+  {
+    "id": "rec-cdm-0",
+    "name": "Glitch Coffee & Roasters",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Tokyo",
+    "address": "VORT Ginza East III, 4-13-8 Ginza, Chuo-ku, Tokyo 104-0061",
+    "hours": "9:00am-6:00pm",
+    "price": "~Y600-1,200 per cup; flight ~Y1,500-2,000",
+    "description": "The crown jewel of Tokyo's single-origin scene. Founded by Kiyokazu Suzuki, Glitch focuses exclusively on light-roast, single-origin beans roasted in-house. Every cup is hand-dripped to order. This is serious, no-shortcuts specialty coffee.",
+    "tip": "Go to the Jimbocho main location for the full experience. It's close to Pharos Coffee, so you could do a morning coffee crawl in the Jimbocho/Kanda area.",
+    "tags": [
+      "High Priority"
+    ]
+  },
+  {
+    "id": "rec-cdm-1",
+    "name": "Koffee Mameya",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Tokyo",
+    "address": "2-16-14 Hirano, Koto-ku, Tokyo (Kiyosumi-Shirakawa area)",
+    "hours": "Mon-Fri 10:00am-5:00pm / Sat-Sun 9:00am-5:00pm",
+    "description": "A unique concept: a \"coffee sommelier\" experience. The baristas consult with you about your flavor preferences, then recommend and brew a cup from their rotating selection of ~25 beans sourced from 7+ roasters (4 Japanese, plus Denmark, Hong Kong, and Melbourne). It's like an omakase for beans.",
+    "tip": "Visit Omotesando for the casual \"pick your bean\" experience (easy to pair with Harajuku/Omotesando shopping). If you want a splurge coffee experience, book Kakeru — but be aware it's a time commitment.",
+    "tags": [
+      "Multiple Locations",
+      "Reservation Required"
+    ]
+  },
+  {
+    "id": "rec-cdm-2",
+    "name": "Streamer Coffee Company",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Tokyo",
+    "address": "1-20-28 Shibuya, Shibuya-ku, Tokyo",
+    "hours": "Mon-Fri 8:00am-6:00pm / Sat-Sun 10:00am-6:00pm",
+    "price": "~Y400-700",
+    "description": "Founded by Hiroshi Sawada, a latte art world champion. More accessible than some of the ultra-serious spots but still quality specialty coffee with excellent espresso drinks."
+  },
+  {
+    "id": "rec-cdm-3",
+    "name": "Onibus Coffee",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Tokyo",
+    "address": "2-14-1 Kamimeguro, Meguro-ku, Tokyo 153-0051",
+    "hours": "Mon-Fri 9:00am-6:00pm",
+    "price": "~Y400-800",
+    "description": "One of Tokyo's OG specialty shops (est. 2012). Founded by Atsushi Sakao, who imports top-grade beans from Rwanda, Guatemala, and other origins, roasting them on-site. The Nakameguro location is a beautifully converted old house with a downstairs stand/roastery and upstairs seating area."
+  },
+  {
+    "id": "rec-cdm-4",
+    "name": "Leaves Coffee Roasters",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Tokyo",
+    "address": "1-8-8 Honjo, Sumida-ku, Tokyo 130-0004 (Kuramae area)",
+    "hours": "Fri-Mon only, 10:00am-5:00pm (CLOSED Tue-Thu)",
+    "price": "~Y500-900",
+    "description": "Founded by Yasuo Ishii, a former professional boxing champion, who got into coffee after receiving a gifted bag of beans in 2010. Now recognized worldwide as one of Japan's best roasters.",
+    "tip": "Only open 4 days a week. Plan accordingly."
+  },
+  {
+    "id": "rec-cdm-5",
+    "name": "Pharos Coffee",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Tokyo",
+    "address": "1-25-4 Kanda-Jinbocho, Chiyoda-ku, Tokyo",
+    "hours": "11:00am-6:00pm",
+    "price": "~Y600-1,000 for counter drinks",
+    "description": "Japan's first outpost of Taipei's celebrated Pharos Coffee. Sleek, minimalist space in Jimbocho that doubles as an art gallery. Known for expertly brewed light roasts."
+  },
+  {
+    "id": "rec-cdm-6",
+    "name": "Cafe Kitsune",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Tokyo",
+    "address": "Aoyama (new location, a few blocks from previous)",
+    "price": "~Y500-900",
+    "description": "A mainstay of Tokyo's third-wave scene with a recently reopened Aoyama location. Attached to the Maison Kitsune fashion brand."
+  },
+  {
+    "id": "rec-cdm-7",
+    "name": "Fuglen Tokyo",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Tokyo",
+    "hours": "Coffee from 8:00am, cocktails from 6:00pm",
+    "description": "Norwegian specialty coffee by day, cocktail bar by night. Located in Tomigaya (near Yoyogi Park)."
+  },
+  {
+    "id": "rec-cdm-8",
+    "name": "Weekenders Coffee Tominokoji",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Kyoto",
+    "address": "560 Honeyanocho, Nakagyo-ku, Kyoto 604-8064",
+    "hours": "7:30am-6:00pm daily, closed Wednesday",
+    "closed": "Wednesday",
+    "price": "~Y400-800",
+    "description": "Arguably the best roaster in all of Kyoto and a pioneer of the city's third-wave coffee scene. Owner was inspired by Tim Wendelboe and adopted a Scandinavian-style light roasting approach. The result is clean, bright, nuanced cups.",
+    "tip": "Closed Wednesday. Your Kyoto days are Apr 30 (Thu) through May 4 (Mon), so you're good any day.",
+    "tags": [
+      "High Priority"
+    ]
+  },
+  {
+    "id": "rec-cdm-9",
+    "name": "Kurasu",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Kyoto",
+    "address": "551 Yamanakacho, Nakagyo-ku, Kyoto 604-0815",
+    "hours": "10:00am-6:00pm",
+    "price": "~Y400-700",
+    "description": "A fascinating bridge between old kissaten culture and new specialty coffee. The founder grew up in his parents' kissaten, then spent time in the New York espresso scene and Australian third-wave culture before returning to Kyoto to create Kurasu."
+  },
+  {
+    "id": "rec-cdm-10",
+    "name": "Iolite Coffee Roasters",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Kyoto",
+    "address": "Nakagyo-ku, Kyoto",
+    "hours": "Check Instagram for current hours",
+    "description": "A hidden gem in Nakagyo. Owner Daisuke Yoshida set up his cafe in his grandfather's old wagashiya (traditional sweets shop). The redesign is minimal and beautiful: clean cedar beams, a long bar stretching to a back nook."
+  },
+  {
+    "id": "rec-cdm-11",
+    "name": "% Arabica Kyoto",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Kyoto",
+    "address": "Higashiyama (scenic), Arashiyama, Fujii Daimaru",
+    "hours": "Generally 8:00am-6:00pm",
+    "description": "While more well-known (and sometimes crowded), their Higashiyama location overlooking the Yasaka Pagoda is genuinely stunning.",
+    "tip": "Can get long lines, especially during Golden Week. Best visited early morning."
+  },
+  {
+    "id": "rec-cdm-12",
+    "name": "Lilo Coffee Roasters",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Osaka",
+    "address": "Kaneko Bldg 2F, 2-7-25 Shinsaibashisuji, Chuo-ku, Osaka",
+    "hours": "Weekdays 1:00pm-10:00pm / Weekends & holidays 11:00am-10:00pm",
+    "price": "~Y500-1,000",
+    "description": "A Shinsaibashi institution. They typically have 20+ single-origin beans available at any given time, and you choose which one to have brewed. The selection is staggering for such a small shop.",
+    "tip": "Extremely convenient from your Cross Hotel. Hit the main location for the full bean selection experience.",
+    "tags": [
+      "High Priority"
+    ]
+  },
+  {
+    "id": "rec-cdm-13",
+    "name": "Takamura Wine & Coffee Roasters",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Osaka",
+    "address": "2-2-18 Edobori, Nishi-ku, Osaka 550-0002",
+    "hours": "11:00am-7:30pm (last order 7:00pm), closed Wednesday",
+    "closed": "Wednesday",
+    "price": "~Y500-900",
+    "description": "A wine shop that also happens to be one of Osaka's best coffee roasters. The combination sounds odd but works brilliantly.",
+    "tip": "Closed Wednesday. Your Osaka days are May 4 (Mon) through May 7 (Thu), so plan around this."
+  },
+  {
+    "id": "rec-cdm-14",
+    "name": "Mel Coffee Roasters",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Osaka",
+    "address": "1-20-4 Shinmachi, Nishi-ku, Osaka 550-0013",
+    "hours": "11:00am-11:00pm daily",
+    "closed": "Monday",
+    "price": "~Y400-800",
+    "description": "Melbourne-inspired specialty coffee with on-site roasting on a vintage 5kg Probat roaster. You can watch the roasting process while you drink."
+  },
+  {
+    "id": "rec-cdm-15",
+    "name": "Glitch Coffee Osaka",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Osaka",
+    "address": "Festival Tower, Nakanoshima area",
+    "description": "Yes, Glitch has an Osaka outpost too. Located in Festival Tower with a dramatic open-plan seating area under the escalator, with ceiling-to-floor windows."
+  },
+  {
+    "id": "rec-cdm-16",
+    "name": "Hakone Roasting Coffee (Bakery & Cafe)",
+    "category": "coffee",
+    "subcategory": "Specialty Coffee",
+    "city": "Hakone",
+    "address": "9-1 Motohakone, Hakone-machi, Ashigarashimo-gun, Kanagawa",
+    "price": "~Y500-800",
+    "description": "A multi-floor establishment on Lake Ashi with spectacular views.",
+    "tip": "Go to the 3F Coffee & Vista for the full experience. Arrive before noon to avoid afternoon crowds (Golden Week will be in effect)."
+  },
+  {
+    "id": "rec-cdm-17",
+    "name": "I'm Donut?",
+    "category": "donuts",
+    "subcategory": "Donuts",
+    "city": "Tokyo",
+    "price": "~Y237-500 per donut",
+    "description": "The most hyped donut in Japan. Created by pastry chef Fukuda, these are brioche-based \"raw donuts\" that are incredibly soft, pillowy, and slightly creamy inside. Not a traditional donut — more like a fried brioche cloud dusted with millet sugar.",
+    "tip": "Hit Shibuya (closest to your hotel) on a weekday morning right at 11am. The Shibuya location is the largest with the most variety. Alternatively, Jiyugaoka opens at 9am and has exclusive flavors.",
+    "tags": [
+      "High Priority"
+    ]
+  },
+  {
+    "id": "rec-cdm-18",
+    "name": "Higuma Doughnuts",
+    "category": "donuts",
+    "subcategory": "Donuts",
+    "city": "Tokyo",
+    "address": "4-9-13 Jingumae, Shibuya-ku, Tokyo 150-0001 (Minagawa Village)",
+    "hours": "Weekdays 11:00am-6:00pm / Weekends from 10:00am / closed Wednesday",
+    "closed": "Wednesday",
+    "price": "~Y250-400 per donut",
+    "description": "Uses all-natural Hokkaido ingredients, no additives or preservatives. The result is fluffy, springy doughnuts that taste clean and honest.",
+    "tip": "The Omotesando location is the most convenient — it's a collaboration space with Coffee Wrights (great specialty coffee), so you get excellent donuts AND coffee in one stop. Pairs well with a Koffee Mameya Omotesando visit and general Harajuku/Omotesando exploring."
+  },
+  {
+    "id": "rec-cdm-19",
+    "name": "Mister Donut",
+    "category": "donuts",
+    "subcategory": "Donuts",
+    "city": "Tokyo",
+    "price": "Y130-200",
+    "tip": "Don't plan a special trip. Just grab one when you spot a Mister Donut near a train station. It's a Y150 snack, not a destination."
+  },
+  {
+    "id": "rec-cdm-20",
+    "name": "Other Notable Donut Spots",
+    "category": "donuts",
+    "subcategory": "Donuts",
+    "city": "Tokyo",
+    "address": "Off Cat Street, Harajuku"
+  },
+  {
+    "id": "rec-cdm-21",
+    "name": "Ippodo Tea",
+    "category": "matcha",
+    "subcategory": "Tea Ceremony",
+    "city": "Tokyo",
+    "address": "Teramachi-dori, Nijo-agaru, Nakagyo-ku, Kyoto",
+    "price": "~Y700-1,500 for the cafe experience; matcha tins for home Y1,000-5,000+",
+    "description": "In business since 1717 (over 300 years). This is the real deal for matcha. The main store on historic Teramachi Street has a tearoom where you can learn to whisk your own matcha, paired with a seasonal Japanese sweet.",
+    "tags": [
+      "Top Pick"
+    ]
+  },
+  {
+    "id": "rec-cdm-22",
+    "name": "Tea Ceremony Nagomi",
+    "category": "matcha",
+    "city": "Tokyo",
+    "address": "Central Kyoto",
+    "description": "A more structured, English-friendly tea ceremony experience using matcha from Gion Tsujiri (150+ year history).",
+    "tags": [
+      "Reservation Required"
+    ]
+  },
+  {
+    "id": "rec-cdm-23",
+    "name": "Marukyu Koyamaen",
+    "category": "matcha",
+    "subcategory": "Tea Ceremony",
+    "city": "Tokyo",
+    "address": "561 Nishinotoin-cho, Sanbo, Oike-sagaru, Nishinotoin-dori, Nakagyo-ku, Kyoto",
+    "closed": "Wednesday",
+    "price": "~Y800-1,500 for tea + sweet sets",
+    "description": "A 300-year-old tea producer from Uji. Their Kyoto shop has a beautiful machiya-housed cafe (Sabo Motoan) offering matcha, gyokuro, and sencha with traditional sweets."
+  },
+  {
+    "id": "rec-cdm-24",
+    "name": "Assemblages Kakimoto (TOP MATCHA DESSERT)",
+    "category": "matcha",
+    "subcategory": "Matcha Desserts",
+    "city": "Tokyo",
+    "address": "587-5 Matsumotocho, Nakagyo-ku, Kyoto 604-0982",
+    "price": "~Y1,500-2,500 for desserts",
+    "description": "An award-winning patisserie by celebrated pastry chef/chocolatier Akihiro Kakimoto. Their \"The Vert\" matcha parfait is a work of art.",
+    "tags": [
+      "Top Pick",
+      "Reservation Required"
+    ]
+  },
+  {
+    "id": "rec-cdm-25",
+    "name": "Kyo Hayashiya",
+    "category": "matcha",
+    "subcategory": "Matcha Desserts",
+    "city": "Tokyo",
+    "price": "~Y1,000-1,800",
+    "description": "Classic Kyoto matcha cafe using three different preparations of matcha in their signature parfait: jelly, cream, and ice cream, garnished with shiratama dumplings, whipped cream, and wafer."
+  },
+  {
+    "id": "rec-cdm-26",
+    "name": "Zen Cafe (Kagizen Yoshifusa)",
+    "category": "matcha",
+    "city": "Tokyo",
+    "address": "Gion area, Kyoto",
+    "description": "Famous for \"Yuuzen\" — a deconstructed matcha parfait served on a tray with cubes of matcha castella, vanilla and green tea ice cream, butter shavings, red bean paste, cream, mini monaka wafers, and kuromitsu syrup."
+  },
+  {
+    "id": "rec-cdm-27",
+    "name": "Nakamura Tokichi Honten",
+    "category": "matcha",
+    "subcategory": "Uji Day Trip",
+    "city": "Tokyo",
+    "address": "Central Uji, short walk from JR Uji Station",
+    "description": "Founded 1854. A tea house in a converted tea factory."
+  },
+  {
+    "id": "rec-cdm-28",
+    "name": "Tsujirihei Honten (Tsujiri Uji Main Shop)",
+    "category": "matcha",
+    "city": "Tokyo",
+    "address": "Minutes from JR Uji Station",
+    "description": "160+ years of tea tradition. The Uji main store has an in-store teahouse with a Kyoto-style garden."
+  },
+  {
+    "id": "rec-shop-0",
+    "name": "Grand Seiko Flagship Boutique Ginza Namiki",
+    "category": "shopping",
+    "subcategory": "Watches",
+    "city": "Tokyo",
+    "neighborhood": "Ginza",
+    "address": "6-6-5 Ginza, Chuo-ku, Tokyo 104-0061",
+    "hours": "Mon-Sat 11:00-20:00; Sun & holidays 11:00-19:00",
+    "price": "Grand Seiko models typically start around 300,000 yen (~$2,000) and go up to 1,000,000+ yen (~$6,500+)",
+    "description": "Opened June 2023 as Grand Seiko's largest flagship boutique worldwide. Offers one of the world's largest lineups of new and limited-edition models, including Japan-exclusive pieces (like the SBGW317 and other boutique-only editions). Dedicated after-sales service counter on-site."
+  },
+  {
+    "id": "rec-shop-2",
+    "name": "Kurono Tokyo Aoyama Salon",
+    "category": "shopping",
+    "subcategory": "Watches",
+    "city": "Tokyo",
+    "neighborhood": "Aoyama",
+    "address": "2-10-22 Kita-Aoyama, Minato-ku, Tokyo 107-0061",
+    "hours": "11:00-19:00 (closed Sundays and holidays)",
+    "price": "Retail ~$2,000-3,500; secondary market varies widely by model and rarity",
+    "description": "Designed personally by independent watchmaker Hajime Asaoka as a gathering place for fans. The salon primarily serves as a brand experience space, NOT a point-of-sale. Most watch launches are conducted online at kuronotokyo.com and sell out almost immediately."
+  },
+  {
+    "id": "rec-shop-3",
+    "name": "JINS Eyewear",
+    "category": "shopping",
+    "subcategory": "Watches",
+    "city": "Tokyo",
+    "hours": "11:00-21:00",
+    "description": "Same-day prescription glasses in as little as 30 minutes. Eye exam available on-site. Multilingual staff (English, Chinese). Frames start at just 5,900 yen (~$40) including basic lenses. Special lenses (blue light, progressive) cost 3,300-5,500 yen extra."
+  },
+  {
+    "id": "rec-shop-4",
+    "name": "Tsubaya",
+    "category": "shopping",
+    "subcategory": "Japanese Knives",
+    "city": "Tokyo",
+    "neighborhood": "Asakusa",
+    "address": "3-7-2 Nishi-Asakusa, Taito-ku, Tokyo",
+    "hours": "Mon-Sat 9:00-17:45; Sun & holidays 9:00-16:45",
+    "price": "5,000-100,000+ yen depending on knife type and steel"
+  },
+  {
+    "id": "rec-shop-5",
+    "name": "Kamata Hakensha",
+    "category": "shopping",
+    "subcategory": "Japanese Knives",
+    "city": "Tokyo",
+    "address": "2-12-6 Matsugaya, Taito-ku, Tokyo",
+    "hours": "10:00-18:00 daily",
+    "price": "3,000-80,000+ yen"
+  },
+  {
+    "id": "rec-shop-6",
+    "name": "Masamoto",
+    "category": "shopping",
+    "subcategory": "Japanese Knives",
+    "city": "Tokyo",
+    "neighborhood": "Tsukiji",
+    "address": "Tsukiji Outer Market, Namiyoke Dori street edge",
+    "hours": "Generally early morning to 14:00-15:00 (closed some Sundays)"
+  },
+  {
+    "id": "rec-shop-7",
+    "name": "Aritsugu (有次) - Tsukiji Branch",
+    "category": "shopping",
+    "subcategory": "Japanese Knives",
+    "city": "Tokyo",
+    "neighborhood": "Tsukiji",
+    "address": "Tsukiji Outer Market area",
+    "hours": "5:30-15:00 (closed Sun, holidays, sometimes Wed)"
+  },
+  {
+    "id": "rec-shop-8",
+    "name": "Momotaro Jeans Tokyo",
+    "category": "shopping",
+    "subcategory": "Custom Denim",
+    "city": "Tokyo",
+    "neighborhood": "Aoyama",
+    "address": "Ao Building 2F, 3-11-7 Kita-Aoyama, Minato-ku, Tokyo",
+    "hours": "11:00-20:00 daily",
+    "price": "20,000-50,000 yen for ready-to-wear jeans",
+    "description": "Momotaro is one of Japan's most respected denim brands, handmade in Kojima, Okayama. The Tokyo store carries their full range of selvedge denim. Known for their iconic \"going-to-battle\" stripes on the back pocket. Ask staff about any custom options or embroidery services -- availability varies."
+  },
+  {
+    "id": "rec-shop-9",
+    "name": "Studio D'Artisan Tokyo",
+    "category": "shopping",
+    "subcategory": "Custom Denim",
+    "city": "Tokyo",
+    "neighborhood": "Shibuya",
+    "address": "6-13-1 Jingumae, Shibuya-ku, Tokyo",
+    "hours": "11:00-20:00 daily",
+    "price": "20,000-60,000 yen",
+    "description": "Spacious flagship store with an extensive selection of premium selvedge jeans, jackets, and Tokyo-exclusive tees. One of the original \"Big Five\" Japanese denim brands (est. 1979). Known for pig motif and vintage-style denim."
+  },
+  {
+    "id": "rec-shop-10",
+    "name": "Pure Blue Japan",
+    "category": "shopping",
+    "subcategory": "Custom Denim",
+    "city": "Tokyo",
+    "neighborhood": "Shibuya",
+    "address": "3-31-20-102 Jingumae, Shibuya-ku, Tokyo 150-0001",
+    "hours": "11:00-18:30",
+    "price": "25,000-60,000+ yen",
+    "description": "Founded 1997. Known for extremely unique fabrics using low-tension looms that create slubby, textured denim. Natural indigo dyeing. Signature indigo leaf on back pocket. Ask about any bespoke options."
+  },
+  {
+    "id": "rec-shop-11",
+    "name": "Full Count",
+    "category": "shopping",
+    "subcategory": "Custom Denim",
+    "city": "Tokyo",
+    "neighborhood": "Shibuya",
+    "address": "3-20-7 Jingumae, Shibuya-ku, Tokyo 151-0001",
+    "hours": "Check directly (contact store)",
+    "description": "Known for using the finest Zimbabwean cotton to create ultra-soft, comfortable selvedge denim. Regarded for crafting the \"most comfortable\" raw denim jeans."
+  },
+  {
+    "id": "rec-shop-12",
+    "name": "Betty Smith Ebisu Workshop",
+    "category": "shopping",
+    "subcategory": "Custom Denim",
+    "city": "Tokyo",
+    "neighborhood": "Shibuya",
+    "address": "2-4-7 Ebisunishi, Shibuya-ku, Tokyo (NN States Building 5F)",
+    "hours": "By reservation",
+    "price": "From 11,000 yen (Omiyage Jeans) or 22,000 yen (Denim Works with premium selvedge). Private VIP room available for groups (~3,300 yen/hour + experience fee of 19,800+ yen/person)",
+    "description": "Choose your jeans type (multiple selvedge fabrics available), select buttons, rivets, leather patches, and customize details. You use specialized machinery with staff guidance. You take your finished jeans home the same day. They also offer fully bespoke jeans (custom pattern, fabric selection) with a longer production timeline of 1-2 months."
+  },
+  {
+    "id": "rec-shop-13",
+    "name": "Flower Mountain Togoshi Ginza",
+    "category": "shopping",
+    "subcategory": "Flower Mountain Shoes",
+    "city": "Tokyo",
+    "neighborhood": "Togoshi",
+    "address": "2-5-5 Togoshi, Shinagawa-ku, Tokyo",
+    "hours": "11:00-18:30 (irregular holidays)",
+    "price": "20,000-40,000 yen (~$135-270)",
+    "description": "The brand's dedicated retail location in Tokyo. Founded in 2015 by designer Keisuke Ota (Tokyo) and Yang Chao (Beijing). Known for nature-inspired sneakers featuring dandelion motifs and a blend of modern design with artisanal craftsmanship. Japanese-made sneakers with unique colorways and detailing."
+  },
+  {
+    "id": "rec-shop-14",
+    "name": "Nihonbashi Nishikawa",
+    "category": "shopping",
+    "subcategory": "Nishikawa Custom Pillows",
+    "city": "Tokyo",
+    "neighborhood": "Nihonbashi",
+    "address": "COREDO Nihonbashi, 1-4-1 Nihonbashi, Chuo-ku, Tokyo",
+    "hours": "11:00-20:00",
+    "price": "Approximately 27,000-33,000 yen (~$180-220) for a custom-fitted pillow",
+    "description": "Founded in 1615 (400+ years of history). \"Sleep Masters\" (trained sleep consultants) guide you through a personalized fitting. You lie down on different combinations of pillows and mattresses while they measure your head, neck, and shoulders. They adjust fill material and height to create a pillow perfectly fitted to your body. You take the finished pillow home that day."
+  },
+  {
+    "id": "rec-shop-15",
+    "name": "Ginza Six",
+    "category": "shopping",
+    "subcategory": "Chopstick Making Workshops",
+    "city": "Tokyo",
+    "neighborhood": "Ginza",
+    "address": "6-10-1 Ginza, Chuo-ku, Tokyo 104-0061",
+    "hours": "Shops 10:30-20:30; Restaurants 11:00-23:00",
+    "description": "Ginza's largest luxury shopping complex with 241 stores across 13 floors. Flagship stores for Fendi, Kenzo, Vivienne Westwood, Alexander McQueen, Saint Laurent, Van Cleef & Arpels. Art installations throughout. Rooftop garden with Ginza views. Kanze Noh Theater in the basement (480-seat capacity, open to public). Tax-free shopping available."
+  },
+  {
+    "id": "rec-shop-16",
+    "name": "Ginza Location",
+    "category": "shopping",
+    "subcategory": "Chopstick Making Workshops",
+    "city": "Tokyo",
+    "neighborhood": "Ginza",
+    "address": "6-10-1 Ginza, Chuo-ku, Tokyo 104-0061",
+    "hours": "10:30-20:30 (same as Ginza Six)"
+  },
+  {
+    "id": "rec-shop-17",
+    "name": "Roppongi Location",
+    "category": "shopping",
+    "subcategory": "Chopstick Making Workshops",
+    "city": "Tokyo",
+    "neighborhood": "Roppongi",
+    "address": "Grand Hyatt Tokyo 1F Lobby, 6-10-3 Roppongi, Minato-ku, Tokyo",
+    "hours": "11:00-20:00",
+    "description": "Argentine-born luxury perfume house using botanical and natural ingredients. Unique scents inspired by South American landscapes and Japanese culture (they created a Ginza-exclusive scent, \"Dama de Noche\"). Fragrances typically 30,000-50,000+ yen. A sensory experience worth visiting even just to smell."
+  },
+  {
+    "id": "rec-shop-18",
+    "name": "Royce Chocolate",
+    "category": "shopping",
+    "subcategory": "Chopstick Making Workshops",
+    "city": "Tokyo"
+  },
+  {
+    "id": "rec-shop-19",
+    "name": "Mofusand Merchandise",
+    "category": "shopping",
+    "subcategory": "Chopstick Making Workshops",
+    "city": "Tokyo",
+    "address": "First Avenue Tokyo Station B1F, 1-9-1 Marunouchi, Chiyoda-ku",
+    "description": "First-ever permanent mofusand retail store. High-end \"experiential\" concept shop with rotating themed collections (changes several times per year). Full range of mofusand merchandise -- plushies, stationery, apparel, accessories."
+  },
+  {
+    "id": "rec-shop-20",
+    "name": "Nakameguro & Daikanyama Boutique Area",
+    "category": "shopping",
+    "subcategory": "Chopstick Making Workshops",
+    "city": "Tokyo"
+  },
+  {
+    "id": "rec-shop-21",
+    "name": "Shimokitazawa Vintage Shopping",
+    "category": "shopping",
+    "subcategory": "Chopstick Making Workshops",
+    "city": "Tokyo",
+    "hours": "Most shops open ~12:00 and close 19:00-21:00",
+    "description": "Tokyo's premier vintage and thrift shopping neighborhood. Bohemian vibe with eclectic shops selling vintage clothing, records, and novelty items. A great complement to your denim/fashion shopping."
+  },
+  {
+    "id": "rec-shop-22",
+    "name": "Kuoe Kyoto",
+    "category": "shopping",
+    "subcategory": "Watches",
+    "city": "Kyoto",
+    "address": "224 Eirakucho, Tohbeh Building #105, Nakagyo-ku, Kyoto 604-8071",
+    "hours": "11:00-17:30 (closed Tuesdays)",
+    "price": "Starting ~$290 for custom watches, up to ~$630 for models like the Old Smith 90-002 in steel, with premium models up to ~$1,780",
+    "description": "A small, tucked-away shop down a short flight of stairs in the Teramachi arcade. Founded 2020 by Uchimura, inspired by antique hand-wound watches found in London. Kuoe creates vintage-inspired Japanese watches with a distinctly Kyoto aesthetic. At the shop, you can customize your watch -- choose the face, band, and even get an engraving on the inside of the dial."
+  },
+  {
+    "id": "rec-shop-23",
+    "name": "Aritsugu (有次) - Original Kyoto Location",
+    "category": "shopping",
+    "subcategory": "Japanese Knives",
+    "city": "Kyoto",
+    "address": "219 Kajiya-cho, Nishikikoji-dori, Gokomachi nishi iru, Nakagyo-ku, Kyoto",
+    "hours": "9:00-17:00 (last entry 16:30); closed Wednesdays and Jan 1-4",
+    "price": "8,000-100,000+ yen",
+    "description": "The legendary original, founded in 1560 as swordsmith Fujiwara Aritsugu, making swords for the Imperial family. Transitioned to kitchen knives and wood chisels in the Edo period. Now in its 18th generation. Located on Nishiki Market street. Impressively wide variety of knives, pots, and cooking utensils all handmade by skilled craftspeople. Serves professional Kyoto cuisine chefs and home cooks alike."
+  },
+  {
+    "id": "rec-shop-24",
+    "name": "Nishiki Market Area",
+    "category": "shopping",
+    "subcategory": "Japanese Knives",
+    "city": "Kyoto",
+    "description": "Beyond Aritsugu, the Nishiki Market and connected Teramachi/Shinkyogoku arcades offer:"
+  },
+  {
+    "id": "rec-shop-25",
+    "name": "Teramachi & Shinkyogoku Shopping Arcades",
+    "category": "shopping",
+    "subcategory": "Japanese Knives",
+    "city": "Kyoto"
+  },
+  {
+    "id": "rec-shop-26",
+    "name": "Tower Knives Osaka",
+    "category": "shopping",
+    "subcategory": "Japanese Knives",
+    "city": "Osaka",
+    "address": "1-4-7 Ebisuhigashi, Naniwa-ku, Osaka",
+    "hours": "10:00-18:00 daily",
+    "price": "5,000-100,000+ yen",
+    "description": "A knife gallery near Tsutenkaku Tower in the retro Shinsekai district. Curated selection of knives from Sakai (Osaka's famous knife-making city) and other Japanese regions. Free 10-minute lesson on knife care and sharpening included with purchase. Name engraving for 500 yen. Tax-free with passport."
+  },
+  {
+    "id": "rec-shop-27",
+    "name": "Doguyasuji Shopping Street",
+    "category": "shopping",
+    "subcategory": "Japanese Knives",
+    "city": "Osaka",
+    "neighborhood": "Dotonbori",
+    "address": "Sennichimae, between Dotonbori and Den-Den Town, Namba area",
+    "hours": "Most shops 10:00-18:00 (varies by shop)"
+  },
+  {
+    "id": "rec-shop-28",
+    "name": "Sakai Traditional Crafts Museum",
+    "category": "shopping",
+    "subcategory": "Japanese Knives",
+    "city": "Osaka",
+    "address": "1-1-30 Zaimokucho-Nishi, Sakai-ku, Sakai City, Osaka",
+    "description": "Despite the \"museum\" name, this is actually the best general knife store in the region. The knife makers guild sells directly here, so prices are significantly cheaper than retail shops in Osaka. Wide selection of Sakai-made knives."
+  },
+  {
+    "id": "rec-shop-29",
+    "name": "Jikko Cutlery",
+    "category": "shopping",
+    "subcategory": "Japanese Knives",
+    "city": "Osaka",
+    "description": "Visit their open factory to see where knives are made, then browse the showroom"
+  },
+  {
+    "id": "rec-shop-30",
+    "name": "Momotaro Jeans Osaka",
+    "category": "shopping",
+    "subcategory": "Custom Denim",
+    "city": "Osaka",
+    "address": "1-12-10 Kitahorie, Nishi-ku, Osaka 550-0014",
+    "hours": "11:00-20:00",
+    "description": "Newly renovated (reopened March 2025) with a fresh interior design. Full range of Momotaro selvedge denim. Ask about custom hemming and embroidery options."
+  },
+  {
+    "id": "rec-shop-31",
+    "name": "Shinsaibashi Shopping Street",
+    "category": "shopping",
+    "subcategory": "Custom Denim",
+    "city": "Osaka",
+    "neighborhood": "Shinsaibashi",
+    "address": "Shinsaibashi-suji, Chuo-ku, Osaka (covered arcade running ~580 meters)",
+    "hours": "Most shops 10:00-21:00"
+  },
+  {
+    "id": "rec-shop-32",
+    "name": "Nishikawa Pillow Fitting",
+    "category": "shopping",
+    "subcategory": "Custom Denim",
+    "city": "Osaka",
+    "price": "Small items (coasters, chopstick rests) from 500-2,000 yen; puzzle boxes from 2,000-10,000+ yen depending on complexity",
+    "description": "Same Sleep Master consultation as the Tokyo location. Custom-fitted pillow to take home. If you missed the Tokyo experience, this is your backup option."
+  },
+  {
+    "id": "rec-act-0",
+    "name": "TEAMLAB",
+    "category": "activities",
+    "subcategory": "Immersive Art",
+    "city": "Tokyo",
+    "address": "Azabudai Hills Garden Plaza B, B1F, 5-9 Toranomon, Minato-ku, Tokyo",
+    "hours": "8:30-22:00",
+    "description": "There are two teamLab experiences in Tokyo in 2026:",
+    "tags": [
+      "Reservation Required"
+    ]
+  },
+  {
+    "id": "rec-act-2",
+    "name": "TSUKIJI OUTER MARKET",
+    "category": "activities",
+    "subcategory": "Markets",
+    "city": "Tokyo",
+    "address": "4 Chome-16-2 Tsukiji, Chuo City, Tokyo"
+  },
+  {
+    "id": "rec-act-3",
+    "name": "SHIBUYA SKY",
+    "category": "activities",
+    "subcategory": "Observation",
+    "city": "Tokyo",
+    "address": "2-24-12 Shibuya, Shibuya-ku, Tokyo",
+    "hours": "10:00-22:30 (last entry 21:20)"
+  },
+  {
+    "id": "rec-act-4",
+    "name": "ONSEN NEAR TOKYO",
+    "category": "activities",
+    "subcategory": "Onsen",
+    "city": "Tokyo",
+    "address": "1-1-2 Kabukicho, Shinjuku-ku, Tokyo (right next to Golden Gai)",
+    "hours": "24 hours (open all night)",
+    "price": "2,700 yen Mon-Thu / 2,800 yen Fri-Sun & holidays (~$18-19)",
+    "description": "If large tattoos are a concern, consider booking a private onsen (kashikiri) at a ryokan or spa. Many places rent private baths by the hour for couples. Your Hakone ryokan (Hakone Gora Byakudan) likely has private in-room onsen -- worth confirming."
+  },
+  {
+    "id": "rec-act-5",
+    "name": "NARA DAY TRIP",
+    "category": "activities",
+    "subcategory": "Day Trips",
+    "city": "Kyoto",
+    "description": "Based on your itinerary, you're in Kyoto Apr 30 - May 4, with a Nara day trip planned for May 1, 2, or 3.",
+    "tip": "Take the Kintetsu Limited Express. Kintetsu-Nara Station drops you much closer to the deer park and main sights. The extra cost is worth the convenience."
+  },
+  {
+    "id": "rec-act-6",
+    "name": "HAKONE",
+    "category": "activities",
+    "city": "Hakone",
+    "address": "1121 Ninotaira, Hakone-machi, Ashigarashimo-gun, Kanagawa",
+    "hours": "9:00-17:00 (last entry 16:30), open year-round",
+    "price": "1,500 yen adults (100 yen discount with Hakone Free Pass)",
+    "description": "You have 1.5 days here. Brad has foot surgery recovery, so no hiking. The ryokan itself should be the main event (onsen, relaxation), with easy outings."
+  },
+  {
+    "id": "rec-act-7",
+    "name": "OSAKA",
+    "category": "activities",
+    "city": "Osaka",
+    "description": "1. Osaka Castle -- Iconic landmark, beautiful grounds and moat. Interior is a museum (elevator access, no hiking). Free to walk the grounds; castle tower entry ~600 yen. Allow 1.5-2 hours"
+  },
+  {
+    "id": "rec-act-8",
+    "name": "KYOTO",
+    "category": "activities",
+    "city": "Kyoto",
+    "address": "1-294 Kiyomizu, Higashiyama-ku",
+    "hours": "9:00 AM - 5:00 PM",
+    "price": "~400 yen",
+    "description": "Your hotel is in a great central location -- Shijo Kawaramachi is the heart of Kyoto's downtown, walking distance to Gion and Higashiyama.",
+    "tip": "Skip Arashiyama during Golden Week unless you are willing to go before 8:00 AM. The crowds between 10 AM - 3 PM during Golden Week will be oppressive. If you do go:",
+    "tags": [
+      "Free"
+    ]
+  },
+  {
+    "id": "rec-evt-0",
+    "name": "Fujinomori Matsuri",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Kyoto",
+    "address": "Fujinomori Shrine, Fushimi ward (southern Kyoto)",
+    "dates": "May 1-5"
+  },
+  {
+    "id": "rec-evt-1",
+    "name": "Yabusame at Shimogamo Shrine",
+    "category": "events",
+    "city": "Kyoto",
+    "address": "Shimogamo Shrine",
+    "dates": "May 3"
+  },
+  {
+    "id": "rec-evt-2",
+    "name": "Kamo Kurabeuma",
+    "category": "events",
+    "subcategory": "Temple Events",
+    "city": "Kyoto",
+    "dates": "May 5"
+  },
+  {
+    "id": "rec-evt-3",
+    "name": "Kamogawa Odori",
+    "category": "events",
+    "subcategory": "Temple Events",
+    "city": "Kyoto",
+    "address": "Pontocho Kaburenjo Theatre, Pontocho",
+    "price": "Regular seats ¥4,000 | Special seats ¥6,000 | Special seats with tea ceremony ¥7,000",
+    "dates": "May 1-22"
+  },
+  {
+    "id": "rec-evt-4",
+    "name": "Kodaiji Temple Spring Illumination",
+    "category": "events",
+    "city": "Kyoto",
+    "address": "Kodaiji Temple, Higashiyama",
+    "price": "¥600 adults, ¥250 children",
+    "dates": "through May 6"
+  },
+  {
+    "id": "rec-evt-5",
+    "name": "Kyoto Nippon Festival 2026",
+    "category": "events",
+    "subcategory": "Temple Events",
+    "city": "Kyoto",
+    "address": "Kitano Tenmangu Shrine",
+    "dates": "through May 24"
+  },
+  {
+    "id": "rec-evt-6",
+    "name": "Goryo Festival",
+    "category": "events",
+    "subcategory": "Temple Events",
+    "city": "Kyoto",
+    "address": "Goryo Shrine",
+    "dates": "May, multi-day"
+  },
+  {
+    "id": "rec-evt-7",
+    "name": "Toji Temple Flea Market (Kobo-san)",
+    "category": "events",
+    "subcategory": "Markets",
+    "city": "Kyoto"
+  },
+  {
+    "id": "rec-evt-8",
+    "name": "Kitano Tenmangu Market (Tenjin-san)",
+    "category": "events",
+    "subcategory": "Markets",
+    "city": "Kyoto"
+  },
+  {
+    "id": "rec-evt-9",
+    "name": "Nakanoshima Festival",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Osaka",
+    "address": "Nakanoshima Park, Kita Ward",
+    "price": "Free",
+    "dates": "May 3-5"
+  },
+  {
+    "id": "rec-evt-10",
+    "name": "Dotonbori Spring Festival",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Osaka",
+    "address": "Dotonbori shopping street (near your hotel, Cross Hotel Osaka)",
+    "dates": "May 3-4"
+  },
+  {
+    "id": "rec-evt-11",
+    "name": "Koinobori",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Osaka",
+    "address": "Akutagawa Sakuratsutsumi Park",
+    "dates": "April 27 - May 5"
+  },
+  {
+    "id": "rec-evt-12",
+    "name": "Tsurumi Ryokuchi Food Festival",
+    "category": "events",
+    "city": "Osaka",
+    "address": "Tsurumi Ryokuchi Park"
+  },
+  {
+    "id": "rec-evt-13",
+    "name": "Osaka Rose Festival",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Osaka",
+    "address": "Nakanoshima Park Rose Garden area",
+    "dates": "Early-Mid May"
+  },
+  {
+    "id": "rec-evt-14",
+    "name": "Nemophila Blooms",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Osaka",
+    "address": "Osaka Bay area"
+  },
+  {
+    "id": "rec-evt-15",
+    "name": "Odawara Hojo Godai Festival",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Hakone",
+    "address": "Odawara Castle area, Odawara (gateway to Hakone)",
+    "dates": "May 3"
+  },
+  {
+    "id": "rec-evt-16",
+    "name": "Kintoki Shrine Festival",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Hakone",
+    "address": "Kintoki Shrine, foot of Mt. Kintoki",
+    "dates": "May 5"
+  },
+  {
+    "id": "rec-evt-17",
+    "name": "Azalea & Rhododendron Season",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Hakone",
+    "address": "Hakone Gora Park (very close to your ryokan, Hakone Gora Byakudan)",
+    "dates": "Peak in May"
+  },
+  {
+    "id": "rec-evt-18",
+    "name": "Green Festival",
+    "category": "events",
+    "city": "Hakone",
+    "address": "Hakone area parks",
+    "dates": "May 2026",
+    "description": "1. Kamogawa Odori (May 1-3 in Kyoto) — Walking distance from your hotel. Book tickets for the ¥7,000 tea ceremony option for the full experience."
+  },
+  {
+    "id": "rec-evt-19",
+    "name": "Blue Note Tokyo",
+    "category": "events",
+    "subcategory": "Live Music",
+    "city": "Tokyo",
+    "address": "Blue Note Tokyo, Aoyama",
+    "price": "Check https://reserve.bluenote.co.jp/reserve/schedule/"
+  },
+  {
+    "id": "rec-evt-20",
+    "name": "Michel Camilo, Pedrito Martinez & Ricky Rodriguez",
+    "category": "events",
+    "subcategory": "Art & Culture",
+    "city": "Tokyo",
+    "address": "Blue Note Tokyo"
+  },
+  {
+    "id": "rec-evt-21",
+    "name": "Thundercat",
+    "category": "events",
+    "city": "Tokyo",
+    "address": "Toyosu PIT, Tokyo",
+    "price": "9,000 yen (standing), via beatink.zaiko.io"
+  },
+  {
+    "id": "rec-evt-22",
+    "name": "Hiatus Kaiyote x Snarky Puppy",
+    "category": "events",
+    "city": "Tokyo",
+    "address": "Mori Art Museum, Roppongi Hills",
+    "price": "9,800 yen (A seats) to 14,000 yen (S/arena), via eplus",
+    "description": "These venues regularly host psychedelic, noise, and experimental rock — check their schedules starting ~6-8 weeks out:"
+  },
+  {
+    "id": "rec-evt-23",
+    "name": "Akabane Baka Matsuri (68th Annual)",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Tokyo",
+    "address": "JR Akabane Station East Exit area — Akabane Elementary School Grounds, Akabane Park, and Akabane Station East Exit Plaza",
+    "price": "Free",
+    "tags": [
+      "Free"
+    ]
+  },
+  {
+    "id": "rec-evt-24",
+    "name": "Kurayami Matsuri (Darkness Festival)",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Tokyo",
+    "address": "Okunitama Shrine, Fuchu City, Tokyo (about 30 min west of central Tokyo by train)",
+    "price": "Free",
+    "tags": [
+      "Free"
+    ]
+  },
+  {
+    "id": "rec-evt-25",
+    "name": "Meiji Shrine Spring Grand Festival",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Tokyo",
+    "address": "Meiji Jingu (Meiji Shrine), Shibuya/Harajuku",
+    "price": "Free",
+    "tags": [
+      "Free"
+    ]
+  },
+  {
+    "id": "rec-evt-26",
+    "name": "NIKUFES (Meat Festival) 2026",
+    "category": "events",
+    "subcategory": "Festivals",
+    "city": "Tokyo",
+    "address": "Odaiba Aomi Area P Sector (1-1-16 Aomi, Koto City, Tokyo)",
+    "price": "Free entry; meal tickets 700 yen each"
+  },
+  {
+    "id": "rec-evt-27",
+    "name": "Ron Mueck Exhibition (Opening during your visit!)",
+    "category": "events",
+    "subcategory": "Art & Culture",
+    "city": "Tokyo",
+    "address": "Mori Art Museum, Roppongi Hills"
+  }
+]

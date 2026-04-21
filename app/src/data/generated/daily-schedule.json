@@ -1,0 +1,2678 @@
+[
+  {
+    "dayNumber": 1,
+    "date": "Apr 25",
+    "title": "Arrival / Shibuya",
+    "entries": [
+      {
+        "time": "3:00 PM",
+        "text": "Land at Narita",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:00-4:00",
+        "text": "Clear immigration + customs",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:00-4:20",
+        "text": "Buy Suica card, buy N'EX ticket at JR counter, withdraw cash at 7-Eleven ATM",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:30",
+        "text": "Board Narita Express (N'EX) to Shibuya",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:45",
+        "text": "Arrive Shibuya Station",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:45-6:00",
+        "text": "Walk to Shibuya Granbell Hotel (10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:00-6:45",
+        "text": "Check in, drop bags, freshen up, change",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:00",
+        "text": "Walk to Gyukatsu Motomura Shibuya (5-10 min from hotel)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:00-7:30",
+        "text": "Queue at Motomura (~30-60 min Fri evening)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:30-8:00",
+        "text": "Eat gyukatsu (beef cutlet, DIY grilling)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:50-8:00",
+        "text": "Walk to Grandfather's listening bar (10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00-9:00",
+        "text": "Grandfather's — vinyl + highball, decompress from flight",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:00-9:05",
+        "text": "Walk to Nonbei Yokocho (5 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:05-9:45",
+        "text": "One drink at a tiny bar in Nonbei Yokocho",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:45-9:55",
+        "text": "Walk back to hotel",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00",
+        "text": "Crash (or earlier — no shame after a transpacific flight)",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 2,
+    "date": "Apr 26",
+    "title": "Tsukiji / Ginza / Shibuya Sky",
+    "entries": [
+      {
+        "time": "6:30 AM",
+        "text": "Wake up (jet lag is your alarm clock)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:00",
+        "text": "Leave hotel, walk to Shibuya Station (10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:10-7:30",
+        "text": "Ginza Line to Tsukiji (20 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:30-10:00",
+        "text": "Tsukiji Outer Market food crawl — tamagoyaki, scallops, uni, sashimi, tuna skewers",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Optional: Masamoto knives at market edge"
+      },
+      {
+        "time": "10:00-10:15",
+        "text": "Walk from Tsukiji to Ginza (15 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:15-11:15",
+        "text": "Chopstick Making Workshop — Ginza Hashikura (~60 min) ⚠️ BOOKED 10:00 AM",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "11:15-11:30",
+        "text": "Walk around Ginza / optional Grand Seiko Boutique (Brad solo flex)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:30",
+        "text": "Subway Ginza → Shinjuku-sanchome (15 min) for Nakajima",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:45-12:30",
+        "text": "Queue at Nakajima (~30-45 min for 12:30 wave)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:30-1:00",
+        "text": "Eat Michelin sardine lunch (990 yen!!)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Skip Nakajima if stuffed from Tsukiji → graze Ginza Six depachika",
+        "isBackup": true
+      },
+      {
+        "time": "1:00-1:15",
+        "text": "Subway back toward Shibuya",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:15-1:30",
+        "text": "Walk to Houseki Hiroba Shibuya (5 min from hotel area)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:30-3:30",
+        "text": "Houseki Hiroba Shibuya — secondhand watch browsing. Rolex, Grand Seiko, Omega. Massive inventory. (2 hrs)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:30-4:00",
+        "text": "Walk back to hotel, freshen up, grab coffee",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:00-5:45",
+        "text": "Free time — rest at hotel, explore Shibuya",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:45-6:00",
+        "text": "Walk to Shibuya Scramble Square (5 min from hotel)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:00-6:20",
+        "text": "Check in at Shibuya Sky, go through escalators to observation deck",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:20-7:45",
+        "text": "Shibuya Sky — booked entry at 6:20 PM ⚠️ BOOKED ✅. Golden hour + city lights. Sunset ~6:23 PM.",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "7:45-8:00",
+        "text": "Come down, experience Shibuya Crossing at street level",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00-8:15",
+        "text": "JR Yamanote Shibuya → Shinjuku (5 min + walk to Takashimaya)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:15-9:00",
+        "text": "Katsukura Shinjuku Takashimaya 14F — Kyoto-style tonkatsu (LO 9 PM, walk-in)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Skip Shinjuku → eat at Scramble Square: Shabu-Shabu Tsukada 12F or USHIHACHI yakiniku",
+        "isBackup": true
+      },
+      {
+        "time": "",
+        "text": "(B) Gyukatsu Motomura Shibuya — 10 min walk, 30-60 min queue",
+        "isBackup": true
+      },
+      {
+        "time": "9:00-9:15",
+        "text": "JR Yamanote back to Shibuya (5 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:15-10:00",
+        "text": "JBS Vinyl Bar — vinyl, whisky, no cover (5 min walk)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-11:00",
+        "text": "SG Club — craft cocktails (Guzzle floor or Sip basement, 5 min walk)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00",
+        "text": "Walk back to hotel (10 min)",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 3,
+    "date": "Apr 27",
+    "title": "Nakameguro / teamLab / Teppanyaki",
+    "entries": [
+      {
+        "time": "8:00 AM",
+        "text": "Wake up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:30",
+        "text": "Leave hotel, train Shibuya → Nakameguro (Tokyu Toyoko, 4 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:40",
+        "text": "Arrive Nakameguro",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:40-9:00",
+        "text": "Walk to Onibus Coffee (5 min) — pour-over coffee",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:00-9:15",
+        "text": "Walk to I'm Donut? Nakameguro",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:15-9:50",
+        "text": "Queue at I'm Donut? (~30-40 min before 10am opening)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:50-10:10",
+        "text": "Buy + eat donuts ⚠️ ARRIVE BY 9:30 — sells out by afternoon",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "10:10-10:25",
+        "text": "Walk along Meguro River to Daikanyama (15 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:25-11:00",
+        "text": "Browse Daikanyama T-Site (Tsutaya Books), Okura Daikanyama",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00-11:15",
+        "text": "Walk back toward Nakameguro",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:55",
+        "text": "Arrive Udatsu Sushi ⚠️ BOOKED 12:00 PM — Smart casual: no tees/shorts/sandals",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "12:00-1:30",
+        "text": "Michelin sushi omakase lunch (~90 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Sushi SHIN in Nishiazabu if Udatsu full",
+        "isBackup": true
+      },
+      {
+        "time": "1:30-2:00",
+        "text": "Walk/browse Nakameguro",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:00-2:15",
+        "text": "Train Nakameguro → Shin-Toyosu (Yurikamome, ~40 min with transfer)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:15-2:30",
+        "text": "Walk to teamLab Planets, store bags in lockers, remove shoes",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:30",
+        "text": "Enter teamLab Planets ⚠️ BOOK ~3:00 PM SLOT (arrive early)",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "2:30-5:00",
+        "text": "teamLab Planets (~2-2.5 hrs)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:00-5:15",
+        "text": "Retrieve bags, dry off feet, put shoes back on",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Optional: #FFFFFFT white tee store — open Sun 12-6pm, 10 min walk from Omotesando"
+      },
+      {
+        "time": "5:15-6:00",
+        "text": "Train Shin-Toyosu → Omotesando area (~35 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:00-6:30",
+        "text": "Freshen up / walk around Omotesando",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:00",
+        "text": "Arrive Ukaitei Omotesando ⚠️ BOOKED 7:00 PM — dress nice-ish",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "7:00-9:00",
+        "text": "Teppanyaki dinner — private room, dedicated chef (~2 hrs)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Ebisu Yokocho — izakaya stall hopping if teppanyaki too much",
+        "isBackup": true
+      },
+      {
+        "time": "9:00-9:15",
+        "text": "Train Omotesando → Shimokitazawa (via Shibuya, 10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:15-10:30",
+        "text": "Little Soul Cafe — soul/funk vinyl",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Check Basement Bar schedule for live music"
+      },
+      {
+        "time": "10:30-10:45",
+        "text": "Train back to Shibuya (3 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00",
+        "text": "Hotel",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 4,
+    "date": "Apr 28",
+    "title": "Jimbocho / Kappabashi / Asakusa / Shinjuku Night",
+    "entries": [
+      {
+        "time": "7:15 AM",
+        "text": "Wake up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:30",
+        "text": "Leave hotel, subway Shibuya → Jimbocho (Hanzomon Line, 15 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:45",
+        "text": "Arrive Jimbocho",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:50-8:45",
+        "text": "Glitch Coffee — 2-3 bean tasting flight (45-60 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:45-9:00",
+        "text": "Walk toward Udon Maruka (5 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:00-10:00",
+        "text": "Browse Jimbocho bookshops while waiting (Maruka queue starts ~10am)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:45",
+        "text": "Queue at Udon Maruka (~30-45 min for 11am opening) ⚠️ LAST CHANCE — closed GW",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "10:45-11:15",
+        "text": "Eat kamaage udon (cash only)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:15-11:35",
+        "text": "Walk/subway to Kappabashi Street (20 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:35-1:00",
+        "text": "Knife shopping — Tsubaya, Kamata Hakensha (1-1.5 hrs)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "If Ginza Hachigo reserved:"
+      },
+      {
+        "time": "1:00-1:15",
+        "text": "Subway Kappabashi area → Ginza (15 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:15-1:45",
+        "text": "Eat at Ginza Hachigo ⚠️ RESERVATION — truffle-foie gras ramen",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "If NOT reserved — Nakiryu tantanmen:"
+      },
+      {
+        "time": "1:45-2:00",
+        "text": "Subway toward Asakusa (5 min — Kappabashi is basically Asakusa)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:00-3:30",
+        "text": "Sensoji Temple — Kaminarimon gate, Nakamise street, temple grounds (1.5 hrs)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:30-4:00",
+        "text": "Explore Asakusa backstreets",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:00-4:30",
+        "text": "Subway Asakusa → Shibuya (30 min) — rest at hotel",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:30-5:30",
+        "text": "Rest / freshen up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:30-6:00",
+        "text": "Subway Shibuya → Kagurazaka/Iidabashi (20 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:00-6:30",
+        "text": "Walk the lantern-lit alleys of Kagurazaka",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:30",
+        "text": "Find Shinpo izakaya (look for blue noren curtains)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:30-8:00",
+        "text": "Dinner at Shinpo — crab croquettes, smoked daikon, sake",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00-8:15",
+        "text": "Subway Kagurazaka → Shinjuku (10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:15-9:00",
+        "text": "Jazz Bar Samurai (5F, Shinjuku 3-chome) — vinyl jazz + 2,500 maneki-neko",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:00-10:00",
+        "text": "Option A: Shinjuku Pit Inn — jazz evening show (~10pm late set)",
+        "isWarning": false,
+        "isBackup": true
+      },
+      {
+        "time": "",
+        "text": "Option B: JR Chuo to Koenji (10 min) → UFO Club for psych rock"
+      },
+      {
+        "time": "",
+        "text": "Option C: Head home — it's been a full day"
+      },
+      {
+        "time": "11:30",
+        "text": "Last train window. Head to Shibuya.",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:00",
+        "text": "Hotel",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 5,
+    "date": "Apr 29",
+    "title": "Showa Day — Harajuku / Shimokitazawa",
+    "entries": [
+      {
+        "time": "8:00 AM",
+        "text": "Wake up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:15",
+        "text": "Leave hotel, walk to Meiji Shrine through Yoyogi Park (10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:30-9:15",
+        "text": "Meiji Shrine — peaceful walk, main hall, forest path (45 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:15-9:25",
+        "text": "Walk to Harajuku / Takeshita-dori (10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:25-10:00",
+        "text": "Browse Harajuku — Takeshita-dori window shopping",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:15",
+        "text": "Walk to Harajuku Gyoza Ru",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:15-10:45",
+        "text": "Gyoza snack — best gyoza in Tokyo (~500-800 yen)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:45-11:15",
+        "text": "Walk to Mofusand Harajuku (Yeva's gifts), browse more shops",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:15-11:45",
+        "text": "Walk to Koffee Mameya Omotesando (opens 10am)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:45-12:15",
+        "text": "Coffee sommelier experience",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:15-12:30",
+        "text": "Walk to Henry's Burger OR Shin Udon (both in Harajuku, ~5 min apart)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:30-1:15",
+        "text": "Lunch — PICK ONE or split:",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "A) Henry's Burger Harajuku — A5 wagyu burgers. Get the HARAMI BURGER (~3,810 yen) ⚠️ DM @henrysburger_japan 1 WEEK AHEAD for harami reservation. Right on Meiji-dori. Owner speaks English."
+      },
+      {
+        "time": "",
+        "text": "B) Shin Udon Harajuku — carbonara udon (950 yen, walk-in)"
+      },
+      {
+        "time": "1:00-1:30",
+        "text": "Free time / browse Harajuku area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:30-2:00",
+        "text": "Free time / rest",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:00-5:00",
+        "text": "Free time — extra rest time, explore Harajuku more, or early return to hotel",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:00-5:15",
+        "text": "Head back to hotel area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:15-5:30",
+        "text": "Drop by hotel / freshen up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:30",
+        "text": "Walk to Midori Sushi Shibuya",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:30-7:00",
+        "text": "Queue at Midori (~60-90 min GW wait) ⚠️ ARRIVE BY 5:30-6PM",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "7:00-8:00",
+        "text": "Eat sushi dinner",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) If line is insane → pivot to Ebisu Yokocho (1 stop on Yamanote)",
+        "isBackup": true
+      },
+      {
+        "time": "8:00-8:30",
+        "text": "Walk back toward hotel area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:30",
+        "text": "Option A: Ginza Music Bar (subway to Ginza, 15 min) — til 4am",
+        "isWarning": false,
+        "isBackup": true
+      },
+      {
+        "time": "",
+        "text": "Option B: JBS Vinyl Bar (walking distance) — no cover, til 11pm"
+      },
+      {
+        "time": "",
+        "text": "Option C: Early night — Golden Week starts tomorrow, save energy"
+      },
+      {
+        "time": "10:00-11:00",
+        "text": "Back to hotel",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 6,
+    "date": "Apr 30",
+    "title": "Tokyo → Kyoto / Nishiki Market / Gion",
+    "entries": [
+      {
+        "time": "7:30 AM",
+        "text": "Wake up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00",
+        "text": "Quick coffee at Streamer Coffee Shibuya (opens 8am)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:30-9:00",
+        "text": "Final pack, grab bags (or they're already at Kyoto via takkyubin)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:15",
+        "text": "Leave hotel, walk to Shibuya Station (10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:15-9:40",
+        "text": "JR Yamanote Line Shibuya → Tokyo Station (25 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:40-10:05",
+        "text": "Navigate to Shinkansen platforms (14-19), buy ekiben bento",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:12",
+        "text": "Board Nozomi 23 ⚠️ BOOKED — don't miss this train",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "10:12-12:23",
+        "text": "Shinkansen to Kyoto — eat ekiben, enjoy the scenery, watch for Mt. Fuji (right side)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:23",
+        "text": "Arrive Kyoto Station",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:25-12:30",
+        "text": "Karasuma Line subway Kyoto → Shijo (4 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:30-12:40",
+        "text": "Walk from Shijo Station Exit 11 to Hotel Forza (7 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:40-1:15",
+        "text": "Check in, drop bags, freshen up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:15-1:30",
+        "text": "Walk to Nishiki Market (5 min north of hotel)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:30-3:30",
+        "text": "Nishiki Market food crawl — tako tamago, tempura skewers, yuba croquette, doughnuts",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:30-4:00",
+        "text": "Walk to Teramachi Shopping District",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:00-4:30",
+        "text": "Kuoe Watches — custom vintage-inspired watch (~$290)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Optional: Kyoto Loft (Mina Kyoto building, same street)"
+      },
+      {
+        "time": "",
+        "text": "SOU SOU Kyoto (Shinkyogoku-dori, 1 min from Kawaramachi Stn) — modern haori jackets, bold textile prints (~¥14-28k). Right between Nishiki and Teramachi. Quick browse or full stop."
+      },
+      {
+        "time": "4:30-5:00",
+        "text": "Walk back to hotel, rest",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:00-5:30",
+        "text": "Walk to Honke Owariya (15 min) OR stay near hotel for Omen Pontocho",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Lunch was Nishiki grazing; dinner is the sit-down:"
+      },
+      {
+        "time": "5:30-6:30",
+        "text": "Honke Owariya — 5-tier Horai Soba in a 560-year-old building",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Omen Pontocho — Kyoto's beloved udon (walking distance)",
+        "isBackup": true
+      },
+      {
+        "time": "",
+        "text": "(B) Wagyu Ramen Julia — quick wagyu broth ramen in Gion",
+        "isBackup": true
+      },
+      {
+        "time": "6:30-7:00",
+        "text": "Walk east along Shijo-dori into Gion at dusk",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:00-7:45",
+        "text": "Gion evening stroll — Hanamikoji-dori, teahouses, possible maiko sighting",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:45-8:00",
+        "text": "Walk to Pontocho alley",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00-8:30",
+        "text": "Browse Pontocho — atmospheric narrow alley, peek at river terraces",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:30-9:30",
+        "text": "P.M. Sounds — vinyl bar on Kiyamachi (near hotel)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:30",
+        "text": "Walk back to hotel (5 min)",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 7,
+    "date": "May 1",
+    "title": "Fushimi Inari / Gion / Higashiyama",
+    "entries": [
+      {
+        "time": "6:45 AM",
+        "text": "Wake up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:00",
+        "text": "Leave hotel, subway to Kyoto Station (4 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:10",
+        "text": "JR Nara Line to Inari Station (5 min, 1 stop)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:15-7:20",
+        "text": "Walk out of station — shrine is right there",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:20-8:00",
+        "text": "Fushimi Inari — Senbon Torii (vermillion tunnel), first section (15-20 min flat walk)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00-8:10",
+        "text": "Walk south toward Fushimi sake district (10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:10-8:45",
+        "text": "Sake tasting flight at a Fushimi brewery (~1,000-1,500 yen)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:45-9:15",
+        "text": "Train back to hotel area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:15-9:45",
+        "text": "Weekenders Coffee Tominokoji — THE Kyoto coffee",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:45-10:00",
+        "text": "Walk east along Shijo-dori toward Gion",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:20",
+        "text": "Yasaka Shrine (free, quick visit)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:20-11:00",
+        "text": "Walk south through Ninenzaka + Sannenzaka — stone lanes, shops, tea houses",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00-11:45",
+        "text": "Kiyomizu-dera — UNESCO site, famous wooden stage (~400 yen) ⚠️ uphill but steady",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "11:45-12:15",
+        "text": "Walk back down through Higashiyama shops",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:15-12:30",
+        "text": "Walk to Kitenya tempura (central location)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:30-1:30",
+        "text": "Lunch — Bib Gourmand tempura (~2,000-4,000 yen)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Yoshikawa Tempura — machiya with koi pond (reserve ahead, ~5,000-8,000 yen)",
+        "isBackup": true
+      },
+      {
+        "time": "1:30-2:00",
+        "text": "Walk back toward hotel",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:00 PM",
+        "text": "⚠️ KICHI KICHI ATTEMPT — both phones on kichikichi.com/kichikichi-reservation at 12:59. Refresh at 1:00. Slots fill in 10-15 sec. If you score dinner, swap tonight's ramen plan. Try EVERY day May 1-3.",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "2:00-3:00",
+        "text": "Rest at hotel — you started at 6:45am",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:00-3:10",
+        "text": "Walk to Ippodo Tea (Teramachi, 10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:10-4:00",
+        "text": "Ippodo Tea — whisk matcha, seasonal sweets, buy matcha to bring home",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:00-4:10",
+        "text": "Walk to Assemblages Kakimoto (if booked)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:10-5:00",
+        "text": "Matcha parfait at Assemblages ⚠️ BOOK AHEAD — closes 5pm",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "5:00-5:30",
+        "text": "Rest / freshen up at hotel",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:30-5:45",
+        "text": "Walk/subway toward Ichijoji OR stay in Gion",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "If Menya Inoichi (Ichijoji):"
+      },
+      {
+        "time": "5:45-6:10",
+        "text": "Train to Ichijoji (Eizan Railway from Demachiyanagi, ~20 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:10-6:30",
+        "text": "Walk to Menya Inoichi, queue (~15-20 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:30-7:00",
+        "text": "Eat Bib Gourmand seafood shio ramen",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:00-7:30",
+        "text": "Train back to hotel area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Wagyu Ramen Julia in Gion — walking distance, no train needed",
+        "isBackup": true
+      },
+      {
+        "time": "7:30-8:00",
+        "text": "Walk to Pontocho area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00-9:00",
+        "text": "L'Escamoteur — Pontocho speakeasy, magician-bartender",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "OR Hello Dolly — check if Thu live jazz"
+      },
+      {
+        "time": "9:00-10:00",
+        "text": "Pontocho / Kiyamachi bar hop",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:15",
+        "text": "Walk to hotel",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 8,
+    "date": "May 2",
+    "title": "Nara Day Trip / Hello Dolly Jazz",
+    "entries": [
+      {
+        "time": "8:00 AM",
+        "text": "Wake up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:15-8:45",
+        "text": "Iolite Coffee Roasters (hidden gem, Nakagyo)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:45-9:00",
+        "text": "Subway to Kyoto Station (4 min + walking)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:15",
+        "text": "Board Kintetsu Express to Nara (35 min, ¥760)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:50",
+        "text": "Arrive Kintetsu-Nara Station",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:50-10:00",
+        "text": "Walk to Nara Park (5 min from Kintetsu station)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:15",
+        "text": "Buy deer crackers (200 yen/pack × 2), bow to deer, feed deer",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:15-11:00",
+        "text": "Walk through park to Todai-ji Temple (20 min walk, flat ground)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00-11:45",
+        "text": "Todai-ji — world's largest bronze Buddha (~600 yen)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:45-12:15",
+        "text": "Walk to Kasuga Taisha Shrine (15 min through deer park)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:15-12:45",
+        "text": "Kasuga Taisha — stone lanterns, forested path (~500 yen)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:45-1:00",
+        "text": "Walk to Naramachi historic district",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:00 PM",
+        "text": "⚠️ KICHI KICHI ATTEMPT #2 — both phones, 12:59, refresh at 1:00. Can do this from Nara!",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "1:00-1:30",
+        "text": "Lunch — kakinoha-zushi (persimmon leaf sushi), Nara specialty (~1,000-1,500 yen)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:30-2:00",
+        "text": "Browse Naramachi",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:00-2:15",
+        "text": "Walk to Kintetsu-Nara Station",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:30",
+        "text": "Board Kintetsu Express back to Kyoto (35 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:05",
+        "text": "Arrive Kyoto Station",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:15-3:30",
+        "text": "Subway/walk to Philosopher's Path area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:30-4:30",
+        "text": "Philosopher's Path — flat 2km canal walk, peaceful (fine for Brad's foot)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:30-5:00",
+        "text": "Nanzen-ji Temple — brick aqueduct photo op (free)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:00-5:30",
+        "text": "Walk/subway back to hotel area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:30-6:30",
+        "text": "Rest at hotel",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:30-6:45",
+        "text": "Walk to Kyogoku Kaneyo",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:45-7:45",
+        "text": "Dinner — kinshi-don (eel + egg omelet over rice, ~2,000-4,000 yen)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Pontocho Fujita — kaiseki with river terrace",
+        "isBackup": true
+      },
+      {
+        "time": "7:45-8:00",
+        "text": "Walk to Hello Dolly on Pontocho",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00-9:30",
+        "text": "Hello Dolly — LIVE JAZZ FRIDAY! Sets at 8pm, 9:30pm ⚠️ TONIGHT IS THE NIGHT",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "9:30-10:00",
+        "text": "Walk to Jazz Live Candy in Gion (10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-11:00",
+        "text": "Jazz Live Candy — nightly live jazz",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00",
+        "text": "Walk to hotel (10 min)",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 9,
+    "date": "May 3",
+    "title": "Relaxed Kyoto Day",
+    "entries": [
+      {
+        "time": "",
+        "text": "SLOW MORNING — you're 9 days in"
+      },
+      {
+        "time": "8:00 AM",
+        "text": "Wake up (or sleep in — no alarm)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Option A: Arashiyama"
+      },
+      {
+        "time": "8:15",
+        "text": "Hankyu from Kawaramachi to Arashiyama (25 min, ¥240)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:45-10:00",
+        "text": "Bamboo grove (quiet before 9am), Togetsukyo Bridge",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:30",
+        "text": "Train back to hotel area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Option B: Slow morning"
+      },
+      {
+        "time": "8:30-9:30",
+        "text": "Coffee at % Arabica Higashiyama ⚠️ GO AT 8AM OPENING — GW lines 20-30 min by 10am",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "9:30-10:30",
+        "text": "Walk along Kamo River, browse Teramachi arcades",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:30-11:30",
+        "text": "Wander, rest, explore at your own pace",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Option C: AMAM DACOTAN breakfast + Rakushaan pickup"
+      },
+      {
+        "time": "9:30",
+        "text": "Register for AMAM DACOTAN queue on Airwait (link on @amam_dacotan_kyoto IG) ⚠️ CHECK IG NIGHT BEFORE for closures",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "~10:00",
+        "text": "Called for entry (wander Karasuma Oike area while waiting, 10-15 min from hotel)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:45",
+        "text": "AMAM DACOTAN — artisan bakery in machiya. Must-grab: mentaiko baguette, rare doughnut. 2F cafe has % Arabica coffee. ~¥1-2k/pp. Cashless OK.",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00-11:30",
+        "text": "Pick up Rakushaan warabi mochi (Shichiku, 15 min from Kitaoji Stn) ⚠️ HAVE CONCIERGE CALL 075-494-2551 ON MAY 2 to reserve. Cash only, ¥1,500/16pc. Eat ASAP — texture degrades. Bring back to hotel.",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "10:45-11:00",
+        "text": "Walk to Camellia Tea Ceremony location (Gion area)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00-12:00",
+        "text": "⚠️ CAMELLIA TEA CEREMONY — BOOKED 12:00 PM — Matcha whisking, seasonal sweets, machiya setting (~45-60 min)",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "12:00-12:15",
+        "text": "Walk to Izuju near Yasaka Shrine",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:15-12:30",
+        "text": "Queue at Izuju (~15 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:30-1:00",
+        "text": "Eat saba-zushi — mackerel pressed sushi, Kyoto's signature ⚠️ BRAD'S MUST",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Also try: Hiyoko Sushi nearby for incredible value omakase"
+      },
+      {
+        "time": "1:00 PM",
+        "text": "⚠️ KICHI KICHI ATTEMPT — both phones, 12:59, refresh at 1:00. Day 3 of trying!",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "1:00-2:00",
+        "text": "Walk through Gion daytime — different energy than dusk",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:00-3:00",
+        "text": "Rest at hotel or Kodai-ji Temple (Zen gardens, ~600 yen)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:00-4:00",
+        "text": "Assemblages Kakimoto matcha parfait (if not done yesterday)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:30-5:30",
+        "text": "OPTION: Modern Haori Shopping Tour — all walkable in central Nakagyo-ku:",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "All within 10-15 min walk radius. Budget 2-3 hrs."
+      },
+      {
+        "time": "",
+        "text": "OR: Free time — pack for Osaka tomorrow, wander, rest"
+      },
+      {
+        "time": "5:30-5:45",
+        "text": "Walk toward Hikiniku to Come (near Kawaramachi)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:45-6:15",
+        "text": "Queue at Hikiniku to Come (~30-45 min) ⚠️ ARRIVE BY 5:45 before dinner rush",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "6:15-6:45",
+        "text": "Eat charcoal-grilled hamburger steak — cult favorite",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Pontocho walk-in — find a kawayuka (river terrace) restaurant",
+        "isBackup": true
+      },
+      {
+        "time": "7:00-7:15",
+        "text": "Walk to P.M. Sounds (Kiyamachi, near hotel) — vinyl bar",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "OR L'Escamoteur (Pontocho) — magician-bartender speakeasy"
+      },
+      {
+        "time": "9:00-10:00",
+        "text": "Drinks + music",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00",
+        "text": "Hotel — pack for Osaka (luggage forwarded via takkyubin tomorrow AM)",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 10,
+    "date": "May 4",
+    "title": "Kyoto → Osaka / Dotonbori / Shinsekai",
+    "entries": [
+      {
+        "time": "8:00 AM",
+        "text": "Wake up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:15-8:45",
+        "text": "Weekenders Coffee Tominokoji — last Kyoto coffee",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:45-9:30",
+        "text": "Return to hotel, finish packing, send luggage via takkyubin (front desk)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:30-10:00",
+        "text": "Check out Hotel Forza",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:05",
+        "text": "Walk to Kawaramachi Station (2 min — right by hotel)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:10",
+        "text": "Board Hankyu Kyoto Line to Osaka-Umeda (43 min, ¥410)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:55",
+        "text": "Arrive Osaka-Umeda",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:55-11:10",
+        "text": "Transfer to Midosuji Line, ride to Namba (10 min, ¥240)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:10-11:15",
+        "text": "Walk to Cross Hotel Osaka (4 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:15-11:45",
+        "text": "Check in, drop bags, freshen up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:45-12:00",
+        "text": "Walk to Mizuno okonomiyaki (Dotonbori, 5 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:00-12:40",
+        "text": "Queue at Mizuno (~30-45 min GW) ⚠️ ARRIVE BY 12:00-12:30",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "12:40-1:15",
+        "text": "Eat okonomiyaki — mountain yam batter, incredibly fluffy",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Ajinoya — Bib Gourmand, less tourist-heavy",
+        "isBackup": true
+      },
+      {
+        "time": "1:15-1:30",
+        "text": "Walk back to hotel / freshen up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:30-2:00",
+        "text": "Lilo Coffee Roasters (walking distance, open til 11pm)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:00-2:15",
+        "text": "Subway Namba → Dobutsuen-mae (5 min) for Shinsekai",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:15-3:00",
+        "text": "Explore Shinsekai — retro neon neighborhood",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:00-3:45",
+        "text": "Yaekatsu kushikatsu (est. 1949) — don't double-dip! (~1,500-3,000 yen)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:45-4:15",
+        "text": "Tower Knives Osaka — knife gallery, free care lesson, name engraving",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:15-4:30",
+        "text": "Subway back to Namba",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:30-6:30",
+        "text": "Free time — rest, Dotonbori daytime stroll, browse shops",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:30-7:00",
+        "text": "Subway to Kushikatsu Kei (~15 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:00-8:00",
+        "text": "Dinner — kushikatsu in renovated 80-year-old house, \"phantom sauce\"",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Yaekatsu again if you loved it and want more",
+        "isBackup": true
+      },
+      {
+        "time": "8:00-8:30",
+        "text": "Return to Namba area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:30-10:00",
+        "text": "Nakanoshima Festival — free! Handmade amusement park, food stalls",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Walk Nakanoshima riverside (beautiful lit up at night)"
+      },
+      {
+        "time": "10:00-10:15",
+        "text": "Walk/subway back to hotel",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:15",
+        "text": "Dotonbori night stroll — neon canal, Glico Running Man sign",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00",
+        "text": "Hotel",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 11,
+    "date": "May 5",
+    "title": "Osaka Castle / Tenjinbashi / Shinsaibashi",
+    "entries": [
+      {
+        "time": "8:30 AM",
+        "text": "Wake up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:00",
+        "text": "Lilo Coffee (or hotel coffee for early caffeine)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:15-9:30",
+        "text": "Subway Namba → Tenjinbashisuji-Rokuchome (Midosuji + Tanimachi, 15 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:30-10:00",
+        "text": "Browse Tenjinbashi shopping arcade (Japan's longest)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:15",
+        "text": "Flower Mountain Tenjinbashi — Brad's shoe stop (5-8-27 Tenjinbashi)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:15-10:30",
+        "text": "Walk to Harukoma Sushi",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:30-11:15",
+        "text": "Queue at Harukoma (~30-60 min GW) ⚠️ ARRIVE BY 10:30-11AM",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "11:15-11:45",
+        "text": "Eat sushi — toro, uni, anago. Insane value (~1,300-2,000 yen)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:45-12:00",
+        "text": "Subway Tenjinbashi → Tanimachi-4-chome (10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:00-1:30",
+        "text": "Osaka Castle — grounds, moat, castle tower (elevator, no stairs for Brad). ~600 yen",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:30-2:00",
+        "text": "Subway back to Namba area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:00-3:30",
+        "text": "Choose your adventure:",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "A) Nakanoshima Festival Day 2 + riverside walk"
+      },
+      {
+        "time": "",
+        "text": "B) Shinsaibashi Shopping Arcade — 180 stores, tax-free"
+      },
+      {
+        "time": "",
+        "text": "C) Momotaro Jeans Osaka (Horie neighborhood)"
+      },
+      {
+        "time": "3:30-4:00",
+        "text": "Takamura Wine & Coffee Roasters (opens 11am — afternoon visit)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:00-4:30",
+        "text": "Wrap up shopping/exploring",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:30-4:45",
+        "text": "Subway Namba → Temma area (JR or metro, ~15 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:45-5:00",
+        "text": "Find Shoyu-Ramen Sodaisho (Temma, baseball-themed)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:00-5:30",
+        "text": "Eat chicken-clam shoyu ramen (~1,000 yen)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Chukasoba Kazura (Awaza) — \"mousse-like\" broth",
+        "isBackup": true
+      },
+      {
+        "time": "5:30-6:00",
+        "text": "Walk/subway Temma → Nishi-Umeda (~10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:00-6:30",
+        "text": "Arrive Billboard Live Osaka (Herbis Plaza ENT) — get seated, order drinks",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:00-9:00",
+        "text": "🎵 CASIOPEA at Billboard Live Osaka ⚠️ TICKETS PURCHASED",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "9:00-9:30",
+        "text": "Walk to Shinsaibashi or Nakanoshima night stroll (lit up riverside)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:30-10:30",
+        "text": "Bible Club Osaka — speakeasy nightcap (optional, walking distance from hotel)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:30",
+        "text": "Hotel",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 12,
+    "date": "May 6",
+    "title": "BRAD'S 40th BIRTHDAY!",
+    "entries": [
+      {
+        "time": "",
+        "text": "NO ALARM. IT'S YOUR BIRTHDAY."
+      },
+      {
+        "time": "9:30 AM",
+        "text": "Wake up naturally",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:10",
+        "text": "Walk to Mel Coffee Roasters (opens 9am)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:10-10:45",
+        "text": "Birthday coffee — Melbourne-inspired, Probat roaster",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:45-11:30",
+        "text": "Dotonbori daytime stroll — street food grazing, soak it in",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:30-12:00",
+        "text": "Walk to Hozenji Yokocho — visit moss-covered Mizukake Fudo statue",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Splash water for good luck on your birthday. Scout evening dinner route."
+      },
+      {
+        "time": "12:00-12:30",
+        "text": "Walk/subway to Takotsubo takoyaki",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:30-1:00",
+        "text": "5x Michelin-listed takoyaki — crispy exterior, molten center (~500-800 yen)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:00-1:30",
+        "text": "Walk to Dotonbori, grab any other street food that catches your eye",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:30-2:00",
+        "text": "Return to hotel area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:00-4:00",
+        "text": "Birthday shopping:",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:00-5:00",
+        "text": "Return to hotel, rest, get dressed for birthday dinner",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:00-5:15",
+        "text": "Walk/taxi to Waldorf Astoria Osaka",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:15-5:30",
+        "text": "Elevator to 28th floor",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:30-6:30",
+        "text": "Canes & Tales — birthday cocktails, jazz, Osaka skyline sunset views",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:30-6:45",
+        "text": "Walk/taxi to Hozenji Yokocho",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:45-7:00",
+        "text": "Arrive at restaurant area — Hozenji Yokocho stroll",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:00",
+        "text": "Matsuzaka Gyu Yakiniku M Hozenji-Hanare ⚠️ CONFIRMED 7:00 PM",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "7:00-9:00",
+        "text": "BIRTHDAY DINNER — Matsuzaka wagyu, one of Japan's top 3 beef brands",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Happy 40th, Brad. 🎂"
+      },
+      {
+        "time": "9:00-9:15",
+        "text": "Walk/subway to Kitashinchi (3 min from Kitashinchi Stn)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:15-10:00",
+        "text": "Ijou Maru Parfait — birthday dessert. Speakeasy art parfait bar (~¥4,500-5k each) ⚠️ FOLLOW @ijou_maru_parfait NOW for \"membership.\" DM ~1 week ahead to reserve. Cashless only. Parfait revealed through glowing door. Perfect surreal birthday cap.",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) If no Ijou Maru: Hozenji Yokocho stroll — find a tiny bar for a birthday nightcap",
+        "isBackup": true
+      },
+      {
+        "time": "10:00",
+        "text": "Option A: Bar Nayuta (Amerikamura, tiny door, no menu, til 3am)",
+        "isWarning": false,
+        "isBackup": true
+      },
+      {
+        "time": "",
+        "text": "Option B: Content birthday walk home along Dotonbori canal"
+      }
+    ]
+  },
+  {
+    "dayNumber": 13,
+    "date": "May 7",
+    "title": "Osaka → Hakone (Travel Day)",
+    "entries": [
+      {
+        "time": "7:30 AM",
+        "text": "Wake up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00",
+        "text": "Lilo Coffee Roasters — one last Osaka coffee",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:30-9:00",
+        "text": "Return to hotel, check out, grab bags (or already sent via takkyubin)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:00-9:05",
+        "text": "Walk to Namba Station (4 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:05-9:20",
+        "text": "Midosuji Line Namba → Shin-Osaka (15 min, ¥280)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:20-9:45",
+        "text": "Navigate to Shinkansen platform, buy snacks for the ride",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:18",
+        "text": "Board Hikari 646 to Odawara ⚠️ BOOKED",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "10:18-12:38",
+        "text": "Shinkansen to Odawara (2 hrs 20 min) — relax, read, nap",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:38",
+        "text": "Arrive Odawara Station",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:15-12:30",
+        "text": "Buy Hakone Free Pass at Odakyu counter (2-day, ¥6,000)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Optional: quick lunch at Odawara Station food court"
+      },
+      {
+        "time": "12:30-12:45",
+        "text": "Hakone Tozan Railway Odawara → Hakone-Yumoto (15 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:45-1:00",
+        "text": "Transfer at Hakone-Yumoto (wait for switchback train)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:00-1:40",
+        "text": "Hakone Tozan Railway Hakone-Yumoto → Gora (40 min, scenic switchbacks)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:40-1:50",
+        "text": "Walk to Hakone Gora Byakudan (or ryokan pickup from Gora Station)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:50",
+        "text": "Arrive ryokan",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:50-3:00",
+        "text": "Check in (3pm official), get into yukata, explore ryokan",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:00-4:30",
+        "text": "Private in-room onsen — YOU HAVE YOUR OWN. Soak. Decompress.",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:30-5:30",
+        "text": "Rest, read, wander ryokan grounds",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:30-6:00",
+        "text": "Get ready for dinner",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:00-8:00",
+        "text": "Ryokan kaiseki dinner — multi-course, seasonal, ceremonial",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00-9:00",
+        "text": "Evening onsen soak — different light, different mood",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:00",
+        "text": "Sleep. You've earned it.",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 14,
+    "date": "May 8",
+    "title": "Hakone Loop",
+    "entries": [
+      {
+        "time": "7:00 AM",
+        "text": "Wake up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:00-8:30",
+        "text": "Traditional Japanese ryokan breakfast (included)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:30-9:00",
+        "text": "Morning onsen soak",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:00-9:30",
+        "text": "Get dressed, prepare for day. Send luggage to Nippori via takkyubin (front desk).",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:30-9:40",
+        "text": "Walk/bus from ryokan to Hakone Open-Air Museum (5 min, Free Pass)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:40-12:00",
+        "text": "Hakone Open-Air Museum — sculptures, Picasso, foot bath (2-2.5 hrs)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:00-12:15",
+        "text": "Walk/bus back to Gora Station",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:15-12:25",
+        "text": "Cable car Gora → Sounzan (10 min, Free Pass)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:25-12:35",
+        "text": "Ropeway Sounzan → Owakudani (10 min, Free Pass)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:35-1:15",
+        "text": "Owakudani — volcanic valley, eat black eggs (¥500/5), Mt. Fuji views",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:15-1:30",
+        "text": "Ropeway Owakudani → Togendai (15 min, Free Pass)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:30-1:45",
+        "text": "Walk to pirate ship pier at Togendai",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:45-2:15",
+        "text": "Lake Ashi Pirate Ship — Togendai to Hakone-machi/Moto-Hakone (30 min, Free Pass)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:15-2:30",
+        "text": "Walk to Hakone Roasting Coffee (lakeside)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:30-3:15",
+        "text": "Coffee with panoramic lake views (3F Coffee & Vista)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:15-3:30",
+        "text": "Walk to bus stop",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:30-4:15",
+        "text": "Bus back to Gora (30-40 min, Free Pass)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:15-4:30",
+        "text": "Walk to ryokan",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "4:30-5:30",
+        "text": "Afternoon onsen + rest",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:30-6:00",
+        "text": "Get ready for dinner",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:00-8:00",
+        "text": "Ryokan kaiseki dinner — different menu from last night",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00-9:00",
+        "text": "Final onsen soak — savor it",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:00",
+        "text": "Pack for tomorrow's departure to Tokyo",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:30",
+        "text": "Sleep",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 15,
+    "date": "May 9",
+    "title": "Hakone → Tokyo / Pizza Bar Lunch + Sushi Yoshikawa Dinner",
+    "entries": [
+      {
+        "time": "6:30 AM",
+        "text": "Wake up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:30-7:00",
+        "text": "Quick morning onsen (last chance!)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:00-7:45",
+        "text": "Ryokan breakfast",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:45-8:30",
+        "text": "Pack up, check out — luggage already sent via takkyubin",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:30-9:25",
+        "text": "Hakone Tozan Railway Gora → Odawara (55 min, Free Pass)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:25-9:35",
+        "text": "Buy Shinkansen ticket at Odawara (or use SmartEX)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "~9:35-10:10",
+        "text": "Shinkansen Odawara → Tokyo Station (35 min, ¥3,220)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:10-10:25",
+        "text": "Walk/taxi to Mandarin Oriental Tokyo (~10 min from Tokyo Station)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:25-11:25",
+        "text": "Buffer — freshen up, coffee in lobby",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:30-1:00",
+        "text": "LUNCH — Pizza Bar on 38th ⚠️ 11:30 AM RESERVATION (¥15,000-20,000/pp)",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Omakase pizza, #2 in the world, 8 seats, 38th floor Mandarin Oriental"
+      },
+      {
+        "time": "1:00-1:15",
+        "text": "Walk back to Tokyo Station",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:15-1:30",
+        "text": "JR Yamanote Tokyo → Nippori (12 min, ¥170)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:30-1:40",
+        "text": "Walk to Hotel MyStays Nippori (3-5 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:40-2:00",
+        "text": "Check in, drop bags, freshen up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:00-4:30",
+        "text": "Yanaka Ginza — old-school shopping street, cat taiyaki, snacks",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Missed spots flex time:"
+      },
+      {
+        "time": "4:30-5:00",
+        "text": "Travel back to Nippori area",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:00-7:30",
+        "text": "Rest at hotel, get ready for last dinner",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "7:30-8:00",
+        "text": "Travel to Sushi Yoshikawa (Ebisu)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00-8:30",
+        "text": "Arrive early, settle in",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:30-10:00",
+        "text": "DINNER — Sushi Yoshikawa omakase ⚠️ 8:30 PM RESERVATION (prepaid ¥11,000/pp)",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:30",
+        "text": "Travel to evening bar spot",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:30-12:00",
+        "text": "Last night drinks:",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:00",
+        "text": "Head back to Nippori",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:30",
+        "text": "Pack. Last night in Japan.",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  },
+  {
+    "dayNumber": 16,
+    "date": "May 10",
+    "title": "Departure",
+    "entries": [
+      {
+        "time": "7:30 AM",
+        "text": "Wake up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:00-8:30",
+        "text": "Quick breakfast near hotel or hotel lobby",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:30-8:35",
+        "text": "Walk to Nippori Station (5 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:35-8:40",
+        "text": "JR to Ueno (1 stop, 3 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:40-9:30",
+        "text": "Ameyoko Market — chaotic market under the tracks. Last-minute snacks + gifts.",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:30-10:00",
+        "text": "Walk back through Yanaka Ginza — cat-tail donuts, taiyaki, nostalgia",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:30",
+        "text": "Final stroll, last morning coffee",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:30-11:00",
+        "text": "Return to hotel, collect luggage, check out",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00-11:45",
+        "text": "Walk to Nippori Station (5 min), find Keisei counter",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:45-12:15",
+        "text": "Buy Skyliner ticket, grab any last konbini snacks",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:30",
+        "text": "Board Keisei Skyliner ⚠️ 36 MIN DIRECT TO NARITA — all reserved",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "1:06 PM",
+        "text": "Arrive Narita Airport",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:06-1:30",
+        "text": "Check in luggage (knives in CHECKED bags only)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "1:30-2:00",
+        "text": "Clear security + immigration",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:00-3:00",
+        "text": "Duty-free shopping:",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Kit-Kats, regional sweets, any final souvenirs"
+      },
+      {
+        "time": "3:00-4:30",
+        "text": "Gate area — relax, last Japanese konbini run, reflect on an incredible trip",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:00 PM",
+        "text": "Flight departs ✈️",
+        "isWarning": false,
+        "isBackup": false
+      }
+    ]
+  }
+]

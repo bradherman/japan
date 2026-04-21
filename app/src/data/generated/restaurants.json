@@ -1,0 +1,1361 @@
+[
+  {
+    "id": "rest-0",
+    "name": "Ginza Hachigo",
+    "city": "Tokyo",
+    "neighborhood": "Ginza",
+    "category": "",
+    "address": "3-14-2 Ginza, Chuo-ku, Tokyo (274m from Higashi-Ginza Station, exit A2)",
+    "hours": "Wed-Sun from 11:00am; selected Tuesdays. Walk-ins 11:00-12:30; reservations 12:30-14:30",
+    "closed": "Mon, Tue (most weeks)",
+    "price": "~1,200-1,400 yen/pp",
+    "reservations": "Online via TableCheck. Slots open every Saturday at 9am for the following week, half-hour intervals from 12:30-14:30. 500 yen booking fee/pp. Walk-ins accepted 11:00-12:30 but require arriving early and waiting in line.",
+    "payment": "Cards accepted",
+    "whatToOrder": "The \"Ravioli Gourmandise Chuka Soba\" -- features ravioli stuffed with truffle and foie gras atop clear, golden broth made with chicken, clams, dried tomatoes, shiitake, kelp, and prosciutto. Unlike any ramen you have had.",
+    "notes": "Only 6 counter seats. Was Michelin-starred (Bib Gourmand in 2026 guide). This is a refined, French-influenced ramen experience. The chef previously worked in French cuisine. Not your typical ramen -- this is a destination bowl.",
+    "goldenWeek": "Likely open (check TableCheck), but slots will book instantly on Saturday mornings.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-1",
+    "name": "Nakiryu",
+    "city": "Tokyo",
+    "category": "",
+    "address": "2-34-4 Minamiotsuka, Toshima-ku, Tokyo (SKY Minamiotsuka 1F, near Otsuka Station south exit)",
+    "hours": "Lunch 11:30-15:00, Dinner 18:00-21:00",
+    "closed": "Tuesdays",
+    "price": "~1,000-1,500 yen/pp",
+    "reservations": "None accepted. Walk-in only. Arrive by 10:30am for lunch to minimize wait.",
+    "payment": "Cash only",
+    "whatToOrder": "Tantanmen (dan dan noodle) -- their signature. Rich sesame-chili broth with perfectly balanced heat and nuttiness. The shio ramen is also excellent for something cleaner.",
+    "notes": "Held a Michelin star 2017-2023, now Bib Gourmand. Only 10 seats. Wait times range from 30 min to 2.5 hours. Go on a weekday and arrive early. This is the best spicy ramen in Tokyo.",
+    "goldenWeek": "Will be extremely crowded. Consider going May 9 (after GW) instead if you return to Tokyo.",
+    "tags": [
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-2",
+    "name": "Konjiki Hototogisu",
+    "city": "Tokyo",
+    "neighborhood": "Shinjuku",
+    "category": "",
+    "address": "2-4-1 Shinjuku, Shinjuku-ku, Tokyo (Miyaniwa Mansion 1F, room 105, near Shinjuku-Gyoenmae Station)",
+    "hours": "Lunch 11:30-15:00, Dinner 18:30-22:00",
+    "closed": "Check current schedule (varies)",
+    "price": "~1,100-1,500 yen/pp",
+    "reservations": "None. Walk-in only with queue.",
+    "payment": "Cash only (vending machine ticket system)",
+    "whatToOrder": "Shio soba -- the signature bowl. Broth is an artisanal blend of 60+ ingredients including clam, truffle oil, and porcini. Also try the shoyu soba.",
+    "notes": "Previously Michelin-starred, now Bib Gourmand. Only 7 counter seats + 2 small tables. Convenient location near Shinjuku Gyoen park. Sophisticated, umami-bomb ramen -- truffle oil adds elegance.",
+    "goldenWeek": "Expect longer queues than usual.",
+    "tags": [
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-3",
+    "name": "Fuunji",
+    "city": "Tokyo",
+    "neighborhood": "Shibuya",
+    "category": "",
+    "address": "2-14-3 Yoyogi, Shibuya-ku, Tokyo (5 min walk from Shinjuku Station south exit)",
+    "hours": "11:00-15:00, 17:00-21:00",
+    "closed": "Sundays",
+    "price": "~1,200-1,450 yen/pp",
+    "reservations": "None. Walk-in only with queue.",
+    "payment": "Cash (vending machine)",
+    "whatToOrder": "Special Tsukemen (dipping noodles). Rich, intense fish-based broth for dipping thick noodles. The broth is viscous and deeply savory -- possibly the best tsukemen in Tokyo.",
+    "notes": "Near Shinjuku South Exit, NOT near Shibuya hotel (~15-20 min from hotel: JR Yamanote 1 stop to Shinjuku + 5-8 min walk). Backup option for Day 1 dinner (Gyukatsu Motomura is the primary pick — actually walkable from hotel). Perpetual queue but it moves fast. Outstanding for tsukemen specifically. Get the special size (400g) if hungry.",
+    "goldenWeek": "Closed Sundays; weekday visits recommended.",
+    "tags": [
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-4",
+    "name": "Mugi to Olive",
+    "city": "Tokyo",
+    "neighborhood": "Ginza",
+    "category": "",
+    "address": "6-12-12 Ginza, Chuo-ku, Tokyo",
+    "hours": "11:00-15:30, 17:30-22:00 (varies)",
+    "closed": "Sundays",
+    "price": "~1,000-1,400 yen/pp",
+    "whatToOrder": "Clam Shio Soba -- elegant, light broth fragrant with clam and olive oil. Feels more like a fine consomme than typical ramen.",
+    "notes": "Upscale feel, Western-style exterior. Great pairing with Ginza Hachigo if you want a ramen crawl in Ginza.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-5",
+    "name": "Sushi Yoshikawa",
+    "city": "Tokyo",
+    "neighborhood": "Ebisu",
+    "category": "",
+    "address": "1-6-3 Ebisu, Shibuya City, Tokyo (5 min from Ebisu Station)",
+    "hours": "Lunch and dinner (reservation required)",
+    "price": "~11,000 yen/pp (~$80)",
+    "reservations": "Required. Book via phone or Tabelog.",
+    "whatToOrder": "17-piece omakase course. The signature \"dragon ball roll\" with otoro and uni is the showstopper — one of the most photogenic pieces of sushi in Tokyo. Finished with an unagi hand roll.",
+    "notes": "Viral on Instagram for the dragon ball roll. At ¥11,000 it's excellent value for the quality and variety. Ebisu is convenient from your Shibuya hotel. A strong contender for your one special sushi meal.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-6",
+    "name": "Sushi Matsumoto",
+    "city": "Tokyo",
+    "neighborhood": "Shibuya",
+    "category": "",
+    "address": "Near Shibuya Station (confirm exact address via Tabelog)",
+    "hours": "Lunch and dinner",
+    "price": "Lunch Nigiri Set from 5,000 yen (~$33/pp)",
+    "reservations": "Recommended",
+    "whatToOrder": "Lunch Nigiri Set -- 10+ pieces of seasonal nigiri. Excellent quality for the price.",
+    "notes": "Peaceful atmosphere despite proximity to Shibuya Crossing. Great value lunch option near your hotel.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-7",
+    "name": "Midori Sushi",
+    "city": "Tokyo",
+    "neighborhood": "Shibuya",
+    "category": "",
+    "address": "Multiple locations; Shibuya location on 8F of Shibuya Seibu department store is most convenient for you",
+    "hours": "Lunch and dinner; closed Jan 1 only",
+    "price": "Lunch ~2,000-3,000 yen/pp, Dinner ~5,000-6,000 yen/pp",
+    "reservations": "No reservations. Queue only. Arrive before 11am opening.",
+    "payment": "Cards accepted",
+    "whatToOrder": "Omakase nigiri set, or order a la carte for the best seasonal fish. The toro is famously generous.",
+    "notes": "Legendary for quality-to-price ratio. Experienced sushi chefs serving serious sushi at casual prices. Long waits at peak times (30-90 min). The Shibuya branch queue overlooks the crossing. Multiple Tokyo locations.",
+    "goldenWeek": "Expect 60-90 min waits.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-8",
+    "name": "Iki na Sushi Dokoro Abe",
+    "city": "Tokyo",
+    "neighborhood": "Roppongi",
+    "category": "",
+    "address": "Roppongi, Tokyo (15 min walk from Roppongi Station)",
+    "hours": "Lunch and dinner",
+    "closed": "Never",
+    "price": "Lunch from 3,000 yen/pp, Dinner from 10,000 yen/pp",
+    "reservations": "Available",
+    "payment": "Cards accepted",
+    "whatToOrder": "Lunch course or a la carte -- authentic Edomae style at reasonable prices.",
+    "notes": "From the Ritz-Carlton concierge list. Authentic ambience, experienced itamae (chef).",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-9",
+    "name": "Tsukiji Sushi Omakase",
+    "city": "Tokyo",
+    "neighborhood": "Tsukiji",
+    "category": "",
+    "address": "7 min walk from Tsukiji Station",
+    "hours": "Check current schedule",
+    "price": "22-piece omakase from ~8,000-10,000 yen/pp",
+    "reservations": "Required",
+    "whatToOrder": "Their 22-piece omakase -- unusually generous for the price. Menu changes monthly.",
+    "notes": "Great option to combine with your planned Tsukiji market visit. Over 20 years of chef experience.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-10",
+    "name": "Sushi SHIN (1 Michelin Star)",
+    "city": "Tokyo",
+    "category": "",
+    "address": "Nishiazabu, Minato-ku, Tokyo",
+    "hours": "Lunch (Thu-Sun), Dinner nightly",
+    "closed": "Mondays; no lunch Tue & Wed",
+    "price": "Lunch omakase from ~18,150 yen/pp (~$120). This is your target price point.",
+    "reservations": "Required. Book via phone (03-5485-0031), WhatsApp (+81-80-6219-9295), email (reservation-tokyo@sushishin.jp), or through the website at sushishin-tokyo.jp/reservations",
+    "payment": "Cards accepted",
+    "whatToOrder": "Lunch omakase course. Chef Shintaro Suzuki's self-taught Edomae style with personal inspiration. 10+ consecutive years of Michelin stars.",
+    "notes": "Best value Michelin sushi at lunch in your price range. International clientele means English-friendly. Book well in advance. 72-hour cancellation policy.",
+    "goldenWeek": "Book NOW for late April dates. Will sell out.",
+    "tags": [
+      "Michelin",
+      "Top Pick",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-11",
+    "name": "Udatsu Sushi (1 Michelin Star)",
+    "city": "Tokyo",
+    "neighborhood": "Nakameguro",
+    "category": "",
+    "address": "2-48-10 Kamimeguro, Meguro-ku, Tokyo (5 min walk from Nakameguro Station)",
+    "hours": "Mon-Fri lunch at 12:00 (single seating); Sat/Sun/holidays at 11:00 and 13:00; Dinner at 18:00 and 21:00",
+    "closed": "Never, but chef is absent Wed/Sun/holidays (sous-chef serves)",
+    "price": "Lunch from 14,400 yen/pp (~$95); Dinner from 24,000 yen/pp",
+    "reservations": "Required. Book via OpenTable or email.",
+    "payment": "Cards accepted",
+    "whatToOrder": "Omakase lunch -- \"Art x Sushi\" concept with concrete gallery walls and art pieces. Seasonal ingredients change monthly.",
+    "notes": "At ~$95 for lunch, this is actually under your budget. Beautiful space, Nakameguro neighborhood is lovely for a walk. Book on a day the head chef is present (Mon/Tue/Thu/Fri/Sat).",
+    "goldenWeek": "Book immediately for any remaining availability.",
+    "tags": [
+      "Michelin",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-12",
+    "name": "Udon Maruka",
+    "city": "Tokyo",
+    "category": "",
+    "address": "3-16-1 Kanda Ogawamachi, Chiyoda-ku, Tokyo (New Surugadai Building 1F, Jimbocho area)",
+    "hours": "Mon-Fri 11:00-16:00, 17:30-19:30; Sat 11:00-14:30",
+    "closed": "Sundays and national holidays",
+    "price": "~500-800 yen/pp",
+    "reservations": "None. Walk-in only. People line up an hour before opening.",
+    "payment": "CASH ONLY",
+    "whatToOrder": "Kamaage udon (served in hot water with dipping sauce) or Bukkake udon. The noodles are Sanuki-style -- thick, impossibly chewy, with a satisfying bite. Considered the gold standard for udon in Tokyo.",
+    "notes": "Closes when noodles run out (often well before listed closing time). Arrive early. Arguably the single best udon experience in all of Tokyo.",
+    "goldenWeek": "CLOSED on national holidays (Apr 29, May 3-6). Plan for a weekday visit Apr 25-28 or May 9.",
+    "tags": [
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-13",
+    "name": "Udon Shin",
+    "city": "Tokyo",
+    "category": "",
+    "address": "Near Shin-Ochanomizu Station, Tokyo (confirm via Google Maps)",
+    "hours": "Lunch and dinner (check current hours)",
+    "price": "~800-1,500 yen/pp",
+    "reservations": "None. Digital queue number system; expect 30+ min wait.",
+    "payment": "Cash preferred",
+    "whatToOrder": "Curry udon or the tempura udon combo. Handcrafted noodles with perfect chew. The crispy tempura complements the rich broth beautifully.",
+    "notes": "Another top-tier Tokyo udon spot. The digital queue system lets you explore nearby while waiting.",
+    "tags": [
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-14",
+    "name": "Udon Oniyanma",
+    "city": "Tokyo",
+    "category": "",
+    "address": "Gotanda Station area, Tokyo",
+    "hours": "Varies by location",
+    "price": "~400-800 yen/pp",
+    "reservations": "None (standing/quick-eat format)",
+    "payment": "Cash",
+    "whatToOrder": "Cold udon with seasonal tempura. Simple, perfect execution. The chikuwa (fish cake) tempura is legendary.",
+    "notes": "Standing-style tachigui (stand-and-eat). Ultra-fast, ultra-cheap, ultra-good. Multiple locations.",
+    "tags": [
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-15",
+    "name": "Kisentei",
+    "city": "Tokyo",
+    "neighborhood": "Roppongi",
+    "category": "",
+    "address": "Tokyo Midtown, Roppongi (5 min walk from Roppongi Station)",
+    "hours": "Lunch and dinner daily",
+    "closed": "Never",
+    "price": "Lunch from ~8,000-10,000 yen/pp (~$55-65)",
+    "reservations": "Recommended. Phone: 03-5413-7988",
+    "payment": "Cards accepted",
+    "whatToOrder": "Lunch course with Ningyocho Imahan Kuroge Wagyu. Private rooms available with counter seating so you watch the chef work.",
+    "notes": "From the Ritz-Carlton concierge list. Excellent value wagyu teppanyaki lunch. The wagyu is sourced from Imahan, one of Japan's most respected beef purveyors.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-16",
+    "name": "Steak Hama",
+    "city": "Tokyo",
+    "neighborhood": "Roppongi",
+    "category": "",
+    "address": "Roppongi, Tokyo (5 min walk from Roppongi Station)",
+    "hours": "Lunch and dinner daily",
+    "closed": "Never",
+    "price": "Lunch from ~8,000 yen/pp (~$53)",
+    "reservations": "Recommended. Phone: 03-3403-1717",
+    "payment": "Cards accepted",
+    "whatToOrder": "Lunch course -- classic teppanyaki since 1964. They do meat, vegetables, and seafood on the griddle.",
+    "notes": "60 years of history. Classic, no-nonsense teppanyaki at honest lunch prices. A la carte and course menus available.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-17",
+    "name": "Ukaitei Omotesando",
+    "city": "Tokyo",
+    "category": "",
+    "address": "Omotesando, Tokyo",
+    "hours": "Lunch and dinner",
+    "closed": "Wednesdays",
+    "price": "Lunch from ~15,000 yen/pp (~$100)",
+    "reservations": "Required. Phone: 03-5467-5252",
+    "payment": "Cards accepted",
+    "whatToOrder": "Lunch course -- all private rooms with dedicated chef cooking on your personal griddle. Modern atmosphere with art throughout.",
+    "notes": "This is the upscale option. Every table is private with its own chef. If you want one memorable teppanyaki experience, this is it. Also has Ginza and Roppongi branches.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-18",
+    "name": "Omoide Yokocho (Memory Lane)",
+    "city": "Tokyo",
+    "neighborhood": "Shinjuku",
+    "category": "",
+    "address": "West side of Shinjuku Station (1 min walk from west exit)",
+    "hours": "Most stalls open ~17:00-midnight; some open for lunch",
+    "closed": "Individual stalls vary; most open daily",
+    "price": "1,000-2,500 yen/pp for skewers + drinks",
+    "reservations": "None. Squeeze in where you can.",
+    "payment": "CASH ONLY at most stalls",
+    "whatToOrder": "Everything grilled -- chicken hearts, gizzards, skin, thigh (momo), and negima (chicken and leek). Try motsu (offal) if you are adventurous. Pair with beer or highball.",
+    "notes": "Dave specifically flagged this as \"right by the hotel.\" Perfect for a casual first-night dinner after arriving from Narita. 70+ tiny stalls. Elbow-to-elbow communal seating. The atmosphere IS the experience.",
+    "goldenWeek": "Open and very busy.",
+    "tags": [
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-19",
+    "name": "Bird Land (Ginza)",
+    "city": "Tokyo",
+    "neighborhood": "Ginza",
+    "category": "",
+    "address": "4-2-15 Ginza, Chuo-ku, Tokyo (Tsukamoto Sozan Bldg B1F, 103m from Ginza Station exit C6)",
+    "hours": "17:00-21:30",
+    "closed": "Mondays, Sundays, and public holidays",
+    "price": "6,000-10,000 yen/pp",
+    "reservations": "Strongly recommended. Book via OpenTable or phone.",
+    "payment": "Cards accepted",
+    "whatToOrder": "Omakase course. Chef Toshihiro Wada uses free-range Okukuji Shamo gamecock, grilled over premium Kishu Binchotan charcoal. Every cut -- thigh, breast, liver, heart -- is treated with precision.",
+    "notes": "This is elite yakitori. One Michelin star. Basement location in Ginza. This is where yakitori becomes art. Counter seats let you watch the master work.",
+    "goldenWeek": "CLOSED Sundays and public holidays. Plan for a weeknight visit (Apr 25-28 or May 9).",
+    "tags": [
+      "Michelin",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-20",
+    "name": "Toriki",
+    "city": "Tokyo",
+    "neighborhood": "Shibuya",
+    "category": "",
+    "address": "Various locations in Shibuya/Ebisu area",
+    "hours": "Evening hours",
+    "price": "~3,000-5,000 yen/pp",
+    "whatToOrder": "Salt-grilled chicken parts, especially the tsukune (chicken meatball). Simple, executed perfectly.",
+    "notes": "Less famous than Bird Land but serious yakitori enthusiasts consider places like Toriki equally excellent. More local vibe, less formality.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-21",
+    "name": "Ebisu Yokocho",
+    "city": "Tokyo",
+    "neighborhood": "Ebisu",
+    "category": "",
+    "address": "Near Ebisu Station (east exit, through the Atre building)",
+    "hours": "Most stalls 17:00-midnight+",
+    "closed": "Varies by stall",
+    "price": "2,000-4,000 yen/pp",
+    "reservations": "None at most stalls",
+    "payment": "Cash mostly",
+    "whatToOrder": "Hop between stalls. Try the motsu-nabe (offal hot pot), yakitori, and whatever looks good. Order nama beer (draft) or highballs.",
+    "notes": "This is a network of hidden alleys right near Ebisu Station. Primarily locals -- most tourists do not know about this. Lantern-lit, intimate, authentic. Perfect post-dinner drinks spot.",
+    "goldenWeek": "Open and lively.",
+    "tags": [
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-22",
+    "name": "Shinpo",
+    "city": "Tokyo",
+    "neighborhood": "Kagurazaka",
+    "category": "",
+    "address": "Verify via Google Maps; typically in the Kagurazaka or similar local neighborhood",
+    "hours": "Evening",
+    "price": "~3,000-5,000 yen/pp",
+    "whatToOrder": "Creamy crab croquettes, iburigakko (smoked daikon) with cream cheese, seasonal small plates. Pair with Japanese sake or shochu.",
+    "notes": "Look for the blue noren curtains. This is the kind of place where you sit at the bar, the chef talks to you (in Japanese, mostly), and the food is honest and excellent.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-23",
+    "name": "Kagurazaka area",
+    "city": "Tokyo",
+    "neighborhood": "Kagurazaka",
+    "category": "",
+    "address": "Kagurazaka neighborhood, near Iidabashi Station",
+    "hours": "Evening",
+    "price": "Varies",
+    "notes": "Walking the lantern-lit alleys of Kagurazaka at dusk feels like stepping back in time. Quiet tea houses, charming izakayas. Less tourist-heavy than Shinjuku. Pop into anything that looks inviting with a noren curtain."
+  },
+  {
+    "id": "rest-24",
+    "name": "Tsukiji Outer Market",
+    "city": "Tokyo",
+    "neighborhood": "Tsukiji",
+    "category": "",
+    "address": "Tsukiji, Chuo-ku, Tokyo (Tsukiji Station or Tsukijishijo Station)",
+    "hours": "Most stalls 5:00am-14:00. Go in the morning (arrive by 9-10am ideally).",
+    "closed": "Sundays and some Wednesdays (varies by stall)",
+    "price": "Individual items 200-1,000 yen each",
+    "payment": "Cash at most stalls; some accept cards",
+    "notes": "The inner wholesale market moved to Toyosu, but the outer market is the real draw for foodies. Over 400 shops and stalls. Go early, go hungry.",
+    "goldenWeek": "Can be extremely crowded Apr 29-May 6. Your Tokyo dates (Apr 25-28) are pre-Golden Week -- excellent timing for Tsukiji.",
+    "tags": [
+      "Cash Only"
+    ]
+  },
+  {
+    "id": "rest-25",
+    "name": "Ameyoko",
+    "city": "Tokyo",
+    "category": "",
+    "address": "Under the JR tracks between Ueno and Okachimachi Stations",
+    "hours": "Stalls from ~10:00-19:00",
+    "price": "Individual items 200-800 yen",
+    "payment": "Cash mostly",
+    "notes": "Less touristy than Tsukiji, more of a local market feel. Good to combine with Ueno area sightseeing. Lively and fun.",
+    "tags": [
+      "Cash Only"
+    ]
+  },
+  {
+    "id": "rest-26",
+    "name": "Yanaka Ginza",
+    "city": "Tokyo",
+    "category": "",
+    "address": "Near Nippori Station (convenient for your May 9-10 hotel at MyStays Nippori!)",
+    "hours": "Shops ~10:00-18:00",
+    "price": "Individual items 200-500 yen",
+    "notes": "Old-school Tokyo charm. Your May 9-10 hotel is right here -- perfect for a morning stroll on your last day."
+  },
+  {
+    "id": "rest-27",
+    "name": "Tonkatsu Narikura",
+    "city": "Tokyo",
+    "category": "",
+    "address": "4-33-9 Naritahigashi, Suginami-ku, Tokyo (3 min walk from Minami-Asagaya Station, Marunouchi Line)",
+    "hours": "Lunch 11:00-14:00, Dinner 17:30-20:00",
+    "closed": "Check current schedule",
+    "price": "~6,000 yen/pp",
+    "reservations": "REQUIRED -- completely reservation-only. Book via Omakase.in or TableCheck. Slots open one week ahead at 12:00 JST. Competition is fierce. Have your hotel concierge help.",
+    "payment": "Cards likely accepted",
+    "whatToOrder": "Rosu katsu (pork loin cutlet). No hint of oiliness. The coating is shatteringly crisp, the pork juicy and tender. Tabelog's #1 tonkatsu in Japan.",
+    "notes": "Worth the effort to book. This will redefine what you think tonkatsu can be. Small, intimate, serious.",
+    "goldenWeek": "May close during GW. Try for Apr 25-28.",
+    "tags": [
+      "Top Pick",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-28",
+    "name": "Tonkatsu Sugita",
+    "city": "Tokyo",
+    "category": "",
+    "address": "3-8-3 Kotobuki, Taito-ku, Tokyo (7 min walk from Tawaramachi Station, 3 min from Kuramae Station exit A5)",
+    "hours": "Lunch 11:30-14:30 (LO 13:30), Dinner 17:00-21:00 (LO 20:15). Closes when stock runs out.",
+    "closed": "Thursdays and 3rd Wednesday",
+    "price": "3,000-4,500 yen/pp",
+    "reservations": "Required. Book via Omakase JapanEatinerary, byFood, or SAVOR JAPAN. Phone: 03-3844-5529",
+    "payment": "Cards accepted",
+    "whatToOrder": "Rosu katsu or hire katsu (tenderloin). Thin, crispy coating -- 10 years of Bib Gourmand recognition. The panko is paper-thin and shatters beautifully.",
+    "notes": "Near Asakusa -- combine with temple visit. Excellent quality at honest prices.",
+    "tags": [
+      "Michelin",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-29",
+    "name": "Tonkatsu Hasegawa",
+    "city": "Tokyo",
+    "category": "",
+    "address": "Ryogoku area, Tokyo",
+    "hours": "Check current hours",
+    "price": "~2,000-3,000 yen/pp",
+    "whatToOrder": "Their premium Hiraboku Sangenton pork from Yamagata with house-made panko breadcrumbs. Golden, light, never oily.",
+    "notes": "Newer Bib Gourmand pick. Great if Narikura and Sugita are booked.",
+    "tags": [
+      "Michelin",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-30",
+    "name": "Shinjuku Kappo Nakajima",
+    "city": "Tokyo",
+    "neighborhood": "Shinjuku",
+    "category": "",
+    "address": "B1F, Hihara Bldg, 3-32-5 Shinjuku, Shinjuku-ku, Tokyo (1 min from Shinjuku-sanchome Station exit E9)",
+    "hours": "Lunch 11:30-13:30, Dinner 17:30-21:00",
+    "closed": "Sundays",
+    "price": "Lunch from 990 yen/pp (!!)",
+    "reservations": "None at lunch. Queue only.",
+    "payment": "Cash",
+    "whatToOrder": "Not curry per se, but sardine set lunches -- Yanagawa Nabe set (990 yen) or any sardine preparation. This is one of Tokyo's cheapest Michelin-starred meals. Complete with rice, miso, pickles, tea.",
+    "notes": "Listed here because it is an unmissable Michelin lunch deal even though it is sardine-focused, not curry. At under $7 for a Michelin meal, this is borderline criminal value. Queue before 11:30.",
+    "tags": [
+      "Michelin",
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-31",
+    "name": "Akihabara Caligari",
+    "city": "Tokyo",
+    "neighborhood": "Akihabara",
+    "category": "",
+    "address": "Kanda area, near Akihabara, Tokyo",
+    "hours": "Lunch hours (check current)",
+    "price": "~1,000-1,500 yen/pp",
+    "whatToOrder": "Their Grand Prix-winning curry. Rich, complex, deeply spiced Japanese-style curry.",
+    "notes": "Won the competitive Kanda Curry Grand Prix. Great to combine with Dave's planned Akihabara electronics trip.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-32",
+    "name": "Tsuki to Kame",
+    "city": "Tokyo",
+    "category": "",
+    "address": "Morishita, Tokyo (8 min walk from station)",
+    "hours": "Check current hours",
+    "price": "~1,500-2,000 yen/pp",
+    "reservations": "None",
+    "payment": "CASH ONLY",
+    "whatToOrder": "Fukagawa Curry Set Meal -- Japanese-South Indian fusion. Only 5 seats. Each dish feels carefully considered.",
+    "notes": "Deep cut hidden gem. Intimate, meditative dining. Food nerds only.",
+    "tags": [
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-33",
+    "name": "Fileja",
+    "city": "Tokyo",
+    "neighborhood": "Akihabara",
+    "category": "",
+    "address": "2-13-1 Kanda Sudacho, Chiyoda City, Tokyo (Akihabara area)",
+    "hours": "Dinner only (check current schedule)",
+    "price": "~10,000-15,000 yen/pp",
+    "reservations": "Required. Only 8 seats. One chef prepares and serves everything.",
+    "whatToOrder": "The full omakase — 15 courses with 8 different handmade pasta shapes. Standouts: truffle and crab tagliatelle, lamb ragu gnocchi, braised beef cheek. Every pasta is crafted in front of you.",
+    "notes": "Blown up on Instagram as one of the best pasta meals in the world. The one-chef, one-kitchen intimacy makes this unforgettable. Not Japanese food per se, but a uniquely Japanese take on Italian mastery. Book ahead.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-34",
+    "name": "Gyukatsu Motomura",
+    "city": "Tokyo",
+    "neighborhood": "Shibuya",
+    "category": "",
+    "address": "Multiple locations: Shibuya (basement level near station), Shinjuku, Harajuku, Akihabara",
+    "hours": "Lunch and dinner (varies by location)",
+    "price": "1,930-3,060 yen/pp",
+    "reservations": "Some locations via TableCheck (Shinjuku). Others walk-in only.",
+    "payment": "Cards at most locations",
+    "whatToOrder": "1.5 cutlet set (195g, 2,600 yen). Breaded beef cutlet arrives rare -- you sear it on a personal hot stone grill at your table. Dip in soy-wasabi, rock salt, or curry sauce.",
+    "notes": "Uniquely interactive. The beef is tender and the DIY grilling is fun. Shibuya location near your hotel will have 30-60 min waits. Harajuku or Shinjuku may be faster.",
+    "goldenWeek": "Expect long waits.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-35",
+    "name": "Shirohige's Cream Puff Factory",
+    "city": "Tokyo",
+    "neighborhood": "Shimokitazawa",
+    "category": "",
+    "address": "5-3-1 Daita, Setagaya-ku, Tokyo (near Shimokitazawa)",
+    "hours": "10:30-19:00",
+    "price": "~450-600 yen per cream puff",
+    "whatToOrder": "Seasonal Totoro-shaped cream puffs (custard, chocolate, matcha fillings). Also has a cafe upstairs.",
+    "notes": "Great for Gail and anyone who loves Studio Ghibli. Adorable, photogenic, genuinely delicious.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-36",
+    "name": "I'm Donut?",
+    "city": "Tokyo",
+    "neighborhood": "Nakameguro",
+    "category": "",
+    "address": "Multiple locations; Nakameguro is the original",
+    "hours": "Opens 10:00, sells out by early afternoon",
+    "price": "~400-600 yen per donut",
+    "whatToOrder": "The original brioche donut with cream filling. Fluffy, light, not too sweet.",
+    "notes": "Brad loves donuts -- this is a must. Arrive early, they sell out. Also check Higuma Donuts (Hokkaido ingredients) and Mister Donut (Pon de Ring for chewy mochi texture).",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-37",
+    "name": "Pizza Bar on 38th",
+    "city": "Tokyo",
+    "category": "",
+    "address": "Mandarin Oriental Tokyo, 38th Floor, 2-1-1 Nihonbashi Muromachi, Chuo-ku, Tokyo",
+    "hours": "Lunch 11:30-14:00, Dinner 17:30-21:00",
+    "price": "~15,000-20,000 yen/pp (omakase pizza course)",
+    "reservations": "ESSENTIAL. Only 8 seats. Book 2 months ahead via hotel website or phone.",
+    "whatToOrder": "Omakase pizza course — the chef selects seasonal toppings and creates a progression of pizzas. Neapolitan-style in a wood-fired oven with stunning 38th-floor views.",
+    "notes": "Ranked #2 on 50 Top Pizza World list. This is a once-in-a-lifetime pizza experience. Counter seating only. Best for a special lunch. Book ASAP for May 9.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-38",
+    "name": "RistoPizza by Napoli sta ca",
+    "city": "Tokyo",
+    "neighborhood": "Roppongi",
+    "category": "",
+    "address": "Azabudai Hills, Minato-ku, Tokyo (near Roppongi/Toranomon)",
+    "hours": "11:00-22:00",
+    "price": "~2,000-4,000 yen/pp",
+    "reservations": "Walk-in friendly, especially for lunch. Dinner may have waits.",
+    "whatToOrder": "Margherita or seasonal specials. Authentic Neapolitan pizza with imported Italian ingredients.",
+    "notes": "Ranked #13 on 50 Top Pizza World list. Much more accessible than Pizza Bar on 38th — no reservation needed for lunch, reasonable prices. Located in the brand-new Azabudai Hills complex, which is worth exploring on its own.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-39",
+    "name": "Menya Inoichi",
+    "city": "Kyoto",
+    "neighborhood": "Ichijoji",
+    "category": "",
+    "address": "Ichijoji area, Sakyo-ku, Kyoto (3 min walk from Ichijoji Station, Eizan Railway)",
+    "hours": "Lunch and dinner (check current)",
+    "closed": "Check current schedule",
+    "price": "~800-1,200 yen/pp",
+    "reservations": "None. Walk-in.",
+    "payment": "Cash (likely vending machine)",
+    "whatToOrder": "Seafood shio ramen -- 100% seafood broth with no animal fat. Delicate, clean, deeply umami. Michelin Bib Gourmand for 9 consecutive years.",
+    "notes": "Ichijoji is Kyoto's ramen battleground -- a neighborhood with 15+ ramen shops within walking distance of the station. Take the Keihan Railway to Demachiyanagi, transfer to Eizan Railway to Ichijoji (easy). Less touristy than central Kyoto. Make it a mini ramen crawl.",
+    "tags": [
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-40",
+    "name": "Takayasu",
+    "city": "Kyoto",
+    "neighborhood": "Ichijoji",
+    "category": "",
+    "address": "3 min walk from Ichijoji Station",
+    "hours": "Check current hours",
+    "price": "~800-1,000 yen/pp",
+    "whatToOrder": "Thick, rich pork broth ramen. The soup simmers for 22 hours. Hearty, filling, and deeply satisfying.",
+    "notes": "A legend among Kyoto University students since 1999. Student-friendly prices, serious quality. Great contrast to Inoichi's delicate seafood style.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-41",
+    "name": "Wagyu Ramen Julia",
+    "city": "Kyoto",
+    "neighborhood": "Gion",
+    "category": "",
+    "address": "7 min walk from Gion-Shijo Station, Kyoto",
+    "hours": "Check current",
+    "price": "~1,200-1,800 yen/pp",
+    "whatToOrder": "Wagyu beef broth ramen -- luxurious, slow-simmered beef broth with deep umami. They may give you a bonus wagyu slice on weekday afternoons.",
+    "notes": "Hidden gem in Gion. Uncrowded despite location. Walking distance from your hotel.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-42",
+    "name": "Kiramekinotori",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Central Kyoto (check exact location)",
+    "hours": "11:00-23:30",
+    "closed": "Never",
+    "price": "~800-1,000 yen/pp",
+    "reservations": "Walk-ins only",
+    "whatToOrder": "Thick chicken broth (tori paitan) ramen. Rich, creamy, comforting.",
+    "notes": "Open late, open every day -- excellent fallback option. From the Ritz-Carlton concierge guide.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-43",
+    "name": "Sushidokoro Man",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Central Kyoto (check Tabelog for exact address, near Shijo area)",
+    "hours": "11:30-14:00, 17:00-23:00",
+    "closed": "Mondays and 3rd Tuesdays",
+    "price": "Omakase from ~5,000-8,000 yen/pp lunch",
+    "whatToOrder": "Omakase or a la carte. Both available. Quality Edomae-style sushi at reasonable Kyoto prices.",
+    "notes": "From the Ritz-Carlton list -- solid mid-range option.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-44",
+    "name": "Hiyoko Sushi",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Confirm via Tabelog",
+    "hours": "Lunch and dinner",
+    "price": "Lunch 10-piece omakase from ~2,000 yen/pp",
+    "whatToOrder": "10-piece omakase set. Under a dollar per piece with far fresher ingredients than chain sushi.",
+    "notes": "Best bang-for-your-buck sushi in Kyoto. Locals' favorite.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-45",
+    "name": "Sushi Kawano",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Near Kamo River, Kyoto",
+    "hours": "Lunch and dinner",
+    "price": "Affordable lunch omakase (check current pricing)",
+    "reservations": "Recommended (only 9 counter seats)",
+    "whatToOrder": "Edomae-style omakase with careful aging technique. Exquisite umami from the aging process.",
+    "notes": "Intimate 9-seat counter. High-end technique at affordable prices.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-46",
+    "name": "Taisushi",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Confirm via Tabelog",
+    "hours": "Lunch and dinner",
+    "price": "3,000-4,000 yen/pp",
+    "reservations": "None needed",
+    "whatToOrder": "Omakase nigiri -- simple, retro atmosphere. Locals love it.",
+    "notes": "Walk-in friendly, no fuss. The kind of local sushi bar where regulars sit at the counter.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-47",
+    "name": "Gion Takuma",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Shirakawa-dori street, near Gionshijo Station (by the Shirakawa river)",
+    "hours": "Lunch and dinner",
+    "price": "Lunch kaiseki from 3,600 yen/pp (~$24) -- exceptional value",
+    "reservations": "Recommended",
+    "whatToOrder": "Lunch kaiseki course -- includes otsukuri-no-moriawase (sashimi platter) and seasonal specialties. Beautiful presentation at an absurdly low price for this quality level.",
+    "notes": "Walking distance from your hotel. This is your best budget kaiseki option. The location along the Shirakawa river is gorgeous.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-48",
+    "name": "Pontocho Fujita",
+    "city": "Kyoto",
+    "neighborhood": "Pontocho",
+    "category": "",
+    "address": "Pontocho, Kyoto (walking distance from your hotel)",
+    "hours": "11:30-14:00, 17:00-22:00",
+    "closed": "Mondays, Tuesdays",
+    "price": "Lunch kaiseki courses from ~5,000-8,000 yen/pp",
+    "reservations": "Recommended",
+    "whatToOrder": "Lunch set menu. Pontocho alley location adds atmosphere.",
+    "notes": "Pontocho is a narrow, atmospheric alleyway along the Kamo River. Some restaurants here have river-facing terraces (kawadoko) in spring/summer.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-49",
+    "name": "Saiseki Chimoto",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Central Kyoto",
+    "hours": "11:30-15:00, 17:00-21:00",
+    "closed": "Mondays",
+    "price": "Casual kaiseki from ~4,000-6,000 yen/pp",
+    "reservations": "Recommended",
+    "whatToOrder": "Lunch set menu -- described as \"casual kaiseki,\" meaning less formal but same attention to seasonal ingredients and presentation.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-50",
+    "name": "Rengetsu-jaya",
+    "city": "Kyoto",
+    "neighborhood": "Higashiyama",
+    "category": "",
+    "address": "Higashiyama district, Kyoto",
+    "hours": "Lunch hours",
+    "price": "From ~4,000 yen/pp",
+    "whatToOrder": "Tofu kaiseki -- yudofu (hot tofu), yuba (tofu skin), namafu (wheat gluten). Served in a traditional machiya townhouse.",
+    "notes": "Kyoto is the tofu capital of Japan. This is an authentic way to experience a uniquely Kyoto cuisine. Seasonal menus change regularly.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-51",
+    "name": "Tenyu",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Central Kyoto",
+    "hours": "Seatings at 11:30, 13:00, 17:30-19:00",
+    "closed": "Tuesdays",
+    "price": "Lunch tempura rice bowl or set from ~3,000-5,000 yen/pp",
+    "reservations": "Recommended given limited seatings",
+    "whatToOrder": "Tempura rice bowl (tendon) at lunch -- freshest ingredients with light, crispy batter.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-52",
+    "name": "Kitenya",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Central Kyoto, near Shijo Station",
+    "hours": "Lunch and dinner",
+    "price": "~2,000-4,000 yen/pp",
+    "reservations": "Walk-in friendly",
+    "whatToOrder": "Tempura course or set meal. Everything arrives moments after leaving the oil -- the freshness is the star. Light batter, seasonal vegetables, shrimp.",
+    "notes": "Bib Gourmand recognition for \"good quality cooking that is also good value.\" Central location makes it easy to work into any day.",
+    "tags": [
+      "Michelin",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-53",
+    "name": "Yoshikawa Tempura",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Near the Imperial Palace, Kyoto (housed in a machiya with garden)",
+    "hours": "Lunch and dinner",
+    "price": "Lunch from ~5,000-8,000 yen/pp",
+    "reservations": "Recommended",
+    "whatToOrder": "Counter-seat tempura course -- sit at the counter and watch the chef work. The setting (traditional machiya with koi pond and bonsai garden) is half the experience.",
+    "notes": "More upscale option. Beautiful traditional building. Counter seats are the best experience.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-54",
+    "name": "Omen",
+    "city": "Kyoto",
+    "category": "",
+    "address": "171-1 Kashiwayacho, Shijo-Dori Ponto-cho Nishiiru, Nakagyo-ku, Kyoto",
+    "hours": "11:00-16:00, 17:00-21:00",
+    "closed": "2nd and 3rd Thursdays",
+    "price": "~1,000-2,000 yen/pp",
+    "reservations": "Yes, accepted",
+    "payment": "Cards accepted",
+    "whatToOrder": "Omen udon -- thick udon noodles with hot or cold dipping broth, served with seasonal vegetables on the side. Vegetarian option available.",
+    "notes": "From the Ritz-Carlton list. One of Kyoto's most beloved udon restaurants. The Pontocho location is walking distance from your hotel. The Ginkakuji (Silver Pavilion) location is the original if you are in that area.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-55",
+    "name": "Honke Owariya",
+    "city": "Kyoto",
+    "category": "",
+    "address": "322 Niomon-Tsuchikutsukucho, Nijo-sagaru, Kurumayacho-Dori, Nakagyo-ku, Kyoto",
+    "hours": "11:00-19:00 (last order 18:00)",
+    "closed": "January 1-2",
+    "price": "~1,000-2,500 yen/pp",
+    "reservations": "Walk-in",
+    "payment": "Cards likely accepted",
+    "whatToOrder": "Horai Soba -- a multi-tiered serving of cold soba with an array of toppings. Five layers, each slightly different. It is ceremonial, beautiful, and delicious.",
+    "notes": "Founded in 1465. That is not a typo -- 550+ years old. The atmospheric old wooden building is worth the visit alone. One of Kyoto's most legendary dining experiences. Simple food, perfect execution, centuries of tradition.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-56",
+    "name": "Roujina",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Central Kyoto",
+    "hours": "11:30-14:30, 17:30-20:30",
+    "closed": "Mondays",
+    "price": "~1,000-2,000 yen/pp",
+    "reservations": "Not available for lunch",
+    "payment": "CASH ONLY",
+    "whatToOrder": "Soba -- handmade buckwheat noodles with clean, nutty flavor.",
+    "tags": [
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-57",
+    "name": "Nishiki Market",
+    "city": "Kyoto",
+    "category": "",
+    "address": "5-block stretch between Shijo-dori and Nishikikoji-dori, Nakagyo-ku (walking distance from your hotel!)",
+    "hours": "Most stalls 9:00/10:00-17:00/18:00",
+    "closed": "Some stalls closed Wednesdays; most open during Golden Week",
+    "price": "Individual items 200-600 yen",
+    "payment": "Cash at most stalls",
+    "notes": "120+ shops across 5 blocks. Arrive 10-11am to beat crowds. Your hotel is within walking distance. Plan 1.5-2 hours minimum.",
+    "goldenWeek": "Will be extremely crowded. Go first thing in the morning.",
+    "tags": [
+      "Cash Only"
+    ]
+  },
+  {
+    "id": "rest-58",
+    "name": "Yudofu",
+    "city": "Kyoto",
+    "category": "",
+    "price": "~3,000-5,000 yen/pp",
+    "notes": "Kyoto's silken tofu is unlike anything you have had. The water in Kyoto produces exceptionally smooth, delicate tofu."
+  },
+  {
+    "id": "rest-59",
+    "name": "Saba-zushi",
+    "city": "Kyoto",
+    "category": "",
+    "price": "~1,000-2,000 yen",
+    "notes": "Kyoto's signature sushi -- vinegared mackerel pressed over rice. Developed as a preservation method when fish had to travel from the Sea of Japan to landlocked Kyoto. A must-try."
+  },
+  {
+    "id": "rest-60",
+    "name": "Kyogoku Kaneyo",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Central Kyoto",
+    "hours": "11:30-16:00, 17:00-20:30",
+    "closed": "Tuesday nights, Wednesdays",
+    "price": "~2,000-4,000 yen/pp",
+    "whatToOrder": "Kinshi-don -- eel over rice topped with a thin egg omelet (the house signature). Rich, sweet-savory glazed eel.",
+    "notes": "Unagi is a quintessential Japanese experience. This spot is recommended by the Ritz-Carlton concierge.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-61",
+    "name": "Matcha everything",
+    "city": "Kyoto",
+    "category": ""
+  },
+  {
+    "id": "rest-62",
+    "name": "Hikiniku to Come",
+    "city": "Kyoto",
+    "category": "",
+    "address": "Near Kawaramachi, Kyoto (walking distance from Hotel Forza)",
+    "hours": "Lunch and dinner, check current schedule",
+    "price": "~1,500-2,000 yen/pp",
+    "reservations": "Walk-in only, expect a queue (especially Golden Week)",
+    "whatToOrder": "The signature charcoal-grilled hamburger patty with rice and miso soup. Hand-chopped beef grilled over binchotan charcoal. Simple, perfect.",
+    "notes": "Cult-favorite Kyoto spot that's blown up on Instagram. The patties are juicy and smoky — nothing like a Western hamburger. Served with rice, miso soup, and pickles. Worth the wait. Best for lunch or early dinner to beat the queue.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-63",
+    "name": "Dotonbori",
+    "city": "Osaka",
+    "neighborhood": "Dotonbori",
+    "category": "",
+    "address": "Dotonbori-dori and surrounding streets, Chuo-ku, Osaka (walking distance from your hotel)",
+    "hours": "Most stalls and restaurants 11:00-23:00+",
+    "payment": "Mix of cash and cards; bring cash",
+    "notes": "This is the beating heart of Osaka food culture. Neon-lit, chaotic, delicious. Your hotel is right here. Go multiple times -- once at night for the atmosphere, once during the day to actually taste things carefully.",
+    "goldenWeek": "May 4-6 will be PACKED. Your birthday dinner May 6 reservation is smart -- walk-in dining will have long waits.",
+    "tags": [
+      "Cash Only"
+    ]
+  },
+  {
+    "id": "rest-64",
+    "name": "Shinsekai",
+    "city": "Osaka",
+    "neighborhood": "Shinsekai",
+    "category": "",
+    "address": "Shinsekai, Naniwa-ku, Osaka (about 15 min subway from your hotel)",
+    "hours": "Many stalls 11:00-21:00+",
+    "notes": "Feels like stepping back 50 years. This is old-school Osaka. The Tsutenkaku Tower is here if you want a landmark. Less touristy than Dotonbori, more authentically gritty."
+  },
+  {
+    "id": "rest-65",
+    "name": "Umaiya",
+    "city": "Osaka",
+    "category": "",
+    "address": "4-21 Naniwacho, Kita Ward, Osaka",
+    "hours": "Check current hours",
+    "price": "~500-800 yen for a serving",
+    "whatToOrder": "Their unconventional style -- no bonito flakes, no nori, no green onions, no mayo. Just crispy tenkasu and pickled ginger inside the batter. Pure takoyaki essence.",
+    "notes": "This is different from every other takoyaki you will find. Locals consider it among the best. Stripping away the toppings lets you taste the batter and octopus.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-66",
+    "name": "Takotsubo",
+    "city": "Osaka",
+    "category": "",
+    "address": "Confirm via Tabelog (not in tourist center)",
+    "hours": "Check current",
+    "price": "~500-800 yen",
+    "whatToOrder": "Classic Osaka-style takoyaki. Crispy exterior, molten center.",
+    "notes": "Listed on the Michelin guide five times. Away from tourist crowds -- this is where locals go.",
+    "tags": [
+      "Michelin",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-67",
+    "name": "Oko Takoyaki",
+    "city": "Osaka",
+    "neighborhood": "Shinsaibashi",
+    "category": "",
+    "address": "Along Shinsaibashi, Osaka",
+    "hours": "Check current",
+    "price": "~500-800 yen",
+    "whatToOrder": "Creative variations on classic takoyaki. Locals call this the best in Osaka.",
+    "notes": "Small restaurant filled with authenticity. Near your hotel in Shinsaibashi.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-68",
+    "name": "Sanchan-Ya",
+    "city": "Osaka",
+    "neighborhood": "Umeda",
+    "category": "",
+    "address": "Near Nakatsu Station (1 stop from Umeda on Midosuji Line)",
+    "hours": "Check current",
+    "price": "~500-700 yen",
+    "whatToOrder": "Generous chunks of octopus, perfectly crispy exterior. Authentic local hole-in-the-wall.",
+    "notes": "One subway stop from Umeda. Worth the detour for serious takoyaki.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-69",
+    "name": "Kiji (Michelin Bib Gourmand)",
+    "city": "Osaka",
+    "neighborhood": "Umeda",
+    "category": "",
+    "address": "Shin-Umeda Shokudogai, 9-20 Kakuda-cho, Kita-ku, Osaka (also a branch in Umeda Sky Building basement)",
+    "hours": "11:30-21:30",
+    "closed": "Sundays",
+    "price": "~800-1,500 yen/pp",
+    "reservations": "None accepted at main location",
+    "payment": "Cash preferred",
+    "whatToOrder": "Butatama (pork and egg) or the modanyaki (with noodles). The secret is the ooba (perilla leaf) mixed in -- gives it a unique, zingy freshness.",
+    "notes": "Michelin Bib Gourmand for good reason. 50+ years in business. Located in Shin-Umeda Shokudo-gai, a bustling underground dining street with ~100 establishments. Expect 30-45 min wait at peak hours.",
+    "goldenWeek": "Closed Sundays. Go on a weekday.",
+    "tags": [
+      "Michelin",
+      "Top Pick",
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-70",
+    "name": "Mizuno",
+    "city": "Osaka",
+    "neighborhood": "Dotonbori",
+    "category": "",
+    "address": "Dotonbori, Osaka (walking distance from your hotel)",
+    "hours": "11:00-22:00 (check current)",
+    "price": "~1,000-2,000 yen/pp",
+    "reservations": "Check if accepted; often walk-in with queue",
+    "whatToOrder": "Yamaimo-yaki (mountain yam base makes it incredibly fluffy) or the seafood deluxe. Featured on Netflix.",
+    "notes": "Open since 1945, third generation. One of the most famous okonomiyaki restaurants in Japan. The mountain yam batter makes their version noticeably lighter and fluffier than competitors.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-71",
+    "name": "Ajinoya",
+    "city": "Osaka",
+    "neighborhood": "Namba",
+    "category": "",
+    "address": "Namba area, Osaka",
+    "hours": "Lunch and dinner",
+    "price": "~1,000-2,000 yen/pp",
+    "whatToOrder": "Traditional okonomiyaki with decades of refined technique.",
+    "notes": "Bib Gourmand certified. Very authentic vibe, frequented by locals. Less tourist-heavy than Mizuno.",
+    "tags": [
+      "Michelin",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-72",
+    "name": "Hozenji-yokocho Yakizen",
+    "city": "Osaka",
+    "neighborhood": "Dotonbori",
+    "category": "",
+    "address": "Hozenji-yokocho (narrow cobblestone alley near Dotonbori Canal)",
+    "hours": "Check current",
+    "price": "~1,000-1,500 yen/pp",
+    "whatToOrder": "Traditional okonomiyaki served over the bar. The setting in the atmospheric alley is magical.",
+    "notes": "Hozenji-yokocho is one of Osaka's most charming alleys -- stone-paved, lantern-lit, with a moss-covered Buddhist statue. Your birthday dinner restaurant (Matsuzaka Gyu Yakiniku M Hozenji-Hanare) is also in this alley! Combine an okonomiyaki lunch here with scouting the area before your birthday dinner.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-73",
+    "name": "Matsuzaka Gyu Yakiniku M Hozenji-Hanare",
+    "city": "Osaka",
+    "category": "",
+    "address": "Hozenji-yokocho, Osaka",
+    "notes": "Already confirmed. Happy 40th birthday, Brad!"
+  },
+  {
+    "id": "rest-74",
+    "name": "Shinsaibashi Yakiniku En",
+    "city": "Osaka",
+    "neighborhood": "Shinsaibashi",
+    "category": "",
+    "address": "Near Shinsaibashi Station, Osaka (walking distance from hotel)",
+    "hours": "Dinner hours",
+    "price": "~5,000-8,000 yen/pp",
+    "whatToOrder": "Premium Kuroge Wagyu selections. They offer A5 beef at prices that feel too good.",
+    "notes": "Private rooms available. Relaxed atmosphere. Good option for a casual yakiniku night separate from your birthday dinner.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-75",
+    "name": "298",
+    "city": "Osaka",
+    "category": "",
+    "address": "Multiple Osaka locations",
+    "hours": "Varies",
+    "price": "All-you-can-eat from 1,100 yen/pp (!!)",
+    "whatToOrder": "Their 1,980 yen course with short rib, tongue, and harami (skirt steak) is the sweet spot.",
+    "notes": "Unbelievable value. Not premium wagyu, but solid quality at an absurd price. Good for a casual group meal if you want yakiniku without the splurge. Also has a 1,480 yen course featuring beef tongue.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-76",
+    "name": "Yaekatsu",
+    "city": "Osaka",
+    "neighborhood": "Shinsekai",
+    "category": "",
+    "address": "Shinsekai, Osaka",
+    "hours": "Check current",
+    "price": "~1,500-3,000 yen/pp",
+    "whatToOrder": "Assorted kushikatsu -- meat, seafood, vegetables. The batter here has been perfected over 75+ years.",
+    "notes": "Hidden gem locals love. Staff will help even though menu is in Japanese. Way better than Daruma for actual food quality.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-77",
+    "name": "Kushikatsu Kei",
+    "city": "Osaka",
+    "category": "",
+    "address": "5 min walk from Midoribashi Station, Osaka Metro Chuo Line",
+    "hours": "Check current",
+    "price": "~2,000-4,000 yen/pp",
+    "whatToOrder": "Vegetable kushikatsu is surprisingly excellent here. Their house sauce is mixed with chicken broth -- the \"phantom sauce.\"",
+    "notes": "Beautiful setting in a renovated private house with exposed historical beams. Elevated kushikatsu experience. Not a tourist spot at all.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-78",
+    "name": "Shichifukujin",
+    "city": "Osaka",
+    "neighborhood": "Tenma",
+    "category": "",
+    "address": "Tenma, Osaka",
+    "hours": "Evening",
+    "price": "~1,500-3,000 yen/pp",
+    "whatToOrder": "Kushikatsu + oden (simmered dishes) + cheap draft beer. Counter-seat only.",
+    "notes": "Super popular with locals. The oden is a great palate cleanser between fried skewers. Tenma is a fantastic local neighborhood for bar hopping.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-79",
+    "name": "Kushikatsu Daruma",
+    "city": "Osaka",
+    "neighborhood": "Dotonbori",
+    "category": "",
+    "address": "Multiple Dotonbori locations (the angry-faced sign is unmistakable)",
+    "hours": "11:00-22:00+",
+    "price": "~1,500-3,000 yen/pp",
+    "reservations": "Walk-in",
+    "payment": "Cards accepted",
+    "whatToOrder": "Assorted set. Classic Osaka-style kushikatsu.",
+    "notes": "Yes, it is touristy. Yes, the food is still genuinely good. Worth trying once for the atmosphere, but the spots above are where locals actually eat. RULE: never double-dip in the communal sauce.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-80",
+    "name": "Shoyu-Ramen Sodaisho",
+    "city": "Osaka",
+    "category": "",
+    "address": "Temma, Osaka",
+    "hours": "Check current",
+    "price": "~800-1,200 yen/pp",
+    "whatToOrder": "Shoyu chicken-clam ramen. Baseball-themed decor. Light, flavorful, satisfying.",
+    "notes": "Long-running local favorite in Temma. Removed from the Dotonbori tourist grind. Authentically local experience.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-81",
+    "name": "Chukasoba Kazura",
+    "city": "Osaka",
+    "category": "",
+    "address": "Awaza, Osaka",
+    "hours": "Check current",
+    "price": "~900-1,200 yen/pp",
+    "whatToOrder": "Shoyu chicken ramen with a \"mousse-like\" broth -- fabulously light and airy. A cut above the rest.",
+    "notes": "Queue with the locals. Worth it.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-82",
+    "name": "Hifumi",
+    "city": "Osaka",
+    "category": "",
+    "address": "Koubai-cho, Osaka",
+    "hours": "Check current",
+    "price": "~800-1,000 yen/pp",
+    "whatToOrder": "Rich tonkotsu (pork bone) ramen -- authentic Hakata style transplanted to Osaka. Creamy, porky, with thin firm noodles.",
+    "notes": "If you are craving that thick Hakata-style tonkotsu, this is your spot.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-83",
+    "name": "Harukoma (Tenjinbashi)",
+    "city": "Osaka",
+    "neighborhood": "Tenjinbashi",
+    "category": "",
+    "address": "5-5-2 Tenjinbashi, Kita Ward, Osaka (in the Tenjinbashi shopping arcade, near Tenjinbashisuji-Rokuchome Station)",
+    "hours": "11:00-21:30 (closes when fish runs out)",
+    "closed": "Check current (may close irregular days)",
+    "price": "~1,300-2,000 yen/pp (regular items 100-250 yen, premium 300-450 yen)",
+    "reservations": "Recommended for peak times; walk-in with potential 30-60 min wait",
+    "payment": "Cash preferred",
+    "whatToOrder": "A la carte -- toro, uni, anago (sea eel), ikura. The portions are famously generous. 3 people ate until full for 4,000 yen total.",
+    "notes": "Locals' favorite sushi in Osaka. Insane value -- quality fish at prices that seem impossible. Located in Japan's longest shopping arcade (Tenjinbashisuji). Arrive early to minimize wait.",
+    "tags": [
+      "Top Pick",
+      "Cash Only",
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-84",
+    "name": "Sushi Kappou Mori",
+    "city": "Osaka",
+    "category": "",
+    "address": "Confirm via Tabelog",
+    "hours": "Lunch and dinner",
+    "price": "Under 5,000 yen for 12-piece nigiri course with 3 small plates and soup",
+    "reservations": "Recommended",
+    "whatToOrder": "Full course -- 12 pieces of nigiri, three small plates, and soup. Locals say \"gourmet quality at half price.\"",
+    "notes": "Outstanding value. Less well-known than Harukoma, which means shorter waits.",
+    "tags": [
+      "Must Order"
+    ]
+  },
+  {
+    "id": "rest-85",
+    "name": "Echizen Sushi",
+    "city": "Osaka",
+    "neighborhood": "Shinsaibashi",
+    "category": "",
+    "address": "Shinsaibashi, Osaka",
+    "hours": "Lunch and dinner",
+    "price": "Lunch 1,000-3,000 yen/pp",
+    "whatToOrder": "Lunch set -- cheap, delicious, loved by locals. Walking distance from Cross Hotel.",
+    "notes": "Convenient location near your hotel for a quick, quality sushi lunch.",
+    "tags": [
+      "Must Order"
+    ]
+  }
+]

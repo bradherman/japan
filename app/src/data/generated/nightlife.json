@@ -1,0 +1,838 @@
+{
+  "venues": [
+    {
+      "id": "venue-0",
+      "name": "JBS Jazz Bar",
+      "city": "Tokyo",
+      "neighborhood": "Shibuya",
+      "category": "Other",
+      "address": "1-17-10 Dogenzaka, Shibuya-ku, Tokyo",
+      "hours": "Daily 2pm–11pm",
+      "cover": "No cover charge (rare for Tokyo listening bars)",
+      "price": "~500 yen — includes Japanese whiskies (Suntory, Nikka single malts)",
+      "vibe": "Intimate vinyl sanctuary tucked into Shibuya's Dogenzaka. Over 10,000 records, primarily jazz. Warm analog sound. The owner serves tea and coffee during the day, beer and spirits at night. Feels like being in someone's personal collection. Very local crowd.",
+      "whyGo": "No cover, walking distance from Shibuya Granbell Hotel, massive jazz vinyl collection, and it opens at 2pm so it works for afternoon listening sessions too.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-1",
+      "name": "Grandfather's",
+      "city": "Tokyo",
+      "neighborhood": "Shibuya",
+      "category": "Other",
+      "address": "Below street level in Shibuya (exact address: confirm via Google Maps \"Grandfather's Shibuya listening bar\")",
+      "hours": "Evening (~7pm onward, check current hours)",
+      "cover": "Likely small table charge",
+      "vibe": "Underground listening bar since 1971. Owner Toru Ishikawa curated 2,000+ albums — specifically Billboard hits of the 70s and 80s. Dark wood, dim lights, faint cigarette smoke. Vintage sound system. Cold Suntory highball. This is described as \"the source\" of Japan's listening bar culture — the bar that inspired listening bars worldwide.",
+      "whyGo": "50+ years of history. Walking distance from your hotel. The most authentic listening bar experience in Tokyo. One Instagram creator who visits listening bars globally said \"for the first time, it feels like I've reached the source.\" This is where the movement started.",
+      "tags": [
+        "Top Pick",
+        "Instagram Rec"
+      ]
+    },
+    {
+      "id": "venue-2",
+      "name": "Record Bar Analog",
+      "city": "Tokyo",
+      "neighborhood": "Shibuya",
+      "category": "Other",
+      "address": "2-20-9 Dogenzaka, Ryuko Bldg 3F, Shibuya-ku (in the Hyakkendana district)",
+      "hours": "Daily 7pm–3am",
+      "cover": "1,000 yen table charge",
+      "vibe": "Hidden on the 3rd floor of a building in Shibuya's Hyakkendana (a grid of narrow alleys full of bars). Retro-chic with dim lighting and vintage decor. The sound system is a vintage Altec speaker and amplifier with a Garrard 301 turntable (developed in the 1950s for BBC). Browse the record racks freely and take your pick to the counter with the pin badge from your table to request a play.",
+      "whyGo": "Interactive — you choose the records. Late hours (until 3am). Walk-in only, no reservations.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-3",
+      "name": "Ginza Music Bar",
+      "city": "Tokyo",
+      "neighborhood": "Ginza",
+      "category": "Other",
+      "address": "7-8-13 Ginza, Chuo-ku, Tokyo",
+      "hours": "Mon–Sat 7pm–4am, Closed Sunday",
+      "cover": "Reportedly around 2,000–3,000 yen",
+      "vibe": "Plush royal-blue seating, polished wood surfaces, impressive Tannoy speakers. A side project of DJ Shinichi Osawa and coffee producer Nobuhiro Toriba. 3,000 vinyl records and a serious DJ setup. The crowd skews sophisticated; this is a destination bar.",
+      "whyGo": "Late hours (until 4am), world-class sound system, beautifully designed space."
+    },
+    {
+      "id": "venue-4",
+      "name": "Little Soul Cafe",
+      "city": "Tokyo",
+      "neighborhood": "Shimokitazawa",
+      "category": "Other",
+      "address": "Shimokitazawa (exact address best confirmed via Google Maps — it is small and easy to miss)",
+      "hours": "Opens 9pm nightly",
+      "cover": "Minimal or none (drink minimum)",
+      "vibe": "A Shimokitazawa institution since 1999. Narrow, corridor-like space crammed with over 15,000 vinyl records. Warm orange lighting. The focus is soul, funk, jazz, and dance music. The owner curates the selections with deep knowledge. It feels like drinking inside a record collection.",
+      "whyGo": "15,000+ records focused on soul/funk. Pairs well with an evening exploring Shimokitazawa's bohemian bar scene."
+    },
+    {
+      "id": "venue-5",
+      "name": "Record Bar 33 1/3rpm",
+      "city": "Tokyo",
+      "neighborhood": "Shibuya",
+      "category": "Other",
+      "address": "Near Shibuya Station (Dogenzaka area)",
+      "hours": "Evening hours (confirm via website: 33-1-3rpm.com)",
+      "cover": "1,540 yen per person",
+      "vibe": "Opened in 2013, designed specifically around analog music and alcohol. 6,000 records covering mainly UK/US rock and pop. Clean, modern interior with good seating.",
+      "whyGo": "Strong rock and pop collection (complements the jazz-heavy JBS)."
+    },
+    {
+      "id": "venue-6",
+      "name": "The Music Bar",
+      "city": "Tokyo",
+      "category": "Other",
+      "address": "Shibuya (relocated from Yoyogi in 2021)",
+      "hours": "Evening hours",
+      "cover": "Check on arrival",
+      "vibe": "Over 3,000 hand-selected vinyls curated by musician Takeshi Kobayashi. Fancy cocktails, spinny bar stools, plush setting. Records lean toward easy listening classics with soul, funk, and disco.",
+      "whyGo": "More upscale listening bar experience, good cocktails alongside the vinyl."
+    },
+    {
+      "id": "venue-7",
+      "name": "Bar Martha",
+      "city": "Tokyo",
+      "neighborhood": "Ebisu",
+      "category": "Other",
+      "address": "Ebisu area (small, unmarked — best to look up exact address on Google Maps before going)",
+      "hours": "Evening",
+      "cover": "Check on arrival",
+      "vibe": "One of the most revered listening bars in Tokyo. Intimate, audiophile-grade setup. Quiet, focused atmosphere. The kind of place regulars go to sit and really listen.",
+      "whyGo": "Legendary status among listening bar devotees. Close to Shibuya."
+    },
+    {
+      "id": "venue-8",
+      "name": "Lion Cafe",
+      "city": "Tokyo",
+      "neighborhood": "Shibuya",
+      "category": "Other",
+      "address": "2-19-13 Dogenzaka, Shibuya-ku",
+      "hours": "Daily 11am–10:30pm",
+      "cover": "None (just buy a drink)",
+      "vibe": "Not a \"bar\" per se, but Japan's oldest music kissa, open since 1926. Classical music only, played at high volume through vintage speakers. Mobile phones are banned. Talking is discouraged. Two-story space that feels like a baroque cinema. Go during the afternoon for a singular, meditative experience.",
+      "whyGo": "Historical significance. A completely unique experience. Walking distance from Shibuya hotel."
+    },
+    {
+      "id": "venue-9",
+      "name": "Shinjuku Pit Inn",
+      "city": "Tokyo",
+      "category": "Other",
+      "address": "Near Shinjuku-sanchome Station (2-min walk from exit C8, Toei Shinjuku Line)",
+      "hours": "Daytime shows + evening shows",
+      "cover": "Daytime: 1,300 yen (1 drink included); Weekends: from 2,500 yen; Evening: from 3,000 yen (1 drink included)",
+      "vibe": "The legendary Tokyo jazz club. Operating since 1966 (reopened at current location 1992). The focus is Japanese jazz — avant-garde, free jazz, fusion, and straight-ahead. Basement setting, no-frills, all about the music. Late-night jam sessions are where the magic happens.",
+      "whyGo": "The most important jazz club in Japan. Affordable cover. You will hear musicians you cannot hear anywhere else.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-10",
+      "name": "Jazz Bar Samurai",
+      "city": "Tokyo",
+      "neighborhood": "Shinjuku",
+      "category": "Other",
+      "address": "3-35-5 Shinjuku, Shinjuku-ku, Tokyo, Mamoru Bldg 5F",
+      "hours": "Evening (check current hours)",
+      "cover": "Small table charge, drinks ~¥700",
+      "vibe": "A husband-and-wife team have run this vinyl jazz bar since 1979. 2,500+ maneki-neko (lucky cats) line every surface — walls, cabinets, shelves. Owner Miyazaki-san collected them during his time in 1970s New York. Signed album sleeves on the walls. All vinyl jazz, picked by the owner. Super cozy, deeply quirky.",
+      "whyGo": "There is literally no other bar like this on earth. The combination of 45+ years of history, vinyl jazz curation, and 2,500 lucky cats is otherworldly. Walking distance from Shinjuku Pit Inn — do both in one evening.",
+      "tags": [
+        "Instagram Rec"
+      ]
+    },
+    {
+      "id": "venue-11",
+      "name": "Body & Soul",
+      "city": "Tokyo",
+      "neighborhood": "Aoyama",
+      "category": "Other",
+      "address": "Aoyama area, Minato-ku (look up current address — the club has moved before)",
+      "hours": "Evening shows, typically 7:30pm and 9:30pm sets",
+      "cover": "Around 4,000–7,000 yen depending on the act",
+      "vibe": "Run by Kyoko Seki, one of the most important jazz promoters in Japan. Intimate room, exceptional booking. The artists who play here are top-tier. More refined than Pit Inn — think straight-ahead jazz and modern creative jazz.",
+      "whyGo": "World-class jazz in an intimate setting. Check the schedule for your dates."
+    },
+    {
+      "id": "venue-12",
+      "name": "Eagle",
+      "city": "Tokyo",
+      "neighborhood": "Yoyogi-Uehara",
+      "category": "Other",
+      "address": "Yoyogi-Uehara area",
+      "hours": "Evening",
+      "cover": "Drink minimum",
+      "vibe": "One of the longest-running jazz kissaten in Tokyo (since 1967). Sleek, cool interior. Pure listening — jazz records on a premium system. No live music; this is a jazz kissa (listening cafe/bar). Darker, moodier atmosphere.",
+      "whyGo": "The jazz kissa experience at its finest. Historical importance. A counterpart to the live jazz of Pit Inn."
+    },
+    {
+      "id": "venue-13",
+      "name": "Pres Jazz Bar",
+      "city": "Tokyo",
+      "category": "Other",
+      "address": "Tokyo (confirm exact location)",
+      "hours": "Evening",
+      "cover": "Drink minimum",
+      "vibe": "Dimly lit basement bar with leather stools and walls of vinyl records and CDs. Jazz-focused selection. Intimate, unpretentious, the kind of place where you sink into a chair and let the music wash over you."
+    },
+    {
+      "id": "venue-14",
+      "name": "Blue Note Tokyo",
+      "city": "Tokyo",
+      "neighborhood": "Aoyama",
+      "category": "Other",
+      "address": "6-3-16 Minamiaoyama, Minato-ku",
+      "hours": "Two shows nightly (typically 7pm and 9:30pm)",
+      "cover": "5,000–15,000+ yen depending on artist",
+      "vibe": "The Tokyo outpost of the famous NYC club. International headliners, polished sound, upscale dining. This is the opposite of a hidden gem — it is a well-oiled machine for premium jazz.",
+      "whyGo": "Only if a specific artist you love is playing. Otherwise, Pit Inn and Body & Soul offer more authentic experiences at lower cost."
+    },
+    {
+      "id": "venue-15",
+      "name": "Bar Benfiddich",
+      "city": "Tokyo",
+      "neighborhood": "Nishishinjuku",
+      "category": "Other",
+      "address": "1-13-7 Nishishinjuku, Shinjuku-ku, Tokyo",
+      "hours": "Two seatings: 7:00–8:55pm and 9:00pm onward",
+      "price": "~2,500–4,000 yen per cocktail",
+      "vibe": "Ranked No. 18 in the World's 50 Best Bars 2025. Bartender Hiroyasu Kayama has no menu — he crafts drinks based on seasonal produce, many of which he grows himself on a farm outside Tokyo. Absinthe, herbal liqueurs, and botanical ingredients ground in a mortar and pestle at the bar. Dark, intimate, wizardly.",
+      "whyGo": "One of the best bars on the planet. The \"no menu\" approach means every visit is unique. Absolutely unmissable for cocktail lovers.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-16",
+      "name": "The SG Club",
+      "city": "Tokyo",
+      "neighborhood": "Shibuya",
+      "category": "Other",
+      "address": "1-7-8 Jinnan, Shibuya-ku",
+      "hours": "Mon–Thu 11:30am–2:00am; Fri 11:30am–3:00am",
+      "price": "~2,000–3,500 yen per cocktail",
+      "vibe": "Two-level concept by legendary bartender Shingo Gokan. Ground floor (\"Guzzle\") is casual highballs and quick drinks. Basement (\"Sip\") is the serious cocktail bar — darker, more intimate, with meticulous craft cocktails. Shibuya location makes it incredibly convenient from your hotel.",
+      "whyGo": "Walking distance from Shibuya Granbell. World-class cocktails. Late hours. The two-floor concept means you can do casual or serious depending on your mood.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-17",
+      "name": "Gen Yamamoto",
+      "city": "Tokyo",
+      "neighborhood": "Azabu-Juban",
+      "category": "Other",
+      "address": "1-6-4 Azabu-Juban, Minato-ku",
+      "hours": "Tue–Sun 3pm–11pm, Closed Monday",
+      "price": "~8,000–10,000 yen for an omakase course of 4–6 cocktails",
+      "vibe": "Cocktail omakase. Eight seats at a counter. Gen Yamamoto makes seasonal cocktails using Japanese fruits and ingredients with minimal sugar and no artificial flavors. Each drink is a revelation. The space is austere, minimal, almost spiritual.",
+      "whyGo": "The most unique cocktail experience in Tokyo. Treat it like a fine dining reservation. Not a place to get drunk — a place to taste."
+    },
+    {
+      "id": "venue-18",
+      "name": "The Bellwood",
+      "city": "Tokyo",
+      "neighborhood": "Shibuya",
+      "category": "Other",
+      "address": "41-31 Udagawacho, Shibuya-ku",
+      "hours": "6pm–2am",
+      "price": "~2,500–4,000 yen per cocktail",
+      "vibe": "Ranked No. 48 in World's 50 Best Bars 2025. Transforms traditional kaiseki cuisine concepts into cocktails. There is also a hidden sushi counter (Bell Sushi) in the back that serves inventive nigiri alongside exclusive mixed drinks. Stylish without being pretentious.",
+      "whyGo": "Another Shibuya gem within walking distance. The kaiseki-cocktail concept is genuinely innovative. Book the sushi counter for a combined experience."
+    },
+    {
+      "id": "venue-19",
+      "name": "Bar Trench / Bar Tram / Bar Triad",
+      "city": "Tokyo",
+      "neighborhood": "Ebisu",
+      "category": "Other",
+      "address": "Ebisu area (three sister bars within walking distance of each other)",
+      "hours": "Evening–late",
+      "price": "~1,500–2,500 yen per cocktail",
+      "vibe": "A trio of bars by Rogerio Igarashi Vaz. Bar Trench focuses on absinthe and herbal spirits. Bar Tram is the classic cocktail bar. Bar Triad is the experimental one. All three are in Ebisu, making for a perfect bar crawl. More affordable than the World's 50 Best places.",
+      "whyGo": "A three-bar crawl in one neighborhood. Less hype, more substance. Ebisu is close to Shibuya."
+    },
+    {
+      "id": "venue-20",
+      "name": "UFO Club",
+      "city": "Tokyo",
+      "neighborhood": "Koenji",
+      "category": "Other",
+      "address": "Near Higashi-Koenji Station (basement of a building near a Family Mart at an intersection)",
+      "cover": "Typically 1,500–2,500 yen",
+      "vibe": "THE psychedelic rock venue in Tokyo. Interior designed by Shintaro Sakamoto (of Yura Yura Teikoku). The decor is like being inside a lava lamp. Books psych, noise, avant-garde, garage, and 60s/70s-inspired rock. This is the spiritual home of the Tokyo psych scene that produced Kikagaku Moyo.",
+      "whyGo": "If you love Kikagaku Moyo, this is ground zero. Check tokyogigguide.com for the schedule in late April.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-21",
+      "name": "Muryoku Muzenji",
+      "city": "Tokyo",
+      "neighborhood": "Koenji",
+      "category": "Other",
+      "address": "Under the railway tracks, Koenji",
+      "cover": "~1,500–2,000 yen",
+      "vibe": "Tiny, cramped venue squeezed under the train tracks. Cat-themed decor everywhere. Virtually no PA system — the rawness is the point. Noise, experimental, punk, psych. If UFO Club is the lava lamp, this is the basement you weren't supposed to find.",
+      "whyGo": "Maximally underground. Pair with UFO Club for a Koenji double-header."
+    },
+    {
+      "id": "venue-22",
+      "name": "Koenji High",
+      "city": "Tokyo",
+      "neighborhood": "Koenji",
+      "category": "Other",
+      "address": "Near Koenji temple area",
+      "cover": "~1,500–2,500 yen",
+      "vibe": "Less grungy than the others, more polished. Hosts indie, electropop, and alternative acts. Attached Amp Cafe is a chill space with local art and occasional mini shows. A good starting point if Muryoku Muzenji feels too raw."
+    },
+    {
+      "id": "venue-23",
+      "name": "Basement Bar & THREE",
+      "city": "Tokyo",
+      "neighborhood": "Shimokitazawa",
+      "category": "Other",
+      "address": "Chazawa Dori, Shimokitazawa (below a liquor store and a doctor's clinic)",
+      "cover": "~1,500–2,500 yen",
+      "vibe": "Two venues in one building. Basement Bar is indie, punk, and rock. THREE is more eclectic — experimental jazz, rockabilly, hip-hop alongside indie and punk. Capacity ~250 for THREE. Cheap drinks, packed schedule, enthusiastic staff.",
+      "whyGo": "Something playing almost every night. Shimokitazawa is a natural pair with Little Soul Cafe for a vinyl + live music evening."
+    },
+    {
+      "id": "venue-24",
+      "name": "Shelter",
+      "city": "Tokyo",
+      "neighborhood": "Shimokitazawa",
+      "category": "Other",
+      "address": "2-6-10 Kitazawa, Setagaya-ku, Tokyo (Senda Bldg B1)",
+      "cover": "~2,000–2,500 yen",
+      "vibe": "One of Shimokitazawa's most famous music clubs. At least one performance daily, usually hard rock. Dark, loud, sweaty basement energy."
+    },
+    {
+      "id": "venue-25",
+      "name": "Koenji",
+      "city": "Tokyo",
+      "neighborhood": "Most Authentic",
+      "category": "Other",
+      "vibe": "Tokyo's bohemian heart. Under the elevated train tracks, \"Koenji Street\" is lined with micro-bars. Full of underground live music venues. Tourists are genuinely rare here. Punk, psych, noise culture. Cheap drinks, eccentric locals, zero pretense.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-26",
+      "name": "Nonbei Yokocho / \"Drunkard's Alley\"",
+      "city": "Tokyo",
+      "neighborhood": "Shibuya",
+      "category": "Other",
+      "vibe": "Tiny alley of micro-bars, similar concept to Golden Gai but significantly less touristy. Locals still form the majority of patrons. Two strips — the main one and a more hidden strip with an even more local scene. The bars seat 5–8 people each."
+    },
+    {
+      "id": "venue-27",
+      "name": "Harmonica Yokocho",
+      "city": "Tokyo",
+      "neighborhood": "Kichijoji",
+      "category": "Other",
+      "vibe": "A maze of tiny drinking alleys rivaling Golden Gai and Nonbei Yokocho. Red lanterns beckon from micro-bars. Kichijoji is a beloved residential neighborhood — the crowd is local professionals and students. Much less touristy than Shinjuku."
+    },
+    {
+      "id": "venue-28",
+      "name": "Shimokitazawa",
+      "city": "Tokyo",
+      "category": "Other",
+      "vibe": "Bohemian neighborhood known for vintage shops, live music, and indie culture. At night, the streets fill with young creatives bar-hopping between tiny establishments. The live music scene is the draw — combine Little Soul Cafe, Basement Bar, and whatever else you stumble into."
+    },
+    {
+      "id": "venue-29",
+      "name": "Ebisu Yokocho",
+      "city": "Tokyo",
+      "neighborhood": "Ebisu",
+      "category": "Other",
+      "vibe": "Alleyway maze of bars and restaurants. Less known by foreign tourists than Golden Gai. More food-focused than pure drinking — great for starting an evening with yakitori and beer before heading to the cocktail bars (Bar Trench/Tram/Triad are all in Ebisu)."
+    },
+    {
+      "id": "venue-30",
+      "name": "P.M. Sounds Kyoto",
+      "city": "Kyoto",
+      "category": "Other",
+      "address": "71-21 Nakagyo-ku, Kyoto (along Kiyamachi Street)",
+      "hours": "Evening (confirm on arrival)",
+      "cover": "Drink minimum",
+      "vibe": "Kyoto's vinyl sanctuary. Shelves line the wall with jazz records (worn spines), city pop in bright pastels, rock, soul, electronic. Each record chosen with care. Intimate counter seating. Measured pours. The bartender curates the sound with the precision of a sommelier choosing wine.",
+      "whyGo": "Walking distance from your hotel (Hotel Forza is right at Shijo Kawaramachi, P.M. Sounds is on nearby Kiyamachi). The most authentic listening bar experience in Kyoto.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-31",
+      "name": "Ginza Music Bar Kyoto",
+      "city": "Kyoto",
+      "category": "Other",
+      "address": "Kyoto (opened summer 2025 — confirm exact location)",
+      "hours": "Daily noon–midnight",
+      "cover": "Check on arrival",
+      "vibe": "The Kyoto branch of Tokyo's legendary Ginza Music Bar. Custom-built sound system, curated vinyl collection. Also features a sushi counter with an exclusive omakase course. More polished and upscale than P.M. Sounds.",
+      "whyGo": "If you liked Ginza Music Bar in Tokyo, this is its Kyoto sibling. The sushi omakase + vinyl combo is unique."
+    },
+    {
+      "id": "venue-32",
+      "name": "Good Morning Record Bar",
+      "city": "Kyoto",
+      "category": "Other",
+      "address": "Kyoto (near Kiyamachi area)",
+      "hours": "Evening",
+      "cover": "Minimal",
+      "vibe": "Live DJs spinning an impressive selection of records while you sip affordable drinks in an intimate setting. More social and energetic than the quiet-listening format. One of Kyoto's most beloved bars.",
+      "whyGo": "Affordable, fun, social. Good for a night when you want conversation alongside music."
+    },
+    {
+      "id": "venue-33",
+      "name": "Record Sakaba Beatle Momo",
+      "city": "Kyoto",
+      "category": "Other",
+      "address": "Kyoto (confirm via Google Maps)",
+      "hours": "Evening",
+      "cover": "Check on arrival",
+      "vibe": "Extensive vinyl selection. Fascinating to watch the staff read song requests and immediately locate the album among hundreds on the shelves. More casual and interactive than P.M. Sounds."
+    },
+    {
+      "id": "venue-34",
+      "name": "Hachi Record Shop and Bar",
+      "city": "Kyoto",
+      "category": "Other",
+      "address": "Kyoto",
+      "hours": "Check on arrival",
+      "vibe": "Part record shop, part bar. Browse and buy vinyl while drinking. A good place to pick up records as souvenirs."
+    },
+    {
+      "id": "venue-35",
+      "name": "Hello Dolly",
+      "city": "Kyoto",
+      "neighborhood": "Pontocho",
+      "category": "Other",
+      "address": "161-2 Matsumoto-cho, Pontocho, Nakagyo-ku, Kyoto",
+      "hours": "6pm–12:30am",
+      "cover": "Varies (check for live music nights)",
+      "vibe": "Live jazz on Fridays and Saturdays — three sets at 8pm, 9:30pm, and 11pm, featuring Japanese talent. Views of the Kamo River. Located on atmospheric Pontocho alley. One of Kyoto's most storied jazz spots.",
+      "whyGo": "Live jazz + river views + Pontocho atmosphere. Your Kyoto dates include Fri May 1 and Sat May 2 — perfect for catching live sets.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-36",
+      "name": "Jazz Live Candy",
+      "city": "Kyoto",
+      "neighborhood": "Gion",
+      "category": "Other",
+      "address": "224-1 Nakanomachi, Shinmonkomae, Hanamikoji, Higashiyama-ku, Kyoto (B1)",
+      "hours": "7:30pm–11:30pm",
+      "cover": "Check on arrival (likely ~2,000–3,000 yen)",
+      "vibe": "Located on Hanamikoji in Gion — the famous geisha district. Live music every night by talented musicians. Basement setting. Authentic and atmospheric, especially given the Gion location.",
+      "whyGo": "Nightly live jazz. Combine with an evening walk through Gion."
+    },
+    {
+      "id": "venue-37",
+      "name": "Zac Baran",
+      "city": "Kyoto",
+      "category": "Other",
+      "address": "South of Kyoto University (basement location)",
+      "hours": "Evening",
+      "cover": "Varies",
+      "vibe": "Open since 1977 during Kyoto's jazz boom, one of the oldest jazz bars in the city. Hosts live performances and open mic/jam nights. Mixed crowd of students, professors, and jazz devotees. Warm, unpretentious basement atmosphere.",
+      "whyGo": "Historical importance. Open mic nights mean you might catch something completely unexpected."
+    },
+    {
+      "id": "venue-38",
+      "name": "Live Spot Rag",
+      "city": "Kyoto",
+      "category": "Other",
+      "address": "Kyoto (confirm exact location)",
+      "hours": "Live sessions start earlier, transitions to mellow drinks later",
+      "cover": "~2,500–4,000 yen for live shows",
+      "vibe": "Operating since the late 1980s. Books acoustic, fusion, jazz, and rock. International and Japanese acts. Intimate space that fills up quickly — buy tickets in advance.",
+      "whyGo": "The most serious live jazz venue in Kyoto."
+    },
+    {
+      "id": "venue-39",
+      "name": "Lush Life",
+      "city": "Kyoto",
+      "neighborhood": "near Demachiyanagi Station",
+      "category": "Other",
+      "address": "Near Demachiyanagi Station, Keihan Railway Line",
+      "hours": "Open almost daily",
+      "vibe": "Tiny jazz cafe run by Mr. and Mrs. Chaki. Very narrow space with counter seating only. Husband-and-wife operation. They help organize yearly piano recitals at nearby Kamigamo Shrine. Deeply personal, deeply local.",
+      "whyGo": "About as intimate and authentic as jazz gets. The human connection."
+    },
+    {
+      "id": "venue-40",
+      "name": "L'Escamoteur",
+      "city": "Kyoto",
+      "neighborhood": "Pontocho",
+      "category": "Other",
+      "address": "Pontocho alley, Shimogyo Ward, Kyoto",
+      "hours": "8pm–2am",
+      "cover": "Drink minimum",
+      "vibe": "Hidden speakeasy reached by descending a narrow staircase off Pontocho. The owner is an illusionist AND a master bartender — he performs magic tricks while crafting cocktails. Enchanting, theatrical, and the drinks are genuinely excellent. Dark, mysterious, intimate.",
+      "whyGo": "A magician-bartender in a hidden Pontocho basement. You will not find this experience anywhere else on earth.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-41",
+      "name": "Bee's Knees",
+      "city": "Kyoto",
+      "neighborhood": "Kiyamachi",
+      "category": "Other",
+      "address": "Nakagyo-ku, Kiyamachi Shijo-agaru, Kamiyacho 364, Matsuya Bldg 1F, Kyoto",
+      "hours": "Mon–Sat 6pm–1am, Closed Sunday",
+      "vibe": "Recognized on the 50 Best Discovery list. Sophisticated cocktail bar on Kiyamachi — the nightlife street parallel to Pontocho. Expert bartenders, well-curated spirits selection. More refined than theatrical.",
+      "whyGo": "World-class cocktails walking distance from your hotel. Open late by Kyoto standards."
+    },
+    {
+      "id": "venue-42",
+      "name": "Nokishita 711",
+      "city": "Kyoto",
+      "category": "Other",
+      "address": "Shijo-Karasuma / Shijo-Kawaramachi area, Kyoto",
+      "hours": "By reservation only",
+      "price": "Prix fixe — flight of 5 cocktails each paired with a snack",
+      "vibe": "Reservation-only cocktail omakase. Five cocktails, each with a paired bite. Similar concept to Gen Yamamoto in Tokyo but Kyoto-flavored. Intimate and deliberate.",
+      "whyGo": "The cocktail omakase experience. Book ahead."
+    },
+    {
+      "id": "venue-43",
+      "name": "Kiyamachi Street",
+      "city": "Kyoto",
+      "category": "Other",
+      "vibe": "The main nightlife strip, running parallel to the Kamo River. Bars, clubs, restaurants. Comes alive at night with an electric energy. Your hotel (Hotel Forza Shijo Kawaramachi) is essentially ON this street — walk out the door and you are in the action.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-44",
+      "name": "Pontocho Alley",
+      "city": "Kyoto",
+      "category": "Other",
+      "vibe": "The narrow atmospheric alley running parallel to the river (one block west of Kiyamachi). Historic charm, lantern-lit. More restaurants than bars, but Hello Dolly and L'Escamoteur are here. Some bars have river-facing terraces."
+    },
+    {
+      "id": "venue-45",
+      "name": "Gion District",
+      "city": "Kyoto",
+      "category": "Other",
+      "vibe": "The geisha district. At night, it is atmospheric and moody — stone streets, wooden machiya buildings, occasional glimpse of a maiko. Jazz Live Candy is here. Less rowdy than Kiyamachi."
+    },
+    {
+      "id": "venue-46",
+      "name": "Bar Sanee",
+      "city": "Osaka",
+      "category": "Other",
+      "address": "Osaka (confirm exact location)",
+      "hours": "Evening",
+      "cover": "Drink minimum",
+      "vibe": "Quietly stylish with a living room feel. Built around vintage 1950s–60s audio equipment. Vinyl library leans jazz with detours into fusion, pop, and beyond. The warmth of the old speakers is the star — you feel the music in your chest.",
+      "whyGo": "The vintage audio equipment makes this feel like a time capsule. Intimate and special.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-47",
+      "name": "Salvis Wine & Records",
+      "city": "Osaka",
+      "neighborhood": "Tenma",
+      "category": "Other",
+      "address": "Tenma area, Osaka",
+      "hours": "Evening",
+      "cover": "Check on arrival",
+      "vibe": "A wine and record shop with a SECRET BAR hidden behind a bookshelf door. Owner/sommelier Kazutomo Noguchi pays equal attention to wine quality and music crispness. Through the bookshelf is a luxurious lounge-style space.",
+      "whyGo": "Hidden door behind a bookshelf. Wine + vinyl. The speakeasy element makes it an adventure."
+    },
+    {
+      "id": "venue-48",
+      "name": "Music Bar Groovy",
+      "city": "Osaka",
+      "category": "Other",
+      "address": "Osaka (confirm via Google Maps or Tripadvisor)",
+      "hours": "Evening",
+      "cover": "Check on arrival",
+      "vibe": "Large collection focused on jazz and music from the 60s and 70s. The owner plays records on request. Social and friendly — Osaka listening bars tend to be more convivial than Tokyo's quiet-listening format. Conversation and laughter coexist with fidelity.",
+      "whyGo": "The interactive, social Osaka energy applied to a listening bar. Request your favorites."
+    },
+    {
+      "id": "venue-49",
+      "name": "Bar Jazz",
+      "city": "Osaka",
+      "category": "Other",
+      "address": "Osaka (confirm location)",
+      "hours": "Evening",
+      "vibe": "A purist's hideout with crystal-clear sound from JBL 4550BK studio monitors and a bespoke CDS mixer. The sound quality is exceptional. Jazz-focused.",
+      "whyGo": "Audiophile-grade jazz listening in Osaka."
+    },
+    {
+      "id": "venue-50",
+      "name": "The Listening Room by OJAS at Patina Osaka",
+      "city": "Osaka",
+      "category": "Other",
+      "address": "Patina Osaka hotel",
+      "hours": "Check with hotel",
+      "vibe": "Custom OJAS speakers (by Devon Turnbull) and a curated vinyl wall. High-fidelity sanctuary designed for focused listening sessions. More of a designed \"experience\" than a dive bar.",
+      "whyGo": "If you appreciate high-end audio design. The OJAS speakers are works of art themselves."
+    },
+    {
+      "id": "venue-51",
+      "name": "Milk Bar",
+      "city": "Osaka",
+      "category": "Other",
+      "address": "Osaka",
+      "hours": "Daily 7pm–1am",
+      "cover": "Check on arrival",
+      "vibe": "Good kickstart to a night out. Record bar with a more casual, social vibe."
+    },
+    {
+      "id": "venue-52",
+      "name": "Canes & Tales at Waldorf Astoria Osaka",
+      "city": "Osaka",
+      "category": "Other",
+      "address": "28th floor, Waldorf Astoria Osaka",
+      "hours": "Evening",
+      "price": "Premium (hotel bar pricing)",
+      "vibe": "Celebrating the Golden Age of Jazz. Dark green door marked only by a gold ampersand. Theatrical mixology directed by Dominic Dijkstra. Jazz plays throughout. 28th floor views. The speakeasy entrance adds drama.",
+      "whyGo": "Birthday-worthy (May 6 is Brad's 40th — birthday dinner is at Matsuzaka Gyu Yakiniku, but pre-dinner or post-dinner cocktails here would be fitting)."
+    },
+    {
+      "id": "venue-53",
+      "name": "Royal Horse",
+      "city": "Osaka",
+      "category": "Other",
+      "address": "Osaka (well-established, confirm location)",
+      "hours": "Evening, live music nightly",
+      "cover": "Varies",
+      "vibe": "Osaka's longest-running jazz club and restaurant. Live music in a great atmosphere. Known as a social gathering place for adults. The kind of place where you eat a good meal and listen to a great set.",
+      "whyGo": "Reliable live jazz every night. Dinner + jazz combo."
+    },
+    {
+      "id": "venue-54",
+      "name": "Live Jazz & Bar Proust Osaka",
+      "city": "Osaka",
+      "category": "Other",
+      "address": "Osaka (opened May 2024)",
+      "hours": "Evening",
+      "cover": "Varies",
+      "vibe": "Newer jazz club. Being new means the energy is fresh and the bookings are trying to establish a reputation."
+    },
+    {
+      "id": "venue-55",
+      "name": "The Raincoat",
+      "city": "Osaka",
+      "neighborhood": "Juso",
+      "category": "Other",
+      "address": "Juso area, Osaka",
+      "hours": "Check schedule at bar-raincoat.com/en/",
+      "vibe": "Live & Blues Bar hosting bands, solo performances, and DJs. Blues, jazz, and more. Juso is a neighborhood most tourists never visit.",
+      "whyGo": "Off the beaten path. Blues + jazz + genuine local feel."
+    },
+    {
+      "id": "venue-56",
+      "name": "Billboard Live Osaka",
+      "city": "Osaka",
+      "category": "Other",
+      "address": "HERBIS PLAZA ENT, Osaka",
+      "hours": "Two shows nightly",
+      "cover": "Varies widely by artist",
+      "vibe": "The Osaka equivalent of Blue Note Tokyo — international headliners, polished production. Jazz, pop, soul.",
+      "whyGo": "Only if a specific artist you love is on the schedule."
+    },
+    {
+      "id": "venue-57",
+      "name": "Bar Nayuta",
+      "city": "Osaka",
+      "neighborhood": "Amerikamura",
+      "category": "Other",
+      "address": "1-6-17 Nishishinsaibashi, Chuo-ku, Osaka (Mario Building 5F)",
+      "hours": "Daily 5pm–3am",
+      "cover": "No cover (drink minimum)",
+      "vibe": "Speakeasy hidden on the 5th floor of a residential-looking building near Triangle Park in Amerikamura. Enter through an Alice-in-Wonderland-sized door. NO MENU — tell the bartender your flavor preferences and they create something tailored to you. Made Asia's 50 Best Bars 2025. The entrance alone is worth the trip.",
+      "whyGo": "The tiny door, the no-menu concept, the 50 Best recognition. Walking distance from Cross Hotel Osaka. Open until 3am.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-58",
+      "name": "Bible Club Osaka",
+      "city": "Osaka",
+      "neighborhood": "Shinsaibashi",
+      "category": "Other",
+      "address": "2-1-11 Shinsaibashisuji, Chuo-ku, Osaka (Beyond Cool Building B1F)",
+      "hours": "Mon–Tue, Thu–Sat 6pm–1am; Wed 5pm–midnight; Sun 6pm–1am",
+      "cover": "800 yen seating fee (includes a small snack)",
+      "vibe": "Sister bar of Bible Club PDX in Portland. Speakeasy in Shinsaibashi accessed through an unassuming wooden door and down to the basement. Dimly lit vintage decor with American Prohibition-era vibes. Jazz plays softly. Artwork and antiques. Craft cocktails are meticulously made.",
+      "whyGo": "Walking distance from Cross Hotel Osaka. Portland connection is a fun talking point. Beautiful space. Reasonable seating fee.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-59",
+      "name": "Craftroom",
+      "city": "Osaka",
+      "neighborhood": "Umeda",
+      "category": "Other",
+      "address": "B2F, Osaka Ekimae Daiichi Building, 1-3-1 Umeda, Kita Ward, Osaka",
+      "hours": "Evening (no reservations, small space — may need to wait)",
+      "price": "Premium",
+      "vibe": "The only Osaka bar on Asia's 50 Best Bars list (2024). Helmed by 2016 World Class runner-up Ryu Fujii. Subtle signage — look carefully. Small, deliberate space where every cocktail is precisely crafted.",
+      "whyGo": "The highest-ranked cocktail bar in Osaka. Worth the trek to Umeda."
+    },
+    {
+      "id": "venue-60",
+      "name": "Confirmed/Likely Events During Your Dates:",
+      "city": "Osaka",
+      "category": "Other"
+    },
+    {
+      "id": "venue-61",
+      "name": "Venues to Check Schedules:",
+      "city": "Osaka",
+      "category": "Other"
+    },
+    {
+      "id": "venue-62",
+      "name": "Amerikamura",
+      "city": "Osaka",
+      "neighborhood": "American Village",
+      "category": "Other",
+      "vibe": "Trendy, youthful, creative. Street art, quirky shops by day; lively bars and clubs by night. Triangle Park is the social hub. Bar Nayuta is here. Live performances, themed parties. The energy is younger and more creative than Dotonbori.",
+      "tags": [
+        "Top Pick"
+      ]
+    },
+    {
+      "id": "venue-63",
+      "name": "Ura-Namba",
+      "city": "Osaka",
+      "neighborhood": "Behind Namba",
+      "category": "Other",
+      "vibe": "The \"back streets\" of Namba. Standing bars, tiny izakaya, local drinking culture. Where Osaka salarymen go after work. Gritty, authentic, cheap. The opposite of polished."
+    },
+    {
+      "id": "venue-64",
+      "name": "Hozenji Yokocho",
+      "city": "Osaka",
+      "category": "Other",
+      "vibe": "~80-meter atmospheric alley centered around Hozenji Temple. Traditional Japanese lanterns. ~50 restaurants ranging from cheap eats to Michelin-starred. Stone-paved, quiet, historic. The antithesis of neon Dotonbori despite being steps away."
+    },
+    {
+      "id": "venue-65",
+      "name": "Tenma",
+      "city": "Osaka",
+      "category": "Other",
+      "vibe": "Standing bars (tachinomi), cheap beer, unpretentious. Tenjinbashisuji shopping street by day transforms into a drinking district at night. Salvis Wine & Records is here. Very local crowd."
+    },
+    {
+      "id": "venue-66",
+      "name": "Kitahorie",
+      "city": "Osaka",
+      "category": "Other",
+      "vibe": "Quieter, more residential neighborhood with bars and restaurants at walkable distances from each other. Less chaotic than Shinsaibashi. The kind of place where you find a bar and stay a while."
+    }
+  ],
+  "itineraries": [
+    {
+      "name": "Tokyo Night 1 (Shibuya-based, with Dave & Gail)",
+      "city": "Tokyo",
+      "steps": [
+        "Start at Nonbei Yokocho (micro-bar hopping, steps from hotel)",
+        "Walk to JBS for vinyl listening (no cover, great whisky)",
+        "End at The SG Club for craft cocktails (open until 2am)"
+      ]
+    },
+    {
+      "name": "Tokyo Night 2 (Shimokitazawa)",
+      "city": "Tokyo",
+      "steps": [
+        "Take Keio Inokashira Line from Shibuya (3 min)",
+        "Little Soul Cafe (soul/funk vinyl from 9pm)",
+        "Walk to Basement Bar or THREE for live music",
+        "Shimokitazawa has plenty of tiny bars to stumble into between venues"
+      ]
+    },
+    {
+      "name": "Tokyo Night 3 (Shinjuku + Koenji)",
+      "city": "Tokyo",
+      "steps": [
+        "Bar Benfiddich for cocktails (book the 7pm slot)",
+        "Walk to Shinjuku Pit Inn for jazz (evening show from ~7:30pm)",
+        "After the show, JR Chuo Line to Koenji (~10 min)",
+        "UFO Club for psych rock (check tokyogigguide.com for schedule)",
+        "Koenji micro-bar hopping under the train tracks"
+      ]
+    },
+    {
+      "name": "Tokyo Night 4 (Upscale Ginza/Azabu evening)",
+      "city": "Tokyo",
+      "steps": [
+        "Gen Yamamoto cocktail omakase (book ahead, afternoon/early evening)",
+        "Ginza Music Bar (vinyl + cocktails until 4am)"
+      ]
+    },
+    {
+      "name": "Kyoto Night 1 (Kiyamachi + Pontocho)",
+      "city": "Kyoto",
+      "steps": [
+        "P.M. Sounds for vinyl listening (on Kiyamachi, near hotel)",
+        "Walk to Pontocho for L'Escamoteur (magic + cocktails)",
+        "If Friday/Saturday: Hello Dolly for live jazz sets"
+      ]
+    },
+    {
+      "name": "Kyoto Night 2 (Gion)",
+      "city": "Kyoto",
+      "steps": [
+        "Jazz Live Candy in Gion (live jazz from 7:30pm)",
+        "Walk through atmospheric Gion streets",
+        "Back to Kiyamachi for Bee's Knees cocktails"
+      ]
+    },
+    {
+      "name": "Osaka Night 1 (Shinsaibashi + Amerikamura)",
+      "city": "Osaka",
+      "steps": [
+        "Bible Club Osaka (speakeasy cocktails, walking distance from hotel)",
+        "Walk to Amerikamura for Bar Nayuta (no menu cocktails, open until 3am)",
+        "Explore Amerikamura bars"
+      ]
+    },
+    {
+      "name": "Osaka Night 2 (Brad's 40th Birthday — May 6)",
+      "city": "Osaka",
+      "steps": [
+        "Pre-dinner: Canes & Tales at Waldorf Astoria (28th floor jazz cocktails)",
+        "Birthday dinner: Matsuzaka Gyu Yakiniku M Hozenji-Hanare at 7pm",
+        "Post-dinner: Stroll Hozenji Yokocho",
+        "Nightcap at Music Bar Groovy or Bar Sanee for vinyl"
+      ]
+    },
+    {
+      "name": "Osaka Night 3 (Tenma + Umeda)",
+      "city": "Osaka",
+      "steps": [
+        "Salvis Wine & Records (hidden bar behind bookshelf, wine + vinyl)",
+        "Standing-bar hopping in Tenma",
+        "End at Craftroom in Umeda (Asia's 50 Best)"
+      ]
+    }
+  ]
+}

@@ -9,7 +9,7 @@ lerna-debug.log*
 
 node_modules
 dist
-src/data/generated/
+# src/data/generated/ is tracked so Cloudflare deploys always have fresh data
 dist-ssr
 *.local
 

@@ -1,0 +1,984 @@
+{
+  "male": [
+    {
+      "name": "Clothes — Tops (6)",
+      "items": [
+        {
+          "id": "pack-m-0",
+          "text": "1 nice short-sleeve button-down (linen or linen-blend — breathable, packs small, looks sharp for teppanyaki/omakase/birthday dinner)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-1",
+          "text": "3 lightweight t-shirts or henleys (moisture-wicking preferred — you'll walk 15-25K steps/day)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-2",
+          "text": "1 long-sleeve lightweight layer (merino or similar — doubles as evening layer)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-3",
+          "text": "1 light jacket (packable rain jacket with hood is ideal — handles both rain and cool evenings; a Patagonia Houdini or similar)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Clothes — Bottoms (3-4)",
+      "items": [
+        {
+          "id": "pack-m-4",
+          "text": "2 pairs lightweight pants or chinos (one darker pair works for nice dinners)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-5",
+          "text": "1 pair athletic/jogger pants (travel days, ryokan lounging, casual walking)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-6",
+          "text": "1 pair shorts (optional — May temps can hit 25°C, useful for Hakone onsen downtime)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Clothes — Underwear & Socks (5-6 each)",
+      "items": [
+        {
+          "id": "pack-m-7",
+          "text": "5-6 underwear (merino or quick-dry — can hand-wash and air dry overnight)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-8",
+          "text": "5-6 pairs socks (mix of: no-show for warm days, light crew for walking days)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-9",
+          "text": "1 pair compression socks (for the 10+ hr flights)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Shoes (2)",
+      "items": [
+        {
+          "id": "pack-m-10",
+          "text": "1 pair comfortable walking shoes — SLIP-ON or easy on/off strongly recommended (you remove shoes at temples, ryokans, some restaurants, fitting rooms). Allbirds, On Cloud, or similar. Break them in before the trip.",
+          "checked": false
+        },
+        {
+          "id": "pack-m-11",
+          "text": "1 pair sandals or slides (ryokan, hotel room, Hakone onsen area — doubles as shower shoes)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Outerwear / Layers",
+      "items": [
+        {
+          "id": "pack-m-12",
+          "text": "Light packable rain jacket (see above — do NOT skip this, April/May rain is real)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-13",
+          "text": "Small compact umbrella (or buy a clear vinyl one at any 7-Eleven for ¥500 — Japanese convenience store umbrellas are surprisingly good)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Backpack (Daily Carry)",
+      "items": [
+        {
+          "id": "pack-m-14",
+          "text": "Laptop + charger",
+          "checked": false
+        },
+        {
+          "id": "pack-m-15",
+          "text": "Phone charger + cable",
+          "checked": false
+        },
+        {
+          "id": "pack-m-16",
+          "text": "Portable battery pack (10,000+ mAh — long days, lots of Google Maps)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-17",
+          "text": "Small quick-dry towel or handkerchief — Japan-specific: many public restrooms don't have paper towels or hand dryers. Carry a small towel daily.",
+          "checked": false
+        },
+        {
+          "id": "pack-m-18",
+          "text": "Reusable water bottle (tap water is safe and excellent in Japan)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-19",
+          "text": "Sunglasses (see eyewear below)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-20",
+          "text": "Small zip pouch for daily cash + coins (you'll accumulate 100-yen coins fast)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Eyewear",
+      "items": [
+        {
+          "id": "pack-m-21",
+          "text": "Contact lenses — enough daily/biweekly supply for 17 days (15 nights + travel days) plus 2-3 spares",
+          "checked": false
+        },
+        {
+          "id": "pack-m-22",
+          "text": "Contact solution (travel size or buy in Japan — available at any drugstore)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-23",
+          "text": "Contact lens case",
+          "checked": false
+        },
+        {
+          "id": "pack-m-24",
+          "text": "Moscot Fliptosh (Rx glasses + flip-up sunglass lenses) — your MVP item. Covers both indoor Rx and outdoor sun in one.",
+          "checked": false
+        },
+        {
+          "id": "pack-m-25",
+          "text": "Regular Rx glasses (backup — keep in backpack)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-26",
+          "text": "Non-Rx sunglasses (optional given Fliptosh, but nice to have for variety)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Toiletries",
+      "items": []
+    },
+    {
+      "name": "Toiletries — Bring from Home",
+      "items": [
+        {
+          "id": "pack-m-27",
+          "text": "Matador silicone bottles filled with: shampoo, conditioner, body wash",
+          "checked": false
+        },
+        {
+          "id": "pack-m-28",
+          "text": "Travel-size toothpastes (2-3)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-29",
+          "text": "Toothbrush",
+          "checked": false
+        },
+        {
+          "id": "pack-m-30",
+          "text": "Deodorant (bring your own — Japanese deodorant is very mild/different)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-31",
+          "text": "Sunscreen (SPF 50 — or buy Japanese sunscreen which is world-class: Biore UV Aqua Rich is a cult favorite, ¥600-800 at any drugstore)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-32",
+          "text": "Lip balm with SPF",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Toiletries — Bring from Home — Buy in Japan (or Bring if You Prefer)",
+      "items": [
+        {
+          "id": "pack-m-33",
+          "text": "Razor + blades (excellent quality at drugstores)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-34",
+          "text": "Face wash",
+          "checked": false
+        },
+        {
+          "id": "pack-m-35",
+          "text": "Moisturizer",
+          "checked": false
+        },
+        {
+          "id": "pack-m-36",
+          "text": "Hair product",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Medicine & Health",
+      "items": [
+        {
+          "id": "pack-m-37",
+          "text": "Tylenol / acetaminophen (headaches, general pain)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-38",
+          "text": "Alka-Seltzer hangover relief (you have 4+ nights of bar-hopping planned)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-39",
+          "text": "Gas-X / simethicone (new foods, rich meals, lots of fried food)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-40",
+          "text": "Imodium / loperamide (just in case — better to have and not need)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-41",
+          "text": "Antihistamine (Zyrtec/Claritin — spring pollen is aggressive in Japan, even if you don't have allergies at home)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-42",
+          "text": "Band-aids / blister pads (Compeed or similar — critical for 20K+ step days, especially with foot surgery recovery)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-43",
+          "text": "Any prescription medications (bring more than you need + keep in original bottles for customs)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-44",
+          "text": "Melatonin (jet lag recovery — Japan is 16 hours ahead of PDT)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Tech & Electronics",
+      "items": [
+        {
+          "id": "pack-m-45",
+          "text": "Phone",
+          "checked": false
+        },
+        {
+          "id": "pack-m-46",
+          "text": "Laptop + charger",
+          "checked": false
+        },
+        {
+          "id": "pack-m-47",
+          "text": "Portable battery pack + charging cable",
+          "checked": false
+        },
+        {
+          "id": "pack-m-48",
+          "text": "AirPods / headphones",
+          "checked": false
+        },
+        {
+          "id": "pack-m-49",
+          "text": "Camera (optional — phone is probably fine)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-50",
+          "text": "Japan uses Type A plugs (same as US) at 100V. No adapter needed for US devices. All modern chargers (USB-C, laptop) handle 100-240V automatically.",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Travel Documents & Essentials",
+      "items": [
+        {
+          "id": "pack-m-51",
+          "text": "Passport (valid 6+ months past May 10)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-52",
+          "text": "Physical credit/debit cards (Visa/Mastercard work best — tell your bank about Japan travel)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-53",
+          "text": "Cash: Withdraw ¥30,000-50,000 at Narita airport ATM on arrival (7-Bank ATMs in every 7-Eleven also work). Many small restaurants, bars, and market stalls are cash-only.",
+          "checked": false
+        },
+        {
+          "id": "pack-m-54",
+          "text": "Printed hotel confirmations (optional but nice for taxi drivers who don't speak English — show the hotel name in Japanese)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-55",
+          "text": "Travel insurance info",
+          "checked": false
+        },
+        {
+          "id": "pack-m-56",
+          "text": "Copy of passport (photo on phone + paper copy in bag)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Packing Accessories",
+      "items": [
+        {
+          "id": "pack-m-57",
+          "text": "1-2 collapsible duffels (packed flat in carry-on — for checking purchased goods on return flight)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-58",
+          "text": "1-2 packing cubes (keeps carry-on organized, makes laundry sorting easy)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-59",
+          "text": "1 small laundry bag or plastic bag (for dirty clothes between washes)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-60",
+          "text": "1 zip-lock bag for liquids (TSA 3-1-1 on outbound flight)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-61",
+          "text": "Luggage lock (TSA-approved)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Nice-to-Have (Not Essential)",
+      "items": [
+        {
+          "id": "pack-m-62",
+          "text": "Packable tote bag or eco bag (Japan charges for plastic bags; useful for konbini runs and market shopping)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-63",
+          "text": "Notebook + pen (for writing down recommendations, addresses in Japanese)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-64",
+          "text": "Sleep mask + earplugs (flights + thin-walled hotels)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-65",
+          "text": "Kindle or book (for flights and bullet trains)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-66",
+          "text": "Notify bank/credit card of Japan travel dates",
+          "checked": false
+        },
+        {
+          "id": "pack-m-67",
+          "text": "Download offline Google Maps for Tokyo, Kyoto, Osaka, Hakone",
+          "checked": false
+        },
+        {
+          "id": "pack-m-68",
+          "text": "Set up Apple Wallet Suica (or buy physical card at Narita)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-69",
+          "text": "Download SmartEX app for Shinkansen booking",
+          "checked": false
+        },
+        {
+          "id": "pack-m-70",
+          "text": "Download Google Translate (with Japanese offline pack)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-71",
+          "text": "Confirm travel insurance covers Japan",
+          "checked": false
+        },
+        {
+          "id": "pack-m-72",
+          "text": "Charge all devices + battery pack night before",
+          "checked": false
+        },
+        {
+          "id": "pack-m-73",
+          "text": "Weigh carry-on bag — leave room for purchases (aim for under 5-6 kg packed, airline max is usually 7-10 kg)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Pre-Departure Checklist",
+      "items": [
+        {
+          "id": "pack-m-74",
+          "text": "Notify bank/credit card of Japan travel dates",
+          "checked": false
+        },
+        {
+          "id": "pack-m-75",
+          "text": "Download offline Google Maps for Tokyo, Kyoto, Osaka, Hakone",
+          "checked": false
+        },
+        {
+          "id": "pack-m-76",
+          "text": "Set up Apple Wallet Suica (or buy physical card at Narita)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-77",
+          "text": "Download SmartEX app for Shinkansen booking",
+          "checked": false
+        },
+        {
+          "id": "pack-m-78",
+          "text": "Download Google Translate (with Japanese offline pack)",
+          "checked": false
+        },
+        {
+          "id": "pack-m-79",
+          "text": "Confirm travel insurance covers Japan",
+          "checked": false
+        },
+        {
+          "id": "pack-m-80",
+          "text": "Charge all devices + battery pack night before",
+          "checked": false
+        },
+        {
+          "id": "pack-m-81",
+          "text": "Weigh carry-on bag — leave room for purchases (aim for under 5-6 kg packed, airline max is usually 7-10 kg)",
+          "checked": false
+        }
+      ]
+    }
+  ],
+  "female": [
+    {
+      "name": "Clothes — Tops (6-7)",
+      "items": [
+        {
+          "id": "pack-f-0",
+          "text": "1 nice blouse or dressy top (for teppanyaki/omakase/birthday dinner — something that packs small and doesn't wrinkle)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-1",
+          "text": "3-4 lightweight tops (mix of tees and tanks — moisture-wicking preferred for 15-25K step days)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-2",
+          "text": "1 long-sleeve lightweight layer (cardigan, merino pullover, or linen shirt — doubles as evening layer and temple cover-up)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-3",
+          "text": "1 light jacket (packable rain jacket with hood — handles rain + cool evenings; Patagonia Houdini or similar)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Clothes — Bottoms (3-4)",
+      "items": [
+        {
+          "id": "pack-f-4",
+          "text": "2 pairs lightweight pants (one darker pair works for nice dinners — linen, ponte, or travel-weight)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-5",
+          "text": "1 pair leggings or joggers (travel days, ryokan lounging, casual walking)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-6",
+          "text": "1 skirt or dress (optional — versatile for warm days and dinner; easy to dress up or down)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Clothes — Underwear & Socks (5-6 each)",
+      "items": [
+        {
+          "id": "pack-f-7",
+          "text": "5-6 underwear (quick-dry preferred — can hand-wash and air dry overnight)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-8",
+          "text": "2-3 bras (1 everyday + 1-2 sport/bralette for walking days)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-9",
+          "text": "5-6 pairs socks (mix of: no-show for warm days, light crew for walking days)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-10",
+          "text": "1 pair compression socks (for the 10+ hr flights)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Shoes (2-3)",
+      "items": [
+        {
+          "id": "pack-f-11",
+          "text": "1 pair comfortable walking shoes — SLIP-ON or easy on/off strongly recommended (you remove shoes at temples, ryokans, some restaurants, fitting rooms). Allbirds, On Cloud, or similar. Break them in before the trip.",
+          "checked": false
+        },
+        {
+          "id": "pack-f-12",
+          "text": "1 pair sandals or slides (ryokan, hotel room, Hakone onsen area — doubles as shower shoes)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-13",
+          "text": "1 pair dressier flats (optional — if you want a nicer shoe for dinners, something comfortable to walk in)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Outerwear / Layers",
+      "items": [
+        {
+          "id": "pack-f-14",
+          "text": "Light packable rain jacket (see above — do NOT skip this, April/May rain is real)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-15",
+          "text": "Light scarf or wrap (useful for temples, AC-blasted restaurants, or dressing up a casual outfit)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-16",
+          "text": "Small compact umbrella (or buy a clear vinyl one at any 7-Eleven for ¥500)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Daypack (Daily Carry)",
+      "items": [
+        {
+          "id": "pack-f-17",
+          "text": "Phone charger + cable",
+          "checked": false
+        },
+        {
+          "id": "pack-f-18",
+          "text": "Portable battery pack (10,000+ mAh — long days, lots of Google Maps)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-19",
+          "text": "Small quick-dry towel or handkerchief — Japan-specific: many public restrooms don't have paper towels or hand dryers. Carry a small towel daily.",
+          "checked": false
+        },
+        {
+          "id": "pack-f-20",
+          "text": "Reusable water bottle (tap water is safe and excellent in Japan)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-21",
+          "text": "Sunglasses",
+          "checked": false
+        },
+        {
+          "id": "pack-f-22",
+          "text": "Small zip pouch for daily cash + coins (you'll accumulate 100-yen coins fast)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-23",
+          "text": "Small crossbody bag or belt bag (for easy access to IC card, phone, cash while walking)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Toiletries",
+      "items": []
+    },
+    {
+      "name": "Toiletries — Bring from Home",
+      "items": [
+        {
+          "id": "pack-f-24",
+          "text": "Matador silicone bottles filled with: shampoo, conditioner, body wash",
+          "checked": false
+        },
+        {
+          "id": "pack-f-25",
+          "text": "Skincare basics in travel sizes (cleanser, moisturizer, serum)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-26",
+          "text": "Travel-size toothpaste",
+          "checked": false
+        },
+        {
+          "id": "pack-f-27",
+          "text": "Toothbrush",
+          "checked": false
+        },
+        {
+          "id": "pack-f-28",
+          "text": "Deodorant (bring your own — Japanese deodorant is very mild/different)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-29",
+          "text": "Sunscreen (SPF 50 — or buy Japanese sunscreen: Biore UV Aqua Rich is cult favorite, ¥600-800 at any drugstore)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-30",
+          "text": "Lip balm with SPF",
+          "checked": false
+        },
+        {
+          "id": "pack-f-31",
+          "text": "Minimal makeup (tinted moisturizer/BB cream, mascara, brow pencil — keep it light for humid weather)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-32",
+          "text": "Hair ties and clips",
+          "checked": false
+        },
+        {
+          "id": "pack-f-33",
+          "text": "Dry shampoo (travel size — for days between washes)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Toiletries — Bring from Home — Buy in Japan (or Bring if You Prefer)",
+      "items": [
+        {
+          "id": "pack-f-34",
+          "text": "Sheet masks (Japanese ones are world-class and cheap — stock up at any drugstore)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-35",
+          "text": "Face mist/setting spray",
+          "checked": false
+        },
+        {
+          "id": "pack-f-36",
+          "text": "Blotting papers (humid weather essential — ¥100-300 everywhere)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-37",
+          "text": "Cotton pads",
+          "checked": false
+        },
+        {
+          "id": "pack-f-38",
+          "text": "Micellar water or cleansing oil",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Medicine & Health",
+      "items": [
+        {
+          "id": "pack-f-39",
+          "text": "Tylenol / acetaminophen (headaches, general pain)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-40",
+          "text": "Ibuprofen (cramps, inflammation)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-41",
+          "text": "Gas-X / simethicone (new foods, rich meals)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-42",
+          "text": "Imodium / loperamide (just in case)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-43",
+          "text": "Antihistamine (Zyrtec/Claritin — spring pollen is aggressive in Japan)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-44",
+          "text": "Band-aids / blister pads (Compeed or similar — critical for 20K+ step days)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-45",
+          "text": "Any prescription medications (bring more than you need + keep in original bottles for customs)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-46",
+          "text": "Melatonin (jet lag recovery — Japan is 16 hours ahead of PDT)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Tech & Electronics",
+      "items": [
+        {
+          "id": "pack-f-47",
+          "text": "Phone",
+          "checked": false
+        },
+        {
+          "id": "pack-f-48",
+          "text": "Phone charger + cable",
+          "checked": false
+        },
+        {
+          "id": "pack-f-49",
+          "text": "Portable battery pack + charging cable",
+          "checked": false
+        },
+        {
+          "id": "pack-f-50",
+          "text": "AirPods / headphones",
+          "checked": false
+        },
+        {
+          "id": "pack-f-51",
+          "text": "Camera (optional — phone is probably fine)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-52",
+          "text": "Japan uses Type A plugs (same as US) at 100V. No adapter needed. All modern chargers handle 100-240V automatically.",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Travel Documents & Essentials",
+      "items": [
+        {
+          "id": "pack-f-53",
+          "text": "Passport (valid 6+ months past May 10)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-54",
+          "text": "Physical credit/debit cards (Visa/Mastercard work best — tell your bank about Japan travel)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-55",
+          "text": "Cash: Withdraw ¥30,000-50,000 at Narita airport ATM on arrival. Many small restaurants, bars, and market stalls are cash-only.",
+          "checked": false
+        },
+        {
+          "id": "pack-f-56",
+          "text": "Printed hotel confirmations (optional but nice for taxi drivers — show the hotel name in Japanese)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-57",
+          "text": "Travel insurance info",
+          "checked": false
+        },
+        {
+          "id": "pack-f-58",
+          "text": "Copy of passport (photo on phone + paper copy in bag)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Packing Accessories",
+      "items": [
+        {
+          "id": "pack-f-59",
+          "text": "1-2 collapsible duffels (packed flat — for checking purchased goods on return flight)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-60",
+          "text": "1-2 packing cubes (keeps carry-on organized)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-61",
+          "text": "1 small laundry bag (for dirty clothes between washes)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-62",
+          "text": "1 zip-lock bag for liquids (TSA 3-1-1 on outbound flight)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-63",
+          "text": "Luggage lock (TSA-approved)",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Nice-to-Have (Not Essential)",
+      "items": [
+        {
+          "id": "pack-f-64",
+          "text": "Packable tote bag or eco bag (Japan charges for plastic bags; great for konbini runs and market shopping)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-65",
+          "text": "Notebook + pen",
+          "checked": false
+        },
+        {
+          "id": "pack-f-66",
+          "text": "Sleep mask + earplugs (flights + thin-walled hotels)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-67",
+          "text": "Kindle or book (flights and bullet trains)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-68",
+          "text": "Small jewelry pouch (for a few pairs of earrings or a necklace)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-69",
+          "text": "Notify bank/credit card of Japan travel dates",
+          "checked": false
+        },
+        {
+          "id": "pack-f-70",
+          "text": "Download offline Google Maps for Tokyo, Kyoto, Osaka, Hakone",
+          "checked": false
+        },
+        {
+          "id": "pack-f-71",
+          "text": "Set up Apple Wallet Suica (or buy physical card at Narita)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-72",
+          "text": "Download Google Translate (with Japanese offline pack)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-73",
+          "text": "Confirm travel insurance covers Japan",
+          "checked": false
+        },
+        {
+          "id": "pack-f-74",
+          "text": "Charge all devices + battery pack night before",
+          "checked": false
+        },
+        {
+          "id": "pack-f-75",
+          "text": "Weigh carry-on bag — leave room for purchases",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "name": "Pre-Departure Checklist",
+      "items": [
+        {
+          "id": "pack-f-76",
+          "text": "Notify bank/credit card of Japan travel dates",
+          "checked": false
+        },
+        {
+          "id": "pack-f-77",
+          "text": "Download offline Google Maps for Tokyo, Kyoto, Osaka, Hakone",
+          "checked": false
+        },
+        {
+          "id": "pack-f-78",
+          "text": "Set up Apple Wallet Suica (or buy physical card at Narita)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-79",
+          "text": "Download Google Translate (with Japanese offline pack)",
+          "checked": false
+        },
+        {
+          "id": "pack-f-80",
+          "text": "Confirm travel insurance covers Japan",
+          "checked": false
+        },
+        {
+          "id": "pack-f-81",
+          "text": "Charge all devices + battery pack night before",
+          "checked": false
+        },
+        {
+          "id": "pack-f-82",
+          "text": "Weigh carry-on bag — leave room for purchases",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

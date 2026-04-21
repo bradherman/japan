@@ -1,0 +1,900 @@
+{
+  "days": [
+    {
+      "dayNumber": 1,
+      "date": "Apr 25",
+      "title": "Narita → Shibuya",
+      "legs": [
+        {
+          "time": "~4:30 PM",
+          "from": "Narita",
+          "to": "Shibuya",
+          "transport": "Narita Express (N'EX)",
+          "duration": "75 min",
+          "cost": "¥3,250",
+          "notes": "Buy one-way at JR counter in arrivals. Direct, no transfer. Reserved seat."
+        },
+        {
+          "time": "~6:00 PM",
+          "from": "Shibuya Stn",
+          "to": "Hotel",
+          "transport": "Walk",
+          "duration": "5-10 min",
+          "cost": "Free",
+          "notes": "South side of station"
+        }
+      ],
+      "notes": [
+        "At Narita airport: Buy Suica card at JR counter (¥500 deposit + load ¥3,000-5,000) OR use Apple Wallet Suica set up before landing.",
+        "Evening transit: Gyukatsu Motomura is 5-10 min walk from hotel (primary dinner pick). Fuunji (backup) is near Shinjuku — JR Yamanote 1 stop + 5-8 min walk (~15-20 min total). Grandfather's/Nonbei Yokocho are walking distance."
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "date": "Apr 26",
+      "title": "Tsukiji / Ginza / Shibuya Sky",
+      "legs": [
+        {
+          "time": "~7:00 AM",
+          "from": "Shibuya",
+          "to": "Tsukiji",
+          "transport": "Ginza Line",
+          "duration": "20 min",
+          "cost": "¥210",
+          "notes": "Suica tap"
+        },
+        {
+          "time": "~10:30 AM",
+          "from": "Tsukiji",
+          "to": "Ginza",
+          "transport": "Walk",
+          "duration": "15 min",
+          "cost": "Free",
+          "notes": "Pleasant riverside walk"
+        },
+        {
+          "time": "~1:30 PM",
+          "from": "Ginza",
+          "to": "Nakajima (Shinjuku)",
+          "transport": "Marunouchi Line",
+          "duration": "15 min",
+          "cost": "¥210",
+          "notes": "If doing Michelin sardine lunch"
+        },
+        {
+          "time": "~3:30 PM",
+          "from": "Shinjuku",
+          "to": "Shibuya",
+          "transport": "JR Yamanote",
+          "duration": "7 min",
+          "cost": "¥160",
+          "notes": "Back for Shibuya Sky"
+        },
+        {
+          "time": "~8:00 PM",
+          "from": "Shibuya",
+          "to": "Minami-Asagaya",
+          "transport": "Marunouchi Line",
+          "duration": "25 min",
+          "cost": "¥250",
+          "notes": "If Tonkatsu Narikura booked"
+        }
+      ]
+    },
+    {
+      "dayNumber": 3,
+      "date": "Apr 27",
+      "title": "Nakameguro / teamLab / Aoyama",
+      "legs": [
+        {
+          "time": "~8:30 AM",
+          "from": "Shibuya",
+          "to": "Nakameguro",
+          "transport": "Tokyu Toyoko Line",
+          "duration": "4 min",
+          "cost": "¥160",
+          "notes": "Or pleasant 20 min walk"
+        },
+        {
+          "time": "~2:00 PM",
+          "from": "Nakameguro",
+          "to": "Shin-Toyosu",
+          "transport": "Yurikamome Line (via Toyosu)",
+          "duration": "40 min",
+          "cost": "~¥500",
+          "notes": "For teamLab Planets"
+        },
+        {
+          "time": "~5:30 PM",
+          "from": "Shin-Toyosu",
+          "to": "Omotesando",
+          "transport": "Yurikamome + Ginza Line",
+          "duration": "35 min",
+          "cost": "~¥400",
+          "notes": "For dinner area"
+        },
+        {
+          "time": "Evening",
+          "from": "Shibuya",
+          "to": "Shimokitazawa",
+          "transport": "Keio Inokashira Line",
+          "duration": "3 min",
+          "cost": "¥160",
+          "notes": "If doing Shimokitazawa bars"
+        }
+      ]
+    },
+    {
+      "dayNumber": 4,
+      "date": "Apr 28",
+      "title": "Jimbocho / Kappabashi / Asakusa / Shinjuku",
+      "legs": [
+        {
+          "time": "~7:30 AM",
+          "from": "Shibuya",
+          "to": "Jimbocho",
+          "transport": "Hanzomon Line",
+          "duration": "15 min",
+          "cost": "¥210",
+          "notes": "For Glitch Coffee"
+        },
+        {
+          "time": "~10:30 AM",
+          "from": "Jimbocho",
+          "to": "Kappabashi",
+          "transport": "Walk or Ginza Line",
+          "duration": "20 min",
+          "cost": "¥210",
+          "notes": "Kitchen Town"
+        },
+        {
+          "time": "~12:30 PM",
+          "from": "Kappabashi",
+          "to": "Ginza/Otsuka",
+          "transport": "Metro",
+          "duration": "15-25 min",
+          "cost": "¥210-250",
+          "notes": "For ramen (Hachigo or Nakiryu)"
+        },
+        {
+          "time": "~2:30 PM",
+          "from": "Lunch",
+          "to": "Asakusa",
+          "transport": "Walk (if Kappabashi) or Metro",
+          "duration": "5-15 min",
+          "cost": "Free/¥210",
+          "notes": "Same area"
+        },
+        {
+          "time": "~5:00 PM",
+          "from": "Asakusa",
+          "to": "Kagurazaka",
+          "transport": "Ginza Line to Toei Oedo",
+          "duration": "20 min",
+          "cost": "¥250",
+          "notes": "For Shinpo dinner"
+        },
+        {
+          "time": "~9:00 PM",
+          "from": "Kagurazaka",
+          "to": "Shinjuku",
+          "transport": "Toei Oedo or walk",
+          "duration": "10 min",
+          "cost": "¥210",
+          "notes": "For evening bars + music"
+        },
+        {
+          "time": "Late",
+          "from": "Shinjuku",
+          "to": "Koenji",
+          "transport": "JR Chuo Line",
+          "duration": "10 min",
+          "cost": "¥170",
+          "notes": "If UFO Club. Last train ~midnight."
+        },
+        {
+          "time": "Late",
+          "from": "Koenji/Shinjuku",
+          "to": "Shibuya",
+          "transport": "JR",
+          "duration": "10-20 min",
+          "cost": "¥170-210",
+          "notes": "Last train ~midnight"
+        }
+      ]
+    },
+    {
+      "dayNumber": 5,
+      "date": "Apr 29",
+      "title": "Harajuku / Shimokitazawa (Showa Day)",
+      "legs": [
+        {
+          "time": "~8:00 AM",
+          "from": "Hotel",
+          "to": "Meiji Shrine",
+          "transport": "Walk through Yoyogi Park",
+          "duration": "10 min",
+          "cost": "Free"
+        },
+        {
+          "time": "~10:00 AM",
+          "from": "Meiji Shrine",
+          "to": "Harajuku",
+          "transport": "Walk",
+          "duration": "5 min",
+          "cost": "Free"
+        },
+        {
+          "time": "~1:30 PM",
+          "from": "Harajuku",
+          "to": "Shimokitazawa",
+          "transport": "Keio Inokashira Line",
+          "duration": "5 min",
+          "cost": "¥160",
+          "notes": "From Shibuya, 3 min"
+        },
+        {
+          "time": "~6:00 PM",
+          "from": "Shimokitazawa",
+          "to": "Shibuya",
+          "transport": "Keio Inokashira Line",
+          "duration": "3 min",
+          "cost": "¥160",
+          "notes": "For dinner"
+        },
+        {
+          "time": "Evening",
+          "from": "Shibuya",
+          "to": "Ginza",
+          "transport": "Ginza Line",
+          "duration": "15 min",
+          "cost": "¥210",
+          "notes": "If Ginza Music Bar"
+        }
+      ],
+      "notes": [
+        "Luggage: Send to Kyoto via takkyubin THIS MORNING at hotel front desk. Arrives Apr 30."
+      ]
+    },
+    {
+      "dayNumber": 6,
+      "date": "Apr 30",
+      "title": "TOKYO → KYOTO (Shinkansen)",
+      "legs": [
+        {
+          "time": "9:15 AM",
+          "from": "Shibuya",
+          "to": "Tokyo Station",
+          "transport": "JR Yamanote Line",
+          "duration": "25 min",
+          "cost": "¥210",
+          "notes": "Platforms 14-19 for Shinkansen"
+        },
+        {
+          "time": "10:12 AM",
+          "from": "Tokyo",
+          "to": "Kyoto",
+          "transport": "NOZOMI 23 (BOOKED)",
+          "duration": "2 hr 11 min",
+          "cost": "¥14,520",
+          "notes": "Buy ekiben at Tokyo Station!"
+        },
+        {
+          "time": "~12:30 PM",
+          "from": "Kyoto Stn",
+          "to": "Shijo Stn",
+          "transport": "Karasuma Line subway",
+          "duration": "4 min",
+          "cost": "¥260",
+          "notes": "Exit 11"
+        },
+        {
+          "time": "~12:40 PM",
+          "from": "Shijo Stn",
+          "to": "Hotel Forza",
+          "transport": "Walk",
+          "duration": "7 min",
+          "cost": "Free",
+          "notes": "Underground walkway to hotel"
+        }
+      ],
+      "notes": [
+        "All Kyoto days: Most sights walkable from hotel. Gion, Pontocho, Nishiki = 5-15 min walk. Buses are SLOW during Golden Week — prefer walking or subway."
+      ]
+    },
+    {
+      "dayNumber": 7,
+      "date": "May 1",
+      "title": "Fushimi Inari / Gion / Higashiyama",
+      "legs": [
+        {
+          "time": "~7:00 AM",
+          "from": "Hotel",
+          "to": "Kyoto Station",
+          "transport": "Karasuma Line",
+          "duration": "4 min",
+          "cost": "¥260"
+        },
+        {
+          "time": "~7:10 AM",
+          "from": "Kyoto Stn",
+          "to": "Inari Stn",
+          "transport": "JR Nara Line (1 stop)",
+          "duration": "5 min",
+          "cost": "¥150",
+          "notes": "Shrine is outside the exit"
+        },
+        {
+          "time": "~9:00 AM",
+          "from": "Inari",
+          "to": "Fushimi sake district",
+          "transport": "Walk",
+          "duration": "10 min",
+          "cost": "Free",
+          "notes": "Walk south"
+        },
+        {
+          "time": "~9:30 AM",
+          "from": "Fushimi",
+          "to": "Hotel",
+          "transport": "JR + subway or bus",
+          "duration": "25 min",
+          "cost": "~¥400",
+          "notes": "Return for coffee"
+        },
+        {
+          "time": "All day",
+          "from": "Gion / Higashiyama",
+          "to": "",
+          "transport": "Walk from hotel",
+          "duration": "10-25 min",
+          "cost": "Free",
+          "notes": "Everything walkable"
+        },
+        {
+          "time": "~6:00 PM",
+          "from": "Hotel",
+          "to": "Ichijoji",
+          "transport": "Eizan Railway from Demachiyanagi",
+          "duration": "20 min",
+          "cost": "~¥400",
+          "notes": "For Menya Inoichi ramen"
+        }
+      ]
+    },
+    {
+      "dayNumber": 8,
+      "date": "May 2",
+      "title": "Nara Day Trip",
+      "legs": [
+        {
+          "time": "~9:00 AM",
+          "from": "Hotel",
+          "to": "Kyoto Station",
+          "transport": "Karasuma Line",
+          "duration": "4 min",
+          "cost": "¥260"
+        },
+        {
+          "time": "~9:15 AM",
+          "from": "Kyoto",
+          "to": "Kintetsu-Nara",
+          "transport": "Kintetsu Express",
+          "duration": "35 min",
+          "cost": "¥760",
+          "notes": "Board at Kintetsu Kyoto Station (inside JR complex, lower level)"
+        },
+        {
+          "time": "~9:50 AM",
+          "from": "Kintetsu-Nara",
+          "to": "Nara Park",
+          "transport": "Walk",
+          "duration": "5 min",
+          "cost": "Free",
+          "notes": "Much closer than JR Nara"
+        },
+        {
+          "time": "~2:30 PM",
+          "from": "Kintetsu-Nara",
+          "to": "Kyoto",
+          "transport": "Kintetsu Express",
+          "duration": "35 min",
+          "cost": "¥760",
+          "notes": "Return for afternoon"
+        },
+        {
+          "time": "Evening",
+          "from": "All Kyoto",
+          "to": "",
+          "transport": "Walk from hotel",
+          "duration": "—",
+          "cost": "Free",
+          "notes": "Pontocho, Hello Dolly etc"
+        }
+      ],
+      "notes": [
+        "Round trip Nara: ¥1,520/pp"
+      ]
+    },
+    {
+      "dayNumber": 9,
+      "date": "May 3",
+      "title": "Relaxed Kyoto Day",
+      "legs": [
+        {
+          "time": "Optional",
+          "from": "Hotel",
+          "to": "Arashiyama",
+          "transport": "Hankyu from Kawaramachi",
+          "duration": "25 min",
+          "cost": "¥240",
+          "notes": "Only if going early"
+        },
+        {
+          "time": "All day",
+          "from": "Central Kyoto",
+          "to": "",
+          "transport": "Walk",
+          "duration": "—",
+          "cost": "Free",
+          "notes": "Everything near hotel"
+        }
+      ],
+      "notes": [
+        "Luggage: Send to Osaka via takkyubin THIS MORNING. Arrives May 4."
+      ]
+    },
+    {
+      "dayNumber": 10,
+      "date": "May 4",
+      "title": "KYOTO → OSAKA",
+      "legs": [
+        {
+          "time": "~10:30 AM",
+          "from": "Hotel",
+          "to": "Kawaramachi Stn",
+          "transport": "Walk",
+          "duration": "2 min",
+          "cost": "Free",
+          "notes": "Station is RIGHT by hotel"
+        },
+        {
+          "time": "~10:35 AM",
+          "from": "Kawaramachi",
+          "to": "Osaka-Umeda",
+          "transport": "Hankyu Kyoto Line",
+          "duration": "43 min",
+          "cost": "¥410",
+          "notes": "Most convenient — departs next to hotel"
+        },
+        {
+          "time": "~11:20 AM",
+          "from": "Umeda",
+          "to": "Namba",
+          "transport": "Midosuji Line subway",
+          "duration": "10 min",
+          "cost": "¥240",
+          "notes": "Transfer at Umeda/Osaka-Umeda"
+        },
+        {
+          "time": "~11:35 AM",
+          "from": "Namba Stn",
+          "to": "Cross Hotel",
+          "transport": "Walk",
+          "duration": "4 min",
+          "cost": "Free"
+        }
+      ],
+      "notes": [
+        "All Osaka days: Dotonbori, Shinsaibashi, Amerikamura = walking distance from hotel. Metro day pass: ¥600 (holiday rate)."
+      ]
+    },
+    {
+      "dayNumber": 11,
+      "date": "May 5",
+      "title": "Osaka Castle / Tenjinbashi / Shinsaibashi",
+      "legs": [
+        {
+          "time": "~9:00 AM",
+          "from": "Namba",
+          "to": "Tenjinbashisuji-6",
+          "transport": "Midosuji Line + Tanimachi",
+          "duration": "15 min",
+          "cost": "¥280",
+          "notes": "For Harukoma sushi + Flower Mountain"
+        },
+        {
+          "time": "~12:00 PM",
+          "from": "Tenjinbashi",
+          "to": "Osaka Castle",
+          "transport": "Tanimachi Line to Tanimachi-4",
+          "duration": "10 min",
+          "cost": "¥240"
+        },
+        {
+          "time": "~2:30 PM",
+          "from": "Osaka Castle",
+          "to": "Namba",
+          "transport": "Midosuji from Shinsaibashi area",
+          "duration": "10 min",
+          "cost": "¥240",
+          "notes": "Or walk"
+        },
+        {
+          "time": "Evening",
+          "from": "Temma area",
+          "to": "",
+          "transport": "JR from Osaka Stn or walk from Umeda",
+          "duration": "5 min",
+          "cost": "¥160",
+          "notes": "For Salvis Wine & Records"
+        }
+      ],
+      "notes": [
+        "Metro day pass (¥600 holiday) saves money if 3+ rides."
+      ]
+    },
+    {
+      "dayNumber": 12,
+      "date": "May 6",
+      "title": "Brad's Birthday (Osaka)",
+      "legs": [
+        {
+          "time": "All day",
+          "from": "Central Osaka",
+          "to": "",
+          "transport": "Walk",
+          "duration": "—",
+          "cost": "Free",
+          "notes": "Everything near hotel"
+        },
+        {
+          "time": "~5:15 PM",
+          "from": "Hotel",
+          "to": "Waldorf Astoria",
+          "transport": "Walk or taxi",
+          "duration": "10-15 min",
+          "cost": "Free/~¥1,000",
+          "notes": "Canes & Tales pre-dinner"
+        },
+        {
+          "time": "~6:45 PM",
+          "from": "Waldorf",
+          "to": "Hozenji Yokocho",
+          "transport": "Walk or taxi",
+          "duration": "10 min",
+          "cost": "Free/~¥800",
+          "notes": "Birthday dinner"
+        }
+      ],
+      "notes": [
+        "Luggage: Should have been sent to Hakone via takkyubin May 6 morning."
+      ]
+    },
+    {
+      "dayNumber": 13,
+      "date": "May 7",
+      "title": "OSAKA → HAKONE (Longest transit day)",
+      "legs": [
+        {
+          "time": "9:15 AM",
+          "from": "Hotel",
+          "to": "Namba Stn",
+          "transport": "Walk",
+          "duration": "4 min",
+          "cost": "Free"
+        },
+        {
+          "time": "~9:20 AM",
+          "from": "Namba",
+          "to": "Shin-Osaka",
+          "transport": "Midosuji Line",
+          "duration": "15 min",
+          "cost": "¥280"
+        },
+        {
+          "time": "10:18 AM",
+          "from": "Shin-Osaka",
+          "to": "Odawara",
+          "transport": "HIKARI 646 (BOOKED)",
+          "duration": "2 hr 20 min",
+          "cost": "¥12,620",
+          "notes": "Departure confirmed"
+        },
+        {
+          "time": "~12:30 PM",
+          "from": "Odawara",
+          "to": "Hakone-Yumoto",
+          "transport": "Hakone Tozan Railway",
+          "duration": "15 min",
+          "cost": "Free Pass"
+        },
+        {
+          "time": "~12:45 PM",
+          "from": "Hakone-Yumoto",
+          "to": "Gora",
+          "transport": "Hakone Tozan Railway",
+          "duration": "40 min",
+          "cost": "Free Pass",
+          "notes": "Scenic switchback! Transfer at Yumoto."
+        },
+        {
+          "time": "~1:30 PM",
+          "from": "Gora Stn",
+          "to": "Ryokan",
+          "transport": "Walk or ryokan pickup",
+          "duration": "5-10 min",
+          "cost": "Free",
+          "notes": "Call ahead for pickup"
+        }
+      ],
+      "notes": [
+        "Buy: 2-day Hakone Free Pass (¥6,000) at Odawara Station."
+      ]
+    },
+    {
+      "dayNumber": 14,
+      "date": "May 8",
+      "title": "Hakone Loop",
+      "legs": [
+        {
+          "time": "~9:30 AM",
+          "from": "Gora",
+          "to": "Open-Air Museum",
+          "transport": "Walk or bus",
+          "duration": "5 min",
+          "cost": "Free Pass"
+        },
+        {
+          "time": "~12:30 PM",
+          "from": "Museum",
+          "to": "Gora",
+          "transport": "Cable Car",
+          "duration": "10 min",
+          "cost": "Free Pass"
+        },
+        {
+          "time": "~12:45 PM",
+          "from": "Sounzan",
+          "to": "Owakudani",
+          "transport": "Ropeway",
+          "duration": "10 min",
+          "cost": "Free Pass",
+          "notes": "Volcanic views, Mt. Fuji"
+        },
+        {
+          "time": "~1:30 PM",
+          "from": "Owakudani",
+          "to": "Togendai",
+          "transport": "Ropeway",
+          "duration": "15 min",
+          "cost": "Free Pass"
+        },
+        {
+          "time": "~2:00 PM",
+          "from": "Togendai",
+          "to": "Hakone-machi",
+          "transport": "Lake Ashi Pirate Ship",
+          "duration": "30 min",
+          "cost": "Free Pass",
+          "notes": "Mt. Fuji reflection"
+        },
+        {
+          "time": "~3:30 PM",
+          "from": "Lakeside",
+          "to": "Gora",
+          "transport": "Hakone Tozan Bus",
+          "duration": "30-40 min",
+          "cost": "Free Pass",
+          "notes": "Via coffee stop"
+        }
+      ],
+      "notes": [
+        "ALL transport today covered by Hakone Free Pass.",
+        "Luggage: Send to Hotel MyStays Nippori via takkyubin THIS MORNING. Arrives May 9."
+      ]
+    },
+    {
+      "dayNumber": 15,
+      "date": "May 9",
+      "title": "HAKONE → TOKYO (Nippori)",
+      "legs": [
+        {
+          "time": "~8:30 AM",
+          "from": "Gora",
+          "to": "Odawara",
+          "transport": "Hakone Tozan Railway",
+          "duration": "55 min",
+          "cost": "Free Pass",
+          "notes": "Last ride on Free Pass"
+        },
+        {
+          "time": "~9:30 AM",
+          "from": "Odawara",
+          "to": "Tokyo Station",
+          "transport": "Shinkansen Kodama/Hikari",
+          "duration": "35 min",
+          "cost": "¥3,220",
+          "notes": "Buy at station or SmartEX"
+        },
+        {
+          "time": "~10:10 AM",
+          "from": "Tokyo Stn",
+          "to": "Mandarin Oriental",
+          "transport": "Walk/taxi",
+          "duration": "10 min",
+          "cost": "Free/~¥1,000",
+          "notes": "Pizza Bar on 38th at 11:30 AM"
+        },
+        {
+          "time": "~1:15 PM",
+          "from": "Tokyo Stn",
+          "to": "Nippori",
+          "transport": "JR Yamanote/Keihin-Tohoku",
+          "duration": "12 min",
+          "cost": "¥170",
+          "notes": "After lunch"
+        },
+        {
+          "time": "~1:30 PM",
+          "from": "Nippori Stn",
+          "to": "Hotel",
+          "transport": "Walk",
+          "duration": "3-5 min",
+          "cost": "Free"
+        }
+      ],
+      "notes": [
+        "Afternoon/evening: All Tokyo transit via Suica. Typical rides ¥170-250."
+      ]
+    },
+    {
+      "dayNumber": 16,
+      "date": "May 10",
+      "title": "DEPARTURE (Nippori → Narita)",
+      "legs": [
+        {
+          "time": "~8:30 AM",
+          "from": "Hotel",
+          "to": "Ameyoko (Ueno)",
+          "transport": "JR (1 stop)",
+          "duration": "3 min",
+          "cost": "¥160",
+          "notes": "Last shopping"
+        },
+        {
+          "time": "~11:00 AM",
+          "from": "Return to hotel",
+          "to": "",
+          "transport": "JR",
+          "duration": "3 min",
+          "cost": "¥160",
+          "notes": "Collect luggage"
+        },
+        {
+          "time": "12:30 PM",
+          "from": "Nippori",
+          "to": "Narita",
+          "transport": "Keisei Skyliner",
+          "duration": "36 min",
+          "cost": "¥2,580",
+          "notes": "Buy ticket at Keisei counter in Nippori. Direct, no transfer. All reserved."
+        },
+        {
+          "time": "Send Date (morning)",
+          "from": "From",
+          "to": "To",
+          "transport": "Arrives",
+          "duration": "Cost/suitcase",
+          "cost": "---------------------",
+          "notes": "-----------"
+        },
+        {
+          "time": "Apr 29",
+          "from": "Shibuya Granbell",
+          "to": "Hotel Forza Kyoto",
+          "transport": "Apr 30",
+          "duration": "~¥2,400-3,100",
+          "cost": "May 3",
+          "notes": "Hotel Forza Kyoto → Cross Hotel Osaka"
+        },
+        {
+          "time": "May 6",
+          "from": "Cross Hotel Osaka",
+          "to": "Hakone Gora Byakudan",
+          "transport": "May 7",
+          "duration": "~¥2,400-2,800",
+          "cost": "May 8",
+          "notes": "Hakone Gora Byakudan → Hotel MyStays Nippori"
+        }
+      ],
+      "notes": [
+        "With carry-on only: You probably don't need takkyubin. A carry-on fits on the Shinkansen overhead rack easily. The only tricky leg is Hakone Tozan Railway (narrow mountain train) — but still manageable with a carry-on. Recommend skipping takkyubin and carrying your bags to save ~¥9,000-11,000 total."
+      ]
+    }
+  ],
+  "costs": [
+    {
+      "segment": "NRT → Shibuya (N'EX)",
+      "cost": "3,250"
+    },
+    {
+      "segment": "Tokyo local (5 days)",
+      "cost": "~4,000"
+    },
+    {
+      "segment": "Tokyo → Kyoto (Nozomi 23)",
+      "cost": "14,520"
+    },
+    {
+      "segment": "Kyoto local (4 days)",
+      "cost": "~3,500"
+    },
+    {
+      "segment": "Nara round trip (Kintetsu)",
+      "cost": "1,520"
+    },
+    {
+      "segment": "Kyoto → Osaka (Hankyu + subway)",
+      "cost": "650"
+    },
+    {
+      "segment": "Osaka local (3 days)",
+      "cost": "~2,500"
+    },
+    {
+      "segment": "Osaka → Odawara (Hikari)",
+      "cost": "12,620"
+    },
+    {
+      "segment": "Hakone Free Pass (2-day)",
+      "cost": "6,000"
+    },
+    {
+      "segment": "Odawara → Tokyo (Shinkansen)",
+      "cost": "3,220"
+    },
+    {
+      "segment": "Tokyo → Nippori (JR)",
+      "cost": "170"
+    },
+    {
+      "segment": "Nippori → Narita (Skyliner)",
+      "cost": "2,580"
+    },
+    {
+      "segment": "TOTAL per person",
+      "cost": "~54,530"
+    },
+    {
+      "segment": "TOTAL for 2 people",
+      "cost": "~109,060 (~$705)"
+    }
+  ],
+  "luggage": [
+    {
+      "sendDate": "Apr 29",
+      "route": "Shibuya Granbell → Hotel Forza Kyoto",
+      "arrives": "Apr 30",
+      "cost": "~¥2,400-3,100"
+    },
+    {
+      "sendDate": "May 3",
+      "route": "Hotel Forza Kyoto → Cross Hotel Osaka",
+      "arrives": "May 4",
+      "cost": "~¥1,800-2,200"
+    },
+    {
+      "sendDate": "May 6",
+      "route": "Cross Hotel Osaka → Hakone Gora Byakudan",
+      "arrives": "May 7",
+      "cost": "~¥2,400-2,800"
+    },
+    {
+      "sendDate": "May 8",
+      "route": "Hakone Gora Byakudan → Hotel MyStays Nippori",
+      "arrives": "May 9",
+      "cost": "~¥2,200-2,600"
+    }
+  ]
+}

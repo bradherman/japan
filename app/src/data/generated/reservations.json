@@ -1,0 +1,396 @@
+{
+  "reservations": [
+    {
+      "name": "Udatsu Sushi",
+      "details": "Michelin omakase sushi — smart casual required (no tees/shorts/sandals). Arrive 5 min before.",
+      "date": "Apr 27, 12:00 PM",
+      "cost": "¥14,400",
+      "mapLink": "https://maps.google.com/?q=Udatsu+Sushi+Nakameguro",
+      "notes": "smart casual",
+      "status": "booked",
+      "category": "booked",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Omotesando Ukai-tei",
+      "details": "Teppanyaki for 4 — dress nice-ish (smart casual)",
+      "date": "Apr 27, 7:00 PM",
+      "cost": "¥15,000",
+      "mapLink": "https://maps.google.com/?q=Ukai+Tei+Omotesando",
+      "notes": "dress nice-ish (smart casual)",
+      "status": "booked",
+      "category": "booked",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Matsuzaka Gyu Yakiniku M Hozenji-Hanare",
+      "details": "Wagyu yakiniku (birthday dinner)",
+      "date": "May 6, 7:00 PM",
+      "cost": "~¥15,000-25,000",
+      "mapLink": "https://maps.google.com/?q=Matsuzaka+Gyu+Yakiniku+M+Hozenji+Osaka",
+      "status": "booked",
+      "category": "booked",
+      "city": "Osaka"
+    },
+    {
+      "name": "Pizza Bar on 38th",
+      "details": "Omakase pizza (#2 in world) — 8 seats",
+      "date": "May 9, 11:30 AM",
+      "cost": "¥15,000-20,000",
+      "mapLink": "https://maps.google.com/?q=Pizza+Bar+38th+Mandarin+Oriental+Tokyo",
+      "status": "booked",
+      "category": "booked",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Sushi Yoshikawa",
+      "details": "17-piece omakase incl. dragon ball roll (otoro+uni)",
+      "date": "May 9, 8:30 PM",
+      "cost": "¥11,000",
+      "mapLink": "https://maps.google.com/?q=Sushi+Yoshikawa+Ebisu+Tokyo",
+      "status": "booked",
+      "category": "booked",
+      "city": "Tokyo"
+    },
+    {
+      "name": "teamLab Planets",
+      "details": "4 tickets, 3:00-3:30 PM entry",
+      "date": "Apr 27, 3:00 PM",
+      "cost": "¥3,200",
+      "mapLink": "https://maps.google.com/?q=teamLab+Planets+Toyosu+Tokyo",
+      "status": "booked",
+      "category": "booked",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Shibuya Sky",
+      "details": "6:20 PM sunset slot — 229m observation deck above Shibuya Crossing",
+      "date": "Apr 26, 6:20 PM",
+      "cost": "¥3,400",
+      "mapLink": "https://maps.google.com/?q=Shibuya+Sky+observation+deck",
+      "status": "booked",
+      "category": "booked",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Chopstick Making Workshop",
+      "details": "Custom chopsticks for 4",
+      "date": "Apr 26, 10:00 AM",
+      "cost": "$27/pp",
+      "mapLink": "https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo",
+      "status": "booked",
+      "category": "booked",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Camellia Tea Ceremony",
+      "details": "Kyoto traditional matcha whisking — machiya setting",
+      "date": "May 3, 12:00 PM",
+      "cost": "~¥4,500-5,000",
+      "mapLink": "https://maps.google.com/?q=Camellia+Tea+Ceremony+Kyoto+Gion",
+      "status": "booked",
+      "category": "booked",
+      "city": "Kyoto"
+    },
+    {
+      "name": "Casiopea at Billboard Live Osaka",
+      "details": "Japanese jazz fusion legends — Herbis Plaza ENT, Nishi-Umeda. Early dinner at Sodaisho before.",
+      "date": "May 5, 7:00 PM",
+      "cost": "—",
+      "mapLink": "https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT",
+      "status": "booked",
+      "category": "booked",
+      "city": "Osaka"
+    },
+    {
+      "name": "Kamogawa Odori (geisha dance)",
+      "date": "May 5-22 (starts AFTER Kyoto leg)",
+      "cost": "¥4,000-7,000",
+      "bookingMethod": "Pontocho Kaburenjo Theater website",
+      "mapLink": "https://maps.google.com/?q=Pontocho+Kaburenjo+Theater+Kyoto",
+      "alarm": "Doesn't overlap with Kyoto stay (May 1-3). Could day-trip from Osaka if an afternoon slot exists.",
+      "status": "urgent",
+      "category": "attractions",
+      "city": "Osaka"
+    },
+    {
+      "name": "Gen Yamamoto",
+      "date": "May 9 evening",
+      "bookingMethod": "Phone only (7 days ahead)",
+      "alarm": "Call May 2 to book May 9. Phone reservations only, directly from guests.",
+      "status": "urgent",
+      "category": "bars",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Ginza Hachigo",
+      "details": "Michelin ramen — ravioli truffle-foie gras chuka soba",
+      "date": "Apr 28 lunch, ~12:30 PM",
+      "cost": "¥1,200 + ¥500 booking fee",
+      "bookingMethod": "TableCheck (opens Sat 9am for following week)",
+      "mapLink": "https://maps.google.com/?q=Ginza+Hachigo+ramen+Tokyo",
+      "alarm": "For Apr 28: book Sat Apr 25, 9:00 AM JST. You'll be landing at Narita at 3pm — try to book before your flight departs!",
+      "status": "book-soon",
+      "category": "restaurants",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Yoshikawa Tempura (Kyoto)",
+      "details": "Counter-seat tempura in machiya w/ koi pond",
+      "date": "May 1 lunch, ~1:00 PM",
+      "cost": "¥5,000-8,000",
+      "bookingMethod": "Phone",
+      "mapLink": "https://maps.google.com/?q=Yoshikawa+Tempura+Kyoto",
+      "status": "book-soon",
+      "category": "restaurants",
+      "city": "Kyoto"
+    },
+    {
+      "name": "Gion Takuma (Kyoto)",
+      "details": "Affordable kaiseki along Shirakawa river",
+      "date": "Apr 30 or May 1 lunch",
+      "cost": "¥3,600+",
+      "bookingMethod": "Phone/online",
+      "mapLink": "https://maps.google.com/?q=Gion+Takuma+kaiseki+Kyoto",
+      "status": "book-soon",
+      "category": "restaurants",
+      "city": "Kyoto"
+    },
+    {
+      "name": "Assemblages Kakimoto",
+      "details": "Matcha parfait",
+      "date": "May 1 or 3, ~3:00 PM",
+      "cost": "~¥2,000",
+      "bookingMethod": "Online",
+      "mapLink": "https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto",
+      "status": "book-soon",
+      "category": "restaurants",
+      "city": "Kyoto"
+    },
+    {
+      "name": "Tonkatsu Sugita",
+      "details": "Bib Gourmand tonkatsu — rosu katsu",
+      "date": "Apr 26 dinner",
+      "cost": "¥3,000-4,500",
+      "bookingMethod": "Omakase.in or byFood",
+      "mapLink": "https://maps.google.com/?q=Tonkatsu+Sugita+Kuramae+Tokyo",
+      "status": "book-soon",
+      "category": "restaurants",
+      "city": "Tokyo",
+      "isBackup": true
+    },
+    {
+      "name": "Nokishita 711 (Kyoto)",
+      "details": "Cocktail omakase (5 cocktails + snacks)",
+      "date": "May 1-3 evening",
+      "cost": "¥5,000+",
+      "bookingMethod": "TableCheck",
+      "mapLink": "https://maps.google.com/?q=Nokishita+711+Kyoto",
+      "status": "book-soon",
+      "category": "restaurants",
+      "city": "Kyoto"
+    },
+    {
+      "name": "Gyukatsu Motomura Shibuya",
+      "details": "Beef cutlet — DIY grilling at table",
+      "date": "Apr 25, ~7:00 PM",
+      "cost": "¥2,000-2,600",
+      "bookingMethod": "Arrive 7pm. 30-60 min wait. Cash OK. 5-10 min walk from hotel.",
+      "mapLink": "https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Fuunji",
+      "details": "Tsukemen (dipping ramen) — get special size 400g",
+      "date": "Apr 25, ~7:00 PM",
+      "cost": "¥1,200-1,450",
+      "bookingMethod": "JR Yamanote 1 stop to Shinjuku + 5-8 min walk. 15-30 min wait. Cash/vending machine.",
+      "mapLink": "https://maps.google.com/?q=Fuunji+Yoyogi+Tokyo",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo",
+      "isBackup": true
+    },
+    {
+      "name": "Nakajima",
+      "details": "Michelin sardine set lunch — Yanagawa Nabe set (990¥)",
+      "date": "Apr 26, ~11:15 AM",
+      "cost": "¥990",
+      "bookingMethod": "Queue by 11:15am for 11:30 opening. 30-45 min if arriving later.",
+      "mapLink": "https://maps.google.com/?q=Shinjuku+Kappo+Nakajima",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "I'm Donut?",
+      "details": "Brioche donuts w/ cream filling",
+      "date": "Apr 27, ~9:30 AM",
+      "cost": "¥400-600/donut",
+      "bookingMethod": "Arrive 30 min before 10am opening. Sells out by early afternoon.",
+      "mapLink": "https://maps.google.com/?q=I'm+Donut+Nakameguro",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Udon Maruka",
+      "details": "Kamaage udon (Sanuki-style dipping)",
+      "date": "Apr 28, ~10:00 AM",
+      "cost": "¥500-800",
+      "bookingMethod": "Queue by 10:00-10:30 for 11am opening. Cash only. Sells out early.",
+      "mapLink": "https://maps.google.com/?q=Udon+Maruka+Jimbocho+Tokyo",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Nakiryu",
+      "details": "Tantanmen (dan dan noodle)",
+      "date": "Apr 28 or May 9, lunch",
+      "cost": "¥1,000-1,500",
+      "bookingMethod": "Arrive by 10:30am. 30 min-2.5 hr wait. Cash only. May 9 post-GW = shorter lines.",
+      "mapLink": "https://maps.google.com/?q=Nakiryu+ramen+Toshima+Tokyo",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Midori Sushi",
+      "details": "Omakase nigiri — generous toro",
+      "date": "Apr 29, ~5:30 PM",
+      "cost": "¥3,000-6,000",
+      "bookingMethod": "Arrive by 5:30-6pm. 60-90 min GW wait.",
+      "mapLink": "https://maps.google.com/?q=Umegaoka+Sushi+Midori+Shibuya",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Mizuno (Osaka)",
+      "details": "Yamaimo-yaki okonomiyaki",
+      "date": "May 4, ~12:30 PM",
+      "cost": "¥1,000-2,000",
+      "bookingMethod": "Arrive by 12:30pm. 30-45 min GW wait.",
+      "mapLink": "https://maps.google.com/?q=Mizuno+okonomiyaki+Dotonbori+Osaka",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Osaka"
+    },
+    {
+      "name": "Harukoma (Osaka)",
+      "details": "A la carte sushi — toro, uni, anago",
+      "date": "May 5, ~10:30 AM",
+      "cost": "¥1,300-2,000",
+      "bookingMethod": "Arrive by 10:30-11am. 30-60 min GW wait. Cash preferred.",
+      "mapLink": "https://maps.google.com/?q=Harukoma+Sushi+Tenjinbashi+Osaka",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Osaka"
+    },
+    {
+      "name": "Hikiniku to Come (Kyoto)",
+      "details": "Charcoal-grilled hamburger w/ rice & miso",
+      "date": "May 3, ~5:45 PM",
+      "cost": "¥1,500-2,000",
+      "bookingMethod": "Arrive 30-45 min before dinner rush (by 5:45pm). Walk-in only.",
+      "mapLink": "https://maps.google.com/?q=Hikiniku+to+Come+Kyoto",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Kyoto"
+    },
+    {
+      "name": "% Arabica Higashiyama",
+      "details": "Coffee with Yasaka Pagoda view",
+      "date": "May 3, ~8:00 AM",
+      "cost": "¥500-800",
+      "bookingMethod": "Go right at 8am opening. GW lines 20-30 min by 10am.",
+      "mapLink": "https://maps.google.com/?q=Arabica+Higashiyama+Kyoto",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Kyoto"
+    },
+    {
+      "name": "Shinkansen: Tokyo → Kyoto",
+      "date": "Apr 30, 10:12 AM (Nozomi 23)",
+      "cost": "¥14,520",
+      "bookingMethod": "BOOKED",
+      "alarm": "—",
+      "status": "booked",
+      "category": "transport",
+      "city": "Kyoto"
+    },
+    {
+      "name": "Shinkansen: Shin-Osaka → Odawara",
+      "date": "May 7, 10:18 AM (Hikari 646)",
+      "cost": "¥12,620",
+      "bookingMethod": "BOOKED",
+      "alarm": "—",
+      "status": "booked",
+      "category": "transport",
+      "city": "Hakone"
+    },
+    {
+      "name": "Shinkansen: Odawara → Tokyo",
+      "date": "May 9, ~9:30 AM (Kodama/Hikari)",
+      "cost": "¥3,220",
+      "bookingMethod": "SmartEX app or buy at station",
+      "alarm": "Book when available or buy day-of",
+      "status": "book-soon",
+      "category": "transport",
+      "city": "Tokyo"
+    }
+  ],
+  "alarms": [
+    {
+      "alarmDate": "NOW",
+      "venue": "@ijou_maru_parfait",
+      "bookingFor": "May 6, ~9:00 PM (birthday parfait)",
+      "action": "Follow on Instagram — required for \"membership\" before you can DM to reserve",
+      "priority": "HIGH",
+      "city": "Osaka"
+    },
+    {
+      "alarmDate": "NOW",
+      "venue": "@amam_dacotan_kyoto",
+      "bookingFor": "May 3, ~9:30 AM (bakery queue)",
+      "action": "Follow on Instagram — check IG night of May 2 for closures, register Airwait 9:30 AM day-of",
+      "priority": "MEDIUM",
+      "city": "Kyoto"
+    },
+    {
+      "alarmDate": "~Apr 22",
+      "venue": "Henry's Burger Harami",
+      "bookingFor": "Apr 29, ~11:30 AM (lunch)",
+      "action": "DM @henrysburger_japan — name, phone, date, arrival time, qty (2 Harami Burgers)",
+      "priority": "HIGH",
+      "city": "Tokyo"
+    },
+    {
+      "alarmDate": "Apr 25, before flight",
+      "venue": "Ginza Hachigo",
+      "bookingFor": "Apr 28, ~12:30 PM (lunch)",
+      "action": "Book on TableCheck — opens 9:00 AM JST Apr 25. Book before your flight departs!",
+      "priority": "HIGH",
+      "city": "Tokyo"
+    },
+    {
+      "alarmDate": "~Apr 29",
+      "venue": "Ijou Maru Parfait",
+      "bookingFor": "May 6, ~9:00 PM (birthday!)",
+      "action": "DM @ijou_maru_parfait — 2 people, Brad's birthday night",
+      "priority": "HIGH",
+      "city": "Osaka"
+    },
+    {
+      "alarmDate": "May 2",
+      "venue": "Gen Yamamoto",
+      "bookingFor": "May 9, evening",
+      "action": "Call to reserve — phone only, 7 days ahead, directly from guests",
+      "priority": "HIGH",
+      "city": "Tokyo"
+    }
+  ]
+}
