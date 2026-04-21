@@ -154,8 +154,8 @@
 | **NOW** | @ijou_maru_parfait | May 6, ~9:00 PM (birthday parfait) | Follow on Instagram — required for "membership" before you can DM to reserve | HIGH |
 | **NOW** | @amam_dacotan_kyoto | May 3, ~9:30 AM (bakery queue) | Follow on Instagram — check IG night of May 2 for closures, register Airwait 9:30 AM day-of | MEDIUM |
 | ~~**Mar 31, 7:55 AM**~~ | ~~Pizza Bar on 38th~~ | ~~May 9, 11:30 AM (lunch)~~ | ~~✅ BOOKED — moved to Already Booked~~ | ~~DONE~~ |
-| **~Apr 7** | Shinkansen: Shin-Osaka → Odawara | May 7, ~10:10 AM (Hikari) | Booking opens on SmartEX app | HIGH |
-| **~Apr 11, 8:00 AM** | Shibuya Sky | Apr 26, 5:00 PM (sunset slot) | ~2-week rolling window opens at midnight JST. Open Klook + KKday + Trip.com simultaneously. Sunset slots sell out in ~3 min. | CRITICAL |
+| ~~**~Apr 7**~~ | ~~Shinkansen: Shin-Osaka → Odawara~~ | ~~May 7, 10:18 AM (Hikari 646)~~ | ~~✅ BOOKED — moved to Shinkansen Bookings~~ | ~~DONE~~ |
+| ~~**~Apr 11, 8:00 AM**~~ | ~~Shibuya Sky~~ | ~~Apr 26, 6:20 PM (sunset slot)~~ | ~~✅ BOOKED — moved to Already Booked~~ | ~~DONE~~ |
 | **Apr 18, 8:00 PM** | Tonkatsu Narikura | Apr 26, ~7:30 PM (dinner) | Slots open noon JST Apr 19. Book on TableCheck or Omakase.in | HIGH |
 | ~~**Apr 20**~~ | ~~Bar Benfiddich (backup)~~ | ~~May 9, evening~~ | ~~May schedule posts on Instagram. Book on TableCheck. Only 15 seats.~~ **MISSED — try walk-in May 9 if time permits** | ~~MEDIUM~~ |
 | **~Apr 22** | Henry's Burger Harami | Apr 29, ~11:30 AM (lunch) | DM @henrysburger_japan — name, phone, date, arrival time, qty (2 Harami Burgers) | HIGH |

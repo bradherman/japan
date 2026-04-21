@@ -560,7 +560,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 10:00-10:30 Travel to evening bar spot
 10:30-12:00 Last night drinks:
            - Gen Yamamoto (cocktail omakase) ⚠️ PHONE ONLY — call May 2 (7 days ahead)
-           - Bar Benfiddich (backup — book Apr 20 when May schedule drops) ⚠️ BOOK VIA TABLECHECK
+           - ~~Bar Benfiddich~~ — missed booking window, try walk-in if time
            - JBS Vinyl Bar (one last session — no cover, Shibuya)
 12:00      Head back to Nippori
 12:30      Pack. Last night in Japan.

@@ -38,6 +38,20 @@ function cleanText(text: string): string {
   return stripLinks(text).replace(/\*\*/g, '').replace(/\*/g, '').trim()
 }
 
+/** Check if an alarm date string (e.g. "~Apr 7", "Apr 11, 8:00 AM") is in the past */
+function isAlarmPast(dateStr: string): boolean {
+  if (dateStr === 'NOW') return false
+  const m = dateStr.match(/(Mar|Apr|May)\s+(\d{1,2})/i)
+  if (!m) return false
+  const monthMap: Record<string, number> = { Mar: 2, Apr: 3, May: 4 }
+  const month = monthMap[m[1]]
+  if (month === undefined) return false
+  const alarmDate = new Date(2026, month, parseInt(m[2]))
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+  return alarmDate < today
+}
+
 type City = 'Tokyo' | 'Kyoto' | 'Osaka' | 'Hakone'
 
 function dayCity(dayNumber: number): City {
@@ -451,6 +465,7 @@ function parseReservations() {
     for (const row of rows) {
       const cells = row.split('|').map(c => c.trim()).filter(Boolean)
       if (cells.length >= 3 && !cells[0].startsWith('Bar') && !cells[0].startsWith('--')) {
+        if (cells[0].includes('~~')) continue // strikethrough = cancelled/missed
         reservations.push({
           name: cleanText(cells[0]),
           date: cleanText(cells[1]),
@@ -559,9 +574,12 @@ function parseReservations() {
       const cells = row.split('|').map(c => c.trim()).filter(Boolean)
       if (cells.length >= 5 && !cells[0].startsWith('Alarm') && !cells[0].startsWith('--')) {
         if (cells[0].includes('~~')) continue // strikethrough = done/booked
+        // Auto-filter alarms whose action date has passed
+        const alarmDateRaw = cleanText(cells[0])
+        if (isAlarmPast(alarmDateRaw)) continue
         const bookingFor = cleanText(cells[2])
         alarms.push({
-          alarmDate: cleanText(cells[0]),
+          alarmDate: alarmDateRaw,
           venue: cleanText(cells[1]),
           bookingFor,
           action: cleanText(cells[3]),

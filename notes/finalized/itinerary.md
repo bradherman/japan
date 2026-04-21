@@ -96,8 +96,7 @@
 
 ### Afternoon — Shibuya Sky (~4:30-5:00 PM arrival for sunset)
 - Return to Shibuya area (~15 min from Ginza)
-- **[Shibuya Sky](https://maps.google.com/?q=Shibuya+Sky+observation+deck)** — Book the ~17:30 sunset slot online in advance (3,400 yen for sunset slot). Watch golden hour transition to city lights from 229m above Shibuya Crossing. Allow 60-90 min.
-  - **ADVANCE TICKETS: Book NOW at shibuya-sky.tokyo — sunset slots sell out fast**
+- **[Shibuya Sky](https://maps.google.com/?q=Shibuya+Sky+observation+deck)** — **✅ BOOKED 6:20 PM** (3,400 yen/pp). Watch golden hour transition to city lights from 229m above Shibuya Crossing. Sunset ~6:23 PM. Allow 60-90 min.
 - **Shibuya Crossing** — You're literally above it. Watch from the sky, then experience it at street level after.
 
 ### Dinner (~7:30-8:00 PM) — Tonkatsu
@@ -112,7 +111,7 @@
 
 ### Logistics
 - Golden Week starts Apr 29 — today and tomorrow are your best days for harder-to-book restaurants
-- Pre-book Shibuya Sky sunset slot online ASAP
+- Shibuya Sky ✅ BOOKED 6:20 PM
 
 ---
 
@@ -621,9 +620,8 @@
 
 ### Morning — Departure
 - **9:15 AM** — Leave Cross Hotel. Walk to Namba Station (4 min), Midosuji Line to Shin-Osaka (15 min, 280 yen)
-- **~10:10 AM** — Board Hikari to Odawara (~2 hrs 5 min, ~12,620 yen/pp)
-  - **ADVANCE TICKETS: Book via SmartEX app. Booking opens April 7. Set alarm for Apr 7.**
-- **~12:15-12:55 PM** — Arrive Odawara Station
+- **10:18 AM** — Board **Hikari 646** to Odawara (2 hrs 20 min, ¥12,620/pp) — **✅ BOOKED**
+- **12:38 PM** — Arrive Odawara Station
 
 ### At Odawara Station
 - **Buy Hakone Free Pass** — 2-day at Odakyu counter (6,000 yen)
@@ -719,7 +717,7 @@
 
 ### Evening — Last Night in Japan
 - **[Gen Yamamoto](https://maps.google.com/?q=Gen+Yamamoto+Azabu-Juban+Tokyo)** — Cocktail omakase. Phone reservations only, 7 days ahead (call May 2 for May 9).
-- **[Bar Benfiddich](https://maps.google.com/?q=Bar+Benfiddich+Shinjuku+Tokyo)** — World's 50 Best Bars. Foraged ingredients, no menu. ~2,500-4,000 yen/cocktail. *(Backup — book Apr 20 when May schedule drops on TableCheck. Only 15 seats.)*
+- ~~**Bar Benfiddich**~~ — Missed Apr 20 booking window. Try walk-in May 9 if time permits.
 - Or: revisit **JBS Vinyl Bar** (Shibuya)
 
 ### Logistics
