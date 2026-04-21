@@ -46,23 +46,18 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 1:15-1:30  Walk to Houseki Hiroba Shibuya (5 min from hotel area)
 1:30-3:30  Houseki Hiroba Shibuya — secondhand watch browsing. Rolex, Grand Seiko, Omega. Massive inventory. (2 hrs)
 3:30-4:00  Walk back to hotel, freshen up, grab coffee
-4:00-4:15  Walk to Shibuya Sky (5 min from hotel)
-4:15-4:30  Enter Shibuya Sky, go through escalators to observation deck
-6:20-7:50  Shibuya Sky — booked entry at 6:20 PM ✅. Golden hour + city lights. Sunset ~6:23 PM.
-6:00-6:15  Come down, experience Shibuya Crossing at street level
-6:15-6:30  Walk back to hotel, freshen up
-           If Narikura booked:
-7:00       Subway Shibuya → Minami-Asagaya (Marunouchi Line, 25 min)
-7:30       Arrive Tonkatsu Narikura (3 min walk from station) ⚠️ RESERVATION ONLY
-7:30-8:30  Eat best tonkatsu of your life
-8:30-9:00  Subway back to Shibuya
-           If Narikura NOT booked:
-7:30       Walk to Gyukatsu Motomura Shibuya (10 min)
-7:30-8:30  Queue + eat beef cutlet
-9:00-9:05  Walk to JBS Vinyl Bar (5 min, Shibuya)
-9:00-10:00 JBS — vinyl, whisky, no cover
-10:00-10:05 Walk to SG Club (5 min)
-10:00-11:00 SG Club — craft cocktails (Guzzle floor or Sip basement)
+4:00-5:45  Free time — rest at hotel, explore Shibuya
+5:45-6:00  Walk to Shibuya Scramble Square (5 min from hotel)
+6:00-6:20  Check in at Shibuya Sky, go through escalators to observation deck
+6:20-7:45  Shibuya Sky — booked entry at 6:20 PM ⚠️ BOOKED ✅. Golden hour + city lights. Sunset ~6:23 PM.
+7:45-8:00  Come down, experience Shibuya Crossing at street level
+8:00-8:15  JR Yamanote Shibuya → Shinjuku (5 min + walk to Takashimaya)
+8:15-9:00  Katsukura Shinjuku Takashimaya 14F — Kyoto-style tonkatsu (LO 9 PM, walk-in)
+           (B) Skip Shinjuku → eat at Scramble Square: Shabu-Shabu Tsukada 12F or USHIHACHI yakiniku
+           (B) Gyukatsu Motomura Shibuya — 10 min walk, 30-60 min queue
+9:00-9:15  JR Yamanote back to Shibuya (5 min)
+9:15-10:00 JBS Vinyl Bar — vinyl, whisky, no cover (5 min walk)
+10:00-11:00 SG Club — craft cocktails (Guzzle floor or Sip basement, 5 min walk)
 11:00      Walk back to hotel (10 min)
 ```
 

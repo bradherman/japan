@@ -31,7 +31,7 @@
 | Item | Date (JST) | Cost/pp | Booking Method | Map | Alarm to Set |
 |------|-----------|---------|----------------|-----|-------------|
 | ~~**teamLab Planets**~~ | ~~Apr 27, 3:00 PM~~ | ~~¥3,200~~ | — | — | **BOOKED — moved to Already Booked** |
-| **Shibuya Sky sunset** | Apr 26, ~17:00 slot (sunset 6:23 PM) | ¥3,400 | Book via **[Klook](https://www.klook.com/en-US/activity/70672-shibuya-sky-tokyo/)**, **[KKday](https://www.kkday.com/en-us/product/133300-shibuya-sky-observatory-e-ticket-tokyo)**, or **[Trip.com](https://us.trip.com/travel-guide/attraction/tokyo/shibuya-sky-136018827/)** — official site requires Japanese credit card | [Map](https://maps.google.com/?q=Shibuya+Sky+observation+deck) | **CAN'T BOOK YET — ~2 week rolling window. See alarm below.** |
+| ~~**Shibuya Sky sunset**~~ | ~~Apr 26, 6:20 PM~~ | ~~¥3,400~~ | — | — | **✅ BOOKED — moved to Already Booked** |
 | **Kamogawa Odori** (geisha dance) | May 5-22 (starts AFTER Kyoto leg) | ¥4,000-7,000 | Pontocho Kaburenjo Theater website | [Map](https://maps.google.com/?q=Pontocho+Kaburenjo+Theater+Kyoto) | **Doesn't overlap with Kyoto stay (May 1-3). Could day-trip from Osaka if an afternoon slot exists.** |
 
 ### Restaurants — Book Now
@@ -53,7 +53,7 @@
 
 | Restaurant | Cuisine / What to Order | Target Date & Time (JST) | Cost/pp | Booking Method | Map | Alarm to Set (PDT→JST) |
 |-----------|------------------------|--------------------------|---------|----------------|-----|------------------------|
-| **Tonkatsu Narikura** | Best tonkatsu in Tokyo — order rosu katsu | Apr 26 dinner, ~7:30 PM | ¥6,000 | TableCheck or Omakase.in | [Map](https://maps.google.com/?q=Tonkatsu+Narikura+Minami-Asagaya) | **Slots open 1 wk ahead at noon JST. For Apr 26: Apr 19, noon JST = Apr 18, 8:00 PM PDT** |
+| ~~**Tonkatsu Narikura**~~ | ~~Best tonkatsu in Tokyo~~ | ~~Apr 26 dinner~~ | ~~¥6,000~~ | — | — | **MISSED booking window — replaced with Katsukura Shinjuku (walk-in)** |
 | **Ginza Hachigo** | Michelin ramen — ravioli truffle-foie gras chuka soba | Apr 28 lunch, ~12:30 PM | ¥1,200 + ¥500 booking fee | TableCheck (opens Sat 9am for following week) | [Map](https://maps.google.com/?q=Ginza+Hachigo+ramen+Tokyo) | **For Apr 28: book Sat Apr 25, 9:00 AM JST. You'll be landing at Narita at 3pm — try to book before your flight departs!** |
 | ~~**Bird Land Ginza**~~ | ~~Michelin yakitori — omakase course~~ | ~~May 9 dinner, ~6:00 PM~~ | ~~¥6,000-10,000~~ | — | — | **Dinner confirmed: Sushi Yoshikawa 8:30 PM** |
 | ~~**Fileja**~~ | ~~15-course pasta omakase — all handmade pasta~~ | ~~May 9 dinner, ~7:00 PM~~ | ~~¥10,000-15,000~~ | — | — | **Dinner confirmed: Sushi Yoshikawa 8:30 PM** |
@@ -136,7 +136,7 @@
 - [ ] Ryokan pickup from Gora Station (call Hakone Gora Byakudan)
 - [ ] Ryokan has private in-room onsen (confirmed per user)
 - [ ] Each hotel accepts takkyubin luggage delivery (if sending luggage)
-- [x] Nishikawa pillow fitting appointment for 4 people — BOOKED Apr 29, 3:00 PM + 4:00 PM
+- [x] ~~Nishikawa pillow fitting~~ — CANCELLED
 - [ ] Kurono Tokyo Aoyama — email to check weekday availability (closed Sun/holidays)
 - [ ] Blue Note Tokyo / Shinjuku Pit Inn / UFO Club — check Apr 25-30 schedules when posted
 - [ ] Flower Mountain Osaka Tenjinbashi store hours
@@ -156,7 +156,7 @@
 | ~~**Mar 31, 7:55 AM**~~ | ~~Pizza Bar on 38th~~ | ~~May 9, 11:30 AM (lunch)~~ | ~~✅ BOOKED — moved to Already Booked~~ | ~~DONE~~ |
 | ~~**~Apr 7**~~ | ~~Shinkansen: Shin-Osaka → Odawara~~ | ~~May 7, 10:18 AM (Hikari 646)~~ | ~~✅ BOOKED — moved to Shinkansen Bookings~~ | ~~DONE~~ |
 | ~~**~Apr 11, 8:00 AM**~~ | ~~Shibuya Sky~~ | ~~Apr 26, 6:20 PM (sunset slot)~~ | ~~✅ BOOKED — moved to Already Booked~~ | ~~DONE~~ |
-| **Apr 18, 8:00 PM** | Tonkatsu Narikura | Apr 26, ~7:30 PM (dinner) | Slots open noon JST Apr 19. Book on TableCheck or Omakase.in | HIGH |
+| ~~**Apr 18, 8:00 PM**~~ | ~~Tonkatsu Narikura~~ | ~~Apr 26, ~7:30 PM (dinner)~~ | ~~MISSED booking window — replaced with Katsukura Shinjuku (walk-in)~~ | ~~DONE~~ |
 | ~~**Apr 20**~~ | ~~Bar Benfiddich (backup)~~ | ~~May 9, evening~~ | ~~May schedule posts on Instagram. Book on TableCheck. Only 15 seats.~~ **MISSED — try walk-in May 9 if time permits** | ~~MEDIUM~~ |
 | **~Apr 22** | Henry's Burger Harami | Apr 29, ~11:30 AM (lunch) | DM @henrysburger_japan — name, phone, date, arrival time, qty (2 Harami Burgers) | HIGH |
 | **Apr 25, before flight** | Ginza Hachigo | Apr 28, ~12:30 PM (lunch) | Book on TableCheck — opens 9:00 AM JST Apr 25. Book before your flight departs! | HIGH |
@@ -178,5 +178,5 @@
 **Backup plans:**
 - ~~If Pizza Bar on 38th fails → RistoPizza at Azabudai Hills (walk-in)~~ **BOOKED**
 - ~~If Michelin sushi fully booked → Sushi Yoshikawa in Ebisu (¥11,000)~~ **BOOKED**
-- If Tonkatsu Narikura fails → Tonkatsu Sugita (Bib Gourmand, near Asakusa)
+- ~~If Tonkatsu Narikura fails → Tonkatsu Sugita~~ **MISSED — dinner is Katsukura Shinjuku Takashimaya (walk-in)**
 - If Ginza Hachigo fails → Nakiryu tantanmen (walk-in, arrive early)

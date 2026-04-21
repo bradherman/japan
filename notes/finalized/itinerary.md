@@ -94,16 +94,17 @@
 1. **[Nakajima](https://maps.google.com/?q=Shinjuku+Kappo+Nakajima)** — PRIORITY. Michelin-starred sardine set lunch — 990 yen/pp (!!) — Shinjuku, 15 min subway from Ginza. Cheapest Michelin meal in Tokyo. Closed Sun, so today works. *No reservation. LINE UP: Queue by 11:15am for 11:30 opening — fills immediately. If going after chopsticks, you'll hit the 12:30+ wave — expect 30-45 min wait.*
 2. **[Ginza Six basement depachika](https://maps.google.com/?q=GINZA+SIX+Tokyo)** — Gourmet food floor grazing — varied prices — Great if Tsukiji filled you up.
 
-### Afternoon — Shibuya Sky (~4:30-5:00 PM arrival for sunset)
-- Return to Shibuya area (~15 min from Ginza)
-- **[Shibuya Sky](https://maps.google.com/?q=Shibuya+Sky+observation+deck)** — **✅ BOOKED 6:20 PM** (3,400 yen/pp). Watch golden hour transition to city lights from 229m above Shibuya Crossing. Sunset ~6:23 PM. Allow 60-90 min.
+### Late Afternoon — Shibuya Sky (6:20 PM entry)
+- Free time after watch shopping — rest at hotel, grab coffee
+- **[Shibuya Sky](https://maps.google.com/?q=Shibuya+Sky+observation+deck)** — **✅ BOOKED 6:20 PM** (3,400 yen/pp). Arrive by 6:00 to check in. Watch golden hour transition to city lights from 229m above Shibuya Crossing. Sunset ~6:23 PM. Allow 60-90 min.
 - **Shibuya Crossing** — You're literally above it. Watch from the sky, then experience it at street level after.
 
-### Dinner (~7:30-8:00 PM) — Tonkatsu
-1. **[Tonkatsu Narikura](https://maps.google.com/?q=Tonkatsu+Narikura+Minami-Asagaya)** — PRIORITY. Best tonkatsu in Tokyo — ~6,000 yen/pp — Reservation ONLY via Omakase.in or TableCheck. *(Take Ginza Line from Shibuya, transfer at Akasaka-mitsuke to Marunouchi Line toward Ogikubo, ride to Minami-Asagaya. ~30-35 min total. 3 min walk from station.)*
-  - **ADVANCE TICKETS: Slots open 1 week ahead at noon JST on TableCheck. Set alarm for Sat Apr 19 at 8pm PDT (= noon JST Apr 20)**
-2. **[Tonkatsu Sugita](https://maps.google.com/?q=Tonkatsu+Sugita+Kuramae+Tokyo)** — Bib Gourmand, 10 consecutive years — ~3,000-4,500 yen/pp — Near Asakusa. Book via Omakase or byFood.
-3. **[Gyukatsu Motomura Shibuya](https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya)** — Beef cutlet — ~2,600 yen/pp — If tonkatsu reservations fell through.
+### Dinner (~8:15 PM) — Tonkatsu
+1. **[Katsukura Shinjuku Takashimaya](https://maps.google.com/?q=Katsukura+Shinjuku+Takashimaya+Times+Square)** — PRIORITY. Kyoto-style tonkatsu (since 1962). 14F Takashimaya Times Square. Walk-in, no reservation needed. Grind-your-own sesame, unlimited rice/cabbage/miso. Rosu katsu or hire katsu with heritage pork. ~¥2,000-3,000/pp. Open until 10 PM (LO 9 PM). 1 stop on JR Yamanote from Shibuya (~15 min door-to-door).
+2. **Backups near Shibuya Sky** (no train needed, walk-in):
+   - **[Gyukatsu Motomura Shibuya](https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya)** — Beef cutlet, DIY stone-grilling — ~¥2,600/pp — 10 min walk from Scramble Square. Expect 30-60 min queue at dinner. Open until 11 PM.
+   - **[Shabu-Shabu Tsukada](https://maps.google.com/?q=Shabu+Shabu+Tsukada+Shibuya+Scramble+Square)** — 12F Shibuya Scramble Square (same building as Shibuya Sky). A5 wagyu individual hot pots. View of Scramble Crossing from your seat.
+   - **[USHIHACHI Kiwami Shibuya](https://maps.google.com/?q=USHIHACHI+Kiwami+Shibuya+Scramble+Crossing)** — Wagyu yakiniku overlooking Scramble Crossing. Floor-to-ceiling windows.
 
 ### Evening
 - **[JBS Vinyl Bar](https://maps.google.com/?q=JBS+Jazz+Bar+Shibuya)** (Shibuya) — No cover, open 2pm-11pm. Wall of vinyl, great sound system. Walking distance from hotel.
