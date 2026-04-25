@@ -185,7 +185,7 @@
 
 ### Morning — Jimbocho + Glitch Coffee (~7:45-10:30 AM)
 - **Glitch Coffee flight** — Allow 45-60 min to savor (opens 7:30am weekdays)
-- **OPTIONAL: [Udon Maruka](https://maps.google.com/?q=Udon+Maruka+Jimbocho+Tokyo)** — Best udon in Tokyo. WEEKDAYS ONLY, closed for Golden Week — today is your last chance. Kamaage udon, 500-800 yen, cash only. *Only do this if you can also handle Nakajima lunch — you'd queue 10:00-10:30 for 11am open, eat 10:45-11:15, then race to Shinjuku for Nakajima's 12:30 wave. Skip if you want one focused lunch.*
+- **[Udon Maruka](https://maps.google.com/?q=Udon+Maruka+Jimbocho+Tokyo)** — *Optional morning stretch.* Best udon in Tokyo. WEEKDAYS ONLY, closed for Golden Week — today is your last chance. Kamaage udon, 500-800 yen, cash only. *Only do this if you can also handle Nakajima lunch — you'd queue 10:00-10:30 for 11am open, eat 10:45-11:15, then race to Shinjuku for Nakajima's 12:30 wave. Skip if you want one focused lunch.*
 
 ### Late Morning — Subway to Shinjuku for Nakajima (~10:30-11:30 AM)
 - Subway Jimbocho → Shinjuku-sanchome (Toei Shinjuku Line, ~10-15 min)
@@ -214,9 +214,7 @@
 *Live music + bars. Do 1 live venue and fit in the other 2 bars before/after.*
 - **[Shinjuku Pit Inn](https://maps.google.com/?q=Shinjuku+Pit+Inn+jazz+Tokyo)** — Legendary jazz club. Evening show from ~7:30pm, cover ~3,000 yen. Check schedule. OR:
 - **[UFO Club Koenji](https://maps.google.com/?q=UFO+Club+Koenji+Tokyo)** — Psych rock venue! The Kikagaku Moyo scene. ~20 min from Shinjuku on Chuo Line. Cover ~1,500-2,500 yen.
-- **Before/after the show:**
-  - **[Jazz Bar Samurai](https://maps.google.com/?q=Jazz+Bar+Samurai+Shinjuku+Tokyo)** (Shinjuku 3-chome, 5F) — 2,500+ maneki-neko. Vinyl jazz since 1979. Drinks ~¥700. *Unlike any bar you've ever been to.*
-  - ~~Bar Benfiddich~~ — Sold out for April. Schedule posted Mar 20, all 15 seats booked.
+- **[Jazz Bar Samurai](https://maps.google.com/?q=Jazz+Bar+Samurai+Shinjuku+Tokyo)** — *Before/after the show.* Shinjuku 3-chome, 5F. 2,500+ maneki-neko cats, vinyl jazz since 1979. Drinks ~¥700. *Unlike any bar you've ever been to.*
 
 ### Logistics
 - Udon Maruka WILL close Apr 29 - May 6 (holidays). Today is your only chance.

@@ -14,6 +14,8 @@ export interface Activity {
   description?: string
   mapLink?: string
   price?: string
+  /** How long to spend at the activity, e.g. "30-60 min", "1.5 hrs". */
+  duration?: string
   priority?: boolean
   reservationRequired?: boolean
   booked?: boolean

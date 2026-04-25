@@ -210,7 +210,42 @@ function parseItinerary() {
           const numberMatch = trimmed.match(/^(\d+)\.\s+/)
           const isBackup = numberMatch ? parseInt(numberMatch[1]) >= 2 : false
           const lineUpMatch = rest.match(/LINE UP:\s*([^*]+)/i)
-          const priceMatch = rest.match(/~?([\d,]+(?:-[\d,]+)?)\s*yen/i)
+
+          // Strip the LINE UP wait-time content before scanning for duration/price/time so we don't
+          // pull a wait time into the duration chip. The lineUpTip already captures the wait info.
+          // Match LINE UP: through end of its italic block (or end of line if no closing *).
+          const restWithoutLineUp = rest.replace(/\bLINE UP:[^*]*/gi, '')
+
+          // Strip parenthesized "(~XX min)" and "(XX min)" before scanning — those are transit/walk
+          // times, not the activity duration. Same for parenthesized USD/yen conversions.
+          const scanText = restWithoutLineUp
+            .replace(/\(~?\d+(?:[-–]\d+)?\s*(?:min|mins|hr|hrs|hour|hours)\)/g, '')
+            .replace(/\(~?\$\d+(?:\.\d+)?k?(?:[-–]\d+(?:\.\d+)?k?)?\)/g, '')
+            .replace(/\(~?[\d,]+(?:[-–][\d,]+)?\s*yen(?:\/pp)?\)/gi, '')
+            .replace(/\(~?¥[\d,]+(?:[-–][\d,]+)?(?:\/pp)?\)/gi, '')
+
+          // Booked time — "BOOKED 10:00 AM", "BOOKED at 10:00 AM"
+          const bookedTimeMatch = scanText.match(/\bBOOKED\b(?:\s+at)?\s+(\d{1,2}:\d{2}\s*(?:AM|PM)?)/i)
+          const bookedTime = bookedTimeMatch?.[1]?.trim()
+
+          // Duration — "30-60 min", "1-1.5 hrs", "60 min", "Allow 60-90 min".
+          // Negative lookahead skips walking times, wait times, transit times, and dwell-modifiers.
+          const durationExcl = '(?:wait|walk|from|before|after|ahead|prior|away|early|late|train|subway|ride|trip|drive|cab|taxi|bus)'
+          const durationMatch = scanText.match(
+            new RegExp(`~?(\\d+(?:\\.\\d+)?\\s*(?:min|hrs?|hours?)\\s*[-–]\\s*\\d+(?:\\.\\d+)?\\s*(?:hrs?|hours?))(?!\\s+${durationExcl})`, 'i')
+          ) || scanText.match(
+            new RegExp(`~?(\\d+(?:\\.\\d+)?(?:\\s*[-–]\\s*\\d+(?:\\.\\d+)?)?\\s*(?:min|hrs?|hours?))(?!\\s+${durationExcl})`, 'i')
+          )
+          const duration = durationMatch?.[1]?.replace(/\s+/g, ' ').trim()
+
+          // Price — yen first (¥X,XXX or "X,XXX yen"), USD fallback ($X or $X-Y)
+          const yenMatch = scanText.match(/~?¥([\d,]+(?:[-–][\d,]+)?)/)
+            || scanText.match(/~?([\d,]+(?:[-–][\d,]+)?)\s*yen/i)
+          const usdMatch = scanText.match(/~?\$(\d+(?:\.\d+)?(?:[-–]\d+(?:\.\d+)?)?k?)/i)
+          const price = yenMatch ? `¥${yenMatch[1]}` : (usdMatch ? `$${usdMatch[1]}` : undefined)
+          // Capture broader price contexts ("cover ~3,000 yen", "¥300 entry") to strip from description
+          const priceContextRegex = /(?:cover|entry|fee|admission|ticket)\s*~?(?:¥[\d,]+(?:[-–][\d,]+)?|[\d,]+(?:[-–][\d,]+)?\s*yen|\$\d+(?:\.\d+)?(?:[-–]\d+(?:\.\d+)?)?k?)(?:\/pp)?|~?(?:¥[\d,]+(?:[-–][\d,]+)?|[\d,]+(?:[-–][\d,]+)?\s*yen|\$\d+(?:\.\d+)?(?:[-–]\d+(?:\.\d+)?)?k?)(?:\/pp)?(?:\s*(?:cover|entry|fee|admission|ticket))?/gi
+
           // Extract notes — look at subsequent non-activity lines for dress code, arrival tips
           const actIdx = lines.indexOf(line)
           let notes: string | undefined
@@ -227,17 +262,68 @@ function parseItinerary() {
             }
           }
 
+          // Build a cleaner description by removing the structured bits we already extracted.
+          let descSrc = cleanText(rest)
+          descSrc = descSrc
+            // Drop parenthesized chunks that became chips (transit, USD/yen conversions, etc.)
+            .replace(/\s*\(~?\d+(?:[-–]\d+)?\s*(?:min|mins|hr|hrs|hour|hours)\)\s*/g, ' ')
+            .replace(/\s*\(~?\$\d+(?:\.\d+)?k?(?:[-–]\d+(?:\.\d+)?k?)?\)\s*/g, ' ')
+            .replace(/\s*\(~?[\d,]+(?:[-–][\d,]+)?\s*yen(?:\/pp)?\)\s*/gi, ' ')
+            .replace(/\s*\(~?¥[\d,]+(?:[-–][\d,]+)?(?:\/pp)?\)\s*/gi, ' ')
+            // Drop priority/booked markers (already shown as badges)
+            .replace(/PRIORITY\.?\s*/gi, '')
+            .replace(/PICK\.?\s*/gi, '')
+            .replace(/LINE UP:[^.]+\.?\s*/gi, '')
+            .replace(/✅\s*/g, '')
+            .replace(/\bBOOKED\b(?:\s+at)?\s+\d{1,2}:\d{2}\s*(?:AM|PM)?\.?/gi, '')
+            .replace(/\bBOOKED\b\.?/gi, '')
+            .replace(/\bBackup\.?\s*/g, '')
+          if (durationMatch) descSrc = descSrc.replace(durationMatch[0], '')
+          descSrc = descSrc.replace(priceContextRegex, '')
+          descSrc = descSrc
+            .replace(/\/pp\b/gi, '')
+            .replace(/\bAllow\b\.?\s*/gi, '')
+            // Empty parens left from extraction
+            .replace(/\(\s*\)/g, '')
+            // Emphasis markers like "(!!)", "(!)", "(!!!)"
+            .replace(/\(\s*!+\s*\)/g, '')
+            // Clean leftover commas inside parens after extraction: "(direct, , )" → "(direct)"
+            .replace(/\(([^()]*)\)/g, (_m: string, inner: string) =>
+              '(' + inner.replace(/,\s*,/g, ',').replace(/^\s*,\s*/, '').replace(/\s*,\s*$/, '').trim() + ')'
+            )
+            .replace(/\(\s*\)/g, '')
+            .replace(/,\s*,+/g, ',')
+            // Collapse double em-dashes (left when a middle clause was extracted)
+            .replace(/\s*[—–]\s*[—–]\s*/g, ' — ')
+            // Stray em-dash next to comma/period
+            .replace(/\s*[—–]\s*([,.])/g, '$1')
+            // Orphan "+ " connectives → "; "
+            .replace(/\s*\.\s*\+\s+/g, '. ')
+            .replace(/\s+\+\s+/g, '; ')
+            .replace(/\s{2,}/g, ' ')
+            .replace(/\s+([,.;:])/g, '$1')
+            .replace(/([,.])\s*[,.;:]+/g, '$1')
+            // Trailing "OR", "AND", "BUT" connectives left dangling
+            .replace(/\s+(?:OR|AND|BUT)\s*[:.]?\s*$/gi, '')
+            .replace(/^[\s,.;:+\-—–]+/, '')
+            .replace(/[\s,.;:+\-—–]+$/, '')
+            .trim()
+          if (descSrc) descSrc = descSrc.charAt(0).toUpperCase() + descSrc.slice(1)
+          const description = descSrc || undefined
+
           activities.push({
             name,
             mapLink: mapLink || extractMapLink(trimmed),
-            description: cleanText(rest).replace(/PRIORITY\.?\s*/i, '').replace(/LINE UP:[^.]+\.?\s*/i, '').trim() || undefined,
+            description,
+            time: bookedTime,
+            duration,
             priority,
             reservationRequired,
             booked: booked || undefined,
             backup: isBackup || undefined,
             notes,
             lineUpTip: lineUpMatch?.[1]?.trim(),
-            price: priceMatch ? `¥${priceMatch[1]}` : undefined,
+            price,
           })
         } else if (trimmed.startsWith('- **') && !trimmed.startsWith('- **~')) {
           // Bulleted bold item (sub-items, venues, etc.)

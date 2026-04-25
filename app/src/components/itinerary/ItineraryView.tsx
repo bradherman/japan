@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { MapPin, Star, Ticket, Clock, Coffee, UtensilsCrossed, Train, CheckCircle, Map } from 'lucide-react'
+import { MapPin, Star, Ticket, Clock, Coffee, UtensilsCrossed, Hourglass, Train, CheckCircle, Map } from 'lucide-react'
 import { itinerary, transport } from '@/data'
 import { DayPicker } from './DayPicker'
 import { CityBadge } from '@/components/ui/CityBadge'
@@ -186,25 +186,37 @@ export function ItineraryView() {
                             </span>
                           )}
                         </div>
-                        {act.time && (
-                          <p className="mt-1 flex items-center gap-1.5 text-xs text-text-tertiary">
-                            <Clock className="h-3 w-3" /> {act.time}
-                          </p>
+                        {(act.time || act.duration || act.price) && (
+                          <div className="mt-2 flex flex-wrap items-center gap-1.5">
+                            {act.time && act.time !== act.name && (
+                              <span className="inline-flex items-center gap-1 rounded-md bg-surface-2 px-1.5 py-0.5 text-[11px] font-semibold text-text">
+                                <Clock className="h-3 w-3 text-amber-400" /> {act.time}
+                              </span>
+                            )}
+                            {act.duration && (
+                              <span className="inline-flex items-center gap-1 rounded-md bg-surface-2 px-1.5 py-0.5 text-[11px] text-text-secondary">
+                                <Hourglass className="h-3 w-3" /> {act.duration}
+                              </span>
+                            )}
+                            {act.price && (
+                              <YenUsd
+                                text={`${act.price}/pp`}
+                                className="rounded-md bg-surface-2 px-1.5 py-0.5 text-[11px] font-medium"
+                              />
+                            )}
+                          </div>
                         )}
                         {act.description && (
-                          <p className="mt-1.5 text-xs text-text-secondary leading-relaxed">{act.description}</p>
+                          <p className="mt-2 text-xs text-text-secondary leading-relaxed">{act.description}</p>
+                        )}
+                        {act.lineUpTip && (
+                          <p className="mt-1.5 text-[11px] text-amber-400 leading-relaxed">
+                            <span className="font-semibold">Line-up:</span> {act.lineUpTip}
+                          </p>
                         )}
                         {act.notes && (
                           <p className="mt-1.5 text-xs text-amber-400/80 leading-relaxed">{act.notes}</p>
                         )}
-                        <div className="mt-1.5 flex items-center gap-3">
-                          {act.price && (
-                            <YenUsd text={`${act.price}/pp`} className="text-xs font-medium" />
-                          )}
-                          {act.lineUpTip && (
-                            <span className="text-xs text-amber-400">Tip: {act.lineUpTip}</span>
-                          )}
-                        </div>
                       </div>
                       {act.mapLink && (
                         <a
