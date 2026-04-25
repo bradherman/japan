@@ -114,12 +114,11 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 10:45-11:15 Eat kamaage udon (cash only)
 11:15-11:35 Walk/subway to Kappabashi Street (20 min)
 11:35-1:00 Knife shopping — Tsubaya, Kamata Hakensha (1-1.5 hrs)
-           If Ginza Hachigo reserved:
-1:00-1:15  Subway Kappabashi area → Ginza (15 min)
-1:15-1:45  Eat at Ginza Hachigo ⚠️ RESERVATION — truffle-foie gras ramen
-           If NOT reserved — Nakiryu tantanmen:
-           (would need separate morning trip — arrive 10:30am. Skip Maruka if doing Nakiryu)
-1:45-2:00  Subway toward Asakusa (5 min — Kappabashi is basically Asakusa)
+           **PRIMARY PLAN — Nakiryu tantanmen (Michelin, spicy dan dan):**
+1:00-1:15  Subway/taxi Kappabashi → Minamiotsuka Stn (Marunouchi Line, 15 min)
+1:15-1:45  Eat Nakiryu — arrive 10:30 AM preferred but can go 1-2 PM (Michelin-listed, cash only)
+           **(B) If Nakiryu line too long → Ramen Menmaru near Sensoji (5 min from Kappabashi)**
+1:45-2:00  Subway/walk toward Asakusa (5-10 min)
 2:00-3:30  Sensoji Temple — Kaminarimon gate, Nakamise street, temple grounds (1.5 hrs)
 3:30-4:00  Explore Asakusa backstreets
 4:00-4:30  Subway Asakusa → Shibuya (30 min) — rest at hotel
