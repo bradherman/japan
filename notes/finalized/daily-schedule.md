@@ -105,42 +105,39 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 ---
 
-## Day 4: Tue, Apr 28 — Jimbocho / Nakajima / Kappabashi / Asakusa / Shinjuku Night
+## Day 4: Tue, Apr 28 — Glitch / Nakajima / Sumo / Kappabashi / Sensoji / Pit Inn
 
 ```
 7:15 AM    Wake up
 7:30       Leave hotel, subway Shibuya → Jimbocho (Hanzomon Line, 15 min)
 7:45       Arrive Jimbocho
-7:50-8:30  Glitch Coffee — 2-3 bean tasting flight (~40 min, get there early)
-8:30-8:45  Walk toward Udon Maruka (5 min)
-8:45-9:30  Browse Jimbocho bookshops (queue starts ~10am — keep it short today, lunch is at Nakajima)
-9:30-9:45  Subway Jimbocho → Shinjuku-sanchome (Toei Shinjuku Line, ~10-15 min)
-           **PRIMARY LUNCH — Nakajima Michelin sardine (Tue-Sat only):**
-9:45-10:30 Walk to Nakajima area, light wandering / coffee top-up
-10:30-11:30 Queue at Nakajima — line builds fast for 11:30 opening ⚠️ Tue-Sat lunch only, cash, no reservations
-11:30-12:30 Eat Michelin sardine set (990¥!!)
-           (B) If Nakajima line is insane → bail to Nakiryu tantanmen (Marunouchi Line to Minamiotsuka)
-           (B) Skip ramen entirely if you also did Udon Maruka morning stretch (see option below)
-           OPTIONAL MORNING STRETCH — only if you wake up super early:
-           Earlier wake-up → Glitch by 7:30, queue Maruka by 10:00, eat by 11:15, then race to
-           Nakajima for ~12:30 wave (ambitious but doable). Skip if prioritizing one solid lunch.
-12:30-12:45 Subway Shinjuku → Kappabashi (~30 min via Toei Shinjuku + walk)
-12:45-2:30 Knife shopping on Kappabashi — Tsubaya, Kamata Hakensha (1.5-2 hrs)
-2:30-2:45  Walk to Asakusa (5 min, same neighborhood)
-2:45-4:15  Sensoji Temple — Kaminarimon gate, Nakamise street, temple grounds (1.5 hrs)
-4:15-4:45  Explore Asakusa backstreets
-4:45-5:15  Subway Asakusa → Shibuya (30 min) — rest at hotel
-5:15-6:00  Rest / freshen up
-6:00-6:20  Subway Shibuya → Kagurazaka/Iidabashi (20 min)
-6:20-6:30  Walk the lantern-lit alleys of Kagurazaka
-6:30       Find Shinpo izakaya (look for blue noren curtains)
-6:30-8:00  Dinner at Shinpo — crab croquettes, smoked daikon, sake
-8:00-8:15  Subway Kagurazaka → Shinjuku (10 min)
-8:15-9:00  Jazz Bar Samurai (5F, Shinjuku 3-chome) — vinyl jazz + 2,500 maneki-neko
-9:00-10:00 Option A: Shinjuku Pit Inn — jazz evening show (~10pm late set)
-           Option B: JR Chuo to Koenji (10 min) → UFO Club for psych rock
-           Option C: Head home — it's been a full day
-11:30      Last train window. Head to Shibuya.
+7:50-8:30  Glitch Coffee — 2-3 bean tasting flight (~40 min)
+8:30-9:45  Browse Jimbocho bookshops, light wander (Maruka skipped today — sumo timing)
+10:00-10:15 Subway Jimbocho → Shinjuku-sanchome (Toei Shinjuku Line, ~12 min)
+10:15-10:55 Walk to Nakajima area, position near entrance
+11:00-11:30 IN QUEUE at Nakajima ⚠️ FIRST WAVE — cash, no reservations, Tue-Sat only
+11:30-12:00 Eat sardine set FAST (~30 min) — leave by 12:00 sharp for sumo
+12:00-12:25 Walk Nakajima (Shinjuku 3-chome) → Shinjuku Sumo Club (Okubo 2-5-22, ~15 min via Yasukuni-dori)
+12:25       Check in at Sumo Club
+12:30-2:00 ⚠️ SUMO SHOW — Shinjuku Sumo Club, 90 min, bilingual MC, 3 matches + photo session ⚠️ BOOKED
+2:00-2:10  Walk Sumo Club → Shin-Okubo Stn
+2:10-2:45  JR Yamanote → Kanda → transfer Ginza Line → Tawaramachi (~30 min total)
+2:45-2:50  Walk Tawaramachi Stn → Kappabashi
+2:50-4:15  Knife shopping — Tsubaya, Kamata Hakensha (~1h 25m)
+4:15-4:25  Walk Kappabashi → Sensoji (5-10 min, same neighborhood)
+4:25-5:25  Sensoji Temple — Kaminarimon, Nakamise (no slow browse), main hall (~60 min quick)
+5:25-5:55  Subway Asakusa → Shibuya (Ginza + Hanzomon, ~30 min)
+5:55-6:35  Rest at hotel, change clothes, freshen up
+6:35-6:50  Subway Shibuya → Shinjuku-sanchome (~12 min)
+6:50-7:00  Walk to Pit Inn area (Shinjuku 2-chome 12-4, B1F)
+7:00       Pit Inn doors open — show your reservation, claim seat
+7:00-7:25  Settle in, order drink (one drink included with ticket)
+7:30-9:00 ⚠️ PIT INN — Suga Dairo Trio (Kyu Suga Dairo piano, Hikaru Toho bass, Masatsugi Hattori drums) ⚠️ BOOKED
+9:00-9:15  Walk Pit Inn → Omoide Yokocho (~10 min through Shinjuku Station west side)
+9:15-10:30 Late dinner — pick any stall in Omoide Yokocho ("Piss Alley") — yakitori, izakaya bites, beer
+10:30-10:45 Walk Omoide → Jazz Bar Samurai (Shinjuku 3-chome, 5F)
+10:45-11:30 Jazz Bar Samurai — vinyl jazz + 2,500 maneki-neko cats. ¥700 drinks.
+11:30-11:45 Walk to Shinjuku Stn, JR Yamanote → Shibuya (~5 min train)
 12:00      Hotel
 ```
 

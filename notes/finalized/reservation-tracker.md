@@ -21,6 +21,8 @@
 | ~~Nishikawa Pillow Fitting~~ | ~~COREDO Nihonbashi — 2 slots~~ | ~~Apr 29, 3:00 PM~~ | ~~Varies~~ | — | ~~CANCELLED~~ |
 | **Camellia Tea Ceremony** | **Kyoto traditional matcha whisking — machiya setting** | **May 3, 12:00 PM** | **~¥4,500-5,000** | **[Map](https://maps.google.com/?q=Camellia+Tea+Ceremony+Kyoto+Gion)** | **✅ BOOKED & CONFIRMED** |
 | Casiopea at Billboard Live Osaka | Japanese jazz fusion legends — Herbis Plaza ENT, Nishi-Umeda. Early dinner at Sodaisho before. | May 5, 7:00 PM | — | [Map](https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT) | TICKETS PURCHASED |
+| **Shinjuku Sumo Show** | 90-min sumo show — bilingual MC, 3 matches + photo session. Sekisaku Bldg 2F, Okubo 2-5-22. Late entry refused — leave Nakajima by 12:00 sharp. | Apr 28, 12:30 PM | ~$60-81/pp | [Map](https://maps.google.com/?q=Shinjuku+Sumo+Club+Okubo+Sekisaku+Building) | **BOOK NOW on Klook (12:30 slot)** |
+| **Shinjuku Pit Inn — Suga Dairo Trio** | Golden Week Special — Kyu Suga Dairo (piano), Hikaru Toho (bass), Masatsugi Hattori (drums). Open 7:00 PM, show 7:30. ¥3,850 includes one drink. | Apr 28, 7:30 PM | ¥3,850 | [Map](https://maps.google.com/?q=Shinjuku+Pit+Inn+jazz+Tokyo) | **BOOK NOW — phone 03-3354-2024 or online form** |
 
 ---
 
@@ -183,4 +185,6 @@
 - ~~If Pizza Bar on 38th fails → RistoPizza at Azabudai Hills (walk-in)~~ **BOOKED**
 - ~~If Michelin sushi fully booked → Sushi Yoshikawa in Ebisu (¥11,000)~~ **BOOKED**
 - ~~If Tonkatsu Narikura fails → Tonkatsu Sugita~~ **MISSED — Apr 26 dinner is Shabu-Shabu Tsukada walk-in (12F Shibuya Scramble Square, same building as Shibuya Sky)**
-- ~~If Ginza Hachigo fails → Nakiryu tantanmen~~ **Ginza Hachigo MISSED. Apr 28 lunch is now Nakajima (Shinjuku, Michelin sardine set, Tue-Sat only). Nakiryu is backup if Nakajima line is too long.**
+- ~~If Ginza Hachigo fails → Nakiryu tantanmen~~ **Ginza Hachigo MISSED. Apr 28 lunch is now Nakajima (Shinjuku, Michelin sardine set, Tue-Sat only) on the FIRST WAVE (queue 11:00, eat 11:30-12:00) so we can race to a 12:30 sumo show. Nakiryu is backup if Nakajima fails — but timing margin is gone if we bail.**
+- Apr 28 dinner moved from Shinpo (Kagurazaka) to late izakaya at Omoide Yokocho (post-Pit Inn ~9:15 PM). Shinpo could slot into May 9 or another flex Tokyo evening if we want it.
+- Apr 28 evening live music shifted from "either Pit Inn or UFO Club" to a confirmed Pit Inn — Suga Dairo Trio booking. UFO Club Koenji is dropped this trip.

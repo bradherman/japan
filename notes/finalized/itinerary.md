@@ -170,56 +170,66 @@
 
 ---
 
-## Day 4: Tuesday, April 28 — Tokyo — Jimbocho / Kappabashi / Asakusa / Shinjuku Night Out
+## Day 4: Tuesday, April 28 — Tokyo — Glitch / Nakajima / Sumo / Kappabashi / Sensoji / Pit Inn
 
-*With Dave & Gail. Coffee flight at Glitch, Nakajima Michelin sardine lunch (Tue-Sat only), knife shopping, live music night. Last full weekday before Golden Week.*
+*With Dave & Gail. Big day: Glitch coffee, Nakajima Michelin sardine lunch on the first wave, 12:30 sumo show, knife shopping, quick Sensoji, then Pit Inn jazz + late izakaya. Last full weekday before Golden Week.*
 
-> Coffee nerd paradise in the morning — a 3-bean tasting flight at Glitch, then the best udon in Tokyo
-> (weekdays only, closes for Golden Week, today is your shot). Lunch is the cheapest Michelin meal in
-> Tokyo — Nakajima's sardine set in Shinjuku (only open Tue-Sat, today is the day). Afternoon is knife
-> shopping on Kappabashi Street and Sensoji Temple. Dinner at a hidden izakaya in Kagurazaka, then the
-> real highlight: Shinjuku Pit Inn for legendary jazz, a bar with 2,500 maneki-neko cats, and cocktails
-> at a World's 50 Best bar.
+> Coffee nerd paradise in the morning — 3-bean tasting flight at Glitch. Lunch is the cheapest
+> Michelin meal in Tokyo (Nakajima sardine set, Tue-Sat only), eaten on the 11:30 first wave so
+> we can race ten minutes north for a 12:30 sumo show. Knife shopping on Kappabashi and a quick
+> Sensoji stop in Asakusa, then back to Shinjuku for Suga Dairo Trio at Pit Inn at 7:30, late
+> izakaya at Omoide Yokocho, and vinyl jazz at Jazz Bar Samurai to close.
 
 **Morning Coffee:** [Glitch Coffee Jimbocho](https://maps.google.com/?q=Glitch+Coffee+Roasters+Jimbocho+Tokyo) — THE coffee destination. Order the 2-3 bean tasting flight (~1,500-2,000 yen). Opens 7:30am weekdays.
 
-### Morning — Jimbocho + Glitch Coffee (~7:45-10:30 AM)
-- **Glitch Coffee flight** — Allow 45-60 min to savor (opens 7:30am weekdays)
-- **[Udon Maruka](https://maps.google.com/?q=Udon+Maruka+Jimbocho+Tokyo)** — *Optional morning stretch.* Best udon in Tokyo. WEEKDAYS ONLY, closed for Golden Week — today is your last chance. Kamaage udon, 500-800 yen, cash only. *Only do this if you can also handle Nakajima lunch — you'd queue 10:00-10:30 for 11am open, eat 10:45-11:15, then race to Shinjuku for Nakajima's 12:30 wave. Skip if you want one focused lunch.*
+### Morning — Jimbocho + Glitch Coffee (~7:45-9:45 AM)
+- **Glitch Coffee flight** — Allow 40-45 min (opens 7:30am weekdays). Don't linger — first-wave Nakajima requires us in Shinjuku by 11:00.
+- *Skip Udon Maruka today — incompatible with the 12:30 sumo show. Maruka is closed Apr 29-May 6 for Golden Week, so it's out for the trip.*
 
-### Late Morning — Subway to Shinjuku for Nakajima (~10:30-11:30 AM)
-- Subway Jimbocho → Shinjuku-sanchome (Toei Shinjuku Line, ~10-15 min)
-- Walk to Nakajima — queue forms before 11:30 opening
+### Late Morning — Subway to Shinjuku, Queue Nakajima (~10:00-12:00 PM)
+- 10:00 Subway Jimbocho → Shinjuku-sanchome (Toei Shinjuku Line, ~12 min)
+- 10:15-10:55 Walk to **[Nakajima](https://maps.google.com/?q=Shinjuku+Kappo+Nakajima)** area; get into the queue position
+- **PRIORITY: First-wave Nakajima** — queue by 11:00 to be seated at 11:30 opening. Eat in 30 min flat. Sardine set, 990 yen/pp, cash. *Closed Sun+Mon — today (Tue) is the only viable day.*
 
-### Early Afternoon — Kappabashi Knife Shopping (~12:45-2:30 PM)
-- Subway Shinjuku → Kappabashi/Tawaramachi (~25-30 min)
-- **[Kappabashi Street](https://maps.google.com/?q=Kappabashi+Street+Tokyo)** (Kitchen Town)
-  - **[Tsubaya](https://maps.google.com/?q=Tsubaya+knives+Kappabashi)** — Widest selection, handles most knives freely. Est. 1956.
-  - **[Kamata Hakensha](https://maps.google.com/?q=Kamata+Hakensha+Kappabashi)** — Master sharpener, every knife gets a perfect edge
-  - Allow 1-1.5 hours for knife shopping
+### Sumo Show (12:30 PM) — Shinjuku Sumo Club
+- 12:00-12:25 Walk Nakajima (Shinjuku 3-chome) → **[Shinjuku Sumo Club](https://maps.google.com/?q=Shinjuku+Sumo+Club+Okubo+Sekisaku+Building)** (Okubo 2-5-22, Sekisaku Bldg 2F, ~15 min walk via Yasukuni-dori). Late entry refused — leave Nakajima by 12:00 sharp.
+- **12:30-2:00 PM — Sumo Show (90 min).** Bilingual MC, 3 matches, sumo challenge + photo session. ~$60-81/pp via Klook. *BOOKED 12:30 PM.*
 
-### Lunch (~12:00-1:30 PM) — Michelin Sardine
-1. **[Nakajima](https://maps.google.com/?q=Shinjuku+Kappo+Nakajima)** — **PRIORITY.** Michelin-starred sardine set lunch — 990 yen/pp (!!) — Shinjuku, Tue-Sat lunch only (closed Sun+Mon). Today (Tue) works perfectly. Cheapest Michelin meal in Tokyo. *No reservations. LINE UP: Queue by 11:00-11:15am for 11:30 opening. 30-45 min wait if arriving for the 12:30 wave. Cash.*
-2. **[Nakiryu](https://maps.google.com/?q=Nakiryu+ramen+Toshima+Tokyo)** — Backup if Nakajima line is brutal. Legendary tantanmen — ~1,200 yen/pp. *LINE UP: Arrive by 10:30am for 11am opening. Cash only. 30 min-2.5 hr wait.*
+### Early Afternoon — Kappabashi Knife Shopping (~2:30-4:00 PM)
+- 2:00-2:30 Walk Sumo Club → Shin-Okubo Stn → JR Yamanote → Tawaramachi (Ginza Line transfer at Kanda, ~30 min total)
+- **[Kappabashi Street](https://maps.google.com/?q=Kappabashi+Street+Tokyo)** — Kitchen Town. Knife shopping district, ~5 min walk south of Tawaramachi Stn.
+- **[Tsubaya](https://maps.google.com/?q=Tsubaya+knives+Kappabashi)** — Widest selection, handles most knives freely. Est. 1956.
+- **[Kamata Hakensha](https://maps.google.com/?q=Kamata+Hakensha+Kappabashi)** — Master sharpener, every knife gets a perfect edge.
+- Allow ~1-1.5 hrs for knife shopping. Wrap by 4:00 PM.
 
-### Afternoon — Asakusa (~2:30-5:00 PM)
-- Subway from Kappabashi to Asakusa (~5 min walk, same neighborhood)
-- **[Sensoji Temple](https://maps.google.com/?q=Sensoji+Temple+Asakusa+Tokyo)** — Tokyo's oldest temple, free. Thunder Gate (Kaminarimon), Nakamise shopping street. Allow 1-1.5 hrs.
+### Mid Afternoon — Sensoji Temple (~4:00-5:15 PM)
+- Walk Kappabashi → Sensoji (~5-10 min, same neighborhood)
+- **[Sensoji Temple](https://maps.google.com/?q=Sensoji+Temple+Asakusa+Tokyo)** — Tokyo's oldest temple, free. Thunder Gate (Kaminarimon), Nakamise shopping street, main hall. ~1 hr quick visit (skip the slow Nakamise browse — keep moving).
 
-### Dinner (~7:00 PM) — Izakaya
-1. **[Shinpo](https://maps.google.com/?q=Shinpo+izakaya+Kagurazaka+Tokyo)** — PRIORITY. Hidden gem izakaya — ~3,000-5,000 yen/pp — Creamy crab croquettes, smoked daikon with cream cheese. Kagurazaka area.
-2. **[Kagurazaka area](https://maps.google.com/?q=Kagurazaka+Tokyo)** — Walk the lantern-lit alleys near Iidabashi Station. Pop into any inviting izakaya.
+### Late Afternoon — Hotel Reset (~5:15-6:45 PM)
+- 5:15-5:45 Subway Asakusa → Shibuya (~30 min)
+- 5:45-6:30 Rest at hotel, freshen up, change clothes
+- 6:30-6:45 Subway Shibuya → Shinjuku (~10 min) — head straight to Pit Inn
 
-### Evening — Shinjuku Night Out
-*Live music + bars. Do 1 live venue and fit in the other 2 bars before/after.*
-- **[Shinjuku Pit Inn](https://maps.google.com/?q=Shinjuku+Pit+Inn+jazz+Tokyo)** — Legendary jazz club. Evening show from ~7:30pm, cover ~3,000 yen. Check schedule. OR:
-- **[UFO Club Koenji](https://maps.google.com/?q=UFO+Club+Koenji+Tokyo)** — Psych rock venue! The Kikagaku Moyo scene. ~20 min from Shinjuku on Chuo Line. Cover ~1,500-2,500 yen.
-- **[Jazz Bar Samurai](https://maps.google.com/?q=Jazz+Bar+Samurai+Shinjuku+Tokyo)** — *Before/after the show.* Shinjuku 3-chome, 5F. 2,500+ maneki-neko cats, vinyl jazz since 1979. Drinks ~¥700. *Unlike any bar you've ever been to.*
+### Evening Pre-Show — Quick Bite Near Pit Inn (~6:45-7:25 PM)
+- Walk to Pit Inn area in Shinjuku 2-chome. If hungry, quick yakitori at Omoide Yokocho or konbini bites — full dinner is the late izakaya after Pit Inn.
+
+### Pit Inn — Suga Dairo Trio (7:30-9:00 PM)
+- **[Shinjuku Pit Inn](https://maps.google.com/?q=Shinjuku+Pit+Inn+jazz+Tokyo)** — Open 7:00, show 7:30. ¥3,850/pp (incl. one drink). Reservation gives priority seating at the 7:00 door open. *BOOKED Apr 28, 7:30 PM.*
+
+### Late Dinner — Omoide Yokocho (~9:15-10:30 PM)
+- 9:00-9:15 Walk Pit Inn → Omoide Yokocho ("Memory Lane" / Piss Alley), ~10 min through Shinjuku
+- **[Omoide Yokocho](https://maps.google.com/?q=Omoide+Yokocho+Shinjuku+Tokyo)** — Atmospheric tiny izakaya alley, smoky yakitori stalls, beer + sake. Open well past midnight. Pick any stall with seats — the vibe is the meal.
+
+### Late Night — Jazz Bar Samurai (~10:30-11:30 PM)
+- **[Jazz Bar Samurai](https://maps.google.com/?q=Jazz+Bar+Samurai+Shinjuku+Tokyo)** — Shinjuku 3-chome, 5F. 2,500+ maneki-neko cats, vinyl jazz since 1979. Drinks ~¥700. *Unlike any bar you've ever been to.*
+- 11:30 Last trains to Shibuya — JR Yamanote.
 
 ### Logistics
-- Udon Maruka WILL close Apr 29 - May 6 (holidays). Today is your only chance.
-- Arrange takkyubin luggage forwarding at hotel front desk this evening (send tomorrow morning, arrives Kyoto Apr 30)
-- Tomorrow is Showa Day (Apr 29) — many small restaurants closed.
+- Udon Maruka had to drop today (incompatible with sumo timing). Closed all of Golden Week — out for the trip.
+- Eat Nakajima FAST (~30 min) on the first wave. Leaving by 12:00 is non-negotiable for the 12:30 sumo check-in.
+- Arrange takkyubin luggage forwarding at hotel front desk this evening (send tomorrow morning, arrives Kyoto Apr 30).
+- Tomorrow is Showa Day (Apr 29) — Nakajima, Bird Land, most family-run spots closed.
 
 ---
 
