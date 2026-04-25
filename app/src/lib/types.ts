@@ -21,6 +21,8 @@ export interface Activity {
   notes?: string
   lineUpTip?: string
   tags?: string[]
+  /** Used by the morning-card slot to switch label + icon between coffee and breakfast. */
+  kind?: 'coffee' | 'breakfast'
 }
 
 export interface DaySection {

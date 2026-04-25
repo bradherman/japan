@@ -142,15 +142,21 @@ function parseItinerary() {
       }
     }
 
-    // Morning coffee
+    // Morning coffee or breakfast (same data shape, different label/icon in UI)
     let morningCoffee: Record<string, unknown> | undefined
-    const coffeeMatch = content.match(/\*\*Morning Coffee:\*\*\s*\[([^\]]+)\]\(([^)]+)\)\s*(?:—\s*(.+))?/m)
-      || content.match(/\*\*Morning Coffee:\*\*\s*(.+)/m)
+    const morningRegexLink = /\*\*Morning (Coffee|Breakfast):\*\*\s*\[([^\]]+)\]\(([^)]+)\)\s*(?:—\s*(.+))?/m
+    const morningRegexPlain = /\*\*Morning (Coffee|Breakfast):\*\*\s*(.+)/m
+    const coffeeMatch = content.match(morningRegexLink) || content.match(morningRegexPlain)
     if (coffeeMatch) {
+      const isLinkMatch = coffeeMatch.length === 5
+      const kind = (coffeeMatch[1] || '').toLowerCase() === 'breakfast' ? 'breakfast' : 'coffee'
       morningCoffee = {
-        name: coffeeMatch[1] || cleanText(coffeeMatch[0].replace('**Morning Coffee:**', '')),
-        mapLink: coffeeMatch[2] || extractMapLink(coffeeMatch[0]),
-        description: coffeeMatch[3]?.trim(),
+        kind,
+        name: isLinkMatch
+          ? coffeeMatch[2]
+          : cleanText(coffeeMatch[0].replace(/\*\*Morning (Coffee|Breakfast):\*\*/, '')),
+        mapLink: isLinkMatch ? coffeeMatch[3] : extractMapLink(coffeeMatch[0]),
+        description: isLinkMatch ? coffeeMatch[4]?.trim() : undefined,
       }
     }
 

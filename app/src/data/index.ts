@@ -15,7 +15,7 @@ type ItineraryData = {
     dayNumber: number; date: string; dayOfWeek: string; title: string; city: string
     subtitle?: string
     summary?: string
-    morningCoffee?: { name: string; mapLink?: string; description?: string }
+    morningCoffee?: { name: string; mapLink?: string; description?: string; kind?: 'coffee' | 'breakfast' }
     sections: Array<{
       title: string; subtitle?: string
       activities: Array<{

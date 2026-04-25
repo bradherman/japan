@@ -27,11 +27,14 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 ---
 
-## Day 2: Sun, Apr 26 — Chopsticks / Tsukiji / Shibuya Sky / Tsukada
+## Day 2: Sun, Apr 26 — Sakuragaoka / Chopsticks / Tsukiji / Shibuya Sky / Tsukada
 
 ```
-8:00 AM    Wake up — light morning, no rush
-8:00-9:00  Lazy coffee (in-room or hotel area), get ready
+6:30 AM    Wake up (already up earlier today — flex)
+6:50-7:00  Walk Granbell → Cerulean Tower Tokyu Hotel (~5-7 min, Sakuragaoka-cho)
+7:00-8:30  Sakuragaoka breakfast — traditional Japanese buffet (grilled fish, rice, miso, tofu,
+           tamagoyaki, pickles, fruit, coffee). Walk-in. ¥4,200/pp. LO 10:00.
+8:30-9:00  Walk back, freshen up
 9:00-9:15  Walk to Shibuya Station
 9:15-9:35  Ginza Line to Ginza (~16 min, ¥210)
 9:35-9:55  Walk to Hashikura — light browsing of Ginza on the way

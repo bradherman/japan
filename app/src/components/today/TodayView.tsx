@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { ChevronLeft, ChevronRight, MapPin, AlertTriangle, Coffee, Train, Info, Cake, BookOpen, ChevronDown, Map } from 'lucide-react'
+import { ChevronLeft, ChevronRight, MapPin, AlertTriangle, Coffee, UtensilsCrossed, Train, Info, Cake, BookOpen, ChevronDown, Map } from 'lucide-react'
 import { schedule, itinerary, transport } from '@/data'
 import { CityBadge } from '@/components/ui/CityBadge'
 import { YenUsd } from '@/components/ui/YenUsd'
@@ -184,15 +184,17 @@ export function TodayView() {
           </div>
         )}
 
-        {/* Morning coffee — featured */}
+        {/* Morning coffee or breakfast — featured */}
         {dayItinerary?.morningCoffee && (
           <div className="animate-fade-up rounded-2xl bg-amber-500/8 p-4 ring-1 ring-amber-500/15">
             <div className="flex items-start gap-3">
               <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-amber-500/15">
-                <Coffee className="h-4 w-4 text-amber-400" />
+                {dayItinerary.morningCoffee.kind === 'breakfast'
+                  ? <UtensilsCrossed className="h-4 w-4 text-amber-400" />
+                  : <Coffee className="h-4 w-4 text-amber-400" />}
               </div>
               <div className="min-w-0 flex-1">
-                <p className="text-[10px] font-semibold uppercase tracking-widest text-amber-400/70">Morning Coffee</p>
+                <p className="text-[10px] font-semibold uppercase tracking-widest text-amber-400/70">{dayItinerary.morningCoffee.kind === 'breakfast' ? 'Morning Breakfast' : 'Morning Coffee'}</p>
                 <p className="mt-0.5 text-sm font-semibold">{dayItinerary.morningCoffee.name}</p>
                 {dayItinerary.morningCoffee.description && (
                   <p className="mt-0.5 text-xs leading-relaxed text-text-secondary">{dayItinerary.morningCoffee.description}</p>

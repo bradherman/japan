@@ -76,10 +76,14 @@
 > and hit knife/watch shops on the way back through Ginza. Sunset at Shibuya Sky at 6:20 (already booked),
 > then take the elevator down to A5 wagyu shabu-shabu at Tsukada inside Shibuya Scramble Square.
 
-**Morning Coffee:** [Streamer Coffee Shibuya](https://maps.google.com/?q=Streamer+Coffee+Company+Shibuya) (walking distance from hotel, opens 10am Sun) — better to grab station coffee on the way to Ginza, or hit Streamer when you get back this afternoon.
+**Morning Breakfast:** [Sakuragaoka at Cerulean Tower Tokyu Hotel](https://maps.google.com/?q=Sakuragaoka+Cerulean+Tower+Tokyu+Hotel+Shibuya) — Walking distance from Granbell. Traditional Japanese breakfast buffet (grilled fish, rice, miso, tofu, tamagoyaki, pickles, fruit) plus coffee. **7:00 AM start** (LO 10:00, closes 10:30). Walk-in OK — buffet is separate from the lunch/dinner reservation system. ~¥4,200/pp. *Skipping Streamer Coffee today — buffet covers coffee.*
+
+### Early Morning — Breakfast at Sakuragaoka (~7:00-8:30 AM)
+- Walk from Granbell to Cerulean Tower Tokyu Hotel (~5-7 min, easy stroll along Sakuragaoka-cho).
+- Settle in for a slow Japanese breakfast — this is the meal of the morning, no rush.
 
 ### Late Morning — Chopstick Workshop in Ginza (10:00 AM)
-- Light morning at the hotel — sleep in past jet lag, lazy coffee, leave by ~9:15 AM.
+- Back to hotel after breakfast, freshen up, leave by ~9:15 AM.
 - Subway Ginza Line from Shibuya to Ginza (~16 min, ~210 yen).
 - **[Chopstick Making Workshop (Ginza Hashikura)](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo)** — **✅ BOOKED 10:00 AM** for all 4. ~30-60 min, ~$27/pp + premium wood. Take home same day.
 
@@ -90,17 +94,14 @@
   - Cash at most stalls. Some individual vendors are dark on Sundays, but the outer market itself runs and the high-volume snack stalls are open ~10am-2pm.
 
 ### Early Afternoon — Walkable Shopping + Temple/Shrine (~1:30-3:30 PM)
-*All within ~5-15 min walk of Tsukiji.*
-- **Knives:** [Masamoto knives](https://maps.google.com/?q=Masamoto+knives+Tsukiji) — Since 1850s, at the Tsukiji market edge. Tax-free with passport. *Verify Sunday hours via web search before going.*
-- **Temple / shrine (walkable from Tsukiji):**
-  - **[Tsukiji Hongwanji Temple](https://maps.google.com/?q=Tsukiji+Hongwanji+Temple+Tokyo)** — Striking Indian-influenced Buddhist temple, ~5 min walk south of the outer market. Free.
-  - **[Namiyoke Inari Shrine](https://maps.google.com/?q=Namiyoke+Inari+Shrine+Tokyo)** — "Wave-warding" Shinto shrine right at the outer market entrance. Free.
-  - **[Hama-rikyu Gardens](https://maps.google.com/?q=Hama+rikyu+Gardens+Tokyo)** — 10 min walk south of Tsukiji. Tidal pond garden in the middle of the city. ¥300 entry.
-- **Watches (15 min walk back toward Ginza, if appetite for shopping):**
-  - **[Grand Seiko Flagship Boutique Ginza Namiki](https://maps.google.com/?q=Grand+Seiko+Boutique+Ginza+Namiki)** — Browse/buy new Grand Seiko. Tax-free with passport.
-  - **[Watch CTI Ginza](https://maps.google.com/?q=Watch+CTI+Ginza+Tokyo)** — B1F, best for vintage Grand Seiko and King Seiko. Near Ginza-itchome Station.
-  - **[Shellman Ginza](https://maps.google.com/?q=Shellman+Ginza+Tokyo)** — Museum-quality vintage. Patek, Breguet, Grand Seiko.
-  - *Houseki Hiroba is in Shibuya — easier to hit on a separate Tokyo day rather than detouring back.*
+*All within ~5-15 min walk of Tsukiji except the Ginza watch shops, which are ~15 min walk back toward Ginza. Houseki Hiroba is in Shibuya — easier on a separate day.*
+- **[Masamoto knives](https://maps.google.com/?q=Masamoto+knives+Tsukiji)** — Knives since 1850s, at the Tsukiji market edge. Tax-free with passport. *Verify Sunday hours via web search before going.*
+- **[Tsukiji Hongwanji Temple](https://maps.google.com/?q=Tsukiji+Hongwanji+Temple+Tokyo)** — Striking Indian-influenced Buddhist temple, ~5 min walk south of the outer market. Free.
+- **[Namiyoke Inari Shrine](https://maps.google.com/?q=Namiyoke+Inari+Shrine+Tokyo)** — "Wave-warding" Shinto shrine right at the outer market entrance. Free.
+- **[Hama-rikyu Gardens](https://maps.google.com/?q=Hama+rikyu+Gardens+Tokyo)** — Tidal pond garden, 10 min walk south of Tsukiji. ¥300 entry.
+- **[Grand Seiko Flagship Boutique Ginza Namiki](https://maps.google.com/?q=Grand+Seiko+Boutique+Ginza+Namiki)** — New Grand Seiko, 15 min walk back toward Ginza. Tax-free with passport.
+- **[Watch CTI Ginza](https://maps.google.com/?q=Watch+CTI+Ginza+Tokyo)** — Vintage Grand Seiko and King Seiko, B1F near Ginza-itchome Station.
+- **[Shellman Ginza](https://maps.google.com/?q=Shellman+Ginza+Tokyo)** — Museum-quality vintage. Patek, Breguet, Grand Seiko.
 
 ### Late Afternoon — Rest / Free Time (~3:30-5:45 PM)
 - Subway Tsukiji → Shibuya (Hibiya + Ginza Line, ~25-30 min). Rest at hotel, grab Streamer Coffee, freshen up.
@@ -111,10 +112,9 @@
 
 ### Dinner (~8:00 PM) — Shabu-Shabu Tsukada (same building)
 1. **[Shabu-Shabu Tsukada](https://maps.google.com/?q=Shabu+Shabu+Tsukada+Shibuya+Scramble+Square)** — **PRIORITY.** 12F Shibuya Scramble Square — **same building as Shibuya Sky, just take the elevator down.** A5 wagyu individual hot pots. View of Scramble Crossing from the seats. Walk-in or call ahead for a reservation when you wake up.
-2. **Backups (same building or short walk):**
-   - **[USHIHACHI Kiwami Shibuya](https://maps.google.com/?q=USHIHACHI+Kiwami+Shibuya+Scramble+Crossing)** — Wagyu yakiniku, Scramble Square restaurant floor.
-   - **[Katsukura Shinjuku Takashimaya](https://maps.google.com/?q=Katsukura+Shinjuku+Takashimaya+Times+Square)** — Kyoto-style tonkatsu, 14F Takashimaya Times Square. 1 stop on JR Yamanote (~15 min). Walk-in. Open until 10 PM (LO 9 PM).
-   - **[Gyukatsu Motomura Shibuya](https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya)** — Beef cutlet, DIY stone-grilling. ~10 min walk from Scramble Square.
+2. **[USHIHACHI Kiwami Shibuya](https://maps.google.com/?q=USHIHACHI+Kiwami+Shibuya+Scramble+Crossing)** — Backup. Wagyu yakiniku, Scramble Square restaurant floor (same building).
+3. **[Katsukura Shinjuku Takashimaya](https://maps.google.com/?q=Katsukura+Shinjuku+Takashimaya+Times+Square)** — Backup. Kyoto-style tonkatsu, 14F Takashimaya Times Square. 1 stop on JR Yamanote (~15 min). Walk-in. Open until 10 PM (LO 9 PM).
+4. **[Gyukatsu Motomura Shibuya](https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya)** — Backup. Beef cutlet, DIY stone-grilling. ~10 min walk from Scramble Square.
 
 ### Evening
 - **[JBS Vinyl Bar](https://maps.google.com/?q=JBS+Jazz+Bar+Shibuya)** (Shibuya) — No cover, open 2pm-11pm. Wall of vinyl, great sound system. Walking distance from hotel.

@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { MapPin, Star, Ticket, Clock, Coffee, Train, CheckCircle, Map } from 'lucide-react'
+import { MapPin, Star, Ticket, Clock, Coffee, UtensilsCrossed, Train, CheckCircle, Map } from 'lucide-react'
 import { itinerary, transport } from '@/data'
 import { DayPicker } from './DayPicker'
 import { CityBadge } from '@/components/ui/CityBadge'
@@ -86,15 +86,17 @@ export function ItineraryView() {
             {day.subtitle && <p className="mt-1 text-xs text-text-tertiary">{day.subtitle}</p>}
           </div>
 
-          {/* Morning coffee */}
+          {/* Morning coffee or breakfast */}
           {day.morningCoffee && (
             <div className="animate-fade-up rounded-2xl bg-amber-500/8 p-4 ring-1 ring-amber-500/20" style={{ animationDelay: '30ms' }}>
               <div className="flex items-start gap-3">
                 <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-amber-500/15">
-                  <Coffee className="h-4 w-4 text-amber-400" />
+                  {day.morningCoffee.kind === 'breakfast'
+                    ? <UtensilsCrossed className="h-4 w-4 text-amber-400" />
+                    : <Coffee className="h-4 w-4 text-amber-400" />}
                 </div>
                 <div className="min-w-0 flex-1">
-                  <p className="text-[10px] font-semibold uppercase tracking-widest text-amber-400/70">Morning Coffee</p>
+                  <p className="text-[10px] font-semibold uppercase tracking-widest text-amber-400/70">{day.morningCoffee.kind === 'breakfast' ? 'Morning Breakfast' : 'Morning Coffee'}</p>
                   <p className="mt-0.5 text-sm font-semibold">{day.morningCoffee.name}</p>
                   {day.morningCoffee.description && (
                     <p className="mt-0.5 text-xs leading-relaxed text-text-secondary">{day.morningCoffee.description}</p>
