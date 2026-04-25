@@ -54,7 +54,7 @@
 | Restaurant | Cuisine / What to Order | Target Date & Time (JST) | Cost/pp | Booking Method | Map | Alarm to Set (PDT→JST) |
 |-----------|------------------------|--------------------------|---------|----------------|-----|------------------------|
 | ~~**Tonkatsu Narikura**~~ | ~~Best tonkatsu in Tokyo~~ | ~~Apr 26 dinner~~ | ~~¥6,000~~ | — | — | **MISSED booking window — replaced with Katsukura Shinjuku (walk-in)** |
-| **Ginza Hachigo** | Michelin ramen — ravioli truffle-foie gras chuka soba | Apr 28 lunch, ~12:30 PM | ¥1,200 + ¥500 booking fee | TableCheck (opens Sat 9am for following week) | [Map](https://maps.google.com/?q=Ginza+Hachigo+ramen+Tokyo) | **For Apr 28: book Sat Apr 25, 9:00 AM JST. You'll be landing at Narita at 3pm — try to book before your flight departs!** |
+| ~~Ginza Hachigo~~ | ~~Michelin ramen~~ | ~~Apr 28, ~12:30 PM~~ | ~~¥1,700~~ | — | — | **UNAVAILABLE — airplane wifi down. Nakiryu is primary (see Walk-In list).** |
 | ~~**Bird Land Ginza**~~ | ~~Michelin yakitori — omakase course~~ | ~~May 9 dinner, ~6:00 PM~~ | ~~¥6,000-10,000~~ | — | — | **Dinner confirmed: Sushi Yoshikawa 8:30 PM** |
 | ~~**Fileja**~~ | ~~15-course pasta omakase — all handmade pasta~~ | ~~May 9 dinner, ~7:00 PM~~ | ~~¥10,000-15,000~~ | — | — | **Dinner confirmed: Sushi Yoshikawa 8:30 PM** |
 | ~~**Sushi Yoshikawa**~~ | ~~17-piece omakase incl. dragon ball roll (otoro+uni)~~ | ~~May 9 dinner, ~7:00 PM~~ | ~~¥11,000~~ | — | — | **✅ BOOKED May 9, 8:30 PM — moved to Already Booked** |
