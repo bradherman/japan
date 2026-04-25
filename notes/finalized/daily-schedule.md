@@ -143,10 +143,20 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 ---
 
-## Day 5: Tue, Apr 29 — Showa Day — Harajuku / Shimokitazawa
+## Day 5: Wed, Apr 29 — Showa Day — Meiji + Nakano (split) / Samurai Restaurant / Sushi
 
 ```
 8:00 AM    Wake up
+8:15       SPLIT: Brad → Nakano Broadway. Group → Meiji Shrine.
+
+           BRAD (solo flex):
+8:15-8:25  Walk to Shibuya Stn
+8:25-8:55  JR Yamanote Shibuya → Shinjuku → JR Chuo Shinjuku → Nakano (~25 min total)
+9:00-11:30 Nakano Broadway 3F — Jackroad, Kamekichi (opens 11:00), Fire Kids
+           ⚠️ Showa Day risk: phone/IG check key shops night before. Cash for leverage.
+11:30-12:00 Train Nakano → Harajuku, meet group for lunch
+
+           GROUP (Alyona, Dave, Gail):
 8:15       Leave hotel, walk to Meiji Shrine through Yoyogi Park (10 min)
 8:30-9:15  Meiji Shrine — peaceful walk, main hall, forest path (45 min)
 9:15-9:25  Walk to Harajuku / Takeshita-dori (10 min)
@@ -155,17 +165,25 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 10:15-10:45 Gyoza snack — best gyoza in Tokyo (~500-800 yen)
 10:45-11:15 Walk to Mofusand Harajuku (Yeva's gifts), browse more shops
 11:15-11:45 Walk to Koffee Mameya Omotesando (opens 10am)
-11:45-12:15 Coffee sommelier experience
-12:15-12:30 Walk to Henry's Burger OR Shin Udon (both in Harajuku, ~5 min apart)
-12:30-1:15 Lunch — PICK ONE or split:
-           A) Henry's Burger Harajuku — A5 wagyu burgers. Get the HARAMI BURGER (~3,810 yen) ⚠️ DM @henrysburger_japan 1 WEEK AHEAD for harami reservation. Right on Meiji-dori. Owner speaks English.
+11:45-12:00 Coffee sommelier experience, walk to Harajuku for reunion
+
+           REUNITED — LUNCH:
+12:00-12:15 Walk to Henry's Burger (Meiji-dori) or Shin Udon
+12:15-1:15 LUNCH — eat fast, Samurai check-in 1:50 PM
+           A) Henry's Burger Harajuku — A5 wagyu, get HARAMI BURGER (~3,810 yen)
+              ⚠️ DM @henrysburger_japan 1 WEEK AHEAD for harami reservation
            B) Shin Udon Harajuku — carbonara udon (950 yen, walk-in)
-           (Can split one each — they're both in Harajuku)
-           (C) Gyukatsu Motomura Harajuku if you want something heartier
-1:00-1:30  Free time / browse Harajuku area
-1:30-2:00  Free time / rest
-2:00-5:00  Free time — extra rest time, explore Harajuku more, or early return to hotel
-5:00-5:15  Head back to hotel area
+           (Can split — they're both in Harajuku)
+
+           SAMURAI RESTAURANT — KABUKICHO:
+1:15-1:30  Walk to Harajuku Stn or Meiji-Jingumae Stn
+1:30-1:40  JR Yamanote Harajuku → Shinjuku (~5 min, exit east)
+1:40-1:55  Walk Shinjuku Stn → Kabukicho Samurai Restaurant
+1:55-2:00  Check in, claim seats
+2:00-3:30 ⚠️ SAMURAI RESTAURANT SHOW (90 min) — neon, drumming, dancers ⚠️ BOOKED
+
+3:30-3:45  Exit, decompress
+3:45-5:15  Free time — Don Quijote browse, back to Shibuya hotel rest, or Shimokitazawa vintage (B)
 5:15-5:30  Drop by hotel / freshen up
 5:30       Walk to Midori Sushi Shibuya
 5:30-7:00  Queue at Midori (~60-90 min GW wait) ⚠️ ARRIVE BY 5:30-6PM
@@ -174,11 +192,9 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 8:00-8:30  Walk back toward hotel area
 8:30       Option A: Ginza Music Bar (subway to Ginza, 15 min) — til 4am
            Option B: JBS Vinyl Bar (walking distance) — no cover, til 11pm
-           Option C: Early night — Golden Week starts tomorrow, save energy
-10:00-11:00 Back to hotel
+           Option C: Early night — Golden Week is on, save energy for Kyoto tomorrow
+10:00-11:00 Back to hotel — pack day bag for Shinkansen 10:12 AM
 ```
-
-**Brad solo flex (anytime this trip):** Secondhand watch shopping at Nakano Broadway (2-3 hrs), Houseki Hiroba Shibuya (5 min from hotel), or Watch CTI / Shellman in Ginza.
 
 ~~**Pillow fitting: BOOKED**~~ — **CANCELLED** (not practical for 2-week trip)
 

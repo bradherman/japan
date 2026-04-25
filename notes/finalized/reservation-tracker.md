@@ -23,6 +23,7 @@
 | Casiopea at Billboard Live Osaka | Japanese jazz fusion legends — Herbis Plaza ENT, Nishi-Umeda. Early dinner at Sodaisho before. | May 5, 7:00 PM | — | [Map](https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT) | TICKETS PURCHASED |
 | **Shinjuku Sumo Show** | 90-min sumo show — bilingual MC, 3 matches + photo session. Sekisaku Bldg 2F, Okubo 2-5-22. Late entry refused — leave Nakajima by 12:00 sharp. | Apr 28, 12:30 PM | ~$60-81/pp | [Map](https://maps.google.com/?q=Shinjuku+Sumo+Club+Okubo+Sekisaku+Building) | **BOOK NOW on Klook (12:30 slot)** |
 | **Shinjuku Pit Inn — Suga Dairo Trio** | Golden Week Special — Kyu Suga Dairo (piano), Hikaru Toho (bass), Masatsugi Hattori (drums). Open 7:00 PM, show 7:30. ¥3,850 includes one drink. | Apr 28, 7:30 PM | ¥3,850 | [Map](https://maps.google.com/?q=Shinjuku+Pit+Inn+jazz+Tokyo) | **BOOK NOW — phone 03-3354-2024 or online form** |
+| **Samurai Restaurant (Kabukicho)** | Choreographed neon-and-drumming show in former Robot Restaurant space — 90 min show, ticket includes show + bento or 2 drinks. 4 tickets. | Apr 29, 2:00 PM | ~¥9,000/pp | [Map](https://maps.google.com/?q=Samurai+Restaurant+Kabukicho+Shinjuku) | **BOOK NOW on Klook / GetYourGuide / Viator (2:00 PM slot)** |
 
 ---
 
@@ -164,7 +165,7 @@
 | ~~**~Apr 11, 8:00 AM**~~ | ~~Shibuya Sky~~ | ~~Apr 26, 6:20 PM (sunset slot)~~ | ~~✅ BOOKED — moved to Already Booked~~ | ~~DONE~~ |
 | ~~**Apr 18, 8:00 PM**~~ | ~~Tonkatsu Narikura~~ | ~~Apr 26, ~7:30 PM (dinner)~~ | ~~MISSED booking window — Apr 26 dinner is now Shabu-Shabu Tsukada walk-in (same bldg as Shibuya Sky)~~ | ~~DONE~~ |
 | ~~**Apr 20**~~ | ~~Bar Benfiddich (backup)~~ | ~~May 9, evening~~ | ~~May schedule posts on Instagram. Book on TableCheck. Only 15 seats.~~ **MISSED — try walk-in May 9 if time permits** | ~~MEDIUM~~ |
-| **~Apr 22** | Henry's Burger Harami | Apr 29, ~11:30 AM (lunch) | DM @henrysburger_japan — name, phone, date, arrival time, qty (2 Harami Burgers) | HIGH |
+| **~Apr 22** | Henry's Burger Harami | Apr 29, ~12:15 PM (lunch — shifted later for Samurai 2pm) | DM @henrysburger_japan — name, phone, date, arrival time (~12:15), qty (2 Harami Burgers) | HIGH |
 | ~~**Apr 25, before flight**~~ | ~~Ginza Hachigo~~ | ~~Apr 28, ~12:30 PM (lunch)~~ | ~~Book on TableCheck — opens 9:00 AM JST Apr 25.~~ **MISSED — Apr 28 lunch is now Nakajima (walk-in queue, Tue-Sat only)** | ~~HIGH~~ |
 | **~Apr 29** | Ijou Maru Parfait | May 6, ~9:00 PM (birthday!) | DM @ijou_maru_parfait — 2 people, Brad's birthday night | HIGH |
 | **May 2** | Gen Yamamoto | May 9, evening | Call to reserve — phone only, 7 days ahead, directly from guests | HIGH |

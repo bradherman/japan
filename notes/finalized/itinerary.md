@@ -233,43 +233,49 @@
 
 ---
 
-## Day 5: Tuesday, April 29 — Tokyo — Showa Day (Golden Week Begins) — Harajuku / Shimokitazawa
+## Day 5: Wednesday, April 29 — Tokyo — Showa Day — Meiji / Harajuku / Samurai Restaurant / Sushi
 
-*With Dave & Gail. Golden Week Day 1 (Showa Day). Many family-run restaurants closed. Stick to areas that thrive on holidays.*
+*With Dave & Gail. Golden Week Day 1 (Showa Day). Many family-run restaurants closed. Brad splits off in the morning for Nakano Broadway watch shopping while the group does Meiji + Harajuku, then everyone reunites for lunch and the 2pm Samurai Restaurant show in Kabukicho.*
 
-> Golden Week begins — crowds are real but the energy is electric. Meiji Shrine in the morning calm,
-> then Harajuku for people-watching, gyoza, and maybe a wagyu burger. All four of you get custom pillow
-> fittings at Nishikawa in the afternoon (booked). Then Shimokitazawa for vintage shopping — Japanese
-> denim, graphic tees, vinyl records. Sushi for dinner, listening bars to close it out.
+> Golden Week kicks off. Brad solos to Nakano Broadway for the vintage watch crawl while Alyona, Dave,
+> and Gail walk Meiji Shrine and Harajuku in the morning calm. The group reconvenes for a Harajuku
+> lunch (Henry's Burger or Shin Udon), then heads to Kabukicho for the Samurai Restaurant 2pm show
+> — flashy choreographed neon-and-drumming spectacle in the old Robot Restaurant space. Late afternoon
+> is rest, then Midori Sushi for an early dinner queue, capped with Ginza Music Bar or JBS for vinyl.
 
-**Morning Coffee:** [Koffee Mameya Omotesando](https://maps.google.com/?q=Koffee+Mameya+Omotesando+Tokyo) — Opens 10am. Coffee sommelier picks your bean.
+**Morning Coffee:** [Koffee Mameya Omotesando](https://maps.google.com/?q=Koffee+Mameya+Omotesando+Tokyo) — Opens 10am. Coffee sommelier picks your bean. *(Group can swing through after Harajuku Gyoza Ru, ~11:15-11:45.)*
 
-### Morning — Meiji Shrine + Harajuku (~8:30-11:00 AM)
+### Morning Split — Brad: Nakano Broadway (~8:30-11:30 AM)
+- 8:30 leave hotel — JR Yamanote Shibuya → Shinjuku (~5 min), transfer JR Chuo → Nakano (~10 min). Total ~25 min door-to-door.
+- **[Nakano Broadway](https://maps.google.com/?q=Nakano+Broadway+Tokyo)** — THE vintage watch mecca. 3F is dealer floor. Allow ~2.5 hrs.
+- **[Jackroad](https://maps.google.com/?q=Jackroad+Nakano+Broadway+Tokyo)** — Largest dealer at Nakano, multilingual, deep Rolex/Grand Seiko inventory.
+- **[Kamekichi](https://maps.google.com/?q=Kamekichi+Nakano+Broadway+Tokyo)** — 3,000+ watches, Grand Seiko specialist. Hours 11:00-20:30.
+- **[Fire Kids](https://maps.google.com/?q=Fire+Kids+Nakano+Broadway+Tokyo)** — Curated Japanese vintage.
+- *Showa Day risk:* large dealers stay open, small one-off booths can be hit-or-miss. Worth a phone/IG check the night before for any specific shop.
+- 11:30 train Nakano → Harajuku (~10-15 min via Shinjuku), reunite with group for lunch at 12:00.
+
+### Morning — Meiji Shrine + Harajuku (Alyona, Dave, Gail) (~8:30-11:30 AM)
 - **[Meiji Shrine](https://maps.google.com/?q=Meiji+Shrine+Tokyo)** — Early morning is best (less crowded). Free, serene, majestic torii gate. Take JR Yamanote 1 stop to Harajuku (3 min), then 10 min walk to shrine entrance. *(Or ~20-25 min walk from Shibuya.)*
 - Walk to **[Harajuku / Takeshita-dori](https://maps.google.com/?q=Takeshita+Street+Harajuku+Tokyo)** — Window shopping, people watching
 - **[Harajuku Gyoza Ru](https://maps.google.com/?q=Harajuku+Gyoza+Ro+Tokyo)** — Best gyoza in Tokyo per multiple Instagram recs. Perfect mid-morning snack. ~500-800 yen.
-- **[#FFFFFFT (White T-Shirt Store)](https://maps.google.com/?q=FFFFFFT+Sendagaya+Tokyo)** — The world's first store selling ONLY white t-shirts. 2-3-5 Sendagaya, Shibuya-ku. **Open weekends only (Sat 12-7pm, Sun 12-6pm).** ~5 min walk from JR Sendagaya Station or ~10 min walk from Harajuku. Owner helps you find your perfect white tee from curated Japanese and international brands. *Today is Tuesday so CLOSED — move to Day 3 (Sunday) afternoon if interested, or skip.*
-- **[Mofusand Tokyo Harajuku](https://maps.google.com/?q=Mofusand+Tokyo+Harajuku)** — For Yeva's gifts
+- **[Mofusand Tokyo Harajuku](https://maps.google.com/?q=Mofusand+Tokyo+Harajuku)** — For Yeva's gifts.
+- *#FFFFFFT (White T-Shirt Store) is closed weekdays — only Sat/Sun. If Brad still wants it, swing by during a future weekend stop.*
 
-### Lunch (~12:00-1:00 PM) — Udon / Wagyu Burger
-1. **[Shin Udon Harajuku](https://maps.google.com/?q=Shin+Udon+Harajuku+Tokyo)** — Carbonara udon — 950 yen/pp — Walk-in, creative udon, open holidays
-2. **[Henry's Burger Harajuku](https://maps.google.com/?q=Henry's+Burger+Harajuku+Jingumae+Shibuya)** — A5 Wagyu burgers from the chef behind top yakiniku restaurant Sumibi Yakiniku Nakahara. Right on Meiji-dori, 5 min from Meiji-Jingumae Station. The standard wagyu burger (~1,130 yen) is solid but **the move is the Harami Burger** (~3,810 yen) — a skirt steak slab, perfectly charred, with cream-acid-heat sauce. Owner speaks English. 26 seats, less prone to long waits than other locations.
-   - **ADVANCE RESERVATION REQUIRED for Harami:** DM @henrysburger_japan on Instagram ~1 week ahead with name, phone, date, arrival time, quantity. Without the reservation you're limited to the standard menu.
-   - *Can easily do Shin Udon AND Henry's (they're both in Harajuku) — split one of each between you and Alyona.*
-3. **[Gyukatsu Motomura Harajuku](https://maps.google.com/?q=Gyukatsu+Motomura+Harajuku)** — Beef cutlet — ~2,600 yen/pp — If you haven't done this yet
+### Lunch (~12:00-1:15 PM) — Udon / Wagyu Burger
+*Group reunites in Harajuku. Eat fast — Samurai Restaurant check-in at 1:50 PM in Kabukicho.*
+1. **[Henry's Burger Harajuku](https://maps.google.com/?q=Henry's+Burger+Harajuku+Jingumae+Shibuya)** — PRIORITY. A5 Wagyu burgers from the chef behind top yakiniku restaurant Sumibi Yakiniku Nakahara. Right on Meiji-dori, 5 min from Meiji-Jingumae Station. The standard wagyu burger (~1,130 yen) is solid but **the move is the Harami Burger** (~3,810 yen) — a skirt steak slab, perfectly charred, with cream-acid-heat sauce. 26 seats. *ADVANCE RESERVATION for Harami: DM @henrysburger_japan on Instagram ~1 week ahead.*
+2. **[Shin Udon Harajuku](https://maps.google.com/?q=Shin+Udon+Harajuku+Tokyo)** — Backup. Carbonara udon — 950 yen/pp. Walk-in, creative udon, open holidays.
+3. **[Gyukatsu Motomura Harajuku](https://maps.google.com/?q=Gyukatsu+Motomura+Harajuku)** — Backup. Beef cutlet — ~2,600 yen/pp.
 
-### Early Afternoon — Free Time (~3:00-5:00 PM)
-- Rest at hotel, explore more of Harajuku/Omotesando, or browse shops
-- No pillow fitting — skipping for practicality
+### Samurai Restaurant Show (2:00 PM) — Kabukicho
+- 1:15-1:30 Walk to Harajuku Stn or Meiji-Jingumae Stn
+- 1:30-1:40 JR Yamanote Harajuku → Shinjuku (~5 min) — exit east side
+- 1:40-1:55 Walk Shinjuku Stn → Kabukicho to **[Samurai Restaurant](https://maps.google.com/?q=Samurai+Restaurant+Kabukicho+Shinjuku)** (former Robot Restaurant location)
+- **2:00-3:30 PM — Samurai Restaurant show (90 min).** Choreographed neon-and-drumming spectacle, dancers, costumed performers. ~¥9,000/pp incl. show + drink/bento depending on ticket. *BOOKED 2:00 PM via Klook/GetYourGuide for 4.*
 
-### Late Afternoon — Shimokitazawa (~5:30 PM onward, if time)
-*3 min on Keio Inokashira Line from Shibuya. Shortened — hit your top picks.*
-- **[Shimokitazawa](https://maps.google.com/?q=Shimokitazawa+Station+Tokyo)** vintage shopping:
-  - **BEARS' Denim** — Curated Japanese denim
-  - **Flamingo** — American vintage since 2005
-  - **New York Joe Exchange** — Former bathhouse, eclectic vintage
-  - **Chicago** — Classic American graphic tees
-  - Vinyl/record shops — Browse the neighborhood
+### Late Afternoon — Free Time / Shopping (~3:30-5:15 PM)
+- Wander Shinjuku/Kabukicho, browse Don Quijote, or head back to Shibuya for hotel rest.
+- Optional: **[Shimokitazawa](https://maps.google.com/?q=Shimokitazawa+Station+Tokyo)** vintage if time + energy (3 min Keio Inokashira from Shibuya): BEARS' Denim, Flamingo, New York Joe Exchange, Chicago, vinyl shops.
 
 ### Dinner (~7:00 PM) — Sushi (Affordable)
 *Holiday closures limit options. These stay open:*
@@ -281,20 +287,15 @@
 - Or revisit **JBS Vinyl Bar** (Shibuya) — close to home, no cover
 
 ### Logistics
-- **Showa Day closures:** Nakajima, Udon Maruka, Bird Land, most family-run spots closed.
-- ~~Nishikawa Pillow Fitting~~ — **CANCELLED** (not practical for 2-week trip)
-- **Secondhand Watch Shopping (Brad solo flex):** If your dealer locates a piece, Tokyo has world-class pre-owned watch shops:
-  - **[Nakano Broadway](https://maps.google.com/?q=Nakano+Broadway+Tokyo)** — THE vintage watch mecca. 3F has dozens of dealers. JR Chuo Line from Shinjuku ~10 min. Allow 2-3 hrs. Key shops: **Jackroad** (largest dealer, multilingual), **Kamekichi** (3,000+ watches, Grand Seiko specialist), **Fire Kids** (curated Japanese vintage). Tax-free with passport.
-  - **[Watch CTI Ginza](https://maps.google.com/?q=Watch+CTI+Ginza+Tokyo)** — B1F, best for vintage Grand Seiko and King Seiko. Near Ginza-itchome Station.
-  - **[Houseki Hiroba Shibuya](https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo)** — 5 min from hotel. Massive inventory. Rolex, Grand Seiko, Omega. Walk-in browsing.
-  - **[Shellman Ginza](https://maps.google.com/?q=Shellman+Ginza+Tokyo)** — Museum-quality vintage. Patek, Breguet, Grand Seiko. Premium but exceptional curation.
-  - **Tip:** Cash gives negotiation leverage at Nakano Broadway shops. Ginza shops are more fixed pricing.
-- **Henry's Burger Harami reservation:** DM @henrysburger_japan on Instagram ~1 week before Apr 29. Include name, phone, preferred date (Apr 29), arrival time (~11:30am), and quantity (2 Harami Burgers). Without reservation, only the standard wagyu burger is available.
-- Send luggage to Kyoto via takkyubin this morning (arrange at front desk)
+- **Showa Day closures:** Nakajima, Udon Maruka, Bird Land, most family-run spots closed. Henry's Burger and Shin Udon stay open on holidays.
+- **Samurai Restaurant Apr 29 2:00 PM:** ~¥9,000/pp (varies by ticket type). Book on Klook/GetYourGuide/Viator for 4. Show ~90 min. Kabukicho location, former Robot Restaurant building.
+- **Brad's Nakano Broadway morning:** Showa Day risk for small dealers — phone or IG-check Jackroad/Kamekichi/Fire Kids the night before. Cash gives negotiation leverage at Nakano shops; Ginza shops are more fixed pricing.
+- **Henry's Burger Harami reservation:** DM @henrysburger_japan on Instagram ~1 week before Apr 29. Include name, phone, preferred date (Apr 29), arrival time (~12:00pm — note we shifted later for the Samurai Restaurant show), and quantity (2 Harami Burgers).
+- ~~Nishikawa Pillow Fitting~~ — **CANCELLED** (not practical for 2-week trip).
+- Send luggage to Kyoto via takkyubin this morning (arrange at front desk).
 - Tomorrow: pack a day bag. Shinkansen to Kyoto departs 10:12 AM from Tokyo Station.
 - **Flower Mountain shoes** — Save for Osaka's [Tenjinbashi store](https://maps.google.com/?q=Flower+Mountain+5-8-27+Tenjinbashi+Kita+Osaka) (on the same shopping street as Harukoma sushi).
-- **#FFFFFFT** is only open weekends — if Brad wants it, swing by Sunday (Day 3) afternoon near Harajuku. It's a 10-min walk from Omotesando.
-- **Grand Seiko Factory Tour** — 5.5 hours outside the city. Doesn't fit this trip. Brad can visit the Ginza flagship boutique instead.
+- **Grand Seiko Factory Tour** — 5.5 hours outside the city. Doesn't fit this trip. Brad can visit the Ginza flagship boutique on Apr 26.
 - **Loft Shibuya** — [21-1 Udagawacho](https://maps.google.com/?q=Loft+Shibuya+21-1+Udagawacho+Tokyo), 3 min from Shibuya Station. 6 floors of Japanese design goods, stationery, kitchenware. Open 10am-9pm. Pop in anytime — it's right by your hotel.
 
 ---
