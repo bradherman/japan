@@ -27,13 +27,14 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 ---
 
-## Day 2: Sat, Apr 26 — Tsukiji / Ginza / Shibuya Sky
+## Day 2: Sun, Apr 26 — Tsukiji / Ginza / Shibuya Sky
 
 ```
-6:30 AM    Wake up (jet lag is your alarm clock)
-7:00       Leave hotel, walk to Shibuya Station (10 min)
-7:10-7:30  Ginza Line to Tsukiji (20 min)
-7:30-10:00 Tsukiji Outer Market food crawl — tamagoyaki, scallops, uni, sashimi, tuna skewers
+7:00 AM    Wake up (jet lag is your alarm clock)
+7:30       Leave hotel, walk to Shibuya Station (10 min)
+7:40-8:00  Ginza Line to Tsukiji (20 min)
+8:00-8:45  Coffee/rest near Tsukiji, wait for 10am opening
+9:00-10:00 Tsukiji Outer Market food crawl — tamagoyaki, scallops, uni, sashimi, tuna skewers
            Optional: Masamoto knives at market edge
 10:00-10:15 Walk from Tsukiji to Ginza (15 min)
 10:15-11:15 Chopstick Making Workshop — Ginza Hashikura (~60 min) ⚠️ BOOKED 10:00 AM
