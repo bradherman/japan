@@ -66,52 +66,65 @@
 
 ---
 
-## Day 2: Saturday, April 26 — Tokyo — Tsukiji / Ginza / Shibuya Sky
+## Day 2: Sunday, April 26 — Tokyo — Chopsticks / Tsukiji / Shibuya Sky / Shabu-Shabu
 
-*With Dave & Gail. Big first full day: morning market crawl, chopstick workshop, Michelin lunch, sunset views. Pre-Golden Week — take advantage of smaller crowds.*
+*With Dave & Gail. Light morning, chopstick workshop first, Tsukiji snack-lunch crawl, walkable temple/shopping, sunset at Shibuya Sky, then shabu-shabu in the same building.*
 
-> The big first full day. Eat your way through Tsukiji market at dawn, make your own chopsticks in Ginza,
-> then grab the cheapest Michelin meal in Tokyo (sardine set lunch, 990 yen). Afternoon is Shibuya Sky
-> at sunset — golden hour from 229 meters above the crossing. Cap it with the best tonkatsu in the city
-> and vinyl jazz bars within walking distance of the hotel.
+> A relaxed start after the arrival day. Coffee in the neighborhood, then chopstick workshop kicks off
+> the day at 10am sharp. From Ginza, walk to Tsukiji to slow-graze the outer market stalls (10am Sunday
+> opening) — that's lunch. Wander walkable temple/shrine (Tsukiji Hongwanji, Namiyoke Inari, Hama-rikyu)
+> and hit knife/watch shops on the way back through Ginza. Sunset at Shibuya Sky at 6:20 (already booked),
+> then take the elevator down to A5 wagyu shabu-shabu at Tsukada inside Shibuya Scramble Square.
 
-**Morning Coffee:** [Streamer Coffee Shibuya](https://maps.google.com/?q=Streamer+Coffee+Company+Shibuya) (walking distance from hotel, opens 10am Sat — grab on the way out OR get station coffee pre-Tsukiji)
+**Morning Coffee:** [Streamer Coffee Shibuya](https://maps.google.com/?q=Streamer+Coffee+Company+Shibuya) (walking distance from hotel, opens 10am Sun) — better to grab station coffee on the way to Ginza, or hit Streamer when you get back this afternoon.
 
-### Morning — Tsukiji Outer Market (arrive ~7:30-8:00 AM)
-- Take Ginza Line from Shibuya to Ginza (~16 min), transfer to Hibiya Line 1 stop to Tsukiji (~2 min). Total ~20-25 min, ~210 yen. *(Or walk from Ginza to Tsukiji Outer Market, ~15 min)*
-- **[Tsukiji Outer Market](https://maps.google.com/?q=Tsukiji+Outer+Market+Tokyo)** — 2-3 hours of eating your way through 400+ stalls
-  - Must-eat: tamagoyaki (Shouro or Yamachou), grilled scallops (Kakigoya), fresh sashimi, uni, ichigo daifuku (Soratsuki), tuna skewers + beer
-  - Cash at most stalls. Closed Wed/Sun — Saturday is great
-  - *Optional knife stop:* [Masamoto knives](https://maps.google.com/?q=Masamoto+knives+Tsukiji) (since 1850s) at the market edge
-- Done by ~10:30 AM
+### Late Morning — Chopstick Workshop in Ginza (10:00 AM)
+- Light morning at the hotel — sleep in past jet lag, lazy coffee, leave by ~9:15 AM.
+- Subway Ginza Line from Shibuya to Ginza (~16 min, ~210 yen).
+- **[Chopstick Making Workshop (Ginza Hashikura)](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo)** — **✅ BOOKED 10:00 AM** for all 4. ~30-60 min, ~$27/pp + premium wood. Take home same day.
 
-### Late Morning — Ginza (walk from Tsukiji, ~15 min)
-- **[Chopstick Making Workshop (Ginza Hashikura)](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo)** — PRIORITY. ~30-60 min, ~$27/pp + premium wood. All 4 booked. Take home same day. **BOOKED 10:00 AM.**
-- **[Houseki Hiroba Shibuya](https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo)** — 1:30-3:30 PM on Apr 26 SCHEDULED. Massive secondhand watch inventory: Rolex, Grand Seiko, Omega. 5 min from hotel. Tax-free with passport.
-- **[Grand Seiko Flagship Boutique Ginza Namiki](https://maps.google.com/?q=Grand+Seiko+Boutique+Ginza+Namiki)** — Browse/buy new Grand Seiko. Tax-free with passport. — *Backup if Houseki Hiroba appeal fades*
+### Midday — Tsukiji Outer Market — Snack Lunch (~11:15 AM - 1:30 PM)
+- Walk Ginza → Tsukiji (~15 min flat walk).
+- **[Tsukiji Outer Market](https://maps.google.com/?q=Tsukiji+Outer+Market+Tokyo)** — **Opens ~10am Sundays.** This IS lunch — graze the stalls slowly.
+  - Must-try: tamagoyaki (Shouro or Yamachou), grilled scallops (Kakigoya), fresh sashimi, uni, ichigo daifuku (Soratsuki), tuna skewers + beer
+  - Cash at most stalls. Some individual vendors are dark on Sundays, but the outer market itself runs and the high-volume snack stalls are open ~10am-2pm.
 
-### Lunch (~1:00 PM) — Michelin Sardine
-1. **[Nakajima](https://maps.google.com/?q=Shinjuku+Kappo+Nakajima)** — PRIORITY. Michelin-starred sardine set lunch — 990 yen/pp (!!) — Shinjuku, 15 min subway from Ginza. Cheapest Michelin meal in Tokyo. Closed Sun, so today works. *No reservation. LINE UP: Queue by 11:15am for 11:30 opening — fills immediately. If going after chopsticks, you'll hit the 12:30+ wave — expect 30-45 min wait.*
-2. **[Ginza Six basement depachika](https://maps.google.com/?q=GINZA+SIX+Tokyo)** — Gourmet food floor grazing — varied prices — Great if Tsukiji filled you up.
+### Early Afternoon — Walkable Shopping + Temple/Shrine (~1:30-3:30 PM)
+*All within ~5-15 min walk of Tsukiji.*
+- **Knives:** [Masamoto knives](https://maps.google.com/?q=Masamoto+knives+Tsukiji) — Since 1850s, at the Tsukiji market edge. Tax-free with passport. *Verify Sunday hours via web search before going.*
+- **Temple / shrine (walkable from Tsukiji):**
+  - **[Tsukiji Hongwanji Temple](https://maps.google.com/?q=Tsukiji+Hongwanji+Temple+Tokyo)** — Striking Indian-influenced Buddhist temple, ~5 min walk south of the outer market. Free.
+  - **[Namiyoke Inari Shrine](https://maps.google.com/?q=Namiyoke+Inari+Shrine+Tokyo)** — "Wave-warding" Shinto shrine right at the outer market entrance. Free.
+  - **[Hama-rikyu Gardens](https://maps.google.com/?q=Hama+rikyu+Gardens+Tokyo)** — 10 min walk south of Tsukiji. Tidal pond garden in the middle of the city. ¥300 entry.
+- **Watches (15 min walk back toward Ginza, if appetite for shopping):**
+  - **[Grand Seiko Flagship Boutique Ginza Namiki](https://maps.google.com/?q=Grand+Seiko+Boutique+Ginza+Namiki)** — Browse/buy new Grand Seiko. Tax-free with passport.
+  - **[Watch CTI Ginza](https://maps.google.com/?q=Watch+CTI+Ginza+Tokyo)** — B1F, best for vintage Grand Seiko and King Seiko. Near Ginza-itchome Station.
+  - **[Shellman Ginza](https://maps.google.com/?q=Shellman+Ginza+Tokyo)** — Museum-quality vintage. Patek, Breguet, Grand Seiko.
+  - *Houseki Hiroba is in Shibuya — easier to hit on a separate Tokyo day rather than detouring back.*
 
-### Late Afternoon — Shibuya Sky (6:20 PM entry)
-- Free time after watch shopping — rest at hotel, grab coffee
-- **[Shibuya Sky](https://maps.google.com/?q=Shibuya+Sky+observation+deck)** — **✅ BOOKED 6:20 PM** (3,400 yen/pp). Arrive by 6:00 to check in. Watch golden hour transition to city lights from 229m above Shibuya Crossing. Sunset ~6:23 PM. Allow 60-90 min.
-- **Shibuya Crossing** — You're literally above it. Watch from the sky, then experience it at street level after.
+### Late Afternoon — Rest / Free Time (~3:30-5:45 PM)
+- Subway Tsukiji → Shibuya (Hibiya + Ginza Line, ~25-30 min). Rest at hotel, grab Streamer Coffee, freshen up.
 
-### Dinner (~8:15 PM) — Tonkatsu
-1. **[Katsukura Shinjuku Takashimaya](https://maps.google.com/?q=Katsukura+Shinjuku+Takashimaya+Times+Square)** — PRIORITY. Kyoto-style tonkatsu (since 1962). 14F Takashimaya Times Square. Walk-in, no reservation needed. Grind-your-own sesame, unlimited rice/cabbage/miso. Rosu katsu or hire katsu with heritage pork. ~¥2,000-3,000/pp. Open until 10 PM (LO 9 PM). 1 stop on JR Yamanote from Shibuya (~15 min door-to-door).
-2. **Backups near Shibuya Sky** (no train needed, walk-in):
-   - **[Gyukatsu Motomura Shibuya](https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya)** — Beef cutlet, DIY stone-grilling — ~¥2,600/pp — 10 min walk from Scramble Square. Expect 30-60 min queue at dinner. Open until 11 PM.
-   - **[Shabu-Shabu Tsukada](https://maps.google.com/?q=Shabu+Shabu+Tsukada+Shibuya+Scramble+Square)** — 12F Shibuya Scramble Square (same building as Shibuya Sky). A5 wagyu individual hot pots. View of Scramble Crossing from your seat.
-   - **[USHIHACHI Kiwami Shibuya](https://maps.google.com/?q=USHIHACHI+Kiwami+Shibuya+Scramble+Crossing)** — Wagyu yakiniku overlooking Scramble Crossing. Floor-to-ceiling windows.
+### Sunset (6:20 PM) — Shibuya Sky
+- **[Shibuya Sky](https://maps.google.com/?q=Shibuya+Sky+observation+deck)** — **✅ BOOKED 6:20 PM** (3,400 yen/pp). Arrive 6:00 to check in. Golden hour into city lights from 229m above Shibuya Crossing. Sunset ~6:23 PM. Allow 60-90 min.
+- **Shibuya Crossing** — Experience it at street level on the way down.
+
+### Dinner (~8:00 PM) — Shabu-Shabu Tsukada (same building)
+1. **[Shabu-Shabu Tsukada](https://maps.google.com/?q=Shabu+Shabu+Tsukada+Shibuya+Scramble+Square)** — **PRIORITY.** 12F Shibuya Scramble Square — **same building as Shibuya Sky, just take the elevator down.** A5 wagyu individual hot pots. View of Scramble Crossing from the seats. Walk-in or call ahead for a reservation when you wake up.
+2. **Backups (same building or short walk):**
+   - **[USHIHACHI Kiwami Shibuya](https://maps.google.com/?q=USHIHACHI+Kiwami+Shibuya+Scramble+Crossing)** — Wagyu yakiniku, Scramble Square restaurant floor.
+   - **[Katsukura Shinjuku Takashimaya](https://maps.google.com/?q=Katsukura+Shinjuku+Takashimaya+Times+Square)** — Kyoto-style tonkatsu, 14F Takashimaya Times Square. 1 stop on JR Yamanote (~15 min). Walk-in. Open until 10 PM (LO 9 PM).
+   - **[Gyukatsu Motomura Shibuya](https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya)** — Beef cutlet, DIY stone-grilling. ~10 min walk from Scramble Square.
 
 ### Evening
 - **[JBS Vinyl Bar](https://maps.google.com/?q=JBS+Jazz+Bar+Shibuya)** (Shibuya) — No cover, open 2pm-11pm. Wall of vinyl, great sound system. Walking distance from hotel.
 - **[SG Club](https://maps.google.com/?q=SG+Club+Shibuya)** (Shibuya) — Speakeasy cocktails. Two floors: casual downstairs (Guzzle), refined upstairs (Sip). Walkable from JBS.
 
 ### Logistics
-- Golden Week starts Apr 29 — today and tomorrow are your best days for harder-to-book restaurants
+- Tsukiji Outer Market opens ~10am on Sundays — that's why we flipped the order: chopsticks first, then Tsukiji as snack-lunch.
+- Nakajima (Michelin sardine) is closed Sundays — moved to Apr 28 lunch instead.
+- Shabu-Shabu Tsukada is in the same building as Shibuya Sky (Shibuya Scramble Square, 12F) — no transit between sunset and dinner.
+- Pre-Golden Week — today and tomorrow are your best days for harder-to-book restaurants.
 - Shibuya Sky ✅ BOOKED 6:20 PM
 
 ---
@@ -157,28 +170,37 @@
 
 ---
 
-## Day 4: Monday, April 28 — Tokyo — Jimbocho / Kappabashi / Asakusa / Shinjuku Night Out
+## Day 4: Tuesday, April 28 — Tokyo — Jimbocho / Kappabashi / Asakusa / Shinjuku Night Out
 
-*With Dave & Gail. Coffee flight at Glitch, best udon in Tokyo, knife shopping, live music night. Last full weekday before Golden Week.*
+*With Dave & Gail. Coffee flight at Glitch, Nakajima Michelin sardine lunch (Tue-Sat only), knife shopping, live music night. Last full weekday before Golden Week.*
 
 > Coffee nerd paradise in the morning — a 3-bean tasting flight at Glitch, then the best udon in Tokyo
-> (weekdays only, closes for Golden Week, today is your shot). Afternoon is knife shopping on Kappabashi
-> Street and Sensoji Temple. Dinner at a hidden izakaya in Kagurazaka, then the real highlight: Shinjuku
-> Pit Inn for legendary jazz, a bar with 2,500 maneki-neko cats, and cocktails at a World's 50 Best bar.
+> (weekdays only, closes for Golden Week, today is your shot). Lunch is the cheapest Michelin meal in
+> Tokyo — Nakajima's sardine set in Shinjuku (only open Tue-Sat, today is the day). Afternoon is knife
+> shopping on Kappabashi Street and Sensoji Temple. Dinner at a hidden izakaya in Kagurazaka, then the
+> real highlight: Shinjuku Pit Inn for legendary jazz, a bar with 2,500 maneki-neko cats, and cocktails
+> at a World's 50 Best bar.
 
 **Morning Coffee:** [Glitch Coffee Jimbocho](https://maps.google.com/?q=Glitch+Coffee+Roasters+Jimbocho+Tokyo) — THE coffee destination. Order the 2-3 bean tasting flight (~1,500-2,000 yen). Opens 7:30am weekdays.
 
-### Morning — Jimbocho + Kappabashi (~8:00-11:30 AM)
-- **Glitch Coffee flight** — Allow 45-60 min to savor
-- **[Udon Maruka](https://maps.google.com/?q=Udon+Maruka+Jimbocho+Tokyo)** — Best udon in Tokyo. WEEKDAYS ONLY, closed holidays. Kamaage udon, 500-800 yen. Cash only. *This closes during Golden Week — today is your shot.* *LINE UP: Queue by 10:00-10:30am for 11am opening. Sells out early.*
-- Walk/subway to **[Kappabashi Street](https://maps.google.com/?q=Kappabashi+Street+Tokyo)** (Kitchen Town) — ~20 min from Jimbocho
+### Morning — Jimbocho + Glitch Coffee (~7:45-10:30 AM)
+- **Glitch Coffee flight** — Allow 45-60 min to savor (opens 7:30am weekdays)
+- **OPTIONAL: [Udon Maruka](https://maps.google.com/?q=Udon+Maruka+Jimbocho+Tokyo)** — Best udon in Tokyo. WEEKDAYS ONLY, closed for Golden Week — today is your last chance. Kamaage udon, 500-800 yen, cash only. *Only do this if you can also handle Nakajima lunch — you'd queue 10:00-10:30 for 11am open, eat 10:45-11:15, then race to Shinjuku for Nakajima's 12:30 wave. Skip if you want one focused lunch.*
+
+### Late Morning — Subway to Shinjuku for Nakajima (~10:30-11:30 AM)
+- Subway Jimbocho → Shinjuku-sanchome (Toei Shinjuku Line, ~10-15 min)
+- Walk to Nakajima — queue forms before 11:30 opening
+
+### Early Afternoon — Kappabashi Knife Shopping (~12:45-2:30 PM)
+- Subway Shinjuku → Kappabashi/Tawaramachi (~25-30 min)
+- **[Kappabashi Street](https://maps.google.com/?q=Kappabashi+Street+Tokyo)** (Kitchen Town)
   - **[Tsubaya](https://maps.google.com/?q=Tsubaya+knives+Kappabashi)** — Widest selection, handles most knives freely. Est. 1956.
   - **[Kamata Hakensha](https://maps.google.com/?q=Kamata+Hakensha+Kappabashi)** — Master sharpener, every knife gets a perfect edge
   - Allow 1-1.5 hours for knife shopping
 
-### Lunch (~12:30-1:30 PM) — Ramen
-1. **[Ginza Hachigo](https://maps.google.com/?q=Ginza+Hachigo+ramen+Tokyo)** — PRIORITY if reserved. Michelin Bib Gourmand — ~1,200 yen/pp — Truffle-foie gras ravioli ramen. Unlike any ramen you've had.
-2. **[Nakiryu](https://maps.google.com/?q=Nakiryu+ramen+Toshima+Tokyo)** — Legendary tantanmen — ~1,200 yen/pp — *If you didn't get Hachigo reservation, and you love tantanmen, this is the move.* *LINE UP: Arrive by 10:30am for walk-in lunch. Cash only. 30 min-2.5 hr wait.*
+### Lunch (~12:00-1:30 PM) — Michelin Sardine
+1. **[Nakajima](https://maps.google.com/?q=Shinjuku+Kappo+Nakajima)** — **PRIORITY.** Michelin-starred sardine set lunch — 990 yen/pp (!!) — Shinjuku, Tue-Sat lunch only (closed Sun+Mon). Today (Tue) works perfectly. Cheapest Michelin meal in Tokyo. *No reservations. LINE UP: Queue by 11:00-11:15am for 11:30 opening. 30-45 min wait if arriving for the 12:30 wave. Cash.*
+2. **[Nakiryu](https://maps.google.com/?q=Nakiryu+ramen+Toshima+Tokyo)** — Backup if Nakajima line is brutal. Legendary tantanmen — ~1,200 yen/pp. *LINE UP: Arrive by 10:30am for 11am opening. Cash only. 30 min-2.5 hr wait.*
 
 ### Afternoon — Asakusa (~2:30-5:00 PM)
 - Subway from Kappabashi to Asakusa (~5 min walk, same neighborhood)

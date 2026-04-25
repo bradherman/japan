@@ -304,6 +304,43 @@ interface ChatRequest {
   dayContext?: string
 }
 
+const TRIP_START_UTC = Date.UTC(2026, 3, 25) // Apr 25, 2026 = Day 1
+const TRIP_END_UTC = Date.UTC(2026, 4, 10)   // May 10, 2026 = Day 16
+
+function getJSTContext(): string {
+  // JST = UTC+9. Shift now into JST and read with UTC accessors so we get the JST clock.
+  const jst = new Date(Date.now() + 9 * 60 * 60 * 1000)
+  const dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+  const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December']
+  const dayOfWeek = dayNames[jst.getUTCDay()]
+  const month = monthNames[jst.getUTCMonth()]
+  const day = jst.getUTCDate()
+  const year = jst.getUTCFullYear()
+  let h = jst.getUTCHours()
+  const m = jst.getUTCMinutes()
+  const ampm = h >= 12 ? 'PM' : 'AM'
+  h = h % 12 || 12
+  const time = `${h}:${m.toString().padStart(2, '0')} ${ampm}`
+
+  const todayUTC = Date.UTC(jst.getUTCFullYear(), jst.getUTCMonth(), jst.getUTCDate())
+  const dayDiff = Math.floor((todayUTC - TRIP_START_UTC) / 86_400_000)
+  const tripDay = dayDiff + 1
+  let tripStatus: string
+  if (todayUTC < TRIP_START_UTC) {
+    const daysOut = Math.ceil((TRIP_START_UTC - todayUTC) / 86_400_000)
+    tripStatus = `Trip starts in ${daysOut} day(s) (Apr 25, 2026)`
+  } else if (todayUTC > TRIP_END_UTC) {
+    const daysSince = Math.floor((todayUTC - TRIP_END_UTC) / 86_400_000)
+    tripStatus = `Trip ended ${daysSince} day(s) ago (May 10, 2026)`
+  } else {
+    tripStatus = `Day ${tripDay} of 16 of the trip (Apr 25 = Day 1, May 10 = Day 16)`
+  }
+
+  return `Current date/time in Japan (JST, UTC+9): ${dayOfWeek}, ${month} ${day}, ${year} at ${time}.
+${tripStatus}.`
+}
+
 async function handleChat(request: Request, auth: AuthInfo, env: Env): Promise<Response> {
   if (!env.ANTHROPIC_API_KEY) {
     return Response.json({ error: 'API key not configured. Chat is unavailable.' })
@@ -324,11 +361,22 @@ async function handleChat(request: Request, auth: AuthInfo, env: Env): Promise<R
     ? 'The user is a trip organizer (Brad or Alyona). They can ask you to modify the itinerary, swap restaurants, adjust timing, and get recommendations. Use the edit_itinerary_file tool to make changes when asked.'
     : `The user (${auth.user}) is a guest on this trip. They can ask questions and search the web, but cannot modify the schedule.`
 
+  const jstContext = getJSTContext()
+
   const systemPrompt = `You are a helpful Japan trip assistant for Brad & Alyona's trip (April 25 – May 10, 2026).
 Tokyo → Kyoto → Osaka → Hakone → Tokyo. Dave & Gail join for Tokyo only (Apr 25-30).
 
+${jstContext}
+Use this date/time as ground truth — do NOT guess what day it is. When the user says "today", "tomorrow", "tonight", or "this morning", anchor to the JST date above. If a planning file lists a wrong day-of-week for a date, trust the calendar (the date) over the label.
+
+VERIFY BEFORE RECOMMENDING — Restaurant hours, weekly closures, and event availability change. Before suggesting a place or scheduling something, use web_search to verify:
+1. Open hours for the specific day-of-week we'd be going (many Japanese spots close Sun, Mon, Wed, or holidays).
+2. Whether the place is open on the actual JST date in question (check Golden Week Apr 29 – May 6 closures, Showa Day Apr 29, Constitution Day May 3, Greenery Day May 4, Children's Day May 5).
+3. Current reservation availability if relevant.
+Never recommend a time slot without first confirming the place is open then. If web_search results are ambiguous, say so explicitly rather than guessing.
+
 You have access to tools:
-- **web_search**: Search the web for restaurants, events, activities, opening hours, reviews. Use this when users ask about specific places or want current info.
+- **web_search**: Search the web for restaurants, events, activities, opening hours, reviews. Use this when users ask about specific places or want current info — and ALWAYS to verify hours/closures before adding something to the schedule.
 - **read_itinerary_file**: Read trip planning files to understand the current schedule, restaurant list, transport info, or reservations. Always read the relevant file before answering schedule questions.
 ${isAdmin ? `- **edit_itinerary_file**: Edit trip files to make changes. Read the file first, find the exact text, then make a precise replacement. Tell the user the app will rebuild and redeploy via GitHub Actions in ~2 minutes after an edit.
 
@@ -337,7 +385,8 @@ IMPORTANT — File sync rules when editing:
 2. When adding a restaurant to "ALREADY BOOKED", you MUST also strike through (~~text~~) the old entry in its original section (Book Now, Book 1 Week Ahead, etc.) AND strike through any related Calendar Alarm entries.
 3. When confirming a booking, update the corresponding day in itinerary.md (make it the primary option, not a backup) and daily-schedule.md (adjust timing to match the reservation time).
 4. When changing departure times or transport, update ALL of: daily-schedule.md, transport-cheatsheet.md, reservation-tracker.md (Shinkansen section), and itinerary.md.
-5. Always read each file BEFORE editing to get the exact text for replacement.` : ''}
+5. Always read each file BEFORE editing to get the exact text for replacement.
+6. Before scheduling or confirming any new venue, web_search its hours for that specific weekday and verify it isn't closed for Golden Week / a national holiday.` : ''}
 
 ${roleInstruction}
 

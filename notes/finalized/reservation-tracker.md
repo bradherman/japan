@@ -53,7 +53,7 @@
 
 | Restaurant | Cuisine / What to Order | Target Date & Time (JST) | Cost/pp | Booking Method | Map | Alarm to Set (PDT→JST) |
 |-----------|------------------------|--------------------------|---------|----------------|-----|------------------------|
-| ~~**Tonkatsu Narikura**~~ | ~~Best tonkatsu in Tokyo~~ | ~~Apr 26 dinner~~ | ~~¥6,000~~ | — | — | **MISSED booking window — replaced with Katsukura Shinjuku (walk-in)** |
+| ~~**Tonkatsu Narikura**~~ | ~~Best tonkatsu in Tokyo~~ | ~~Apr 26 dinner~~ | ~~¥6,000~~ | — | — | **MISSED booking window — Apr 26 dinner is now Shabu-Shabu Tsukada (walk-in, same building as Shibuya Sky)** |
 | ~~Ginza Hachigo~~ | ~~Michelin ramen~~ | ~~Apr 28, ~12:30 PM~~ | ~~¥1,700~~ | — | — | **UNAVAILABLE — airplane wifi down. Nakiryu is primary (see Walk-In list).** |
 | ~~**Bird Land Ginza**~~ | ~~Michelin yakitori — omakase course~~ | ~~May 9 dinner, ~6:00 PM~~ | ~~¥6,000-10,000~~ | — | — | **Dinner confirmed: Sushi Yoshikawa 8:30 PM** |
 | ~~**Fileja**~~ | ~~15-course pasta omakase — all handmade pasta~~ | ~~May 9 dinner, ~7:00 PM~~ | ~~¥10,000-15,000~~ | — | — | **Dinner confirmed: Sushi Yoshikawa 8:30 PM** |
@@ -69,7 +69,7 @@
 | **Yoshikawa Tempura** (Kyoto) | Counter-seat tempura in machiya w/ koi pond | May 1 lunch, ~1:00 PM | ¥5,000-8,000 | Phone | [Map](https://maps.google.com/?q=Yoshikawa+Tempura+Kyoto) |
 | **Gion Takuma** (Kyoto) | Affordable kaiseki along Shirakawa river | Apr 30 or May 1 lunch | ¥3,600+ | Phone/online | [Map](https://maps.google.com/?q=Gion+Takuma+kaiseki+Kyoto) |
 | **Assemblages Kakimoto** | Matcha parfait | May 1 or 3, ~3:00 PM | ~¥2,000 | Online | [Map](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto) |
-| **Tonkatsu Sugita** | Bib Gourmand tonkatsu — rosu katsu | Apr 26 dinner backup | ¥3,000-4,500 | Omakase.in or byFood | [Map](https://maps.google.com/?q=Tonkatsu+Sugita+Kuramae+Tokyo) |
+| **Tonkatsu Sugita** | Bib Gourmand tonkatsu — rosu katsu | Tokyo backup (any flex day) | ¥3,000-4,500 | Omakase.in or byFood | [Map](https://maps.google.com/?q=Tonkatsu+Sugita+Kuramae+Tokyo) |
 | ~~**Nishikawa Pillow Fitting**~~ | ~~Custom pillow for 4 people~~ | ~~Apr 29~~ | — | — | **BOOKED — moved to Already Booked** |
 | **Nokishita 711** (Kyoto) | Cocktail omakase (5 cocktails + snacks) | May 1-3 evening | ¥5,000+ | TableCheck | [Map](https://maps.google.com/?q=Nokishita+711+Kyoto) |
 
@@ -91,10 +91,11 @@
 |-----------|------------------------|-------------------|---------|-----------------|-----|
 | **Gyukatsu Motomura Shibuya** | Beef cutlet — DIY grilling at table | Apr 25, ~7:00 PM | ¥2,000-2,600 | Arrive 7pm. 30-60 min wait. Cash OK. 5-10 min walk from hotel. | [Map](https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya) |
 | **Fuunji** (backup) | Tsukemen (dipping ramen) — get special size 400g | Apr 25, ~7:00 PM | ¥1,200-1,450 | JR Yamanote 1 stop to Shinjuku + 5-8 min walk. 15-30 min wait. Cash/vending machine. | [Map](https://maps.google.com/?q=Fuunji+Yoyogi+Tokyo) |
-| **Nakajima** | Michelin sardine set lunch — Yanagawa Nabe set (990¥) | Apr 26, ~11:15 AM | ¥990 | Queue by 11:15am for 11:30 opening. 30-45 min if arriving later. | [Map](https://maps.google.com/?q=Shinjuku+Kappo+Nakajima) |
+| **Nakajima** | Michelin sardine set lunch — Yanagawa Nabe set (990¥) — **PRIMARY FOR APR 28 LUNCH** | Apr 28, ~11:15 AM | ¥990 | Closed Sun+Mon; open Tue-Sat lunch 11:30-2:00. Queue by 11:00-11:15 for 11:30 opening. 30-45 min if arriving later. Cash. | [Map](https://maps.google.com/?q=Shinjuku+Kappo+Nakajima) |
+| **Shabu-Shabu Tsukada (Shibuya Scramble Square 12F)** | A5 wagyu individual hot pots — view of Scramble Crossing | Apr 26, ~8:00 PM | ¥4,000-7,000 | Open Sun 11am-4pm + 5pm-11pm. Same building as Shibuya Sky — elevator down from Sky's exit floor. Walk-in or call for last-minute reservation. | [Map](https://maps.google.com/?q=Shabu+Shabu+Tsukada+Shibuya+Scramble+Square) |
 | **I'm Donut?** | Brioche donuts w/ cream filling | Apr 27, ~9:30 AM | ¥400-600/donut | Arrive 30 min before 10am opening. Sells out by early afternoon. | [Map](https://maps.google.com/?q=I'm+Donut+Nakameguro) |
 | **Udon Maruka** | Kamaage udon (Sanuki-style dipping) | Apr 28, ~10:00 AM | ¥500-800 | Queue by 10:00-10:30 for 11am opening. Cash only. Sells out early. | [Map](https://maps.google.com/?q=Udon+Maruka+Jimbocho+Tokyo) |
-| **Nakiryu** | Tantanmen (spicy dan dan noodle) — **PRIMARY FOR APR 28** | Apr 28 or May 9, 10:30 AM | ¥1,000-1,500 | **PRIMARY OPTION.** Arrive 10:30 AM (opens 11 AM). 30 min-1 hr wait. Cash only. Location: 南大塚2-34-4 Toshima. Transit: subway to Minamiotsuka Stn (Marunouchi Line), 5 min walk. | [Map](https://maps.google.com/?q=Nakiryu+Minamiotsuka+Tokyo) |
+| **Nakiryu** | Tantanmen (spicy dan dan noodle) — Apr 28 ramen backup if Nakajima too crowded; or May 9 lunch | Apr 28 backup or May 9, 10:30 AM | ¥1,000-1,500 | Arrive 10:30 AM (opens 11 AM). 30 min-1 hr wait. Cash only. Location: 南大塚2-34-4 Toshima. Transit: subway to Minamiotsuka Stn (Marunouchi Line), 5 min walk. | [Map](https://maps.google.com/?q=Nakiryu+Minamiotsuka+Tokyo) |
 | **Ramen Menmaru** | Sho yu ramen | Apr 28, backup (after Kappabashi) | ¥800-1,200 | Near Sensoji Temple, 5 min from Kappabashi. Walk-in, typically 20-30 min wait. | [Map](https://maps.google.com/?q=Ramen+Menmaru+Asakusa+Tokyo) |
 | **Tonari Ramen** | Tonkotsu (pork broth) ramen | Apr 28, backup | ¥900-1,300 | Kappabashi area, 3 min walk from Tsubaya knives. Cash preferred. | [Map](https://maps.google.com/?q=Tonari+Ramen+Kappabashi+Tokyo) |
 | **Midori Sushi** | Omakase nigiri — generous toro | Apr 29, ~5:30 PM | ¥3,000-6,000 | Arrive by 5:30-6pm. 60-90 min GW wait. | [Map](https://maps.google.com/?q=Umegaoka+Sushi+Midori+Shibuya) |
@@ -158,10 +159,10 @@
 | ~~**Mar 31, 7:55 AM**~~ | ~~Pizza Bar on 38th~~ | ~~May 9, 11:30 AM (lunch)~~ | ~~✅ BOOKED — moved to Already Booked~~ | ~~DONE~~ |
 | ~~**~Apr 7**~~ | ~~Shinkansen: Shin-Osaka → Odawara~~ | ~~May 7, 10:18 AM (Hikari 646)~~ | ~~✅ BOOKED — moved to Shinkansen Bookings~~ | ~~DONE~~ |
 | ~~**~Apr 11, 8:00 AM**~~ | ~~Shibuya Sky~~ | ~~Apr 26, 6:20 PM (sunset slot)~~ | ~~✅ BOOKED — moved to Already Booked~~ | ~~DONE~~ |
-| ~~**Apr 18, 8:00 PM**~~ | ~~Tonkatsu Narikura~~ | ~~Apr 26, ~7:30 PM (dinner)~~ | ~~MISSED booking window — replaced with Katsukura Shinjuku (walk-in)~~ | ~~DONE~~ |
+| ~~**Apr 18, 8:00 PM**~~ | ~~Tonkatsu Narikura~~ | ~~Apr 26, ~7:30 PM (dinner)~~ | ~~MISSED booking window — Apr 26 dinner is now Shabu-Shabu Tsukada walk-in (same bldg as Shibuya Sky)~~ | ~~DONE~~ |
 | ~~**Apr 20**~~ | ~~Bar Benfiddich (backup)~~ | ~~May 9, evening~~ | ~~May schedule posts on Instagram. Book on TableCheck. Only 15 seats.~~ **MISSED — try walk-in May 9 if time permits** | ~~MEDIUM~~ |
 | **~Apr 22** | Henry's Burger Harami | Apr 29, ~11:30 AM (lunch) | DM @henrysburger_japan — name, phone, date, arrival time, qty (2 Harami Burgers) | HIGH |
-| **Apr 25, before flight** | Ginza Hachigo | Apr 28, ~12:30 PM (lunch) | Book on TableCheck — opens 9:00 AM JST Apr 25. Book before your flight departs! | HIGH |
+| ~~**Apr 25, before flight**~~ | ~~Ginza Hachigo~~ | ~~Apr 28, ~12:30 PM (lunch)~~ | ~~Book on TableCheck — opens 9:00 AM JST Apr 25.~~ **MISSED — Apr 28 lunch is now Nakajima (walk-in queue, Tue-Sat only)** | ~~HIGH~~ |
 | **~Apr 29** | Ijou Maru Parfait | May 6, ~9:00 PM (birthday!) | DM @ijou_maru_parfait — 2 people, Brad's birthday night | HIGH |
 | **May 2** | Gen Yamamoto | May 9, evening | Call to reserve — phone only, 7 days ahead, directly from guests | HIGH |
 
@@ -180,5 +181,5 @@
 **Backup plans:**
 - ~~If Pizza Bar on 38th fails → RistoPizza at Azabudai Hills (walk-in)~~ **BOOKED**
 - ~~If Michelin sushi fully booked → Sushi Yoshikawa in Ebisu (¥11,000)~~ **BOOKED**
-- ~~If Tonkatsu Narikura fails → Tonkatsu Sugita~~ **MISSED — dinner is Katsukura Shinjuku Takashimaya (walk-in)**
-- If Ginza Hachigo fails → Nakiryu tantanmen (walk-in, arrive early)
+- ~~If Tonkatsu Narikura fails → Tonkatsu Sugita~~ **MISSED — Apr 26 dinner is Shabu-Shabu Tsukada walk-in (12F Shibuya Scramble Square, same building as Shibuya Sky)**
+- ~~If Ginza Hachigo fails → Nakiryu tantanmen~~ **Ginza Hachigo MISSED. Apr 28 lunch is now Nakajima (Shinjuku, Michelin sardine set, Tue-Sat only). Nakiryu is backup if Nakajima line is too long.**

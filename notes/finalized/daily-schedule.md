@@ -27,39 +27,39 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 ---
 
-## Day 2: Sun, Apr 26 — Tsukiji / Ginza / Shibuya Sky
+## Day 2: Sun, Apr 26 — Chopsticks / Tsukiji / Shibuya Sky / Tsukada
 
 ```
-7:00 AM    Wake up (jet lag is your alarm clock)
-7:30       Leave hotel, walk to Shibuya Station (10 min)
-7:40-8:00  Ginza Line to Tsukiji (20 min)
-8:00-8:45  Coffee/rest near Tsukiji, wait for 10am opening
-9:00-10:00 Tsukiji Outer Market food crawl — tamagoyaki, scallops, uni, sashimi, tuna skewers
-           Optional: Masamoto knives at market edge
-10:00-10:15 Walk from Tsukiji to Ginza (15 min)
-10:15-11:15 Chopstick Making Workshop — Ginza Hashikura (~60 min) ⚠️ BOOKED 10:00 AM
-11:15-11:30 Walk around Ginza / optional Grand Seiko Boutique (Brad solo flex)
-11:30      Subway Ginza → Shinjuku-sanchome (15 min) for Nakajima
-11:45-12:30 Queue at Nakajima (~30-45 min for 12:30 wave)
-12:30-1:00 Eat Michelin sardine lunch (990 yen!!)
-           (B) Skip Nakajima if stuffed from Tsukiji → graze Ginza Six depachika
-1:00-1:15  Subway back toward Shibuya
-1:15-1:30  Walk to Houseki Hiroba Shibuya (5 min from hotel area)
-1:30-3:30  Houseki Hiroba Shibuya — secondhand watch browsing. Rolex, Grand Seiko, Omega. Massive inventory. (2 hrs)
-3:30-4:00  Walk back to hotel, freshen up, grab coffee
-4:00-5:45  Free time — rest at hotel, explore Shibuya
+8:00 AM    Wake up — light morning, no rush
+8:00-9:00  Lazy coffee (in-room or hotel area), get ready
+9:00-9:15  Walk to Shibuya Station
+9:15-9:35  Ginza Line to Ginza (~16 min, ¥210)
+9:35-9:55  Walk to Hashikura — light browsing of Ginza on the way
+10:00-11:00 Chopstick Making Workshop — Ginza Hashikura ⚠️ BOOKED 10:00 AM (~60 min)
+11:00-11:15 Walk Ginza → Tsukiji (15 min, flat, easy)
+11:15-1:30 Tsukiji Outer Market — SNACK LUNCH crawl (open ~10am Sun)
+           Eat as you go: tamagoyaki, grilled scallops, uni, sashimi, tuna skewers, ichigo daifuku
+           Cash at most stalls. Some Sun-closed stalls — graze the open ones.
+1:30-2:00  Tsukiji Hongwanji Temple (5 min walk south) + Namiyoke Inari Shrine (at market edge)
+2:00-2:15  Masamoto knives at market edge (verify Sun hours en route — call or web search)
+2:15-3:30  PICK ONE based on energy:
+           A) Walk back to Ginza (~15 min) — Grand Seiko Namiki, Watch CTI Ginza, Shellman Ginza
+           B) Hama-rikyu Gardens (10 min walk south of Tsukiji, ¥300) — quiet break, tidal pond
+           C) Head straight back to Shibuya for a longer rest
+3:30-4:00  Subway back to Shibuya (Hibiya + Ginza Line, ~25-30 min, depending on starting point)
+4:00-5:45  Free time — rest at hotel, freshen up, Streamer Coffee
 5:45-6:00  Walk to Shibuya Scramble Square (5 min from hotel)
-6:00-6:20  Check in at Shibuya Sky, go through escalators to observation deck
-6:20-7:45  Shibuya Sky — booked entry at 6:20 PM ⚠️ BOOKED ✅. Golden hour + city lights. Sunset ~6:23 PM.
-7:45-8:00  Come down, experience Shibuya Crossing at street level
-8:00-8:15  JR Yamanote Shibuya → Shinjuku (5 min + walk to Takashimaya)
-8:15-9:00  Katsukura Shinjuku Takashimaya 14F — Kyoto-style tonkatsu (LO 9 PM, walk-in)
-           (B) Skip Shinjuku → eat at Scramble Square: Shabu-Shabu Tsukada 12F or USHIHACHI yakiniku
+6:00-6:20  Check in at Shibuya Sky, escalators to observation deck
+6:20-7:45  Shibuya Sky ⚠️ BOOKED ✅ — Golden hour + city lights. Sunset ~6:23 PM.
+7:45-7:55  Take elevator down to 12F (same building) — Shabu-Shabu Tsukada
+8:00-9:30  Dinner — Shabu-Shabu Tsukada — A5 wagyu individual hot pots, view of Scramble
+           (B) USHIHACHI Kiwami same building — wagyu yakiniku
+           (B) Katsukura Takashimaya — JR Yamanote 1 stop to Shinjuku, tonkatsu (LO 9 PM)
            (B) Gyukatsu Motomura Shibuya — 10 min walk, 30-60 min queue
-9:00-9:15  JR Yamanote back to Shibuya (5 min)
-9:15-10:00 JBS Vinyl Bar — vinyl, whisky, no cover (5 min walk)
-10:00-11:00 SG Club — craft cocktails (Guzzle floor or Sip basement, 5 min walk)
-11:00      Walk back to hotel (10 min)
+9:30-9:45  Walk down/over to Shibuya bar district
+9:45-10:30 JBS Vinyl Bar — vinyl, whisky, no cover (5 min walk, closes 11pm)
+10:30-11:30 SG Club — craft cocktails (Guzzle floor or Sip basement, 5 min walk)
+11:30      Walk back to hotel (10 min)
 ```
 
 ---
@@ -102,30 +102,34 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 ---
 
-## Day 4: Mon, Apr 28 — Jimbocho / Kappabashi / Asakusa / Shinjuku Night
+## Day 4: Tue, Apr 28 — Jimbocho / Nakajima / Kappabashi / Asakusa / Shinjuku Night
 
 ```
 7:15 AM    Wake up
 7:30       Leave hotel, subway Shibuya → Jimbocho (Hanzomon Line, 15 min)
 7:45       Arrive Jimbocho
-7:50-8:45  Glitch Coffee — 2-3 bean tasting flight (45-60 min)
-8:45-9:00  Walk toward Udon Maruka (5 min)
-9:00-10:00 Browse Jimbocho bookshops while waiting (Maruka queue starts ~10am)
-10:00-10:45 Queue at Udon Maruka (~30-45 min for 11am opening) ⚠️ LAST CHANCE — closed GW
-10:45-11:15 Eat kamaage udon (cash only)
-11:15-11:35 Walk/subway to Kappabashi Street (20 min)
-11:35-1:00 Knife shopping — Tsubaya, Kamata Hakensha (1-1.5 hrs)
-           **PRIMARY PLAN — Nakiryu tantanmen (Michelin, spicy dan dan):**
-1:00-1:15  Subway/taxi Kappabashi → Minamiotsuka Stn (Marunouchi Line, 15 min)
-1:15-1:45  Eat Nakiryu — arrive 10:30 AM preferred but can go 1-2 PM (Michelin-listed, cash only)
-           **(B) If Nakiryu line too long → Ramen Menmaru near Sensoji (5 min from Kappabashi)**
-1:45-2:00  Subway/walk toward Asakusa (5-10 min)
-2:00-3:30  Sensoji Temple — Kaminarimon gate, Nakamise street, temple grounds (1.5 hrs)
-3:30-4:00  Explore Asakusa backstreets
-4:00-4:30  Subway Asakusa → Shibuya (30 min) — rest at hotel
-4:30-5:30  Rest / freshen up
-5:30-6:00  Subway Shibuya → Kagurazaka/Iidabashi (20 min)
-6:00-6:30  Walk the lantern-lit alleys of Kagurazaka
+7:50-8:30  Glitch Coffee — 2-3 bean tasting flight (~40 min, get there early)
+8:30-8:45  Walk toward Udon Maruka (5 min)
+8:45-9:30  Browse Jimbocho bookshops (queue starts ~10am — keep it short today, lunch is at Nakajima)
+9:30-9:45  Subway Jimbocho → Shinjuku-sanchome (Toei Shinjuku Line, ~10-15 min)
+           **PRIMARY LUNCH — Nakajima Michelin sardine (Tue-Sat only):**
+9:45-10:30 Walk to Nakajima area, light wandering / coffee top-up
+10:30-11:30 Queue at Nakajima — line builds fast for 11:30 opening ⚠️ Tue-Sat lunch only, cash, no reservations
+11:30-12:30 Eat Michelin sardine set (990¥!!)
+           (B) If Nakajima line is insane → bail to Nakiryu tantanmen (Marunouchi Line to Minamiotsuka)
+           (B) Skip ramen entirely if you also did Udon Maruka morning stretch (see option below)
+           OPTIONAL MORNING STRETCH — only if you wake up super early:
+           Earlier wake-up → Glitch by 7:30, queue Maruka by 10:00, eat by 11:15, then race to
+           Nakajima for ~12:30 wave (ambitious but doable). Skip if prioritizing one solid lunch.
+12:30-12:45 Subway Shinjuku → Kappabashi (~30 min via Toei Shinjuku + walk)
+12:45-2:30 Knife shopping on Kappabashi — Tsubaya, Kamata Hakensha (1.5-2 hrs)
+2:30-2:45  Walk to Asakusa (5 min, same neighborhood)
+2:45-4:15  Sensoji Temple — Kaminarimon gate, Nakamise street, temple grounds (1.5 hrs)
+4:15-4:45  Explore Asakusa backstreets
+4:45-5:15  Subway Asakusa → Shibuya (30 min) — rest at hotel
+5:15-6:00  Rest / freshen up
+6:00-6:20  Subway Shibuya → Kagurazaka/Iidabashi (20 min)
+6:20-6:30  Walk the lantern-lit alleys of Kagurazaka
 6:30       Find Shinpo izakaya (look for blue noren curtains)
 6:30-8:00  Dinner at Shinpo — crab croquettes, smoked daikon, sake
 8:00-8:15  Subway Kagurazaka → Shinjuku (10 min)
