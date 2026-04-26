@@ -242,6 +242,73 @@
       "city": "Tokyo"
     },
     {
+      "name": "Nanamica Daikanyama",
+      "details": "nanamica flagship + North Face Purple Label — full collection. 26-13 Sarugakucho. Opens 11:00 AM. ~3 min walk from Daikanyama T-Site.",
+      "date": "Apr 27, 11:00 AM",
+      "cost": "walk-in",
+      "bookingMethod": "11:00-19:00 daily. Allow 20-30 min. Leave by 11:35 to make Udatsu 11:55.",
+      "mapLink": "https://maps.google.com/?q=Nanamica+Daikanyama+Tokyo",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Kurono Tokyo Aoyama",
+      "details": "Hajime Asaoka's Kurono Tokyo watches. Kita-Aoyama 2-10-22, ~5-7 min from Omotesando / Gaienmae Stn. Phone +81-3-6823-8358.",
+      "date": "Apr 27, ~6:00 PM",
+      "cost": "walk-in",
+      "bookingMethod": "Mon-Sat 11:00-19:00. Closed Sun + national holidays — Apr 29 (Showa Day) is closed, so Mon Apr 27 is the only viable day.",
+      "mapLink": "https://maps.google.com/?q=Kurono+Tokyo+Aoyama+2-10-22+Kita-Aoyama",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Kiddyland Harajuku — Licca-chan doll",
+      "details": "Pick up Licca-chan doll for Yeva. 6-1-9 Jingumae, 3 min from Meiji-Jingumae Stn.",
+      "date": "Apr 29, ~11:00 AM",
+      "cost": "walk-in",
+      "bookingMethod": "Holiday hours 10:30 AM-9:00 PM (weekday 11-9).",
+      "mapLink": "https://maps.google.com/?q=Kiddyland+Harajuku+Jingumae",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Houseki Hiroba Shibuya",
+      "details": "Massive secondhand watch inventory — Rolex, Grand Seiko, Omega. 5 min from Granbell. Tax-free with passport.",
+      "date": "Apr 29, 3:55 PM",
+      "cost": "walk-in",
+      "bookingMethod": "11:00-19:30 daily. If Houseki strikes out → Grand Seiko Osaka Shinsaibashi on May 5.",
+      "mapLink": "https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Loft Shibuya",
+      "details": "6 floors of Japanese design goods, stationery, kitchenware. 21-1 Udagawacho, 3 min from Shibuya Stn.",
+      "date": "Apr 29, 5:00 PM (quick)",
+      "cost": "walk-in",
+      "bookingMethod": "10:00-21:00 daily. ~15 min quick browse on the way to Midori.",
+      "mapLink": "https://maps.google.com/?q=Loft+Shibuya+21-1+Udagawacho+Tokyo",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Grand Seiko Boutique Osaka Shinsaibashi",
+      "details": "World's largest Seiko/Grand Seiko store (333+ m²). Backup if Houseki Hiroba strikes out. Osaka Toyota Bldg 1F, 4-3-11 Minamisenba. Tax-free with passport.",
+      "date": "May 5, ~2:00 PM",
+      "cost": "walk-in",
+      "bookingMethod": "Allow ~45 min. Skip if Brad already bought a watch at Houseki.",
+      "mapLink": "https://maps.google.com/?q=Grand+Seiko+Boutique+Osaka+Shinsaibashi+4-3-11+Minamisenba",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Osaka",
+      "isBackup": true
+    },
+    {
       "name": "Nakajima",
       "details": "Michelin sardine set lunch — Yanagawa Nabe set (990¥) — PRIMARY FOR APR 28 LUNCH",
       "date": "Apr 28, ~11:15 AM",

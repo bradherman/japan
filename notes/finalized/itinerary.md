@@ -129,22 +129,24 @@
 
 ---
 
-## Day 3: Sunday, April 27 — Tokyo — Nakameguro / Daikanyama / teamLab / Aoyama
+## Day 3: Monday, April 27 — Tokyo — Nakameguro / Daikanyama / teamLab / Aoyama
 
-*With Dave & Gail. Morning donuts and coffee, Michelin sushi lunch, teamLab Planets in the afternoon, teppanyaki dinner.*
+*With Dave & Gail. Morning donuts and coffee, Michelin sushi lunch, teamLab Planets in the afternoon, teppanyaki dinner. Quick Kurono Tokyo (watches) stop in Aoyama before dinner.*
 
 > The splurge day. Morning starts with Japan's most hyped donuts in Nakameguro, then the real event:
-> Michelin-starred sushi omakase at a concrete gallery counter. Afternoon is teamLab Planets barefoot
-> with Dave and Gail — the immersive one everyone talks about. Dinner is teppanyaki with a private chef
-> at Ukaitei. Then Shimokitazawa for soul vinyl and live music if you've got anything left.
+> Michelin-starred sushi omakase at a concrete gallery counter. Quick stops at Daikanyama T-Site and
+> the Nanamica flagship (North Face Purple Label). Afternoon is teamLab Planets barefoot with Dave
+> and Gail. Squeeze in Kurono Tokyo (Aoyama, closes 7pm) before teppanyaki at Ukaitei. Cap with
+> Shimokitazawa vinyl if anything's left.
 
 **Morning Coffee:** [Onibus Coffee Nakameguro](https://maps.google.com/?q=Onibus+Coffee+Nakameguro) — Beautiful converted house, excellent light-roast pour-over. Opens 9am.
 
 ### Morning — Nakameguro / Daikanyama (~9:00-11:30 AM)
 - **[I'm Donut? Nakameguro](https://maps.google.com/?q=I'm+Donut+Nakameguro)** — PRIORITY. Opens 10am. Brad's donut destination. *LINE UP: Arrive by 9:30am (30 min before opening). Sells out by early afternoon. Weekend lines can be 45-60 min by midday.*
 - **[Daikanyama T-Site (Tsutaya Books)](https://maps.google.com/?q=Daikanyama+T-Site+Tsutaya+Books)** — Award-winning bookstore complex. Beautiful architecture, great cafe. Worth 30-45 min. No reservation needed.
-- **[Okura Daikanyama](https://maps.google.com/?q=Okura+Daikanyama)** — Japanese indigo-dyed goods and denim
-- Nakameguro to Daikanyama is a pleasant 15-min flat walk along the Meguro River
+- **[Okura Daikanyama](https://maps.google.com/?q=Okura+Daikanyama)** — Japanese indigo-dyed goods and denim.
+- **[Nanamica Daikanyama](https://maps.google.com/?q=Nanamica+Daikanyama+Tokyo)** — Flagship store with North Face Purple Label. 26-13 Sarugakucho. Opens 11:00 AM. ~3 min walk from T-Site. Allow 20-30 min — leave by 11:35 to make Udatsu at 11:55.
+- Nakameguro to Daikanyama is a pleasant 15-min flat walk along the Meguro River.
 
 ### Lunch (12:00 PM) — Michelin Sushi (THE splurge)
 1. **[Udatsu Sushi](https://maps.google.com/?q=Udatsu+Sushi+Nakameguro)** — **BOOKED 12:00 PM.** 1 Michelin star, Nakameguro — Lunch omakase 14,400 yen/pp (~$95). "Art x Sushi" in a concrete gallery space. *Smart casual attire required — no T-shirts, shorts, or sandals. Arrive 5 min before reservation.*
@@ -153,6 +155,12 @@
 ### Afternoon — teamLab Planets (~3:00-5:30 PM)
 - **[teamLab Planets Tokyo](https://maps.google.com/?q=teamLab+Planets+Toyosu+Tokyo)** — WITH DAVE & GAIL. Immersive digital art. Barefoot required. Allow 2-3 hours. Take Yurikamome to Shin-Toyosu Station.
   - **ADVANCE TICKETS: Book NOW at teamlab.art/e/planets/ — Golden Week dates sell out weeks ahead. Book for ~3:00 PM slot. ~3,200 yen/pp**
+
+### Pre-Dinner — Kurono Tokyo Aoyama (~6:00-6:40 PM)
+- 5:00-5:50 Train Shin-Toyosu → Omotesando (~35-45 min depending on transfer)
+- 5:50-6:00 Walk Omotesando → Kurono Tokyo (Kita-Aoyama 2-10-22, near Gaienmae Stn, ~5-7 min)
+- **[Kurono Tokyo Aoyama Salon](https://maps.google.com/?q=Kurono+Tokyo+Aoyama+2-10-22+Kita-Aoyama)** — **MUST VISIT TODAY.** Closed Sun + national holidays — Apr 29 (Showa Day) is closed, so Mon Apr 27 is the only viable day. Mon-Sat 11:00-19:00. Hajime Asaoka's Kurono Tokyo watches. Phone +81-3-6823-8358.
+- 6:40-6:55 Walk back to Ukaitei Omotesando.
 
 ### Dinner (7:00 PM) — Teppanyaki
 1. **[Ukaitei Omotesando](https://maps.google.com/?q=Ukai+Tei+Omotesando)** — **BOOKED 7:00 PM.** Splurge teppanyaki for 4 — ~15,000 yen/pp — Private room with dedicated chef. This is the memorable group experience. *Dress nice-ish (smart casual).*
@@ -254,11 +262,12 @@
 - *Showa Day risk:* large dealers stay open, small one-off booths can be hit-or-miss. Worth a phone/IG check the night before for any specific shop.
 - 11:30 train Nakano → Harajuku (~10-15 min via Shinjuku), reunite with group for lunch at 12:00.
 
-### Morning — Meiji Shrine + Harajuku (Alyona, Dave, Gail) (~8:30-11:30 AM)
+### Morning — Meiji Shrine + Harajuku (Alyona, Dave, Gail) (~8:30-11:45 AM)
 - **[Meiji Shrine](https://maps.google.com/?q=Meiji+Shrine+Tokyo)** — Early morning is best (less crowded). Free, serene, majestic torii gate. Take JR Yamanote 1 stop to Harajuku (3 min), then 10 min walk to shrine entrance. *(Or ~20-25 min walk from Shibuya.)*
-- Walk to **[Harajuku / Takeshita-dori](https://maps.google.com/?q=Takeshita+Street+Harajuku+Tokyo)** — Window shopping, people watching
+- Walk to **[Harajuku / Takeshita-dori](https://maps.google.com/?q=Takeshita+Street+Harajuku+Tokyo)** — Window shopping, people watching.
 - **[Harajuku Gyoza Ru](https://maps.google.com/?q=Harajuku+Gyoza+Ro+Tokyo)** — Best gyoza in Tokyo per multiple Instagram recs. Perfect mid-morning snack. ~500-800 yen.
 - **[Mofusand Tokyo Harajuku](https://maps.google.com/?q=Mofusand+Tokyo+Harajuku)** — For Yeva's gifts.
+- **[Kiddyland Harajuku](https://maps.google.com/?q=Kiddyland+Harajuku+Jingumae)** — 6-1-9 Jingumae, ~3 min walk from Meiji-Jingumae Stn. Holiday hours 10:30 AM-9:00 PM. **Pick up a Licca-chan doll for Yeva** — they carry the full range of Licca dolls and playsets. Allow 30 min.
 - *#FFFFFFT (White T-Shirt Store) is closed weekdays — only Sat/Sun. If Brad still wants it, swing by during a future weekend stop.*
 
 ### Lunch (~12:00-1:15 PM) — Udon / Wagyu Burger
@@ -273,9 +282,11 @@
 - 1:40-1:55 Walk Shinjuku Stn → Kabukicho to **[Samurai Restaurant](https://maps.google.com/?q=Samurai+Restaurant+Kabukicho+Shinjuku)** (former Robot Restaurant location)
 - **2:00-3:30 PM — Samurai Restaurant show (90 min).** Choreographed neon-and-drumming spectacle, dancers, costumed performers. ~¥9,000/pp incl. show + drink/bento depending on ticket. *BOOKED 2:00 PM via Klook/GetYourGuide for 4.*
 
-### Late Afternoon — Free Time / Shopping (~3:30-5:15 PM)
-- Wander Shinjuku/Kabukicho, browse Don Quijote, or head back to Shibuya for hotel rest.
-- Optional: **[Shimokitazawa](https://maps.google.com/?q=Shimokitazawa+Station+Tokyo)** vintage if time + energy (3 min Keio Inokashira from Shibuya): BEARS' Denim, Flamingo, New York Joe Exchange, Chicago, vinyl shops.
+### Late Afternoon — Shibuya Watch + Shop Crawl (~3:30-5:15 PM)
+- 3:30-3:40 Train Shinjuku → Shibuya (JR Yamanote, ~5 min)
+- **[Houseki Hiroba Shibuya](https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo)** (3:45-5:00) — 5 min from hotel. Massive secondhand watch inventory: Rolex, Grand Seiko, Omega. Open 11:00-19:30 daily, walk-in. *If Houseki has the piece — done. If not, fall back to Grand Seiko Osaka Shinsaibashi on May 5 (the world's largest Seiko/GS store, way better selection than Tokyo Ginza).*
+- **[Loft Shibuya](https://maps.google.com/?q=Loft+Shibuya+21-1+Udagawacho+Tokyo)** (5:00-5:15 quick) — 21-1 Udagawacho, 3 min from Shibuya Stn. 6 floors of Japanese design goods, stationery, kitchenware. Open 10am-9pm. Quick browse on the way back to hotel.
+- *Optional bigger detour:* **[Shimokitazawa](https://maps.google.com/?q=Shimokitazawa+Station+Tokyo)** vintage (3 min Keio Inokashira from Shibuya): BEARS' Denim, Flamingo, New York Joe Exchange, Chicago, vinyl shops. Skips if you want to pace for the night.
 
 ### Dinner (~7:00 PM) — Sushi (Affordable)
 *Holiday closures limit options. These stay open:*
@@ -573,8 +584,9 @@
 ### Lunch (~12:30 PM) — Sushi (at Harukoma, see above)
 
 ### Afternoon (~2:30-5:30 PM)
+- **[Grand Seiko Boutique Osaka Shinsaibashi](https://maps.google.com/?q=Grand+Seiko+Boutique+Osaka+Shinsaibashi+4-3-11+Minamisenba)** — **PRIORITY if Houseki Hiroba (Apr 29) didn't have the piece.** 4-3-11 Minamisenba, Osaka Toyota Building 1F. The Seiko + Grand Seiko combined floor here is the **world's largest Seiko store** (333+ m²). Tax-free with passport. Allow ~45 min.
 - **[Nakanoshima Festival](https://maps.google.com/?q=Nakanoshima+Park+Osaka)** — Day 2 if you didn't do it last night. Free! Also walk the beautiful **[Nakanoshima riverside](https://maps.google.com/?q=Nakanoshima+Island+Osaka)** — especially lovely lit up.
-- **[Shinsaibashi Shopping Arcade](https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka)** — 180 stores. Onitsuka Tiger flagship, Don Quijote. Tax-free.
+- **[Shinsaibashi Shopping Arcade](https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka)** — 180 stores. **Onitsuka Tiger flagship**, Don Quijote. Tax-free with passport. *(Brad: Onitsuka Tiger here covers what we skipped in Tokyo.)*
 - **[Momotaro Jeans Osaka](https://maps.google.com/?q=Momotaro+Jeans+Osaka+Horie)** — Horie neighborhood. If you haven't bought denim yet.
 - **Japanese Jazz Vinyl — Shinsaibashi Record Run** (all walking distance from hotel):
   - **[Rare Groove](https://maps.google.com/?q=Rare+Groove+Records+Nishi-Shinsaibashi+Osaka)** — On The Vinyl Factory's "World's Best Record Shops" list. Rare Japanese pressings specialty. ~8 min walk from hotel. Building has 5 other record shops too. **Closed Wednesdays** — today (Mon) is perfect.

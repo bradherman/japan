@@ -291,7 +291,7 @@
   {
     "dayNumber": 3,
     "date": "Apr 27",
-    "title": "Nakameguro / teamLab / Teppanyaki",
+    "title": "Nakameguro / Daikanyama / teamLab / Kurono / Teppanyaki",
     "entries": [
       {
         "time": "8:00 AM",
@@ -342,14 +342,26 @@
         "isBackup": false
       },
       {
-        "time": "10:25-11:00",
+        "time": "10:25-10:55",
         "text": "Browse Daikanyama T-Site (Tsutaya Books), Okura Daikanyama",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "11:00-11:15",
-        "text": "Walk back toward Nakameguro",
+        "time": "10:55-11:00",
+        "text": "Walk to Nanamica Daikanyama (~3 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00-11:30",
+        "text": "Nanamica flagship — North Face Purple Label, full nanamica collection (opens 11)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:30-11:50",
+        "text": "Walk back toward Nakameguro to Udatsu Sushi",
         "isWarning": false,
         "isBackup": false
       },
@@ -407,18 +419,26 @@
         "isBackup": false
       },
       {
-        "time": "",
-        "text": "Optional: #FFFFFFT white tee store — open Sun 12-6pm, 10 min walk from Omotesando"
-      },
-      {
-        "time": "5:15-6:00",
-        "text": "Train Shin-Toyosu → Omotesando area (~35 min)",
+        "time": "5:15-5:50",
+        "text": "Train Shin-Toyosu → Omotesando area (~35 min via Yurikamome + transfer)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "6:00-6:30",
-        "text": "Freshen up / walk around Omotesando",
+        "time": "5:50-6:00",
+        "text": "Walk Omotesando → Kurono Tokyo Aoyama (Kita-Aoyama 2-10-22, ~5-7 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "6:00-6:40",
+        "text": "⚠️ KURONO TOKYO AOYAMA — closes 7pm, closed Sun/holidays. Mon Apr 27 is the only viable day. Hajime Asaoka watches.",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "6:40-6:55",
+        "text": "Walk back to Ukaitei Omotesando",
         "isWarning": false,
         "isBackup": false
       },
@@ -748,20 +768,26 @@
         "isBackup": false
       },
       {
-        "time": "10:45-11:15",
-        "text": "Walk to Mofusand Harajuku (Yeva's gifts), browse more shops",
+        "time": "10:45-11:00",
+        "text": "Walk to Mofusand Harajuku (Yeva's gifts)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "11:15-11:45",
-        "text": "Walk to Koffee Mameya Omotesando (opens 10am)",
+        "time": "11:00-11:30",
+        "text": "Kiddyland Harajuku ⚠️ Pick up Licca-chan doll for Yeva (holiday hours 10:30-9pm)",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "11:30-11:45",
+        "text": "Walk to Koffee Mameya Omotesando — quick coffee sommelier experience",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "11:45-12:00",
-        "text": "Coffee sommelier experience, walk to Harajuku for reunion",
+        "text": "Walk to Henry's Burger / Shin Udon for reunion",
         "isWarning": false,
         "isBackup": false
       },
@@ -825,25 +851,37 @@
       },
       {
         "time": "3:30-3:45",
-        "text": "Exit, decompress",
+        "text": "Exit Samurai Restaurant, walk to Shinjuku Stn",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "3:45-5:15",
-        "text": "Free time — Don Quijote browse, back to Shibuya hotel rest, or Shimokitazawa vintage (B)",
+        "time": "3:45-3:50",
+        "text": "JR Yamanote Shinjuku → Shibuya (~5 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "5:15-5:30",
-        "text": "Drop by hotel / freshen up",
+        "time": "3:55-5:00",
+        "text": "Houseki Hiroba Shibuya — secondhand watch hunt. Walk-in. ⚠️ If nothing here, fall back to Grand Seiko Osaka Shinsaibashi on May 5 (world's largest Seiko store)",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "5:00-5:20",
+        "text": "Loft Shibuya — quick browse 6 floors of design goods (5 min from hotel)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "5:20-5:30",
+        "text": "Walk to Midori Sushi Shibuya (or hotel detour to drop bags)",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "5:30",
-        "text": "Walk to Midori Sushi Shibuya",
+        "text": "Arrive Midori Sushi",
         "isWarning": false,
         "isBackup": false
       },
@@ -1953,22 +1991,21 @@
         "isBackup": false
       },
       {
-        "time": "2:00-3:30",
-        "text": "Choose your adventure:",
+        "time": "2:00-2:45",
+        "text": "⚠️ Grand Seiko Boutique Osaka Shinsaibashi — 4-3-11 Minamisenba. World's LARGEST Seiko/GS store (333+ m²). Tax-free with passport. PRIORITY if Houseki Hiroba (Apr 29) didn't have the piece.",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "2:45-3:30",
+        "text": "Shinsaibashi Shopping Arcade — Onitsuka Tiger flagship (covers what we skipped Tokyo), Don Quijote, browse 180 stores",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "",
-        "text": "A) Nakanoshima Festival Day 2 + riverside walk"
-      },
-      {
-        "time": "",
-        "text": "B) Shinsaibashi Shopping Arcade — 180 stores, tax-free"
-      },
-      {
-        "time": "",
-        "text": "C) Momotaro Jeans Osaka (Horie neighborhood)"
+        "text": "(B) Skip Shinsaibashi → Nakanoshima Festival Day 2, or Momotaro Jeans Osaka (Horie)",
+        "isBackup": true
       },
       {
         "time": "3:30-4:00",

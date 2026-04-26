@@ -334,11 +334,11 @@
     {
       "dayNumber": 3,
       "date": "April 27",
-      "dayOfWeek": "Sunday",
+      "dayOfWeek": "Monday",
       "title": "Nakameguro / Daikanyama / teamLab / Aoyama",
       "city": "Tokyo",
-      "subtitle": "With Dave & Gail. Morning donuts and coffee, Michelin sushi lunch, teamLab Planets in the afternoon, teppanyaki dinner.",
-      "summary": "The splurge day. Morning starts with Japan's most hyped donuts in Nakameguro, then the real event: Michelin-starred sushi omakase at a concrete gallery counter. Afternoon is teamLab Planets barefoot with Dave and Gail — the immersive one everyone talks about. Dinner is teppanyaki with a private chef at Ukaitei. Then Shimokitazawa for soul vinyl and live music if you've got anything left.",
+      "subtitle": "With Dave & Gail. Morning donuts and coffee, Michelin sushi lunch, teamLab Planets in the afternoon, teppanyaki dinner. Quick Kurono Tokyo (watches) stop in Aoyama before dinner.",
+      "summary": "The splurge day. Morning starts with Japan's most hyped donuts in Nakameguro, then the real event: Michelin-starred sushi omakase at a concrete gallery counter. Quick stops at Daikanyama T-Site and the Nanamica flagship (North Face Purple Label). Afternoon is teamLab Planets barefoot with Dave and Gail. Squeeze in Kurono Tokyo (Aoyama, closes 7pm) before teppanyaki at Ukaitei. Cap with Shimokitazawa vinyl if anything's left.",
       "morningCoffee": {
         "kind": "coffee",
         "name": "Onibus Coffee Nakameguro",
@@ -369,6 +369,14 @@
               "name": "Okura Daikanyama",
               "mapLink": "https://maps.google.com/?q=Okura+Daikanyama",
               "description": "Japanese indigo-dyed goods and denim",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Nanamica Daikanyama",
+              "mapLink": "https://maps.google.com/?q=Nanamica+Daikanyama+Tokyo",
+              "description": "Flagship store with North Face Purple Label. 26-13 Sarugakucho. Opens 11:00 AM. ~3 min walk from T-Site. — leave by 11:35 to make Udatsu at 11:55",
+              "duration": "20-30 min",
               "priority": false,
               "reservationRequired": false
             }
@@ -409,6 +417,18 @@
               "priority": false,
               "reservationRequired": true,
               "notes": "ADVANCE TICKETS: Book NOW at teamlab.art/e/planets/ — Golden Week dates sell out weeks ahead. Book for ~3:00 PM slot. ~3,200 yen/pp"
+            }
+          ]
+        },
+        {
+          "title": "Pre-Dinner — Kurono Tokyo Aoyama",
+          "activities": [
+            {
+              "name": "Kurono Tokyo Aoyama Salon",
+              "mapLink": "https://maps.google.com/?q=Kurono+Tokyo+Aoyama+2-10-22+Kita-Aoyama",
+              "description": "MUST VISIT TODAY. Closed Sun; national holidays — Apr 29 (Showa Day) is closed, so Mon Apr 27 is the only viable day. Mon-Sat 11:00-19:00. Hajime Asaoka's Kurono Tokyo watches. Phone +81-3-6823-8358",
+              "priority": false,
+              "reservationRequired": false
             }
           ]
         },
@@ -701,6 +721,14 @@
               "description": "For Yeva's gifts",
               "priority": false,
               "reservationRequired": false
+            },
+            {
+              "name": "Kiddyland Harajuku",
+              "mapLink": "https://maps.google.com/?q=Kiddyland+Harajuku+Jingumae",
+              "description": "6-1-9 Jingumae, ~3 min walk from Meiji-Jingumae Stn. Holiday hours 10:30 AM-9:00 PM. up a Licca-chan doll for Yeva — they carry the full range of Licca dolls and playsets",
+              "duration": "30 min",
+              "priority": true,
+              "reservationRequired": false
             }
           ]
         },
@@ -747,8 +775,23 @@
           ]
         },
         {
-          "title": "Late Afternoon — Free Time / Shopping",
-          "activities": []
+          "title": "Late Afternoon — Shibuya Watch + Shop Crawl",
+          "activities": [
+            {
+              "name": "Houseki Hiroba Shibuya",
+              "mapLink": "https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo",
+              "description": "5 min from hotel. Massive secondhand watch inventory: Rolex, Grand Seiko, Omega. Open 11:00-19:30 daily, walk-in. If Houseki has the piece — done. If not, fall back to Grand Seiko Osaka Shinsaibashi on May 5 (the world's largest Seiko/GS store, way better selection than Tokyo Ginza)",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Loft Shibuya",
+              "mapLink": "https://maps.google.com/?q=Loft+Shibuya+21-1+Udagawacho+Tokyo",
+              "description": "21-1 Udagawacho, 3 min from Shibuya Stn. 6 floors of Japanese design goods, stationery, kitchenware. Open 10am-9pm. Quick browse on the way back to hotel",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
         },
         {
           "title": "Dinner",
@@ -1694,6 +1737,14 @@
           "title": "Afternoon",
           "activities": [
             {
+              "name": "Grand Seiko Boutique Osaka Shinsaibashi",
+              "mapLink": "https://maps.google.com/?q=Grand+Seiko+Boutique+Osaka+Shinsaibashi+4-3-11+Minamisenba",
+              "description": "If Houseki Hiroba (Apr 29) didn't have the piece. 4-amisenba, Osaka Toyota Building 1F. The Seiko; Grand Seiko combined floor here is the world's largest Seiko store (333+ m²). Tax-free with passport. ~45 min",
+              "duration": "3-11 Min",
+              "priority": true,
+              "reservationRequired": false
+            },
+            {
               "name": "Nakanoshima Festival",
               "mapLink": "https://maps.google.com/?q=Nakanoshima+Park+Osaka",
               "description": "Day 2 if you didn't do it last night. Free! Also walk the beautiful Nakanoshima riverside — especially lovely lit up",
@@ -1703,7 +1754,7 @@
             {
               "name": "Shinsaibashi Shopping Arcade",
               "mapLink": "https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka",
-              "description": "180 stores. Onitsuka Tiger flagship, Don Quijote. Tax-free",
+              "description": "180 stores. Onitsuka Tiger flagship, Don Quijote. Tax-free with passport. (Brad: Onitsuka Tiger here covers what we skipped in Tokyo.)",
               "priority": false,
               "reservationRequired": false
             },

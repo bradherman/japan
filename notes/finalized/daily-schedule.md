@@ -67,7 +67,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 ---
 
-## Day 3: Sun, Apr 27 — Nakameguro / teamLab / Teppanyaki
+## Day 3: Mon, Apr 27 — Nakameguro / Daikanyama / teamLab / Kurono / Teppanyaki
 
 ```
 8:00 AM    Wake up
@@ -78,8 +78,10 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 9:15-9:50  Queue at I'm Donut? (~30-40 min before 10am opening)
 9:50-10:10 Buy + eat donuts ⚠️ ARRIVE BY 9:30 — sells out by afternoon
 10:10-10:25 Walk along Meguro River to Daikanyama (15 min)
-10:25-11:00 Browse Daikanyama T-Site (Tsutaya Books), Okura Daikanyama
-11:00-11:15 Walk back toward Nakameguro
+10:25-10:55 Browse Daikanyama T-Site (Tsutaya Books), Okura Daikanyama
+10:55-11:00 Walk to Nanamica Daikanyama (~3 min)
+11:00-11:30 Nanamica flagship — North Face Purple Label, full nanamica collection (opens 11)
+11:30-11:50 Walk back toward Nakameguro to Udatsu Sushi
 11:55      Arrive Udatsu Sushi ⚠️ BOOKED 12:00 PM — Smart casual: no tees/shorts/sandals
 12:00-1:30 Michelin sushi omakase lunch (~90 min)
            (B) Sushi SHIN in Nishiazabu if Udatsu full
@@ -89,10 +91,10 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 2:30       Enter teamLab Planets ⚠️ BOOK ~3:00 PM SLOT (arrive early)
 2:30-5:00  teamLab Planets (~2-2.5 hrs)
 5:00-5:15  Retrieve bags, dry off feet, put shoes back on
-           Optional: #FFFFFFT white tee store — open Sun 12-6pm, 10 min walk from Omotesando
-           (would need to squeeze in before teamLab or skip)
-5:15-6:00  Train Shin-Toyosu → Omotesando area (~35 min)
-6:00-6:30  Freshen up / walk around Omotesando
+5:15-5:50  Train Shin-Toyosu → Omotesando area (~35 min via Yurikamome + transfer)
+5:50-6:00  Walk Omotesando → Kurono Tokyo Aoyama (Kita-Aoyama 2-10-22, ~5-7 min)
+6:00-6:40 ⚠️ KURONO TOKYO AOYAMA — closes 7pm, closed Sun/holidays. Mon Apr 27 is the only viable day. Hajime Asaoka watches.
+6:40-6:55  Walk back to Ukaitei Omotesando
 7:00       Arrive Ukaitei Omotesando ⚠️ BOOKED 7:00 PM — dress nice-ish
 7:00-9:00  Teppanyaki dinner — private room, dedicated chef (~2 hrs)
            (B) Ebisu Yokocho — izakaya stall hopping if teppanyaki too much
@@ -163,9 +165,10 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 9:25-10:00 Browse Harajuku — Takeshita-dori window shopping
 10:00-10:15 Walk to Harajuku Gyoza Ru
 10:15-10:45 Gyoza snack — best gyoza in Tokyo (~500-800 yen)
-10:45-11:15 Walk to Mofusand Harajuku (Yeva's gifts), browse more shops
-11:15-11:45 Walk to Koffee Mameya Omotesando (opens 10am)
-11:45-12:00 Coffee sommelier experience, walk to Harajuku for reunion
+10:45-11:00 Walk to Mofusand Harajuku (Yeva's gifts)
+11:00-11:30 Kiddyland Harajuku ⚠️ Pick up Licca-chan doll for Yeva (holiday hours 10:30-9pm)
+11:30-11:45 Walk to Koffee Mameya Omotesando — quick coffee sommelier experience
+11:45-12:00 Walk to Henry's Burger / Shin Udon for reunion
 
            REUNITED — LUNCH:
 12:00-12:15 Walk to Henry's Burger (Meiji-dori) or Shin Udon
@@ -182,10 +185,12 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 1:55-2:00  Check in, claim seats
 2:00-3:30 ⚠️ SAMURAI RESTAURANT SHOW (90 min) — neon, drumming, dancers ⚠️ BOOKED
 
-3:30-3:45  Exit, decompress
-3:45-5:15  Free time — Don Quijote browse, back to Shibuya hotel rest, or Shimokitazawa vintage (B)
-5:15-5:30  Drop by hotel / freshen up
-5:30       Walk to Midori Sushi Shibuya
+3:30-3:45  Exit Samurai Restaurant, walk to Shinjuku Stn
+3:45-3:50  JR Yamanote Shinjuku → Shibuya (~5 min)
+3:55-5:00  Houseki Hiroba Shibuya — secondhand watch hunt. Walk-in. ⚠️ If nothing here, fall back to Grand Seiko Osaka Shinsaibashi on May 5 (world's largest Seiko store)
+5:00-5:20  Loft Shibuya — quick browse 6 floors of design goods (5 min from hotel)
+5:20-5:30  Walk to Midori Sushi Shibuya (or hotel detour to drop bags)
+5:30       Arrive Midori Sushi
 5:30-7:00  Queue at Midori (~60-90 min GW wait) ⚠️ ARRIVE BY 5:30-6PM
 7:00-8:00  Eat sushi dinner
            (B) If line is insane → pivot to Ebisu Yokocho (1 stop on Yamanote)
@@ -426,10 +431,9 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 11:45-12:00 Subway Tenjinbashi → Tanimachi-4-chome (10 min)
 12:00-1:30  Osaka Castle — grounds, moat, castle tower (elevator, no stairs for Brad). ~600 yen
 1:30-2:00  Subway back to Namba area
-2:00-3:30  Choose your adventure:
-           A) Nakanoshima Festival Day 2 + riverside walk
-           B) Shinsaibashi Shopping Arcade — 180 stores, tax-free
-           C) Momotaro Jeans Osaka (Horie neighborhood)
+2:00-2:45 ⚠️ Grand Seiko Boutique Osaka Shinsaibashi — 4-3-11 Minamisenba. World's LARGEST Seiko/GS store (333+ m²). Tax-free with passport. PRIORITY if Houseki Hiroba (Apr 29) didn't have the piece.
+2:45-3:30  Shinsaibashi Shopping Arcade — Onitsuka Tiger flagship (covers what we skipped Tokyo), Don Quijote, browse 180 stores
+           (B) Skip Shinsaibashi → Nakanoshima Festival Day 2, or Momotaro Jeans Osaka (Horie)
 3:30-4:00  Takamura Wine & Coffee Roasters (opens 11am — afternoon visit)
 4:00-4:30  Wrap up shopping/exploring
 4:30-4:45  Subway Namba → Temma area (JR or metro, ~15 min)
