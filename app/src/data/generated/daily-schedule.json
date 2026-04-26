@@ -105,104 +105,115 @@
   {
     "dayNumber": 2,
     "date": "Apr 26",
-    "title": "Tsukiji / Ginza / Shibuya Sky",
+    "title": "Sakuragaoka / Chopsticks / Tsukiji / Shibuya Sky / Tsukada",
     "entries": [
       {
         "time": "6:30 AM",
-        "text": "Wake up (jet lag is your alarm clock)",
+        "text": "Wake up (already up earlier today — flex)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "7:00",
-        "text": "Leave hotel, walk to Shibuya Station (10 min)",
+        "time": "6:50-7:00",
+        "text": "Walk Granbell → Cerulean Tower Tokyu Hotel (~5-7 min, Sakuragaoka-cho)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "7:10-7:30",
-        "text": "Ginza Line to Tsukiji (20 min)",
+        "time": "7:00-8:30",
+        "text": "Sakuragaoka breakfast — traditional Japanese buffet (grilled fish, rice, miso, tofu,",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "7:30-10:00",
-        "text": "Tsukiji Outer Market food crawl — tamagoyaki, scallops, uni, sashimi, tuna skewers",
+        "time": "8:30-9:00",
+        "text": "Walk back, freshen up",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "",
-        "text": "Optional: Masamoto knives at market edge"
-      },
-      {
-        "time": "10:00-10:15",
-        "text": "Walk from Tsukiji to Ginza (15 min)",
+        "time": "9:00-9:15",
+        "text": "Walk to Shibuya Station",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "10:15-11:15",
-        "text": "Chopstick Making Workshop — Ginza Hashikura (~60 min) ⚠️ BOOKED 10:00 AM",
+        "time": "9:15-9:35",
+        "text": "Ginza Line to Ginza (~16 min, ¥210)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:35-9:55",
+        "text": "Walk to Hashikura — light browsing of Ginza on the way",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-11:00",
+        "text": "Chopstick Making Workshop — Ginza Hashikura ⚠️ BOOKED 10:00 AM (~60 min)",
         "isWarning": true,
         "isBackup": false
       },
       {
-        "time": "11:15-11:30",
-        "text": "Walk around Ginza / optional Grand Seiko Boutique (Brad solo flex)",
+        "time": "11:00-11:15",
+        "text": "Walk Ginza → Tsukiji (15 min, flat, easy)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "11:30",
-        "text": "Subway Ginza → Shinjuku-sanchome (15 min) for Nakajima",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "11:45-12:30",
-        "text": "Queue at Nakajima (~30-45 min for 12:30 wave)",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "12:30-1:00",
-        "text": "Eat Michelin sardine lunch (990 yen!!)",
+        "time": "11:15-1:30",
+        "text": "Tsukiji Outer Market — SNACK LUNCH crawl (open ~10am Sun)",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "",
-        "text": "(B) Skip Nakajima if stuffed from Tsukiji → graze Ginza Six depachika",
-        "isBackup": true
+        "text": "Eat as you go: tamagoyaki, grilled scallops, uni, sashimi, tuna skewers, ichigo daifuku"
       },
       {
-        "time": "1:00-1:15",
-        "text": "Subway back toward Shibuya",
+        "time": "",
+        "text": "Cash at most stalls. Some Sun-closed stalls — graze the open ones."
+      },
+      {
+        "time": "1:30-2:00",
+        "text": "Tsukiji Hongwanji Temple (5 min walk south) + Namiyoke Inari Shrine (at market edge)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "1:15-1:30",
-        "text": "Walk to Houseki Hiroba Shibuya (5 min from hotel area)",
+        "time": "2:00-2:15",
+        "text": "Masamoto knives at market edge (verify Sun hours en route — call or web search)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "1:30-3:30",
-        "text": "Houseki Hiroba Shibuya — secondhand watch browsing. Rolex, Grand Seiko, Omega. Massive inventory. (2 hrs)",
+        "time": "2:15-3:30",
+        "text": "PICK ONE based on energy:",
         "isWarning": false,
         "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "A) Walk back to Ginza (~15 min) — Grand Seiko Namiki, Watch CTI Ginza, Shellman Ginza"
+      },
+      {
+        "time": "",
+        "text": "B) Hama-rikyu Gardens (10 min walk south of Tsukiji, ¥300) — quiet break, tidal pond"
+      },
+      {
+        "time": "",
+        "text": "C) Head straight back to Shibuya for a longer rest"
       },
       {
         "time": "3:30-4:00",
-        "text": "Walk back to hotel, freshen up, grab coffee",
+        "text": "Subway back to Shibuya (Hibiya + Ginza Line, ~25-30 min, depending on starting point)",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "4:00-5:45",
-        "text": "Free time — rest at hotel, explore Shibuya",
+        "text": "Free time — rest at hotel, freshen up, Streamer Coffee",
         "isWarning": false,
         "isBackup": false
       },
@@ -214,37 +225,36 @@
       },
       {
         "time": "6:00-6:20",
-        "text": "Check in at Shibuya Sky, go through escalators to observation deck",
+        "text": "Check in at Shibuya Sky, escalators to observation deck",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "6:20-7:45",
-        "text": "Shibuya Sky — booked entry at 6:20 PM ⚠️ BOOKED ✅. Golden hour + city lights. Sunset ~6:23 PM.",
+        "text": "Shibuya Sky ⚠️ BOOKED ✅ — Golden hour + city lights. Sunset ~6:23 PM.",
         "isWarning": true,
         "isBackup": false
       },
       {
-        "time": "7:45-8:00",
-        "text": "Come down, experience Shibuya Crossing at street level",
+        "time": "7:45-7:55",
+        "text": "Take elevator down to 12F (same building) — Shabu-Shabu Tsukada",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "8:00-8:15",
-        "text": "JR Yamanote Shibuya → Shinjuku (5 min + walk to Takashimaya)",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "8:15-9:00",
-        "text": "Katsukura Shinjuku Takashimaya 14F — Kyoto-style tonkatsu (LO 9 PM, walk-in)",
+        "time": "8:00-9:30",
+        "text": "Dinner — Shabu-Shabu Tsukada — A5 wagyu individual hot pots, view of Scramble",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "",
-        "text": "(B) Skip Shinjuku → eat at Scramble Square: Shabu-Shabu Tsukada 12F or USHIHACHI yakiniku",
+        "text": "(B) USHIHACHI Kiwami same building — wagyu yakiniku",
+        "isBackup": true
+      },
+      {
+        "time": "",
+        "text": "(B) Katsukura Takashimaya — JR Yamanote 1 stop to Shinjuku, tonkatsu (LO 9 PM)",
         "isBackup": true
       },
       {
@@ -253,25 +263,25 @@
         "isBackup": true
       },
       {
-        "time": "9:00-9:15",
-        "text": "JR Yamanote back to Shibuya (5 min)",
+        "time": "9:30-9:45",
+        "text": "Walk down/over to Shibuya bar district",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "9:15-10:00",
-        "text": "JBS Vinyl Bar — vinyl, whisky, no cover (5 min walk)",
+        "time": "9:45-10:30",
+        "text": "JBS Vinyl Bar — vinyl, whisky, no cover (5 min walk, closes 11pm)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "10:00-11:00",
+        "time": "10:30-11:30",
         "text": "SG Club — craft cocktails (Guzzle floor or Sip basement, 5 min walk)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "11:00",
+        "time": "11:30",
         "text": "Walk back to hotel (10 min)",
         "isWarning": false,
         "isBackup": false
@@ -462,7 +472,7 @@
   {
     "dayNumber": 4,
     "date": "Apr 28",
-    "title": "Jimbocho / Kappabashi / Asakusa / Shinjuku Night",
+    "title": "Glitch / Nakajima / Sumo / Kappabashi / Sensoji / Pit Inn",
     "entries": [
       {
         "time": "7:15 AM",
@@ -483,150 +493,164 @@
         "isBackup": false
       },
       {
-        "time": "7:50-8:45",
-        "text": "Glitch Coffee — 2-3 bean tasting flight (45-60 min)",
+        "time": "7:50-8:30",
+        "text": "Glitch Coffee — 2-3 bean tasting flight (~40 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "8:45-9:00",
-        "text": "Walk toward Udon Maruka (5 min)",
+        "time": "8:30-9:45",
+        "text": "Browse Jimbocho bookshops, light wander (Maruka skipped today — sumo timing)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "9:00-10:00",
-        "text": "Browse Jimbocho bookshops while waiting (Maruka queue starts ~10am)",
+        "time": "10:00-10:15",
+        "text": "Subway Jimbocho → Shinjuku-sanchome (Toei Shinjuku Line, ~12 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "10:00-10:45",
-        "text": "Queue at Udon Maruka (~30-45 min for 11am opening) ⚠️ LAST CHANCE — closed GW",
+        "time": "10:15-10:55",
+        "text": "Walk to Nakajima area, position near entrance",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00-11:30",
+        "text": "IN QUEUE at Nakajima ⚠️ FIRST WAVE — cash, no reservations, Tue-Sat only",
         "isWarning": true,
         "isBackup": false
       },
       {
-        "time": "10:45-11:15",
-        "text": "Eat kamaage udon (cash only)",
+        "time": "11:30-12:00",
+        "text": "Eat sardine set FAST (~30 min) — leave by 12:00 sharp for sumo",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "11:15-11:35",
-        "text": "Walk/subway to Kappabashi Street (20 min)",
+        "time": "12:00-12:25",
+        "text": "Walk Nakajima (Shinjuku 3-chome) → Shinjuku Sumo Club (Okubo 2-5-22, ~15 min via Yasukuni-dori)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "11:35-1:00",
-        "text": "Knife shopping — Tsubaya, Kamata Hakensha (1-1.5 hrs)",
+        "time": "12:25",
+        "text": "Check in at Sumo Club",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "",
-        "text": "If Ginza Hachigo reserved:"
-      },
-      {
-        "time": "1:00-1:15",
-        "text": "Subway Kappabashi area → Ginza (15 min)",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "1:15-1:45",
-        "text": "Eat at Ginza Hachigo ⚠️ RESERVATION — truffle-foie gras ramen",
+        "time": "12:30-2:00",
+        "text": "⚠️ SUMO SHOW — Shinjuku Sumo Club, 90 min, bilingual MC, 3 matches + photo session ⚠️ BOOKED",
         "isWarning": true,
         "isBackup": false
       },
       {
-        "time": "",
-        "text": "If NOT reserved — Nakiryu tantanmen:"
-      },
-      {
-        "time": "1:45-2:00",
-        "text": "Subway toward Asakusa (5 min — Kappabashi is basically Asakusa)",
+        "time": "2:00-2:10",
+        "text": "Walk Sumo Club → Shin-Okubo Stn",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "2:00-3:30",
-        "text": "Sensoji Temple — Kaminarimon gate, Nakamise street, temple grounds (1.5 hrs)",
+        "time": "2:10-2:45",
+        "text": "JR Yamanote → Kanda → transfer Ginza Line → Tawaramachi (~30 min total)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "3:30-4:00",
-        "text": "Explore Asakusa backstreets",
+        "time": "2:45-2:50",
+        "text": "Walk Tawaramachi Stn → Kappabashi",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "4:00-4:30",
-        "text": "Subway Asakusa → Shibuya (30 min) — rest at hotel",
+        "time": "2:50-4:15",
+        "text": "Knife shopping — Tsubaya, Kamata Hakensha (~1h 25m)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "4:30-5:30",
-        "text": "Rest / freshen up",
+        "time": "4:15-4:25",
+        "text": "Walk Kappabashi → Sensoji (5-10 min, same neighborhood)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "5:30-6:00",
-        "text": "Subway Shibuya → Kagurazaka/Iidabashi (20 min)",
+        "time": "4:25-5:25",
+        "text": "Sensoji Temple — Kaminarimon, Nakamise (no slow browse), main hall (~60 min quick)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "6:00-6:30",
-        "text": "Walk the lantern-lit alleys of Kagurazaka",
+        "time": "5:25-5:55",
+        "text": "Subway Asakusa → Shibuya (Ginza + Hanzomon, ~30 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "6:30",
-        "text": "Find Shinpo izakaya (look for blue noren curtains)",
+        "time": "5:55-6:35",
+        "text": "Rest at hotel, change clothes, freshen up",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "6:30-8:00",
-        "text": "Dinner at Shinpo — crab croquettes, smoked daikon, sake",
+        "time": "6:35-6:50",
+        "text": "Subway Shibuya → Shinjuku-sanchome (~12 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "8:00-8:15",
-        "text": "Subway Kagurazaka → Shinjuku (10 min)",
+        "time": "6:50-7:00",
+        "text": "Walk to Pit Inn area (Shinjuku 2-chome 12-4, B1F)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "8:15-9:00",
-        "text": "Jazz Bar Samurai (5F, Shinjuku 3-chome) — vinyl jazz + 2,500 maneki-neko",
+        "time": "7:00",
+        "text": "Pit Inn doors open — show your reservation, claim seat",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "9:00-10:00",
-        "text": "Option A: Shinjuku Pit Inn — jazz evening show (~10pm late set)",
+        "time": "7:00-7:25",
+        "text": "Settle in, order drink (one drink included with ticket)",
         "isWarning": false,
-        "isBackup": true
+        "isBackup": false
       },
       {
-        "time": "",
-        "text": "Option B: JR Chuo to Koenji (10 min) → UFO Club for psych rock"
+        "time": "7:30-9:00",
+        "text": "⚠️ PIT INN — Suga Dairo Trio (Kyu Suga Dairo piano, Hikaru Toho bass, Masatsugi Hattori drums) ⚠️ BOOKED",
+        "isWarning": true,
+        "isBackup": false
       },
       {
-        "time": "",
-        "text": "Option C: Head home — it's been a full day"
+        "time": "9:00-9:15",
+        "text": "Walk Pit Inn → Omoide Yokocho (~10 min through Shinjuku Station west side)",
+        "isWarning": false,
+        "isBackup": false
       },
       {
-        "time": "11:30",
-        "text": "Last train window. Head to Shibuya.",
+        "time": "9:15-10:30",
+        "text": "Late dinner — pick any stall in Omoide Yokocho (\"Piss Alley\") — yakitori, izakaya bites, beer",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:30-10:45",
+        "text": "Walk Omoide → Jazz Bar Samurai (Shinjuku 3-chome, 5F)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:45-11:30",
+        "text": "Jazz Bar Samurai — vinyl jazz + 2,500 maneki-neko cats. ¥700 drinks.",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:30-11:45",
+        "text": "Walk to Shinjuku Stn, JR Yamanote → Shibuya (~5 min train)",
         "isWarning": false,
         "isBackup": false
       },
@@ -641,13 +665,51 @@
   {
     "dayNumber": 5,
     "date": "Apr 29",
-    "title": "Showa Day — Harajuku / Shimokitazawa",
+    "title": "Showa Day — Meiji + Nakano (split) / Samurai Restaurant / Sushi",
     "entries": [
       {
         "time": "8:00 AM",
         "text": "Wake up",
         "isWarning": false,
         "isBackup": false
+      },
+      {
+        "time": "8:15",
+        "text": "SPLIT: Brad → Nakano Broadway. Group → Meiji Shrine.",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "BRAD (solo flex):"
+      },
+      {
+        "time": "8:15-8:25",
+        "text": "Walk to Shibuya Stn",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "8:25-8:55",
+        "text": "JR Yamanote Shibuya → Shinjuku → JR Chuo Shinjuku → Nakano (~25 min total)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "9:00-11:30",
+        "text": "Nakano Broadway 3F — Jackroad, Kamekichi (opens 11:00), Fire Kids",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:30-12:00",
+        "text": "Train Nakano → Harajuku, meet group for lunch",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "GROUP (Alyona, Dave, Gail):"
       },
       {
         "time": "8:15",
@@ -698,52 +760,78 @@
         "isBackup": false
       },
       {
-        "time": "11:45-12:15",
-        "text": "Coffee sommelier experience",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "12:15-12:30",
-        "text": "Walk to Henry's Burger OR Shin Udon (both in Harajuku, ~5 min apart)",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "12:30-1:15",
-        "text": "Lunch — PICK ONE or split:",
+        "time": "11:45-12:00",
+        "text": "Coffee sommelier experience, walk to Harajuku for reunion",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "",
-        "text": "A) Henry's Burger Harajuku — A5 wagyu burgers. Get the HARAMI BURGER (~3,810 yen) ⚠️ DM @henrysburger_japan 1 WEEK AHEAD for harami reservation. Right on Meiji-dori. Owner speaks English."
+        "text": "REUNITED — LUNCH:"
+      },
+      {
+        "time": "12:00-12:15",
+        "text": "Walk to Henry's Burger (Meiji-dori) or Shin Udon",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "12:15-1:15",
+        "text": "LUNCH — eat fast, Samurai check-in 1:50 PM",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "A) Henry's Burger Harajuku — A5 wagyu, get HARAMI BURGER (~3,810 yen)"
       },
       {
         "time": "",
         "text": "B) Shin Udon Harajuku — carbonara udon (950 yen, walk-in)"
       },
       {
-        "time": "1:00-1:30",
-        "text": "Free time / browse Harajuku area",
+        "time": "",
+        "text": "SAMURAI RESTAURANT — KABUKICHO:"
+      },
+      {
+        "time": "1:15-1:30",
+        "text": "Walk to Harajuku Stn or Meiji-Jingumae Stn",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "1:30-2:00",
-        "text": "Free time / rest",
+        "time": "1:30-1:40",
+        "text": "JR Yamanote Harajuku → Shinjuku (~5 min, exit east)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "2:00-5:00",
-        "text": "Free time — extra rest time, explore Harajuku more, or early return to hotel",
+        "time": "1:40-1:55",
+        "text": "Walk Shinjuku Stn → Kabukicho Samurai Restaurant",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "5:00-5:15",
-        "text": "Head back to hotel area",
+        "time": "1:55-2:00",
+        "text": "Check in, claim seats",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "2:00-3:30",
+        "text": "⚠️ SAMURAI RESTAURANT SHOW (90 min) — neon, drumming, dancers ⚠️ BOOKED",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "3:30-3:45",
+        "text": "Exit, decompress",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "3:45-5:15",
+        "text": "Free time — Don Quijote browse, back to Shibuya hotel rest, or Shimokitazawa vintage (B)",
         "isWarning": false,
         "isBackup": false
       },
@@ -794,11 +882,11 @@
       },
       {
         "time": "",
-        "text": "Option C: Early night — Golden Week starts tomorrow, save energy"
+        "text": "Option C: Early night — Golden Week is on, save energy for Kyoto tomorrow"
       },
       {
         "time": "10:00-11:00",
-        "text": "Back to hotel",
+        "text": "Back to hotel — pack day bag for Shinkansen 10:12 AM",
         "isWarning": false,
         "isBackup": false
       }

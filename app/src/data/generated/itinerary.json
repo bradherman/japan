@@ -46,13 +46,14 @@
           "activities": [
             {
               "name": "3:00 PM",
-              "description": "Land at Narita. Clear immigration/customs (~45-60 min)",
+              "description": "Land at Narita. Clear immigration/customs",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "~4:30 PM",
-              "description": "Board Narita Express (N'EX) to Shibuya (direct, ~75 min, 3,250 yen/pp)",
+              "description": "Board Narita Express (N'EX) to Shibuya (direct)",
+              "duration": "75 min",
               "priority": false,
               "reservationRequired": false,
               "price": "¥3,250"
@@ -60,7 +61,8 @@
             {
               "name": "~6:00 PM",
               "mapLink": "https://maps.google.com/?q=Shibuya+Station+Tokyo",
-              "description": "Arrive Shibuya Station. Walk 5-10 min to hotel. Check in, drop bags, freshen up",
+              "description": "Arrive Shibuya Station. Walk to hotel. Check in, drop bags, freshen up",
+              "duration": "5-10 min",
               "priority": false,
               "reservationRequired": false
             }
@@ -73,7 +75,7 @@
             {
               "name": "Gyukatsu Motomura Shibuya",
               "mapLink": "https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya",
-              "description": "PICK. Beef cutlet — ~2,000-2,600 yen/pp — 5-10 min walk from hotel. DIY grilling at your table — fun, interactive, perfect first-night-in-Japan energy. Arrive by 7pm.",
+              "description": "Beef cutlet — 5-10 min walk from hotel. DIY grilling at your table — fun, interactive, perfect first-night-in-Japan energy. Arrive by 7pm",
               "priority": true,
               "reservationRequired": false,
               "lineUpTip": "Expect 30-60 min wait. Arrive by 7pm.",
@@ -82,7 +84,7 @@
             {
               "name": "Fuunji",
               "mapLink": "https://maps.google.com/?q=Fuunji+Yoyogi+Tokyo",
-              "description": "Tsukemen (dipping ramen) — ~1,200-1,450 yen/pp — Near Shinjuku South Exit (~15-20 min from hotel: JR Yamanote 1 stop to Shinjuku + 5-8 min walk). Rich, intense fish-based dipping noodles. Cash only, vending machine order. If you're feeling energetic after the flight.",
+              "description": "Tsukemen (dipping ramen) — Near Shinjuku South Exit (~15-20 min from hotel: JR Yamanote 1 stop to Shinjuku; 5-8 min walk). Rich, intense fish-based dipping noodles. Cash only, vending machine order. If you're feeling energetic after the flight",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -97,14 +99,15 @@
             {
               "name": "Grandfather's",
               "mapLink": "https://maps.google.com/?q=Grandfather's+listening+bar+Shibuya",
-              "description": "Underground listening bar since 1971. Owner Toru Ishikawa has curated 2,000+ albums of 70s/80s Billboard hits. Vintage sound system, dark wood, dim lights, Suntory highball. This is the source of Japan's listening bar culture. Walking distance from hotel. Perfect low-key first night.",
+              "description": "Underground listening bar since 1971. Owner Toru Ishikawa has curated 2,000+ albums of 70s/80s Billboard hits. Vintage sound system, dark wood, dim lights, Suntory highball. This is the source of Japan's listening bar culture. Walking distance from hotel. Perfect low-key first night",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Nonbei Yokocho",
               "mapLink": "https://maps.google.com/?q=Nonbei+Yokocho+Shibuya",
-              "description": "Tiny bar alley ~10 min walk from hotel (opposite side of Shibuya Station). Grab a nightcap at one of the pint-sized standing bars. No cover, just point and order. One drink is ~30 min — do both Grandfather's AND Nonbei Yokocho.",
+              "description": "Tiny bar alley ~10 min walk from hotel (opposite side of Shibuya Station). Grab a nightcap at one of the pint-sized standing bars. No cover, just point and order. One drink is — do both Grandfather's AND Nonbei Yokocho",
+              "duration": "30 min",
               "priority": false,
               "reservationRequired": false
             }
@@ -129,92 +132,126 @@
     {
       "dayNumber": 2,
       "date": "April 26",
-      "dayOfWeek": "Saturday",
-      "title": "Tsukiji / Ginza / Shibuya Sky",
+      "dayOfWeek": "Sunday",
+      "title": "Chopsticks / Tsukiji / Shibuya Sky / Shabu-Shabu",
       "city": "Tokyo",
-      "subtitle": "With Dave & Gail. Big first full day: morning market crawl, chopstick workshop, Michelin lunch, sunset views. Pre-Golden Week — take advantage of smaller crowds.",
-      "summary": "The big first full day. Eat your way through Tsukiji market at dawn, make your own chopsticks in Ginza, then grab the cheapest Michelin meal in Tokyo (sardine set lunch, 990 yen). Afternoon is Shibuya Sky at sunset — golden hour from 229 meters above the crossing. Cap it with the best tonkatsu in the city and vinyl jazz bars within walking distance of the hotel.",
+      "subtitle": "With Dave & Gail. Light morning, chopstick workshop first, Tsukiji snack-lunch crawl, walkable temple/shopping, sunset at Shibuya Sky, then shabu-shabu in the same building.",
+      "summary": "A relaxed start after the arrival day. Coffee in the neighborhood, then chopstick workshop kicks off the day at 10am sharp. From Ginza, walk to Tsukiji to slow-graze the outer market stalls (10am Sunday opening) — that's lunch. Wander walkable temple/shrine (Tsukiji Hongwanji, Namiyoke Inari, Hama-rikyu) and hit knife/watch shops on the way back through Ginza. Sunset at Shibuya Sky at 6:20 (already booked), then take the elevator down to A5 wagyu shabu-shabu at Tsukada inside Shibuya Scramble Square.",
       "morningCoffee": {
-        "name": "Streamer Coffee Shibuya",
-        "mapLink": "https://maps.google.com/?q=Streamer+Coffee+Company+Shibuya"
+        "kind": "breakfast",
+        "name": "Sakuragaoka at Cerulean Tower Tokyu Hotel",
+        "mapLink": "https://maps.google.com/?q=Sakuragaoka+Cerulean+Tower+Tokyu+Hotel+Shibuya",
+        "description": "Walking distance from Granbell. Traditional Japanese breakfast buffet (grilled fish, rice, miso, tofu, tamagoyaki, pickles, fruit) plus coffee. **7:00 AM start** (LO 10:00, closes 10:30). Walk-in OK — buffet is separate from the lunch/dinner reservation system. ~¥4,200/pp. *Skipping Streamer Coffee today — buffet covers coffee.*"
       },
       "sections": [
         {
-          "title": "Morning — Tsukiji Outer Market",
-          "activities": [
-            {
-              "name": "Tsukiji Outer Market",
-              "mapLink": "https://maps.google.com/?q=Tsukiji+Outer+Market+Tokyo",
-              "description": "2-3 hours of eating your way through 400+ stalls",
-              "priority": false,
-              "reservationRequired": false
-            }
-          ]
+          "title": "Early Morning — Breakfast at Sakuragaoka",
+          "activities": []
         },
         {
-          "title": "Late Morning — Ginza",
+          "title": "Late Morning — Chopstick Workshop in Ginza",
           "activities": [
             {
               "name": "Chopstick Making Workshop (Ginza Hashikura)",
               "mapLink": "https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo",
-              "description": "~30-60 min, ~$27/pp + premium wood. All 4 booked. Take home same day. BOOKED 10:00 AM.",
-              "priority": true,
+              "description": "For all 4. premium wood. Take home same day",
+              "time": "10:00 AM",
+              "duration": "30-60 min",
+              "priority": false,
               "reservationRequired": false,
-              "booked": true
-            },
+              "booked": true,
+              "price": "$27"
+            }
+          ]
+        },
+        {
+          "title": "Midday — Tsukiji Outer Market — Snack Lunch",
+          "activities": [
             {
-              "name": "Houseki Hiroba Shibuya",
-              "mapLink": "https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo",
-              "description": "1:30-3:30 PM on Apr 26 SCHEDULED. Massive secondhand watch inventory: Rolex, Grand Seiko, Omega. 5 min from hotel. Tax-free with passport.",
+              "name": "Tsukiji Outer Market",
+              "mapLink": "https://maps.google.com/?q=Tsukiji+Outer+Market+Tokyo",
+              "description": "Opens ~10am Sundays. This IS lunch — graze the stalls slowly",
               "priority": false,
               "reservationRequired": false
+            }
+          ]
+        },
+        {
+          "title": "Early Afternoon — Walkable Shopping + Temple/Shrine",
+          "subtitle": "All within ~5-15 min walk of Tsukiji except the Ginza watch shops, which are ~15 min walk back toward Ginza. Houseki Hiroba is in Shibuya — easier on a separate day.",
+          "activities": [
+            {
+              "name": "Masamoto knives",
+              "mapLink": "https://maps.google.com/?q=Masamoto+knives+Tsukiji",
+              "description": "Knives since 1850s, at the Tsukiji market edge. Tax-free with passport. Verify Sunday hours via web search before going",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Tsukiji Hongwanji Temple",
+              "mapLink": "https://maps.google.com/?q=Tsukiji+Hongwanji+Temple+Tokyo",
+              "description": "Striking Indian-influenced Buddhist temple, ~5 min walk south of the outer market. Free",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Namiyoke Inari Shrine",
+              "mapLink": "https://maps.google.com/?q=Namiyoke+Inari+Shrine+Tokyo",
+              "description": "\"Wave-warding\" Shinto shrine right at the outer market entrance. Free",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Hama-rikyu Gardens",
+              "mapLink": "https://maps.google.com/?q=Hama+rikyu+Gardens+Tokyo",
+              "description": "Tidal pond garden, 10 min walk south of Tsukiji",
+              "priority": false,
+              "reservationRequired": false,
+              "price": "¥300"
             },
             {
               "name": "Grand Seiko Flagship Boutique Ginza Namiki",
               "mapLink": "https://maps.google.com/?q=Grand+Seiko+Boutique+Ginza+Namiki",
-              "description": "Browse/buy new Grand Seiko. Tax-free with passport. — Backup if Houseki Hiroba appeal fades",
+              "description": "New Grand Seiko, 15 min walk back toward Ginza. Tax-free with passport",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Watch CTI Ginza",
+              "mapLink": "https://maps.google.com/?q=Watch+CTI+Ginza+Tokyo",
+              "description": "Vintage Grand Seiko and King Seiko, B1F near Ginza-itchome Station",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Shellman Ginza",
+              "mapLink": "https://maps.google.com/?q=Shellman+Ginza+Tokyo",
+              "description": "Museum-quality vintage. Patek, Breguet, Grand Seiko",
               "priority": false,
               "reservationRequired": false
             }
           ]
         },
         {
-          "title": "Lunch",
-          "activities": [
-            {
-              "name": "Nakajima",
-              "mapLink": "https://maps.google.com/?q=Shinjuku+Kappo+Nakajima",
-              "description": "Michelin-starred sardine set lunch — 990 yen/pp (!!) — Shinjuku, 15 min subway from Ginza. Cheapest Michelin meal in Tokyo. Closed Sun, so today works. No reservation. If going after chopsticks, you'll hit the 12:30+ wave — expect 30-45 min wait.",
-              "priority": true,
-              "reservationRequired": false,
-              "lineUpTip": "Queue by 11:15am for 11:30 opening — fills immediately. If going after chopsticks, you'll hit the 12:30+ wave — expect 30-45 min wait.",
-              "price": "¥990"
-            },
-            {
-              "name": "Ginza Six basement depachika",
-              "mapLink": "https://maps.google.com/?q=GINZA+SIX+Tokyo",
-              "description": "Gourmet food floor grazing — varied prices — Great if Tsukiji filled you up.",
-              "priority": false,
-              "reservationRequired": false,
-              "backup": true
-            }
-          ]
+          "title": "Late Afternoon — Rest / Free Time",
+          "activities": []
         },
         {
-          "title": "Late Afternoon — Shibuya Sky",
+          "title": "Sunset",
           "activities": [
             {
               "name": "Shibuya Sky",
               "mapLink": "https://maps.google.com/?q=Shibuya+Sky+observation+deck",
-              "description": "✅ BOOKED 6:20 PM (3,400 yen/pp). Arrive by 6:00 to check in. Watch golden hour transition to city lights from 229m above Shibuya Crossing. Sunset ~6:23 PM. Allow 60-90 min.",
+              "description": "Arrive 6:00 to check in. Golden hour into city lights from 229m above Shibuya Crossing. Sunset ~6:23 PM",
+              "time": "6:20 PM",
+              "duration": "60-90 min",
               "priority": false,
               "reservationRequired": false,
-              "booked": true,
-              "price": "¥3,400"
+              "booked": true
             },
             {
               "name": "Shibuya Crossing",
-              "description": "You're literally above it. Watch from the sky, then experience it at street level after.",
+              "description": "Experience it at street level on the way down",
               "priority": false,
               "reservationRequired": false
             }
@@ -224,14 +261,24 @@
           "title": "Dinner",
           "activities": [
             {
-              "name": "Katsukura Shinjuku Takashimaya",
-              "mapLink": "https://maps.google.com/?q=Katsukura+Shinjuku+Takashimaya+Times+Square",
-              "description": "Kyoto-style tonkatsu (since 1962). 14F Takashimaya Times Square. Walk-in, no reservation needed. Grind-your-own sesame, unlimited rice/cabbage/miso. Rosu katsu or hire katsu with heritage pork. ~¥2,000-3,000/pp. Open until 10 PM (LO 9 PM). 1 stop on JR Yamanote from Shibuya (~15 min door-to-door).",
+              "name": "Shabu-Shabu Tsukada",
+              "mapLink": "https://maps.google.com/?q=Shabu+Shabu+Tsukada+Shibuya+Scramble+Square",
+              "description": "12F Shibuya Scramble Square — same building as Shibuya Sky, just take the elevator down. A5 wagyu individual hot pots. View of Scramble Crossing from the seats. Walk-in or call ahead for a reservation when you wake up",
               "priority": true,
-              "reservationRequired": false
+              "reservationRequired": true
             },
             {
-              "name": "Backups near Shibuya Sky",
+              "name": "USHIHACHI Kiwami Shibuya",
+              "mapLink": "https://maps.google.com/?q=USHIHACHI+Kiwami+Shibuya+Scramble+Crossing",
+              "description": "Wagyu yakiniku, Scramble Square restaurant floor (same building)",
+              "priority": false,
+              "reservationRequired": false,
+              "backup": true
+            },
+            {
+              "name": "Katsukura Shinjuku Takashimaya",
+              "mapLink": "https://maps.google.com/?q=Katsukura+Shinjuku+Takashimaya+Times+Square",
+              "description": "Kyoto-style tonkatsu, 14F Takashimaya Times Square. 1 stop on JR Yamanote. Walk-in. Open until 10 PM (LO 9 PM)",
               "priority": false,
               "reservationRequired": false,
               "backup": true
@@ -239,23 +286,10 @@
             {
               "name": "Gyukatsu Motomura Shibuya",
               "mapLink": "https://maps.google.com/?q=Gyukatsu+Motomura+Shibuya",
-              "description": "Beef cutlet, DIY stone-grilling — ~¥2,600/pp — 10 min walk from Scramble Square. Expect 30-60 min queue at dinner. Open until 11 PM.",
+              "description": "Beef cutlet, DIY stone-grilling. ~10 min walk from Scramble Square",
               "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Shabu-Shabu Tsukada",
-              "mapLink": "https://maps.google.com/?q=Shabu+Shabu+Tsukada+Shibuya+Scramble+Square",
-              "description": "12F Shibuya Scramble Square (same building as Shibuya Sky). A5 wagyu individual hot pots. View of Scramble Crossing from your seat.",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "USHIHACHI Kiwami Shibuya",
-              "mapLink": "https://maps.google.com/?q=USHIHACHI+Kiwami+Shibuya+Scramble+Crossing",
-              "description": "Wagyu yakiniku overlooking Scramble Crossing. Floor-to-ceiling windows.",
-              "priority": false,
-              "reservationRequired": false
+              "reservationRequired": false,
+              "backup": true
             }
           ]
         },
@@ -265,14 +299,14 @@
             {
               "name": "JBS Vinyl Bar",
               "mapLink": "https://maps.google.com/?q=JBS+Jazz+Bar+Shibuya",
-              "description": "No cover, open 2pm-11pm. Wall of vinyl, great sound system. Walking distance from hotel.",
+              "description": "No cover, open 2pm-11pm. Wall of vinyl, great sound system. Walking distance from hotel",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "SG Club",
               "mapLink": "https://maps.google.com/?q=SG+Club+Shibuya",
-              "description": "Speakeasy cocktails. Two floors: casual downstairs (Guzzle), refined upstairs (Sip). Walkable from JBS.",
+              "description": "Speakeasy cocktails. Two floors: casual downstairs (Guzzle), refined upstairs (Sip). Walkable from JBS",
               "priority": false,
               "reservationRequired": false
             }
@@ -281,7 +315,16 @@
       ],
       "logistics": [
         {
-          "text": "Golden Week starts Apr 29 — today and tomorrow are your best days for harder-to-book restaurants"
+          "text": "Tsukiji Outer Market opens ~10am on Sundays — that's why we flipped the order: chopsticks first, then Tsukiji as snack-lunch."
+        },
+        {
+          "text": "Nakajima (Michelin sardine) is closed Sundays — moved to Apr 28 lunch instead."
+        },
+        {
+          "text": "Shabu-Shabu Tsukada is in the same building as Shibuya Sky (Shibuya Scramble Square, 12F) — no transit between sunset and dinner."
+        },
+        {
+          "text": "Pre-Golden Week — today and tomorrow are your best days for harder-to-book restaurants."
         },
         {
           "text": "Shibuya Sky ✅ BOOKED 6:20 PM"
@@ -297,6 +340,7 @@
       "subtitle": "With Dave & Gail. Morning donuts and coffee, Michelin sushi lunch, teamLab Planets in the afternoon, teppanyaki dinner.",
       "summary": "The splurge day. Morning starts with Japan's most hyped donuts in Nakameguro, then the real event: Michelin-starred sushi omakase at a concrete gallery counter. Afternoon is teamLab Planets barefoot with Dave and Gail — the immersive one everyone talks about. Dinner is teppanyaki with a private chef at Ukaitei. Then Shimokitazawa for soul vinyl and live music if you've got anything left.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "Onibus Coffee Nakameguro",
         "mapLink": "https://maps.google.com/?q=Onibus+Coffee+Nakameguro",
         "description": "Beautiful converted house, excellent light-roast pour-over. Opens 9am."
@@ -308,7 +352,7 @@
             {
               "name": "I'm Donut? Nakameguro",
               "mapLink": "https://maps.google.com/?q=I'm+Donut+Nakameguro",
-              "description": "Opens 10am. Brad's donut destination. Sells out by early afternoon. Weekend lines can be 45-60 min by midday.",
+              "description": "Opens 10am. Brad's donut destination. Sells out by early afternoon. Weekend lines can be 45-60 min by midday",
               "priority": true,
               "reservationRequired": false,
               "lineUpTip": "Arrive by 9:30am (30 min before opening). Sells out by early afternoon. Weekend lines can be 45-60 min by midday."
@@ -316,7 +360,8 @@
             {
               "name": "Daikanyama T-Site (Tsutaya Books)",
               "mapLink": "https://maps.google.com/?q=Daikanyama+T-Site+Tsutaya+Books",
-              "description": "Award-winning bookstore complex. Beautiful architecture, great cafe. Worth 30-45 min. No reservation needed.",
+              "description": "Award-winning bookstore complex. Beautiful architecture, great cafe. Worth. No reservation needed",
+              "duration": "30-45 min",
               "priority": false,
               "reservationRequired": false
             },
@@ -335,7 +380,8 @@
             {
               "name": "Udatsu Sushi",
               "mapLink": "https://maps.google.com/?q=Udatsu+Sushi+Nakameguro",
-              "description": "BOOKED 12:00 PM. 1 Michelin star, Nakameguro — Lunch omakase 14,400 yen/pp (~$95). \"Art x Sushi\" in a concrete gallery space. Smart casual attire required — no T-shirts, shorts, or sandals. Arrive 5 min before reservation.",
+              "description": "1 Michelin star, Nakameguro — Lunch omakase. \"Art x Sushi\" in a concrete gallery space. Smart casual attire required — no T-shirts, shorts, or sandals. Arrive 5 min before reservation",
+              "time": "12:00 PM",
               "priority": false,
               "reservationRequired": false,
               "booked": true,
@@ -344,7 +390,7 @@
             {
               "name": "Sushi SHIN",
               "mapLink": "https://maps.google.com/?q=Sushi+SHIN+Nishiazabu+Tokyo",
-              "description": "1 Michelin star, Nishiazabu — Lunch omakase 18,150 yen/pp (~$120). Book via WhatsApp/email. 10+ consecutive years Michelin. Great backup if Udatsu is full.",
+              "description": "1 Michelin star, Nishiazabu — Lunch omakase. Book via WhatsApp/email. 10+ consecutive years Michelin. Great backup if Udatsu is full",
               "priority": false,
               "reservationRequired": true,
               "backup": true,
@@ -358,7 +404,8 @@
             {
               "name": "teamLab Planets Tokyo",
               "mapLink": "https://maps.google.com/?q=teamLab+Planets+Toyosu+Tokyo",
-              "description": "WITH DAVE & GAIL. Immersive digital art. Barefoot required. Allow 2-3 hours. Take Yurikamome to Shin-Toyosu Station.",
+              "description": "WITH DAVE & GAIL. Immersive digital art. Barefoot required. Take Yurikamome to Shin-Toyosu Station",
+              "duration": "2-3 hours",
               "priority": false,
               "reservationRequired": true,
               "notes": "ADVANCE TICKETS: Book NOW at teamlab.art/e/planets/ — Golden Week dates sell out weeks ahead. Book for ~3:00 PM slot. ~3,200 yen/pp"
@@ -371,7 +418,8 @@
             {
               "name": "Ukaitei Omotesando",
               "mapLink": "https://maps.google.com/?q=Ukai+Tei+Omotesando",
-              "description": "BOOKED 7:00 PM. Splurge teppanyaki for 4 — ~15,000 yen/pp — Private room with dedicated chef. This is the memorable group experience. Dress nice-ish (smart casual).",
+              "description": "Splurge teppanyaki for 4 — Private room with dedicated chef. This is the memorable group experience. Dress nice-ish (smart casual)",
+              "time": "7:00 PM",
               "priority": false,
               "reservationRequired": false,
               "booked": true,
@@ -380,7 +428,7 @@
             {
               "name": "Ebisu Yokocho",
               "mapLink": "https://maps.google.com/?q=Ebisu+Yokocho+Tokyo",
-              "description": "Izakaya alley near Ebisu Station — ~2,000-4,000 yen/pp — Multiple stalls, locals-heavy, great vibe. Perfect if teppanyaki feels like too much after a big sushi lunch.",
+              "description": "Izakaya alley near Ebisu Station — Multiple stalls, locals-heavy, great vibe. Perfect if teppanyaki feels like too much after a big sushi lunch",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -430,39 +478,68 @@
     {
       "dayNumber": 4,
       "date": "April 28",
-      "dayOfWeek": "Monday",
-      "title": "Jimbocho / Kappabashi / Asakusa / Shinjuku Night Out",
+      "dayOfWeek": "Tuesday",
+      "title": "Glitch / Nakajima / Sumo / Kappabashi / Sensoji / Pit Inn",
       "city": "Tokyo",
-      "subtitle": "With Dave & Gail. Coffee flight at Glitch, best udon in Tokyo, knife shopping, live music night. Last full weekday before Golden Week.",
-      "summary": "Coffee nerd paradise in the morning — a 3-bean tasting flight at Glitch, then the best udon in Tokyo (weekdays only, closes for Golden Week, today is your shot). Afternoon is knife shopping on Kappabashi Street and Sensoji Temple. Dinner at a hidden izakaya in Kagurazaka, then the real highlight: Shinjuku Pit Inn for legendary jazz, a bar with 2,500 maneki-neko cats, and cocktails at a World's 50 Best bar.",
+      "subtitle": "With Dave & Gail. Big day: Glitch coffee, Nakajima Michelin sardine lunch on the first wave, 12:30 sumo show, knife shopping, quick Sensoji, then Pit Inn jazz + late izakaya. Last full weekday before Golden Week.",
+      "summary": "Coffee nerd paradise in the morning — 3-bean tasting flight at Glitch. Lunch is the cheapest Michelin meal in Tokyo (Nakajima sardine set, Tue-Sat only), eaten on the 11:30 first wave so we can race ten minutes north for a 12:30 sumo show. Knife shopping on Kappabashi and a quick Sensoji stop in Asakusa, then back to Shinjuku for Suga Dairo Trio at Pit Inn at 7:30, late izakaya at Omoide Yokocho, and vinyl jazz at Jazz Bar Samurai to close.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "Glitch Coffee Jimbocho",
         "mapLink": "https://maps.google.com/?q=Glitch+Coffee+Roasters+Jimbocho+Tokyo",
         "description": "THE coffee destination. Order the 2-3 bean tasting flight (~1,500-2,000 yen). Opens 7:30am weekdays."
       },
       "sections": [
         {
-          "title": "Morning — Jimbocho + Kappabashi",
+          "title": "Morning — Jimbocho + Glitch Coffee",
           "activities": [
             {
               "name": "Glitch Coffee flight",
-              "description": "Allow 45-60 min to savor",
+              "description": "(opens 7:30am weekdays). Don't linger — first-wave Nakajima requires us in Shinjuku by 11:00",
+              "duration": "40-45 min",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
+          "title": "Late Morning — Subway to Shinjuku, Queue Nakajima",
+          "activities": [
+            {
+              "name": "PRIORITY: First-wave Nakajima",
+              "description": "Queue by 11:00 to be seated at 11:30 opening. Eat in flat. Sardine set, cash. Closed Sun+Mon — today (Tue) is the only viable day",
+              "duration": "30 min",
+              "priority": true,
+              "reservationRequired": false,
+              "price": "¥990"
+            }
+          ]
+        },
+        {
+          "title": "Sumo Show",
+          "activities": [
+            {
+              "name": "12:30-2:00 PM — Sumo Show (90 min).",
+              "priority": false,
+              "reservationRequired": false,
+              "booked": true
+            }
+          ]
+        },
+        {
+          "title": "Early Afternoon — Kappabashi Knife Shopping",
+          "activities": [
+            {
+              "name": "Kappabashi Street",
+              "mapLink": "https://maps.google.com/?q=Kappabashi+Street+Tokyo",
+              "description": "Kitchen Town. Knife shopping district, ~5 min walk south of Tawaramachi Stn",
               "priority": false,
               "reservationRequired": false
             },
             {
-              "name": "Udon Maruka",
-              "mapLink": "https://maps.google.com/?q=Udon+Maruka+Jimbocho+Tokyo",
-              "description": "Best udon in Tokyo. WEEKDAYS ONLY, closed holidays. Kamaage udon, 500-800 yen. Cash only. This closes during Golden Week — today is your shot. Sells out early.",
-              "priority": false,
-              "reservationRequired": false,
-              "lineUpTip": "Queue by 10:00-10:30am for 11am opening. Sells out early.",
-              "price": "¥500-800"
-            },
-            {
               "name": "Tsubaya",
               "mapLink": "https://maps.google.com/?q=Tsubaya+knives+Kappabashi",
-              "description": "Widest selection, handles most knives freely. Est. 1956.",
+              "description": "Widest selection, handles most knives freely. Est. 1956",
               "priority": false,
               "reservationRequired": false
             },
@@ -476,146 +553,147 @@
           ]
         },
         {
-          "title": "Lunch",
-          "activities": [
-            {
-              "name": "Ginza Hachigo",
-              "mapLink": "https://maps.google.com/?q=Ginza+Hachigo+ramen+Tokyo",
-              "description": "if reserved. Michelin Bib Gourmand — ~1,200 yen/pp — Truffle-foie gras ravioli ramen. Unlike any ramen you've had.",
-              "priority": true,
-              "reservationRequired": false,
-              "price": "¥1,200"
-            },
-            {
-              "name": "Nakiryu",
-              "mapLink": "https://maps.google.com/?q=Nakiryu+ramen+Toshima+Tokyo",
-              "description": "Legendary tantanmen — ~1,200 yen/pp — If you didn't get Hachigo reservation, and you love tantanmen, this is the move. Cash only. 30 min-2.5 hr wait.",
-              "priority": false,
-              "reservationRequired": true,
-              "backup": true,
-              "lineUpTip": "Arrive by 10:30am for walk-in lunch. Cash only. 30 min-2.5 hr wait.",
-              "price": "¥1,200"
-            }
-          ]
-        },
-        {
-          "title": "Afternoon — Asakusa",
+          "title": "Mid Afternoon — Sensoji Temple",
           "activities": [
             {
               "name": "Sensoji Temple",
               "mapLink": "https://maps.google.com/?q=Sensoji+Temple+Asakusa+Tokyo",
-              "description": "Tokyo's oldest temple, free. Thunder Gate (Kaminarimon), Nakamise shopping street. Allow 1-1.5 hrs.",
+              "description": "Tokyo's oldest temple, free. Thunder Gate (Kaminarimon), Nakamise shopping street, main hall. quick visit (skip the slow Nakamise browse — keep moving)",
+              "duration": "1 hr",
               "priority": false,
               "reservationRequired": false
             }
           ]
         },
         {
-          "title": "Dinner",
-          "activities": [
-            {
-              "name": "Shinpo",
-              "mapLink": "https://maps.google.com/?q=Shinpo+izakaya+Kagurazaka+Tokyo",
-              "description": "Hidden gem izakaya — ~3,000-5,000 yen/pp — Creamy crab croquettes, smoked daikon with cream cheese. Kagurazaka area.",
-              "priority": true,
-              "reservationRequired": false,
-              "price": "¥3,000-5,000"
-            },
-            {
-              "name": "Kagurazaka area",
-              "mapLink": "https://maps.google.com/?q=Kagurazaka+Tokyo",
-              "description": "Walk the lantern-lit alleys near Iidabashi Station. Pop into any inviting izakaya.",
-              "priority": false,
-              "reservationRequired": false,
-              "backup": true
-            }
-          ]
+          "title": "Late Afternoon — Hotel Reset",
+          "activities": []
         },
         {
-          "title": "Evening — Shinjuku Night Out",
-          "subtitle": "Live music + bars. Do 1 live venue and fit in the other 2 bars before/after.",
+          "title": "Evening Pre-Show — Quick Bite Near Pit Inn",
+          "activities": []
+        },
+        {
+          "title": "Pit Inn — Suga Dairo Trio",
           "activities": [
             {
               "name": "Shinjuku Pit Inn",
               "mapLink": "https://maps.google.com/?q=Shinjuku+Pit+Inn+jazz+Tokyo",
-              "description": "Legendary jazz club. Evening show from ~7:30pm, cover ~3,000 yen. Check schedule. OR:",
-              "priority": false,
+              "description": "Open 7:00, show 7:30. (incl. one drink). Reservation gives seating at the 7:00 door open. Apr 28, 7:30 PM",
+              "priority": true,
               "reservationRequired": false,
-              "price": "¥3,000"
-            },
+              "booked": true,
+              "price": "¥3,850"
+            }
+          ]
+        },
+        {
+          "title": "Late Dinner — Omoide Yokocho",
+          "activities": [
             {
-              "name": "UFO Club Koenji",
-              "mapLink": "https://maps.google.com/?q=UFO+Club+Koenji+Tokyo",
-              "description": "Psych rock venue! The Kikagaku Moyo scene. ~20 min from Shinjuku on Chuo Line. Cover ~1,500-2,500 yen.",
-              "priority": false,
-              "reservationRequired": false,
-              "price": "¥1,500-2,500"
-            },
-            {
-              "name": "Before/after the show:",
-              "priority": false,
+              "name": "Omoide Yokocho",
+              "mapLink": "https://maps.google.com/?q=Omoide+Yokocho+Shinjuku+Tokyo",
+              "description": "Atmospheric tiny izakaya alley, smoky yakitori stalls, beer; sake. Open well past midnight. any stall with seats — the vibe is the meal",
+              "priority": true,
               "reservationRequired": false
-            },
+            }
+          ]
+        },
+        {
+          "title": "Late Night — Jazz Bar Samurai",
+          "activities": [
             {
               "name": "Jazz Bar Samurai",
               "mapLink": "https://maps.google.com/?q=Jazz+Bar+Samurai+Shinjuku+Tokyo",
-              "description": "2,500+ maneki-neko. Vinyl jazz since 1979. Drinks ~¥700. Unlike any bar you've ever been to.",
+              "description": "Shinjuku 3-chome, 5F. 2,500+ maneki-neko cats, vinyl jazz since 1979. Drinks. Unlike any bar you've ever been to",
               "priority": false,
-              "reservationRequired": false
+              "reservationRequired": false,
+              "price": "¥700"
             }
           ]
         }
       ],
       "logistics": [
         {
-          "text": "Udon Maruka WILL close Apr 29 - May 6 (holidays). Today is your only chance."
+          "text": "Udon Maruka had to drop today (incompatible with sumo timing). Closed all of Golden Week — out for the trip."
         },
         {
-          "text": "Arrange takkyubin luggage forwarding at hotel front desk this evening (send tomorrow morning, arrives Kyoto Apr 30)"
+          "text": "Eat Nakajima FAST (~30 min) on the first wave. Leaving by 12:00 is non-negotiable for the 12:30 sumo check-in."
         },
         {
-          "text": "Tomorrow is Showa Day (Apr 29) — many small restaurants closed."
+          "text": "Arrange takkyubin luggage forwarding at hotel front desk this evening (send tomorrow morning, arrives Kyoto Apr 30)."
+        },
+        {
+          "text": "Tomorrow is Showa Day (Apr 29) — Nakajima, Bird Land, most family-run spots closed."
         }
       ]
     },
     {
       "dayNumber": 5,
       "date": "April 29",
-      "dayOfWeek": "Tuesday",
-      "title": "Showa Day (Golden Week Begins) — Harajuku / Shimokitazawa",
+      "dayOfWeek": "Wednesday",
+      "title": "Showa Day — Meiji / Harajuku / Samurai Restaurant / Sushi",
       "city": "Tokyo",
-      "subtitle": "With Dave & Gail. Golden Week Day 1 (Showa Day). Many family-run restaurants closed. Stick to areas that thrive on holidays.",
-      "summary": "Golden Week begins — crowds are real but the energy is electric. Meiji Shrine in the morning calm, then Harajuku for people-watching, gyoza, and maybe a wagyu burger. All four of you get custom pillow fittings at Nishikawa in the afternoon (booked). Then Shimokitazawa for vintage shopping — Japanese denim, graphic tees, vinyl records. Sushi for dinner, listening bars to close it out.",
+      "subtitle": "With Dave & Gail. Golden Week Day 1 (Showa Day). Many family-run restaurants closed. Brad splits off in the morning for Nakano Broadway watch shopping while the group does Meiji + Harajuku, then everyone reunites for lunch and the 2pm Samurai Restaurant show in Kabukicho.",
+      "summary": "Golden Week kicks off. Brad solos to Nakano Broadway for the vintage watch crawl while Alyona, Dave, and Gail walk Meiji Shrine and Harajuku in the morning calm. The group reconvenes for a Harajuku lunch (Henry's Burger or Shin Udon), then heads to Kabukicho for the Samurai Restaurant 2pm show — flashy choreographed neon-and-drumming spectacle in the old Robot Restaurant space. Late afternoon is rest, then Midori Sushi for an early dinner queue, capped with Ginza Music Bar or JBS for vinyl.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "Koffee Mameya Omotesando",
         "mapLink": "https://maps.google.com/?q=Koffee+Mameya+Omotesando+Tokyo",
-        "description": "Opens 10am. Coffee sommelier picks your bean."
+        "description": "Opens 10am. Coffee sommelier picks your bean. *(Group can swing through after Harajuku Gyoza Ru, ~11:15-11:45.)*"
       },
       "sections": [
+        {
+          "title": "Morning Split — Brad: Nakano Broadway",
+          "activities": [
+            {
+              "name": "Nakano Broadway",
+              "mapLink": "https://maps.google.com/?q=Nakano+Broadway+Tokyo",
+              "description": "THE vintage watch mecca. 3F is dealer floor",
+              "duration": "2.5 hrs",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Jackroad",
+              "mapLink": "https://maps.google.com/?q=Jackroad+Nakano+Broadway+Tokyo",
+              "description": "Largest dealer at Nakano, multilingual, deep Rolex/Grand Seiko inventory",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Kamekichi",
+              "mapLink": "https://maps.google.com/?q=Kamekichi+Nakano+Broadway+Tokyo",
+              "description": "3,000+ watches, Grand Seiko specialist. Hours 11:00-20:30",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Fire Kids",
+              "mapLink": "https://maps.google.com/?q=Fire+Kids+Nakano+Broadway+Tokyo",
+              "description": "Curated Japanese vintage",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
+        },
         {
           "title": "Morning — Meiji Shrine + Harajuku",
           "activities": [
             {
               "name": "Meiji Shrine",
               "mapLink": "https://maps.google.com/?q=Meiji+Shrine+Tokyo",
-              "description": "Early morning is best (less crowded). Free, serene, majestic torii gate. Take JR Yamanote 1 stop to Harajuku (3 min), then 10 min walk to shrine entrance. (Or ~20-25 min walk from Shibuya.)",
+              "description": "Early morning is best (less crowded). Free, serene, majestic torii gate. Take JR Yamanote 1 stop to Harajuku, then 10 min walk to shrine entrance. (Or ~20-25 min walk from Shibuya.)",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Harajuku Gyoza Ru",
               "mapLink": "https://maps.google.com/?q=Harajuku+Gyoza+Ro+Tokyo",
-              "description": "Best gyoza in Tokyo per multiple Instagram recs. Perfect mid-morning snack. ~500-800 yen.",
+              "description": "Best gyoza in Tokyo per multiple Instagram recs. Perfect mid-morning snack",
               "priority": false,
               "reservationRequired": false,
               "price": "¥500-800"
-            },
-            {
-              "name": "#FFFFFFT (White T-Shirt Store)",
-              "mapLink": "https://maps.google.com/?q=FFFFFFT+Sendagaya+Tokyo",
-              "description": "The world's first store selling ONLY white t-shirts. 2-3-5 Sendagaya, Shibuya-ku. Open weekends only (Sat 12-7pm, Sun 12-6pm). ~5 min walk from JR Sendagaya Station or ~10 min walk from Harajuku. Owner helps you find your perfect white tee from curated Japanese and international brands. Today is Tuesday so CLOSED — move to Day 3 (Sunday) afternoon if interested, or skip.",
-              "priority": false,
-              "reservationRequired": false
             },
             {
               "name": "Mofusand Tokyo Harajuku",
@@ -628,33 +706,28 @@
         },
         {
           "title": "Lunch",
+          "subtitle": "Group reunites in Harajuku. Eat fast — Samurai Restaurant check-in at 1:50 PM in Kabukicho.",
           "activities": [
-            {
-              "name": "Shin Udon Harajuku",
-              "mapLink": "https://maps.google.com/?q=Shin+Udon+Harajuku+Tokyo",
-              "description": "Carbonara udon — 950 yen/pp — Walk-in, creative udon, open holidays",
-              "priority": false,
-              "reservationRequired": false,
-              "price": "¥950"
-            },
             {
               "name": "Henry's Burger Harajuku",
               "mapLink": "https://maps.google.com/?q=Henry's+Burger+Harajuku+Jingumae+Shibuya",
-              "description": "A5 Wagyu burgers from the chef behind top yakiniku restaurant Sumibi Yakiniku Nakahara. Right on Meiji-dori, 5 min from Meiji-Jingumae Station. The standard wagyu burger (~1,130 yen) is solid but the move is the Harami Burger (~3,810 yen) — a skirt steak slab, perfectly charred, with cream-acid-heat sauce. Owner speaks English. 26 seats, less prone to long waits than other locations.",
+              "description": "A5 Wagyu burgers from the chef behind top yakiniku restaurant Sumibi Yakiniku Nakahara. Right on Meiji-dori, 5 min from Meiji-Jingumae Station. The standard wagyu burger is solid but the move is the Harami Burger — a skirt steak slab, perfectly charred, with cream-acid-heat sauce. 26 seats. ADVANCE RESERVATION for Harami: DM @henrysburger_japan on Instagram ~1 week ahead",
+              "priority": true,
+              "reservationRequired": true
+            },
+            {
+              "name": "Shin Udon Harajuku",
+              "mapLink": "https://maps.google.com/?q=Shin+Udon+Harajuku+Tokyo",
+              "description": "Carbonara udon. Walk-in, creative udon, open holidays",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
-              "price": "¥1,130"
-            },
-            {
-              "name": "ADVANCE RESERVATION REQUIRED for Harami:",
-              "priority": false,
-              "reservationRequired": true
+              "price": "¥950"
             },
             {
               "name": "Gyukatsu Motomura Harajuku",
               "mapLink": "https://maps.google.com/?q=Gyukatsu+Motomura+Harajuku",
-              "description": "Beef cutlet — ~2,600 yen/pp — If you haven't done this yet",
+              "description": "Beef cutlet",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -663,44 +736,19 @@
           ]
         },
         {
-          "title": "Early Afternoon — Free Time",
-          "activities": []
-        },
-        {
-          "title": "Late Afternoon — Shimokitazawa",
-          "subtitle": "3 min on Keio Inokashira Line from Shibuya. Shortened — hit your top picks.",
+          "title": "Samurai Restaurant Show",
           "activities": [
             {
-              "name": "Shimokitazawa",
-              "mapLink": "https://maps.google.com/?q=Shimokitazawa+Station+Tokyo",
+              "name": "2:00-3:30 PM — Samurai Restaurant show (90 min).",
               "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "BEARS' Denim",
-              "description": "Curated Japanese denim",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Flamingo",
-              "description": "American vintage since 2005",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "New York Joe Exchange",
-              "description": "Former bathhouse, eclectic vintage",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Chicago",
-              "description": "Classic American graphic tees",
-              "priority": false,
-              "reservationRequired": false
+              "reservationRequired": false,
+              "booked": true
             }
           ]
+        },
+        {
+          "title": "Late Afternoon — Free Time / Shopping",
+          "activities": []
         },
         {
           "title": "Dinner",
@@ -709,7 +757,7 @@
             {
               "name": "Midori Sushi Shibuya",
               "mapLink": "https://maps.google.com/?q=Umegaoka+Sushi+Midori+Shibuya",
-              "description": "Walk-in, queue before opening — ~3,000-6,000 yen — Legendary quality-to-price. Expect 60-90 min GW wait. Queue overlooks Shibuya Crossing.",
+              "description": "Walk-in, queue before opening — Legendary quality-to-price. Expect 60-90 min GW wait. Queue overlooks Shibuya Crossing",
               "priority": false,
               "reservationRequired": false,
               "lineUpTip": "Arrive by 5:30-6:00pm. Expect 60-90 min GW wait. Queue overlooks Shibuya Crossing.",
@@ -718,7 +766,7 @@
             {
               "name": "Ebisu Yokocho",
               "mapLink": "https://maps.google.com/?q=Ebisu+Yokocho+Tokyo",
-              "description": "Izakaya/stall hopping — ~2,000-4,000 yen — If sushi waits are too long.",
+              "description": "Izakaya/stall hopping — If sushi waits are too long",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -732,7 +780,7 @@
             {
               "name": "Ginza Music Bar",
               "mapLink": "https://maps.google.com/?q=Ginza+Music+Bar+Tokyo",
-              "description": "Vinyl bar in Ginza. Curated listening sessions. Great sound system. Open Mon-Sat 7pm-4am.",
+              "description": "Vinyl bar in Ginza. Curated listening sessions. Great sound system. Open Mon-Sat 7pm-4am",
               "priority": false,
               "reservationRequired": false
             }
@@ -741,34 +789,22 @@
       ],
       "logistics": [
         {
-          "text": "Showa Day closures: Nakajima, Udon Maruka, Bird Land, most family-run spots closed."
+          "text": "Showa Day closures: Nakajima, Udon Maruka, Bird Land, most family-run spots closed. Henry's Burger and Shin Udon stay open on holidays."
         },
         {
-          "text": "~~Nishikawa Pillow Fitting~~ — CANCELLED (not practical for 2-week trip)"
+          "text": "Samurai Restaurant Apr 29 2:00 PM: ~¥9,000/pp (varies by ticket type). Book on Klook/GetYourGuide/Viator for 4. Show ~90 min. Kabukicho location, former Robot Restaurant building."
         },
         {
-          "text": "Secondhand Watch Shopping (Brad solo flex): If your dealer locates a piece, Tokyo has world-class pre-owned watch shops:"
+          "text": "Brad's Nakano Broadway morning: Showa Day risk for small dealers — phone or IG-check Jackroad/Kamekichi/Fire Kids the night before. Cash gives negotiation leverage at Nakano shops; Ginza shops are more fixed pricing."
         },
         {
-          "text": "Nakano Broadway — THE vintage watch mecca. 3F has dozens of dealers. JR Chuo Line from Shinjuku ~10 min. Allow 2-3 hrs. Key shops: Jackroad (largest dealer, multilingual), Kamekichi (3,000+ watches, Grand Seiko specialist), Fire Kids (curated Japanese vintage). Tax-free with passport."
+          "text": "Henry's Burger Harami reservation: DM @henrysburger_japan on Instagram ~1 week before Apr 29. Include name, phone, preferred date (Apr 29), arrival time (~12:00pm — note we shifted later for the Samurai Restaurant show), and quantity (2 Harami Burgers)."
         },
         {
-          "text": "Watch CTI Ginza — B1F, best for vintage Grand Seiko and King Seiko. Near Ginza-itchome Station."
+          "text": "~~Nishikawa Pillow Fitting~~ — CANCELLED (not practical for 2-week trip)."
         },
         {
-          "text": "Houseki Hiroba Shibuya — 5 min from hotel. Massive inventory. Rolex, Grand Seiko, Omega. Walk-in browsing."
-        },
-        {
-          "text": "Shellman Ginza — Museum-quality vintage. Patek, Breguet, Grand Seiko. Premium but exceptional curation."
-        },
-        {
-          "text": "Tip: Cash gives negotiation leverage at Nakano Broadway shops. Ginza shops are more fixed pricing."
-        },
-        {
-          "text": "Henry's Burger Harami reservation: DM @henrysburger_japan on Instagram ~1 week before Apr 29. Include name, phone, preferred date (Apr 29), arrival time (~11:30am), and quantity (2 Harami Burgers). Without reservation, only the standard wagyu burger is available."
-        },
-        {
-          "text": "Send luggage to Kyoto via takkyubin this morning (arrange at front desk)"
+          "text": "Send luggage to Kyoto via takkyubin this morning (arrange at front desk)."
         },
         {
           "text": "Tomorrow: pack a day bag. Shinkansen to Kyoto departs 10:12 AM from Tokyo Station."
@@ -777,10 +813,7 @@
           "text": "Flower Mountain shoes — Save for Osaka's Tenjinbashi store (on the same shopping street as Harukoma sushi)."
         },
         {
-          "text": "#FFFFFFT is only open weekends — if Brad wants it, swing by Sunday (Day 3) afternoon near Harajuku. It's a 10-min walk from Omotesando."
-        },
-        {
-          "text": "Grand Seiko Factory Tour — 5.5 hours outside the city. Doesn't fit this trip. Brad can visit the Ginza flagship boutique instead."
+          "text": "Grand Seiko Factory Tour — 5.5 hours outside the city. Doesn't fit this trip. Brad can visit the Ginza flagship boutique on Apr 26."
         },
         {
           "text": "Loft Shibuya — 21-1 Udagawacho, 3 min from Shibuya Station. 6 floors of Japanese design goods, stationery, kitchenware. Open 10am-9pm. Pop in anytime — it's right by your hotel."
@@ -796,6 +829,7 @@
       "subtitle": "Dave & Gail depart (or stay in Tokyo). Brad & Alyona take Nozomi 23 to Kyoto. Arrive 12:23 PM.",
       "summary": "Travel day — say goodbye to Dave and Gail, grab an ekiben bento, and bullet-train to Kyoto. You arrive just after noon and the vibe shifts completely. Afternoon is Nishiki Market grazing, Japanese jazz vinyl shopping on Teramachi Street, and maybe your first look at SOU SOU haori jackets. Evening is 560-year-old soba, a walk through Gion at dusk, and Pontocho alley along the river.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "Quick coffee near Shibuya Station or Tokyo Station before the train. Streamer Coffee Shibuya opens 8am weekdays."
       },
       "sections": [
@@ -804,14 +838,15 @@
           "activities": [
             {
               "name": "9:15 AM",
-              "description": "Leave Shibuya Granbell. Take JR Yamanote Line to Tokyo Station (~25 min, 210 yen)",
+              "description": "Leave Shibuya Granbell. Take JR Yamanote Line to Tokyo Station",
+              "duration": "25 min",
               "priority": false,
               "reservationRequired": false,
               "price": "¥210"
             },
             {
               "name": "9:45 AM",
-              "description": "Arrive Tokyo Station. Find Tokaido Shinkansen platforms (14-19). Buy ekiben (train bento) for the ride.",
+              "description": "Arrive Tokyo Station. Find Tokaido Shinkansen platforms (14-19). Buy ekiben (train bento) for the ride",
               "priority": false,
               "reservationRequired": false
             },
@@ -839,23 +874,24 @@
             {
               "name": "Nishiki Market",
               "mapLink": "https://maps.google.com/?q=Nishiki+Market+Kyoto",
-              "description": "5 min walk north from hotel. \"Kyoto's Kitchen.\" 120+ shops.",
+              "description": "5 min walk north from hotel. \"Kyoto's Kitchen.\" 120+ shops",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Aritsugu Knives",
               "mapLink": "https://maps.google.com/?q=Aritsugu+knives+Nishiki+Market+Kyoto",
-              "description": "Inside Nishiki Market. Est. 1560, originally swordsmiths.",
+              "description": "Inside Nishiki Market. Est. 1560, originally swordsmiths",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Kuoe Watches",
               "mapLink": "https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi",
-              "description": "Teramachi Shopping District. Custom vintage-inspired watches from ~$290. (Closed Tue — Wed is fine)",
+              "description": "Teramachi Shopping District. Custom vintage-inspired watches from. (Closed Tue — Wed is fine)",
               "priority": false,
-              "reservationRequired": false
+              "reservationRequired": false,
+              "price": "$290"
             },
             {
               "name": "Japanese Jazz Vinyl — Teramachi Record Shop Crawl",
@@ -865,31 +901,30 @@
             {
               "name": "Hard Bop",
               "mapLink": "https://maps.google.com/?q=Hard+Bop+records+Teramachi+Kyoto",
-              "description": "THE jazz vinyl destination. 30+ year jazz-only shop. Japanese Blue Note pressings, original US pressings, mint reissues. Old-school owner, cash preferred. Opens 12:30pm.",
+              "description": "THE jazz vinyl destination. 30+ year jazz-only shop. Japanese Blue Note pressings, original US pressings, mint reissues. Old-school owner, cash preferred. Opens 12:30pm",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "100000t alonetoco",
               "mapLink": "https://maps.google.com/?q=100000t+alonetoco+Teramachi+Kyoto",
-              "description": "Eclectic digger's paradise: jazz, city pop, psych rock, funk. Same building as Workshop Records. Opens ~12pm.",
+              "description": "Eclectic digger's paradise: jazz, city pop, psych rock, funk. Same building as Workshop Records. Opens ~12pm",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Workshop Records",
               "mapLink": "https://maps.google.com/?q=Workshop+Records+Teramachi+Kyoto",
-              "description": "Jazz + rock, fair prices. Same building as 100000t.",
+              "description": "Jazz; rock, fair prices. Same building as 100000t",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "SOU SOU Kyoto",
               "mapLink": "https://maps.google.com/?q=SOU+SOU+Shinkyogoku+Kyoto",
-              "description": "Modern Japanese fashion brand, 1 min from Kawaramachi Station on Shinkyogoku-dori. Nine shops clustered together — the men's line (SOU SOU Kei-i) carries modern haori jackets with bold original textile prints (~14,000-28,000 yen). Not costume-y at all — designed to wear with jeans. Also iconic split-toe tabi shoes and textiles. Hours: 11am-8pm. Right on the way between Nishiki and Teramachi — pop in while record shopping. For a full haori shopping tour hitting multiple stores, save that for Day 9.",
+              "description": "Modern Japanese fashion brand, 1 min from Kawaramachi Station on Shinkyogoku-dori. Nine shops clustered together — the men's line (SOU SOU Kei-i) carries modern haori jackets with bold original textile prints. Not costume-y at all — designed to wear with jeans. Also iconic split-toe tabi shoes and textiles. Hours: 11am-8pm. Right on the way between Nishiki and Teramachi — pop in while record shopping. For a full haori shopping tour hitting multiple stores, save that for Day 9",
               "priority": false,
-              "reservationRequired": false,
-              "price": "¥14,000-28,000"
+              "reservationRequired": false
             }
           ]
         },
@@ -900,7 +935,7 @@
             {
               "name": "Honke Owariya",
               "mapLink": "https://maps.google.com/?q=Honke+Owariya+Kyoto",
-              "description": "560-year-old soba institution — ~1,000-2,500 yen/pp — Founded 1465. Horai Soba: 5-tier soba serving. Walk-in.",
+              "description": "560-year-old soba institution — Founded 1465. Horai Soba: 5-tier soba serving. Walk-in",
               "priority": false,
               "reservationRequired": false,
               "price": "¥1,000-2,500"
@@ -908,7 +943,7 @@
             {
               "name": "Wagyu Ramen Julia",
               "mapLink": "https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto",
-              "description": "Wagyu beef broth ramen — ~1,200-1,800 yen — Hidden gem in Gion. Quick and hearty.",
+              "description": "Wagyu beef broth ramen — Hidden gem in Gion. Quick and hearty",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -916,7 +951,7 @@
             },
             {
               "name": "Nishiki Market grazing",
-              "description": "Skip sit-down entirely, eat your way through for 2,000-3,000 yen.",
+              "description": "Skip sit-down entirely, eat your way through for",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -930,14 +965,14 @@
             {
               "name": "Honke Owariya",
               "mapLink": "https://maps.google.com/?q=Honke+Owariya+Kyoto",
-              "description": "If you didn't do lunch here. The 5-tier Horai Soba is ceremonial and beautiful. The building alone is worth the visit.",
+              "description": "If you didn't do lunch here. The 5-tier Horai Soba is ceremonial and beautiful. The building alone is worth the visit",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Omen Pontocho",
               "mapLink": "https://maps.google.com/?q=Omen+Pontocho+Kyoto",
-              "description": "Kyoto's beloved udon — ~1,000-2,000 yen/pp — Walking distance. Closed 2nd/3rd Thursdays. (Apr 30 is a Thu — check if 5th Thursday, should be fine)",
+              "description": "Kyoto's beloved udon — Walking distance. Closed 2nd/3rd Thursdays. (Apr 30 is a Thu — check if 5th Thursday, should be fine)",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -951,21 +986,21 @@
             {
               "name": "Gion walking at dusk",
               "mapLink": "https://maps.google.com/?q=Gion+District+Kyoto",
-              "description": "Walk east along Shijo-dori into Gion. Hanamikoji-dori for teahouses. Possible maiko sighting.",
+              "description": "Walk east along Shijo-dori into Gion. Hanamikoji-dori for teahouses. Possible maiko sighting",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Pontocho alley",
               "mapLink": "https://maps.google.com/?q=Pontocho+Alley+Kyoto",
-              "description": "Atmospheric alley parallel to Kamo River.",
+              "description": "Atmospheric alley parallel to Kamo River",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "P.M. Sounds",
               "mapLink": "https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi",
-              "description": "Vinyl bar on Kiyamachi, near hotel.",
+              "description": "Vinyl bar on Kiyamachi, near hotel",
               "priority": false,
               "reservationRequired": false
             }
@@ -996,6 +1031,7 @@
       "subtitle": "Peak temple and culture day. Early start for empty torii gates (but not 6am — 7:30am).",
       "summary": "The iconic Kyoto day. Fushimi Inari's vermillion torii gates at 7:30am before the crowds, then a sake tasting flight in the historic brewing district. Walk the stone lanes to Kiyomizu-dera. Lunch is Bib Gourmand tempura. Afternoon is matcha everything — whisk your own at Ippodo (since 1717) and hit Assemblages for the famous parfait. Ramen for dinner, then Pontocho bars.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "Weekenders Coffee Tominokoji",
         "mapLink": "https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto",
         "description": "THE Kyoto coffee destination. Opens 7:30am. Closed Wed (today is Thu, perfect)."
@@ -1007,23 +1043,24 @@
             {
               "name": "Fushimi Inari",
               "mapLink": "https://maps.google.com/?q=Fushimi+Inari+Taisha+Kyoto",
-              "description": "By 7:30am for near-empty torii gates. The iconic vermillion tunnels. Free, open 24 hrs.",
+              "description": "By 7:30am for near-empty torii gates. The iconic vermillion tunnels. Free, open",
+              "duration": "24 hrs",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Brad:",
-              "description": "that's the money shot. No need to summit.",
+              "description": "That's the money shot. No need to summit",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Fushimi Sake District",
               "mapLink": "https://maps.google.com/?q=Fushimi+Sake+District+Kyoto",
-              "description": "Walk 10 min south from Inari into the historic sake brewing district. Get a flight of 18 local sakes at a tasting room (~1,000-1,500 yen).",
+              "description": "Walk south from Inari into the historic sake brewing district. Get a flight of 18 local sakes at a tasting room",
+              "duration": "10 min",
               "priority": false,
-              "reservationRequired": false,
-              "price": "¥1,000-1,500"
+              "reservationRequired": false
             }
           ]
         },
@@ -1033,14 +1070,14 @@
             {
               "name": "Yasaka Shrine",
               "mapLink": "https://maps.google.com/?q=Yasaka+Shrine+Kyoto",
-              "description": "Free, always open.",
+              "description": "Free, always open",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Kiyomizu-dera",
               "mapLink": "https://maps.google.com/?q=Kiyomizu-dera+Kyoto",
-              "description": "UNESCO World Heritage. Famous wooden stage. ~400 yen. Uphill but steady, not steep.",
+              "description": "UNESCO World Heritage. Famous wooden stage. Uphill but steady, not steep",
               "priority": false,
               "reservationRequired": false,
               "price": "¥400"
@@ -1053,7 +1090,7 @@
             {
               "name": "Kitenya",
               "mapLink": "https://maps.google.com/?q=Kitenya+tempura+Kyoto",
-              "description": "Bib Gourmand tempura — ~2,000-4,000 yen — Central location, walk-in friendly.",
+              "description": "Bib Gourmand tempura — Central location, walk-in friendly",
               "priority": false,
               "reservationRequired": false,
               "price": "¥2,000-4,000"
@@ -1061,7 +1098,7 @@
             {
               "name": "Yoshikawa Tempura",
               "mapLink": "https://maps.google.com/?q=Yoshikawa+Tempura+Kyoto",
-              "description": "Machiya with koi pond garden — ~5,000-8,000 yen — Counter seats to watch the chef. Reserve ahead.",
+              "description": "Machiya with koi pond garden — Counter seats to watch the chef. Reserve ahead",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -1076,7 +1113,7 @@
             {
               "name": "Ippodo Tea",
               "mapLink": "https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi",
-              "description": "Since 1717. Whisk your own matcha at the counter with seasonal sweets. Teramachi Street, ~10 min walk from hotel. ~700-1,500 yen. Also buy matcha to bring home.",
+              "description": "Since 1717. Whisk your own matcha at the counter with seasonal sweets. Teramachi Street, ~10 min walk from hotel. Also buy matcha to bring home",
               "priority": false,
               "reservationRequired": false,
               "price": "¥700-1,500"
@@ -1084,7 +1121,7 @@
             {
               "name": "Assemblages Kakimoto",
               "mapLink": "https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto",
-              "description": "Award-winning matcha parfait. Open Thu-Mon. Closes 5pm cafe. Book ahead.",
+              "description": "Award-winning matcha parfait. Open Thu-Mon. Closes 5pm cafe. Book ahead",
               "priority": false,
               "reservationRequired": true
             }
@@ -1096,7 +1133,7 @@
             {
               "name": "Menya Inoichi",
               "mapLink": "https://maps.google.com/?q=Menya+Inoichi+Shimogyo+Kyoto",
-              "description": "Bib Gourmand — ~1,000 yen — Seafood shio ramen, 9 consecutive years. In Shimogyo-ku, ~10-15 min walk south from hotel. No train needed.",
+              "description": "Bib Gourmand — Seafood shio ramen, 9 consecutive years. In Shimogyo-ku, ~10-15 min walk south from hotel. No train needed",
               "priority": true,
               "reservationRequired": false,
               "price": "¥1,000"
@@ -1104,7 +1141,7 @@
             {
               "name": "Wagyu Ramen Julia",
               "mapLink": "https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto",
-              "description": "Gion — ~1,200-1,800 yen — Walking distance from hotel. Backup.",
+              "description": "Gion — Walking distance from hotel",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -1118,14 +1155,14 @@
             {
               "name": "L'Escamoteur",
               "mapLink": "https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto",
-              "description": "Pontocho speakeasy with a magician-bartender. Near hotel.",
+              "description": "Pontocho speakeasy with a magician-bartender. Near hotel",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Hello Dolly",
               "mapLink": "https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto",
-              "description": "Jazz bar on Pontocho. Live music Fri/Sat but check Thu schedule.",
+              "description": "Jazz bar on Pontocho. Live music Fri/Sat but check Thu schedule",
               "priority": false,
               "reservationRequired": false
             }
@@ -1150,6 +1187,7 @@
       "subtitle": "Half-day in Nara (deer, giant Buddha), return for Kyoto afternoon and evening.",
       "summary": "Day trip to Nara — the one with the bowing deer and the world's largest bronze Buddha. Feed deer, gawk at Todai-ji, eat persimmon leaf sushi (a Nara-only thing). Back to Kyoto for a flat, easy walk along the Philosopher's Path and the gorgeous Nanzen-ji aqueduct. Dinner is unagi — eel over rice with a thin egg blanket. Then live jazz at Hello Dolly on Pontocho. It's Friday night, this is the one.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "Iolite Coffee Roasters",
         "mapLink": "https://maps.google.com/?q=Iolite+Coffee+Roasters+Kyoto",
         "description": "Hidden gem in Nakagyo."
@@ -1166,7 +1204,7 @@
             {
               "name": "Nara Park (Deer Park)",
               "mapLink": "https://maps.google.com/?q=Nara+Park+Nara+Japan",
-              "description": "Hundreds of free-roaming deer. Buy shika senbei (deer crackers, 200 yen/pack). Deer bow if you bow to them!",
+              "description": "Hundreds of free-roaming deer. Buy shika senbei (deer crackers, /pack). Deer bow if you bow to them!",
               "priority": false,
               "reservationRequired": false,
               "price": "¥200"
@@ -1174,7 +1212,7 @@
             {
               "name": "Todai-ji Temple",
               "mapLink": "https://maps.google.com/?q=Todai-ji+Temple+Nara",
-              "description": "World's largest bronze Buddha (15m). Jaw-dropping. ~600 yen.",
+              "description": "World's largest bronze Buddha (15m). Jaw-dropping",
               "priority": false,
               "reservationRequired": false,
               "price": "¥600"
@@ -1182,7 +1220,7 @@
             {
               "name": "Kasuga Taisha Shrine",
               "mapLink": "https://maps.google.com/?q=Kasuga+Taisha+Shrine+Nara",
-              "description": "Thousands of stone and bronze lanterns. ~500 yen.",
+              "description": "Thousands of stone and bronze lanterns",
               "priority": false,
               "reservationRequired": false,
               "price": "¥500"
@@ -1190,7 +1228,7 @@
             {
               "name": "Naramachi",
               "mapLink": "https://maps.google.com/?q=Naramachi+Nara",
-              "description": "Historic merchant district.",
+              "description": "Historic merchant district",
               "priority": false,
               "reservationRequired": false
             }
@@ -1202,7 +1240,7 @@
             {
               "name": "Kakinoha-zushi",
               "mapLink": "https://maps.google.com/?q=persimmon+leaf+sushi+Nara",
-              "description": "Nara specialty. ~1,000-1,500 yen. A must-try.",
+              "description": "Nara specialty. A must-try",
               "priority": true,
               "reservationRequired": false,
               "price": "¥1,000-1,500"
@@ -1215,14 +1253,14 @@
             {
               "name": "Philosopher's Path",
               "mapLink": "https://maps.google.com/?q=Philosopher's+Path+Kyoto",
-              "description": "Flat, easy 2km canal-side walk. Beautiful. Fine for Brad's foot.",
+              "description": "Flat, easy 2km canal-side walk. Beautiful. Fine for Brad's foot",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Nanzen-ji",
               "mapLink": "https://maps.google.com/?q=Nanzen-ji+Temple+Kyoto",
-              "description": "Beautiful brick aqueduct (free photo op). Less crowded than Kiyomizu.",
+              "description": "Beautiful brick aqueduct (free photo op). Less crowded than Kiyomizu",
               "priority": false,
               "reservationRequired": false
             }
@@ -1234,7 +1272,7 @@
             {
               "name": "Kyogoku Kaneyo",
               "mapLink": "https://maps.google.com/?q=Kyogoku+Kaneyo+Kyoto",
-              "description": "Unagi (eel) — ~2,000-4,000 yen — Kinshi-don: eel over rice topped with thin egg omelet. Ritz-Carlton recommended. Closed Tue night/Wed. Open Fri.",
+              "description": "Unagi (eel) — Kinshi-don: eel over rice topped with thin egg omelet. Ritz-Carlton recommended. Closed Tue night/Wed. Open Fri",
               "priority": true,
               "reservationRequired": false,
               "price": "¥2,000-4,000"
@@ -1242,7 +1280,7 @@
             {
               "name": "Pontocho Fujita",
               "mapLink": "https://maps.google.com/?q=Pontocho+Fujita+Kyoto",
-              "description": "Kaiseki along Pontocho — ~5,000-8,000 yen — River terraces may be open!",
+              "description": "Kaiseki along Pontocho — River terraces may be open!",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -1256,14 +1294,14 @@
             {
               "name": "Hello Dolly",
               "mapLink": "https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto",
-              "description": "Live jazz Friday! Three sets at 8pm, 9:30pm, 11pm. Tonight is Friday — this is the night for it.",
+              "description": "Live jazz Friday! Three sets at 8pm, 9:30pm, 11pm. Tonight is Friday — this is the night for it",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Jazz Live Candy",
               "mapLink": "https://maps.google.com/?q=Jazz+Live+Candy+Gion+Kyoto",
-              "description": "Gion. Nightly live jazz. Can do both — Hello Dolly first, Candy after.",
+              "description": "Gion. Nightly live jazz. Can do both — Hello Dolly first, Candy after",
               "priority": false,
               "reservationRequired": false
             }
@@ -1288,6 +1326,7 @@
       "subtitle": "Golden Week peak. Many restaurants closed. Slow morning, explore what's open.",
       "summary": "The chill day. Sleep in, or go hunt for AMAM DACOTAN's insane artisan bread and the warabi mochi that takes 4 hours to knead. Mackerel pressed sushi near Yasaka Shrine for lunch. Afternoon is the haori shopping tour — five stores in walking distance, from affordable modern cuts to high-end indigo boro. Hamburger steak at a Kyoto cult favorite, then last night bars on Pontocho.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "% Arabica Higashiyama",
         "mapLink": "https://maps.google.com/?q=Arabica+Higashiyama+Kyoto",
         "description": "Go early (opens 8am). Stunning Yasaka Pagoda backdrop. *LINE UP: GW lines can be 20-30 min by 10am. Go right at opening.*"
@@ -1299,7 +1338,7 @@
             {
               "name": "AMAM DACOTAN Kyoto",
               "mapLink": "https://maps.google.com/?q=AMAM+DACOTAN+Kyoto+Karasuma+Oike",
-              "description": "Artisan bakery in a gorgeous renovated machiya. ~120 varieties of creative bread from an Italian restaurant chef turned baker. 4-min walk from Karasuma Oike Station (10-15 min walk from hotel). Opens 8am. Register for the digital queue at 9:30am via Airwait (link on their IG @amam_dacotan_kyoto) — you'll get a number and can wander nearby until called. Must-grab: mentaiko peperoncino baguette, rare doughnut (banana brioche, limited daily), maritozzo. 2nd-floor cafe has % Arabica coffee in a beautiful machiya space (buy a drink to sit). ~1,000-2,000 yen/pp. Cashless OK. Check their IG the night before — they announce irregular closures. Golden Week crowds will be real, but the queue system means you're not standing in line.",
+              "description": "Artisan bakery in a gorgeous renovated machiya. ~120 varieties of creative bread from an Italian restaurant chef turned baker. 4-min walk from Karasuma Oike Station (10-15 min walk from hotel). Opens 8am. Register for the digital queue at 9:30am via Airwait (link on their IG @amam_dacotan_kyoto) — you'll get a number and can wander nearby until called. Must-grab: mentaiko peperoncino baguette, rare doughnut (banana brioche, limited daily), maritozzo. 2nd-floor cafe has % Arabica coffee in a beautiful machiya space (buy a drink to sit). Cashless OK. Check their IG the night before — they announce irregular closures. Golden Week crowds will be real, but the queue system means you're not standing in line",
               "priority": false,
               "reservationRequired": false,
               "price": "¥1,000-2,000"
@@ -1307,7 +1346,8 @@
             {
               "name": "Rakushaan (洛叉庵) Warabi Mochi",
               "mapLink": "https://maps.google.com/?q=Rakushaan+warabi+mochi+Shichiku+Kita+Kyoto",
-              "description": "Tabelog Top 100 Sweets WEST. Handmade warabi mochi, each batch kneaded for 4 hours. Ethereal texture coated in kinako with black sugar syrup. Reservation-only, phone order required. Have the hotel concierge call 075-494-2551 the day before (May 2) to reserve pickup for the morning of May 3. Pickup only, 11:30am-5pm. 8-piece box 820 yen, 16-piece 1,500 yen. Cash only. Location is in Shichiku (15 min from Kitaoji Station) — slightly out of the way, but near Daitoku-ji temple if you want to combine. Eat as soon as possible — the texture degrades within hours. Could pick up on the way to/from Arashiyama (Option A) or have Alyona grab it while you do something else. Best eaten in the hotel room on a plate — kinako goes everywhere.",
+              "description": "Tabelog Top 100 Sweets WEST. Handmade warabi mochi, each batch kneaded for. Ethereal texture coated in kinako with black sugar syrup. Reservation-only, phone order required. Have the hotel concierge call 075-494-2551 the day before (May 2) to reserve up for the morning of May 3. up only, 11:30am-5pm. 8-piece box, 16-piece. Cash only. Location is in Shichiku (15 min from Kitaoji Station) — slightly out of the way, but near Daitoku-ji temple if you want to combine. Eat as soon as possible — the texture degrades within hours. Could up on the way to/from Arashiyama (Option A) or have Alyona grab it while you do something else. Best eaten in the hotel room on a plate — kinako goes everywhere",
+              "duration": "4 hours",
               "priority": true,
               "reservationRequired": true,
               "price": "¥820"
@@ -1320,10 +1360,13 @@
             {
               "name": "Camellia Tea Ceremony",
               "mapLink": "https://maps.google.com/?q=Camellia+Tea+Ceremony+Kyoto+Gion",
-              "description": "✅ BOOKED 12:00 PM. Traditional matcha whisking in a beautiful machiya setting. Seasonal sweets included. ~45-60 min. ~¥4,500-5,000/pp. Gion area.",
+              "description": "Traditional matcha whisking in a beautiful machiya setting. Seasonal sweets included. Gion area",
+              "time": "12:00 PM",
+              "duration": "45-60 min",
               "priority": false,
               "reservationRequired": false,
-              "booked": true
+              "booked": true,
+              "price": "¥4,500-5,000"
             }
           ]
         },
@@ -1333,7 +1376,7 @@
             {
               "name": "Izuju",
               "mapLink": "https://maps.google.com/?q=Izuju+sushi+Kyoto+Gion",
-              "description": "Saba-zushi (mackerel pressed sushi) — ~1,000-2,000 yen — Near Yasaka Shrine. Kyoto's signature sushi. Brad loves mackerel — this is a must.",
+              "description": "Saba-zushi (mackerel pressed sushi) — Near Yasaka Shrine. Kyoto's signature sushi. Brad loves mackerel — this is a must",
               "priority": true,
               "reservationRequired": false,
               "price": "¥1,000-2,000"
@@ -1341,7 +1384,7 @@
             {
               "name": "Hiyoko Sushi",
               "mapLink": "https://maps.google.com/?q=Hiyoko+Sushi+Kyoto",
-              "description": "10-piece omakase from 2,000 yen — Insane value. Locals' favorite.",
+              "description": "10-piece omakase from — Insane value. Locals' favorite",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -1355,7 +1398,7 @@
             {
               "name": "Kodai-ji Temple",
               "mapLink": "https://maps.google.com/?q=Kodai-ji+Temple+Kyoto",
-              "description": "Zen temple with stunning gardens. ~600 yen.",
+              "description": "Zen temple with stunning gardens",
               "priority": false,
               "reservationRequired": false,
               "price": "¥600"
@@ -1363,20 +1406,20 @@
             {
               "name": "Assemblages Kakimoto",
               "mapLink": "https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto",
-              "description": "If you haven't done the matcha parfait yet.",
+              "description": "If you haven't done the matcha parfait yet",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Modern Haori Shopping Tour",
-              "description": "All stores walkable in central Nakagyo-ku (near Shinkyogoku/Gokomachi/Teramachi). Hit in one loop:",
+              "description": "All stores walkable in central Nakagyo-ku (near Shinkyogoku/Gokomachi/Teramachi). Hit in one loop",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "SOU SOU Kei-i (Menswear)",
               "mapLink": "https://maps.google.com/?q=SOU+SOU+Shinkyogoku+Kyoto",
-              "description": "Bold print haori jackets, ~14,000-28,000 yen. Modern Japanese pop aesthetic. (If you didn't visit on Day 6)",
+              "description": "Bold print haori jackets, Modern Japanese pop aesthetic. (If you didn't visit on Day 6)",
               "priority": false,
               "reservationRequired": false,
               "price": "¥14,000-28,000"
@@ -1384,7 +1427,7 @@
             {
               "name": "Musubi Kyoto (Shijo-Shinkyogoku)",
               "mapLink": "https://maps.google.com/?q=Musubi+Kyoto+Shijo+Shinkyogoku",
-              "description": "Clean, minimal modern haori designed to wear over t-shirts. 18 men's styles, ~5,600-14,000 yen. The most affordable option. 12pm-8pm.",
+              "description": "Clean, minimal modern haori designed to wear over t-shirts. 18 men's styles, The most affordable option. 12pm-8pm",
               "priority": false,
               "reservationRequired": false,
               "price": "¥5,600-14,000"
@@ -1392,21 +1435,21 @@
             {
               "name": "KAPITAL K.K-POPPO STORE",
               "mapLink": "https://maps.google.com/?q=KAPITAL+Kyoto+Gokomachi+Rokkaku",
-              "description": "Artisanal indigo/boro/sashiko noragi and haori. Fashion-forward Japanese-Americana. ~25,000-60,000+ yen. Walking distance from SOU SOU.",
+              "description": "Artisanal indigo/boro/sashiko noragi and haori. Fashion-forward Japanese-Americana. ~25,000-60,000+ yen. Walking distance from SOU SOU",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Visvim F.I.L. KYOTO",
               "mapLink": "https://maps.google.com/?q=Visvim+FIL+Kyoto",
-              "description": "Luxury tier. Handcrafted haori, noragi, kimono coats in premium fabrics. ~40,000-120,000+ yen. If budget isn't a concern, this is the pinnacle. 11am-7pm.",
+              "description": "Luxury tier. Handcrafted haori, noragi, kimono coats in premium fabrics. ~40,000-120,000+ yen. If budget isn't a concern, this is the pinnacle. 11am-7pm",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "FDMTL at FASCINATE Kyoto",
               "mapLink": "https://maps.google.com/?q=FASCINATE+Kyoto+Gokomachi",
-              "description": "Denim/indigo haori, sashiko-stitched. ~20,000-50,000 yen. Grows character with wear.",
+              "description": "Denim/indigo haori, sashiko-stitched. Grows character with wear",
               "priority": false,
               "reservationRequired": false,
               "price": "¥20,000-50,000"
@@ -1419,7 +1462,7 @@
             {
               "name": "Hikiniku to Come",
               "mapLink": "https://maps.google.com/?q=Hikiniku+to+Come+Kyoto",
-              "description": "Charcoal-grilled hamburger patties with rice — ~1,500-2,000 yen — Cult-favorite Kyoto spot. Walk-in, expect a queue. Near Kawaramachi.",
+              "description": "Charcoal-grilled hamburger patties with rice — Cult-favorite Kyoto spot. Walk-in, expect a queue. Near Kawaramachi",
               "priority": true,
               "reservationRequired": false,
               "lineUpTip": "Arrive 30-45 min before dinner rush (by 5:45pm).",
@@ -1427,7 +1470,7 @@
             },
             {
               "name": "Pontocho walk-in",
-              "description": "Browse the narrow alley, find a restaurant with kawayuka (river terrace) seating.",
+              "description": "Browse the narrow alley, find a restaurant with kawayuka (river terrace) seating",
               "priority": false,
               "reservationRequired": false,
               "backup": true
@@ -1440,14 +1483,14 @@
             {
               "name": "P.M. Sounds",
               "mapLink": "https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi",
-              "description": "Vinyl bar, Kiyamachi. Near hotel.",
+              "description": "Vinyl bar, Kiyamachi. Near hotel",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "L'Escamoteur",
               "mapLink": "https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto",
-              "description": "Pontocho speakeasy, magician-bartender. If you haven't been yet.",
+              "description": "Pontocho speakeasy, magician-bartender. If you haven't been yet",
               "priority": false,
               "reservationRequired": false
             }
@@ -1475,6 +1518,7 @@
       "subtitle": "Travel to Osaka (~55 min). Afternoon exploring. Nakanoshima Festival starts today.",
       "summary": "Kyoto to Osaka on the Hankyu Line — under an hour, completely different energy. Osaka is louder, wilder, more neon. Lunch is okonomiyaki at a Dotonbori institution since 1945, then Shinsekai for retro alley vibes and kushikatsu (don't double-dip). Tower Knives for the knife nerds. Evening is the Nakanoshima Festival — a free handmade amusement park on an island — and Dotonbori lit up like Times Square on steroids.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "Weekenders Coffee Tominokoji",
         "mapLink": "https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto",
         "description": "One last Kyoto coffee. *(Closed Wed — Sun is fine)*"
@@ -1496,7 +1540,7 @@
             {
               "name": "Mizuno",
               "mapLink": "https://maps.google.com/?q=Mizuno+okonomiyaki+Dotonbori+Osaka",
-              "description": "PICK. Dotonbori institution since 1945 — ~1,000-2,000 yen — Mountain yam batter, incredibly fluffy. Walking distance from hotel. Expect 30-45 min GW wait.",
+              "description": "Dotonbori institution since 1945 — Mountain yam batter, incredibly fluffy. Walking distance from hotel. Expect 30-45 min GW wait",
               "priority": true,
               "reservationRequired": false,
               "lineUpTip": "Arrive by 12:30pm. Expect 30-45 min GW wait.",
@@ -1505,7 +1549,7 @@
             {
               "name": "Ajinoya",
               "mapLink": "https://maps.google.com/?q=Ajinoya+okonomiyaki+Namba+Osaka",
-              "description": "Bib Gourmand, Namba — ~1,000-2,000 yen — Backup. More authentic, less tourist-heavy.",
+              "description": "Bib Gourmand, Namba — More authentic, less tourist-heavy",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -1519,14 +1563,14 @@
             {
               "name": "Shinsekai",
               "mapLink": "https://maps.google.com/?q=Shinsekai+Osaka",
-              "description": "Retro 1912 neighborhood. Neon, dive bars.",
+              "description": "Retro 1912 neighborhood. Neon, dive bars",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Yaekatsu",
               "mapLink": "https://maps.google.com/?q=Yaekatsu+kushikatsu+Shinsekai+Osaka",
-              "description": "Kushikatsu est. 1949. ~1,500-3,000 yen. Don't double-dip!",
+              "description": "Kushikatsu est. 1949. Don't double-dip!",
               "priority": false,
               "reservationRequired": false,
               "price": "¥1,500-3,000"
@@ -1534,7 +1578,7 @@
             {
               "name": "Tower Knives Osaka",
               "mapLink": "https://maps.google.com/?q=Tower+Knives+Osaka+Tsutenkaku",
-              "description": "Knife gallery. Free 10-min care lesson with purchase. Name engraving 500 yen.",
+              "description": "Knife gallery. Free 10-min care lesson with purchase. Name engraving",
               "priority": false,
               "reservationRequired": false,
               "price": "¥500"
@@ -1547,7 +1591,7 @@
             {
               "name": "Kushikatsu Kei",
               "mapLink": "https://maps.google.com/?q=Kushikatsu+Kei+Osaka",
-              "description": "PICK. Renovated 80-year-old house — ~2,000-4,000 yen — \"Phantom sauce\" with chicken broth. Beautiful setting.",
+              "description": "Renovated 80-year-old house — \"Phantom sauce\" with chicken broth. Beautiful setting",
               "priority": true,
               "reservationRequired": false,
               "price": "¥2,000-4,000"
@@ -1555,7 +1599,7 @@
             {
               "name": "Yaekatsu",
               "mapLink": "https://maps.google.com/?q=Yaekatsu+kushikatsu+Shinsekai+Osaka",
-              "description": "If you didn't eat there in the afternoon.",
+              "description": "If you didn't eat there in the afternoon",
               "priority": false,
               "reservationRequired": false,
               "backup": true
@@ -1575,7 +1619,7 @@
             {
               "name": "Dotonbori at night",
               "mapLink": "https://maps.google.com/?q=Dotonbori+Osaka",
-              "description": "Neon-lit canal. Glico Running Man sign.",
+              "description": "Neon-lit canal. Glico Running Man sign",
               "priority": false,
               "reservationRequired": false
             }
@@ -1606,6 +1650,7 @@
       "subtitle": "Golden Week continues. Explore Osaka's landmarks, food gems, and shopping.",
       "summary": "Osaka Castle in the morning (elevator, no stairs — Brad's foot is fine), then Japan's longest shopping arcade for the best cheap sushi you'll eat on this trip and Brad's Flower Mountain shoes. Afternoon is record shopping — Rare Groove is literally on the \"World's Best Record Shops\" list. Early ramen at a baseball-themed chicken-clam spot, then the main event: Casiopea live at Billboard Live Osaka. Japanese jazz fusion legends in an intimate venue. Speakeasy nightcap after.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "Takamura Wine & Coffee Roasters",
         "mapLink": "https://maps.google.com/?q=Takamura+Wine+Coffee+Roasters+Osaka",
         "description": "Wine shop + coffee roaster. Opens 11am. For pre-11am: Lilo Coffee (closer to hotel)."
@@ -1617,7 +1662,7 @@
             {
               "name": "Karukoma Sushi",
               "mapLink": "https://maps.google.com/?q=Harukoma+Sushi+Tenjinbashi+Osaka",
-              "description": "PICK. Tenjinbashi — ~1,300-2,000 yen/pp — Insane value. Toro, uni, anago. In Japan's longest shopping arcade. Expect 30-60 min GW wait. (Midosuji Line to Tenjinbashisuji-Rokuchome)",
+              "description": "Tenjinbashi — Insane value. Toro, uni, anago. In Japan's longest shopping arcade. Expect 30-60 min GW wait. (Midosuji Line to Tenjinbashisuji-Rokuchome)",
               "priority": true,
               "reservationRequired": false,
               "lineUpTip": "Arrive by 10:30-11:00am. Expect 30-60 min GW wait.",
@@ -1626,14 +1671,15 @@
             {
               "name": "Flower Mountain Tenjinbashi",
               "mapLink": "https://maps.google.com/?q=Flower+Mountain+5-8-27+Tenjinbashi+Kita+Osaka",
-              "description": "Same shopping arcade! 5-8-27 Tenjinbashi. Brad's shoe stop. Hit before or after sushi.",
+              "description": "Same shopping arcade! 5-8-27 Tenjinbashi. Brad's shoe stop. Hit before or after sushi",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Osaka Castle",
               "mapLink": "https://maps.google.com/?q=Osaka+Castle",
-              "description": "Iconic landmark. Castle tower has elevator (no stairs for Brad). ~600 yen. Allow 1.5-2 hrs.",
+              "description": "Iconic landmark. Castle tower has elevator (no stairs for Brad)",
+              "duration": "1.5-2 hrs",
               "priority": false,
               "reservationRequired": false,
               "price": "¥600"
@@ -1650,21 +1696,21 @@
             {
               "name": "Nakanoshima Festival",
               "mapLink": "https://maps.google.com/?q=Nakanoshima+Park+Osaka",
-              "description": "Day 2 if you didn't do it last night. Free! Also walk the beautiful Nakanoshima riverside — especially lovely lit up.",
+              "description": "Day 2 if you didn't do it last night. Free! Also walk the beautiful Nakanoshima riverside — especially lovely lit up",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Shinsaibashi Shopping Arcade",
               "mapLink": "https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka",
-              "description": "180 stores. Onitsuka Tiger flagship, Don Quijote. Tax-free.",
+              "description": "180 stores. Onitsuka Tiger flagship, Don Quijote. Tax-free",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Momotaro Jeans Osaka",
               "mapLink": "https://maps.google.com/?q=Momotaro+Jeans+Osaka+Horie",
-              "description": "Horie neighborhood. If you haven't bought denim yet.",
+              "description": "Horie neighborhood. If you haven't bought denim yet",
               "priority": false,
               "reservationRequired": false
             },
@@ -1676,21 +1722,21 @@
             {
               "name": "Rare Groove",
               "mapLink": "https://maps.google.com/?q=Rare+Groove+Records+Nishi-Shinsaibashi+Osaka",
-              "description": "On The Vinyl Factory's \"World's Best Record Shops\" list. Rare Japanese pressings specialty. ~8 min walk from hotel. Building has 5 other record shops too. Closed Wednesdays — today (Mon) is perfect.",
+              "description": "On The Vinyl Factory's \"World's Best Record Shops\" list. Rare Japanese pressings specialty. ~8 min walk from hotel. Building has 5 other record shops too. Closed Wednesdays — today (Mon) is perfect",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "HMV Record Shop Shinsaibashi",
               "mapLink": "https://maps.google.com/?q=HMV+Record+Shop+Shinsaibashi+OPA+Osaka",
-              "description": "8F of Shinsaibashi OPA. 50,000 records, rated 5/5 for jazz. ~5 min from hotel.",
+              "description": "8F of Shinsaibashi OPA. 50,000 records, rated 5/5 for jazz. ~5 min from hotel",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Groovenut Records",
               "mapLink": "https://maps.google.com/?q=Groovenut+Records+Amerikamura+Osaka",
-              "description": "Amerikamura. Original pressings: soul, funk, jazz, rare groove. ~10 min from hotel.",
+              "description": "Amerikamura. Original pressings: soul, funk, jazz, rare groove. ~10 min from hotel",
               "priority": false,
               "reservationRequired": false
             }
@@ -1702,7 +1748,7 @@
             {
               "name": "Shoyu-Ramen Sodaisho",
               "mapLink": "https://maps.google.com/?q=Shoyu+Ramen+Sodaisho+Temma+Osaka",
-              "description": "PICK. Temma — ~1,000 yen — Chicken-clam shoyu ramen. Baseball-themed. Local gem.",
+              "description": "Temma — Chicken-clam shoyu ramen. Baseball-themed. Local gem",
               "priority": true,
               "reservationRequired": false,
               "price": "¥1,000"
@@ -1710,7 +1756,7 @@
             {
               "name": "Chukasoba Kazura",
               "mapLink": "https://maps.google.com/?q=Chukasoba+Kazura+Awaza+Osaka",
-              "description": "Awaza — ~1,000 yen — \"Mousse-like\" broth, fabulously light. Backup.",
+              "description": "Awaza — \"Mousse-like\" broth, fabulously light",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -1724,21 +1770,21 @@
             {
               "name": "Billboard Live Osaka",
               "mapLink": "https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT",
-              "description": "Herbis Plaza ENT, Nishi-Umeda. Japanese jazz fusion legends. 7:00 PM show. Arrive by 6:30 for seating/drinks.",
+              "description": "Herbis Plaza ENT, Nishi-Umeda. Japanese jazz fusion legends. 7:00 PM show. Arrive by 6:30 for seating/drinks",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Bible Club Osaka",
               "mapLink": "https://maps.google.com/?q=Bible+Club+Osaka+Shinsaibashi",
-              "description": "Shinsaibashi speakeasy. Portland sister bar. Hidden entrance. Nightcap option.",
+              "description": "Shinsaibashi speakeasy. Portland sister bar. Hidden entrance. Nightcap option",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Nakanoshima stroll",
               "mapLink": "https://maps.google.com/?q=Nakanoshima+Island+Osaka",
-              "description": "Beautiful riverside walk from Umeda back toward hotel, lit up at night.",
+              "description": "Beautiful riverside walk from Umeda back toward hotel, lit up at night",
               "priority": false,
               "reservationRequired": false
             }
@@ -1763,6 +1809,7 @@
       "subtitle": "HAPPY BIRTHDAY BRAD! Sleep in, great coffee, birthday takoyaki, shopping, then the main event.",
       "summary": "Happy 40th. No alarm. Sleep in, birthday coffee, then Michelin-listed takoyaki — crispy outside, molten inside, best in the city. Afternoon is whatever you want — birthday shopping, kitchen street browsing, pure wandering. Pre-game cocktails with jazz and skyline views at the Waldorf Astoria 28th floor, then the main event: Matsuzaka wagyu yakiniku (confirmed 7pm). Finish at a speakeasy parfait bar.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "Mel Coffee Roasters",
         "mapLink": "https://maps.google.com/?q=Mel+Coffee+Roasters+Osaka",
         "description": "Birthday coffee! Opens 9am."
@@ -1778,7 +1825,7 @@
             {
               "name": "Takotsubo",
               "mapLink": "https://maps.google.com/?q=Takotsubo+takoyaki+Osaka",
-              "description": "5x Michelin-listed takoyaki — ~500-800 yen — Crispy exterior, molten center. Away from tourist crowds.",
+              "description": "5x Michelin-listed takoyaki — Crispy exterior, molten center. Away from tourist crowds",
               "priority": true,
               "reservationRequired": false,
               "price": "¥500-800"
@@ -1798,7 +1845,7 @@
             {
               "name": "Doguyasuji Kitchen Street",
               "mapLink": "https://maps.google.com/?q=Doguyasuji+Kitchen+Street+Osaka",
-              "description": "5 min from hotel. Kitchen supplies, plastic food samples.",
+              "description": "5 min from hotel. Kitchen supplies, plastic food samples",
               "priority": false,
               "reservationRequired": false
             }
@@ -1810,7 +1857,7 @@
             {
               "name": "Canes & Tales at Waldorf Astoria",
               "mapLink": "https://maps.google.com/?q=Canes+Tales+Waldorf+Astoria+Osaka",
-              "description": "28th floor. Jazz, cocktails, Osaka skyline views. The perfect 40th birthday pre-game.",
+              "description": "28th floor. Jazz, cocktails, Osaka skyline views. The perfect 40th birthday pre-game",
               "priority": false,
               "reservationRequired": false
             }
@@ -1834,7 +1881,7 @@
             {
               "name": "Ijou Maru Parfait (パフェと酒 以上。)",
               "mapLink": "https://maps.google.com/?q=Kitashinchi+Malta+Building+South+Osaka",
-              "description": "THE birthday dessert. Members-only speakeasy parfait bar in Kitashinchi — but \"membership\" just means following @ijou_maru_parfait on Instagram (do this NOW). Elaborate art parfaits (~4,500-5,000 yen each) paired with sake and cocktails, presented through a glowing reveal door. 15 seats. Holiday hours: 3pm-10:30pm. Cashless only. DM on Instagram to reserve — try in both English and Japanese. 3 min walk from Kitashinchi Station. The perfect surreal birthday cap after yakiniku. Follow the account now, DM a week before your visit.",
+              "description": "THE birthday dessert. Members-only speakeasy parfait bar in Kitashinchi — but \"membership\" just means following @ijou_maru_parfait on Instagram (do this NOW). Elaborate art parfaits (each) paired with sake and cocktails, presented through a glowing reveal door. 15 seats. Holiday hours: 3pm-10:30pm. Cashless only. DM on Instagram to reserve — try in both English and Japanese. 3 min walk from Kitashinchi Station. The perfect surreal birthday cap after yakiniku. Follow the account now, DM a week before your visit",
               "priority": false,
               "reservationRequired": false,
               "price": "¥4,500-5,000"
@@ -1842,14 +1889,14 @@
             {
               "name": "Hozenji Yokocho",
               "mapLink": "https://maps.google.com/?q=Hozenji+Yokocho+Osaka",
-              "description": "Stone-paved, lantern-lit alley. Find a small bar for a birthday nightcap.",
+              "description": "Stone-paved, lantern-lit alley. Find a small bar for a birthday nightcap",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Bar Nayuta",
               "mapLink": "https://maps.google.com/?q=Bar+Nayuta+Amerikamura+Osaka",
-              "description": "If the night is young.",
+              "description": "If the night is young",
               "priority": false,
               "reservationRequired": false
             }
@@ -1877,6 +1924,7 @@
       "subtitle": "Longest transit day. Shin-Osaka to Odawara by Shinkansen, then Hakone Tozan Railway to Gora.",
       "summary": "The big transition — Shinkansen from Osaka, then the scenic mountain switchback railway up to Gora. You arrive at the ryokan mid-afternoon and everything downshifts. Private onsen in your room, yukata robes, tatami floors. Tonight is multi-course kaiseki dinner served at the inn. After 12 days of going hard, this is where you exhale. The ryokan IS the destination.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "Lilo Coffee Roasters",
         "mapLink": "https://maps.google.com/?q=Lilo+Coffee+Roasters+Osaka",
         "description": "One last Osaka coffee."
@@ -1887,17 +1935,20 @@
           "activities": [
             {
               "name": "9:15 AM",
-              "description": "Leave Cross Hotel. Walk to Namba Station (4 min), Midosuji Line to Shin-Osaka (15 min, 280 yen)",
+              "description": "Leave Cross Hotel. Walk to Namba Station, Midosuji Line to Shin-Osaka",
+              "duration": "15 min",
               "priority": false,
               "reservationRequired": false,
               "price": "¥280"
             },
             {
               "name": "10:18 AM",
-              "description": "Board Hikari 646 to Odawara (2 hrs 20 min, ¥12,620/pp) — ✅ BOOKED",
+              "description": "Board Hikari 646 to Odawara (20 min)",
+              "duration": "2 hrs",
               "priority": false,
               "reservationRequired": false,
-              "booked": true
+              "booked": true,
+              "price": "¥12,620"
             },
             {
               "name": "12:38 PM",
@@ -1912,10 +1963,9 @@
           "activities": [
             {
               "name": "Buy Hakone Free Pass",
-              "description": "2-day at Odakyu counter (6,000 yen)",
+              "description": "2-day at Odakyu counter",
               "priority": false,
-              "reservationRequired": false,
-              "price": "¥6,000"
+              "reservationRequired": false
             }
           ]
         },
@@ -1924,14 +1974,14 @@
           "activities": [
             {
               "name": "Hakone Tozan Railway",
-              "description": "Odawara to Gora (~1 hr). Scenic switchback mountain railway.",
+              "description": "Odawara to Gora. Scenic switchback mountain railway",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Hakone Gora Byakudan",
               "mapLink": "https://maps.google.com/?q=Hakone+Gora+Byakudan",
-              "description": "Walking distance from Gora Station (or ask about pickup)",
+              "description": "Walking distance from Gora Station (or ask about up)",
               "priority": true,
               "reservationRequired": false
             },
@@ -1966,6 +2016,7 @@
       "subtitle": "Full day in Hakone. Art, volcanic valley, lake cruise. All transport-based — minimal walking.",
       "summary": "The Hakone loop — all aboard. Open-Air Museum for Picassos and a hot spring foot bath, then cable car and ropeway up to the volcanic valley where you eat sulfur-boiled black eggs that supposedly add 7 years to your life. Mt. Fuji views if the sky cooperates. Pirate ship across Lake Ashi. All transport, minimal walking — the Free Pass covers everything. Second kaiseki dinner tonight, different menu from last night.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "Ryokan breakfast (traditional Japanese, included)."
       },
       "sections": [
@@ -1975,7 +2026,7 @@
             {
               "name": "Hakone Open-Air Museum",
               "mapLink": "https://maps.google.com/?q=Hakone+Open+Air+Museum",
-              "description": "Japan's first open-air sculpture museum. Major Picasso collection. Flat, paved paths. Hot spring foot bath on the grounds.",
+              "description": "Japan's first open-air sculpture museum. Major Picasso collection. Flat, paved paths. Hot spring foot bath on the grounds",
               "priority": false,
               "reservationRequired": false
             }
@@ -1986,20 +2037,20 @@
           "activities": [
             {
               "name": "Gora to Sounzan",
-              "description": "Cable Car (~10 min)",
+              "description": "Cable Car",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Sounzan to [Owakudani](https://maps.google.com/?q=Owakudani+Hakone)",
               "mapLink": "https://maps.google.com/?q=Owakudani+Hakone",
-              "description": "Ropeway (~10 min). Volcanic steam vents. Mt. Fuji views on clear days.",
+              "description": "Ropeway. Volcanic steam vents. Mt. Fuji views on clear days",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Owakudani",
-              "description": "Eat the famous kuro-tamago (black eggs) (500 yen for 5). Short, flat walking.",
+              "description": "Eat the famous kuro-tamago (black eggs) (for 5). Short, flat walking",
               "priority": false,
               "reservationRequired": false,
               "price": "¥500"
@@ -2013,14 +2064,15 @@
             {
               "name": "Lake Ashi Pirate Ship",
               "mapLink": "https://maps.google.com/?q=Lake+Ashi+Pirate+Ship+Hakone",
-              "description": "~30 min cruise. Mt. Fuji reflection on clear days.",
+              "description": "Cruise. Mt. Fuji reflection on clear days",
+              "duration": "30 min",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Hakone Roasting Coffee",
               "mapLink": "https://maps.google.com/?q=Hakone+Roasting+Coffee+Lake+Ashi",
-              "description": "3F for hand-dripped coffee with panoramic lake views.",
+              "description": "3F for hand-dripped coffee with panoramic lake views",
               "priority": false,
               "reservationRequired": false
             }
@@ -2052,6 +2104,7 @@
       "subtitle": "Golden Week is over. Quieter Tokyo. Hit missed spots. Last proper evening.",
       "summary": "Back to Tokyo for the final stretch. Golden Week is over, the city is calmer, and all those restaurants that were closed are open again. Early departure from Hakone for Pizza Bar on 38th (#2 pizza in the world) at 11:30 AM, then afternoon in Yanaka Ginza — cat-shaped everything, right by your hotel. Tonight is the last real dinner — Sushi Yoshikawa omakase with the otoro-uni dragon ball roll at 8:30 PM. Last night cocktails at Gen Yamamoto. Make it count.",
       "morningCoffee": {
+        "kind": "coffee",
         "name": "Ryokan breakfast, then coffee at Mandarin Oriental lobby before Pizza Bar."
       },
       "sections": [
@@ -2071,10 +2124,12 @@
             {
               "name": "Pizza Bar on 38th",
               "mapLink": "https://maps.google.com/?q=Pizza+Bar+38th+Mandarin+Oriental+Tokyo",
-              "description": "Omakase pizza (#2 in world) — 8 seats, Mandarin Oriental 38F — ~¥15,000-20,000/pp — ✅ BOOKED 11:30 AM",
+              "description": "Omakase pizza (#2 in world) — 8 seats, Mandarin Oriental 38F",
+              "time": "11:30 AM",
               "priority": false,
               "reservationRequired": false,
-              "booked": true
+              "booked": true,
+              "price": "¥15,000-20,000"
             }
           ]
         },
@@ -2084,7 +2139,7 @@
             {
               "name": "Hotel MyStays Nippori",
               "mapLink": "https://maps.google.com/?q=Hotel+Mystays+Nippori+Tokyo",
-              "description": "3-5 min walk from Nippori Station. Check in, drop bags, freshen up.",
+              "description": "3-5 min walk from Nippori Station. Check in, drop bags, freshen up",
               "priority": false,
               "reservationRequired": false
             }
@@ -2096,7 +2151,7 @@
             {
               "name": "Yanaka Ginza",
               "mapLink": "https://maps.google.com/?q=Yanaka+Ginza+shopping+street+Tokyo",
-              "description": "Old-school shopping street right by hotel. Cat-shaped taiyaki, nostalgic charm.",
+              "description": "Old-school shopping street right by hotel. Cat-shaped taiyaki, nostalgic charm",
               "priority": false,
               "reservationRequired": false
             },
@@ -2108,7 +2163,7 @@
             {
               "name": "Nakiryu ramen",
               "mapLink": "https://maps.google.com/?q=Nakiryu+ramen+Toshima+Tokyo",
-              "description": "post-GW, much shorter lines",
+              "description": "Post-GW, much shorter lines",
               "priority": false,
               "reservationRequired": false
             }
@@ -2121,10 +2176,12 @@
             {
               "name": "Sushi Yoshikawa",
               "mapLink": "https://maps.google.com/?q=Sushi+Yoshikawa+Ebisu+Tokyo",
-              "description": "¥11,000 omakase (~$80/pp) — 17 pieces including \"dragon ball roll\" (otoro + uni) — ✅ BOOKED 8:30 PM (prepaid)",
+              "description": "Omakase — 17 pieces including \"dragon ball roll\" (otoro; uni) — (prepaid)",
+              "time": "8:30 PM",
               "priority": false,
               "reservationRequired": false,
-              "booked": true
+              "booked": true,
+              "price": "¥11,000"
             }
           ]
         },
@@ -2134,7 +2191,7 @@
             {
               "name": "Gen Yamamoto",
               "mapLink": "https://maps.google.com/?q=Gen+Yamamoto+Azabu-Juban+Tokyo",
-              "description": "Cocktail omakase. Phone reservations only, 7 days ahead (call May 2 for May 9).",
+              "description": "Cocktail omakase. Phone reservations only, 7 days ahead (call May 2 for May 9)",
               "priority": false,
               "reservationRequired": true
             }
@@ -2168,14 +2225,14 @@
             {
               "name": "Yanaka Ginza",
               "mapLink": "https://maps.google.com/?q=Yanaka+Ginza+shopping+street+Tokyo",
-              "description": "Morning stroll. Cat-tail donuts, fresh taiyaki.",
+              "description": "Morning stroll. Cat-tail donuts, fresh taiyaki",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Ameyoko Market",
               "mapLink": "https://maps.google.com/?q=Ameyoko+Market+Ueno+Tokyo",
-              "description": "1 stop from Nippori. Chaotic market under the tracks. Last-minute snacks and gifts.",
+              "description": "1 stop from Nippori. Chaotic market under the tracks. Last-minute snacks and gifts",
               "priority": false,
               "reservationRequired": false
             }

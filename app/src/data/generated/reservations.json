@@ -103,6 +103,36 @@
       "city": "Osaka"
     },
     {
+      "name": "Shinjuku Sumo Show",
+      "details": "90-min sumo show — bilingual MC, 3 matches + photo session. Sekisaku Bldg 2F, Okubo 2-5-22. Late entry refused — leave Nakajima by 12:00 sharp.",
+      "date": "Apr 28, 12:30 PM",
+      "cost": "~$60-81/pp",
+      "mapLink": "https://maps.google.com/?q=Shinjuku+Sumo+Club+Okubo+Sekisaku+Building",
+      "status": "booked",
+      "category": "booked",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Shinjuku Pit Inn — Suga Dairo Trio",
+      "details": "Golden Week Special — Kyu Suga Dairo (piano), Hikaru Toho (bass), Masatsugi Hattori (drums). Open 7:00 PM, show 7:30. ¥3,850 includes one drink.",
+      "date": "Apr 28, 7:30 PM",
+      "cost": "¥3,850",
+      "mapLink": "https://maps.google.com/?q=Shinjuku+Pit+Inn+jazz+Tokyo",
+      "status": "booked",
+      "category": "booked",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Samurai Restaurant (Kabukicho)",
+      "details": "Choreographed neon-and-drumming show in former Robot Restaurant space — 90 min show, ticket includes show + bento or 2 drinks. 4 tickets.",
+      "date": "Apr 29, 2:00 PM",
+      "cost": "~¥9,000/pp",
+      "mapLink": "https://maps.google.com/?q=Samurai+Restaurant+Kabukicho+Shinjuku",
+      "status": "booked",
+      "category": "booked",
+      "city": "Tokyo"
+    },
+    {
       "name": "Kamogawa Odori (geisha dance)",
       "date": "May 5-22 (starts AFTER Kyoto leg)",
       "cost": "¥4,000-7,000",
@@ -120,18 +150,6 @@
       "alarm": "Call May 2 to book May 9. Phone reservations only, directly from guests.",
       "status": "urgent",
       "category": "bars",
-      "city": "Tokyo"
-    },
-    {
-      "name": "Ginza Hachigo",
-      "details": "Michelin ramen — ravioli truffle-foie gras chuka soba",
-      "date": "Apr 28 lunch, ~12:30 PM",
-      "cost": "¥1,200 + ¥500 booking fee",
-      "bookingMethod": "TableCheck (opens Sat 9am for following week)",
-      "mapLink": "https://maps.google.com/?q=Ginza+Hachigo+ramen+Tokyo",
-      "alarm": "For Apr 28: book Sat Apr 25, 9:00 AM JST. You'll be landing at Narita at 3pm — try to book before your flight departs!",
-      "status": "book-soon",
-      "category": "restaurants",
       "city": "Tokyo"
     },
     {
@@ -170,13 +188,12 @@
     {
       "name": "Tonkatsu Sugita",
       "details": "Bib Gourmand tonkatsu — rosu katsu",
-      "date": "Apr 26 dinner",
+      "date": "Tokyo(any flex day)",
       "cost": "¥3,000-4,500",
       "bookingMethod": "Omakase.in or byFood",
       "mapLink": "https://maps.google.com/?q=Tonkatsu+Sugita+Kuramae+Tokyo",
       "status": "book-soon",
       "category": "restaurants",
-      "city": "Tokyo",
       "isBackup": true
     },
     {
@@ -214,12 +231,34 @@
       "isBackup": true
     },
     {
+      "name": "Sakuragaoka (Cerulean Tower Tokyu Hotel)",
+      "details": "Traditional Japanese breakfast buffet — grilled fish, rice, miso, tofu, tamagoyaki, pickles, fruit, coffee",
+      "date": "Apr 26, 7:00 AM",
+      "cost": "¥4,200",
+      "bookingMethod": "Walk-in OK (buffet is separate from TableCheck reservations, which are for lunch/dinner kaiseki). 7:00-10:30 AM (LO 10:00). 5-7 min walk from Granbell. Phone +81-3-3476-3000 to confirm if needed.",
+      "mapLink": "https://maps.google.com/?q=Sakuragaoka+Cerulean+Tower+Tokyu+Hotel+Shibuya",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
       "name": "Nakajima",
-      "details": "Michelin sardine set lunch — Yanagawa Nabe set (990¥)",
-      "date": "Apr 26, ~11:15 AM",
+      "details": "Michelin sardine set lunch — Yanagawa Nabe set (990¥) — PRIMARY FOR APR 28 LUNCH",
+      "date": "Apr 28, ~11:15 AM",
       "cost": "¥990",
-      "bookingMethod": "Queue by 11:15am for 11:30 opening. 30-45 min if arriving later.",
+      "bookingMethod": "Closed Sun+Mon; open Tue-Sat lunch 11:30-2:00. Queue by 11:00-11:15 for 11:30 opening. 30-45 min if arriving later. Cash.",
       "mapLink": "https://maps.google.com/?q=Shinjuku+Kappo+Nakajima",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Shabu-Shabu Tsukada (Shibuya Scramble Square 12F)",
+      "details": "A5 wagyu individual hot pots — view of Scramble Crossing",
+      "date": "Apr 26, ~8:00 PM",
+      "cost": "¥4,000-7,000",
+      "bookingMethod": "Open Sun 11am-4pm + 5pm-11pm. Same building as Shibuya Sky — elevator down from Sky's exit floor. Walk-in or call for last-minute reservation.",
+      "mapLink": "https://maps.google.com/?q=Shabu+Shabu+Tsukada+Shibuya+Scramble+Square",
       "status": "walk-in",
       "category": "walk-in",
       "city": "Tokyo"
@@ -248,14 +287,39 @@
     },
     {
       "name": "Nakiryu",
-      "details": "Tantanmen (dan dan noodle)",
-      "date": "Apr 28 or May 9, lunch",
+      "details": "Tantanmen (spicy dan dan noodle) — Apr 28 ramen backup if Nakajima too crowded; or May 9 lunch",
+      "date": "Apr 28or May 9, 10:30 AM",
       "cost": "¥1,000-1,500",
-      "bookingMethod": "Arrive by 10:30am. 30 min-2.5 hr wait. Cash only. May 9 post-GW = shorter lines.",
-      "mapLink": "https://maps.google.com/?q=Nakiryu+ramen+Toshima+Tokyo",
+      "bookingMethod": "Arrive 10:30 AM (opens 11 AM). 30 min-1 hr wait. Cash only. Location: 南大塚2-34-4 Toshima. Transit: subway to Minamiotsuka Stn (Marunouchi Line), 5 min walk.",
+      "mapLink": "https://maps.google.com/?q=Nakiryu+Minamiotsuka+Tokyo",
       "status": "walk-in",
       "category": "walk-in",
-      "city": "Tokyo"
+      "city": "Tokyo",
+      "isBackup": true
+    },
+    {
+      "name": "Ramen Menmaru",
+      "details": "Sho yu ramen",
+      "date": "Apr 28,(after Kappabashi)",
+      "cost": "¥800-1,200",
+      "bookingMethod": "Near Sensoji Temple, 5 min from Kappabashi. Walk-in, typically 20-30 min wait.",
+      "mapLink": "https://maps.google.com/?q=Ramen+Menmaru+Asakusa+Tokyo",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo",
+      "isBackup": true
+    },
+    {
+      "name": "Tonari Ramen",
+      "details": "Tonkotsu (pork broth) ramen",
+      "date": "Apr 28,",
+      "cost": "¥900-1,300",
+      "bookingMethod": "Kappabashi area, 3 min walk from Tsubaya knives. Cash preferred.",
+      "mapLink": "https://maps.google.com/?q=Tonari+Ramen+Kappabashi+Tokyo",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo",
+      "isBackup": true
     },
     {
       "name": "Midori Sushi",
@@ -359,22 +423,6 @@
       "action": "Follow on Instagram — check IG night of May 2 for closures, register Airwait 9:30 AM day-of",
       "priority": "MEDIUM",
       "city": "Kyoto"
-    },
-    {
-      "alarmDate": "~Apr 22",
-      "venue": "Henry's Burger Harami",
-      "bookingFor": "Apr 29, ~11:30 AM (lunch)",
-      "action": "DM @henrysburger_japan — name, phone, date, arrival time, qty (2 Harami Burgers)",
-      "priority": "HIGH",
-      "city": "Tokyo"
-    },
-    {
-      "alarmDate": "Apr 25, before flight",
-      "venue": "Ginza Hachigo",
-      "bookingFor": "Apr 28, ~12:30 PM (lunch)",
-      "action": "Book on TableCheck — opens 9:00 AM JST Apr 25. Book before your flight departs!",
-      "priority": "HIGH",
-      "city": "Tokyo"
     },
     {
       "alarmDate": "~Apr 29",
