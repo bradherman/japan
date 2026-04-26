@@ -168,18 +168,15 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 10:45-11:00 Walk to Mofusand Harajuku (Yeva's gifts)
 11:00-11:30 Kiddyland Harajuku ⚠️ Pick up Licca-chan doll for Yeva (holiday hours 10:30-9pm)
 11:30-11:45 Walk to Koffee Mameya Omotesando — quick coffee sommelier experience
-11:45-12:00 Walk to Henry's Burger / Shin Udon for reunion
+11:45-12:00 Walk back toward Harajuku Stn for reunion
 
-           REUNITED — LUNCH:
-12:00-12:15 Walk to Henry's Burger (Meiji-dori) or Shin Udon
-12:15-1:15 LUNCH — eat fast, Samurai check-in 1:50 PM
-           A) Henry's Burger Harajuku — A5 wagyu, get HARAMI BURGER (~3,810 yen)
-              ⚠️ DM @henrysburger_japan 1 WEEK AHEAD for harami reservation
-           B) Shin Udon Harajuku — carbonara udon (950 yen, walk-in)
-           (Can split — they're both in Harajuku)
+           REUNITED — NO FORMAL LUNCH (Samurai 2pm includes meal):
+12:00-1:30 Free time — Brad back from Nakano. Wander Omotesando/Harajuku, hit any
+           shops missed earlier (Mofusand, Onitsuka Tiger Omotesando), or sit
+           for Koffee Mameya pour-over. Konbini onigiri or coffee if hungry.
+           Snack at Gyoza Ru already covered the morning.
 
            SAMURAI RESTAURANT — KABUKICHO:
-1:15-1:30  Walk to Harajuku Stn or Meiji-Jingumae Stn
 1:30-1:40  JR Yamanote Harajuku → Shinjuku (~5 min, exit east)
 1:40-1:55  Walk Shinjuku Stn → Kabukicho Samurai Restaurant
 1:55-2:00  Check in, claim seats

@@ -270,17 +270,16 @@
 - **[Kiddyland Harajuku](https://maps.google.com/?q=Kiddyland+Harajuku+Jingumae)** — 6-1-9 Jingumae, ~3 min walk from Meiji-Jingumae Stn. Holiday hours 10:30 AM-9:00 PM. **Pick up a Licca-chan doll for Yeva** — they carry the full range of Licca dolls and playsets. Allow 30 min.
 - *#FFFFFFT (White T-Shirt Store) is closed weekdays — only Sat/Sun. If Brad still wants it, swing by during a future weekend stop.*
 
-### Lunch (~12:00-1:15 PM) — Udon / Wagyu Burger
-*Group reunites in Harajuku. Eat fast — Samurai Restaurant check-in at 1:50 PM in Kabukicho.*
-1. **[Henry's Burger Harajuku](https://maps.google.com/?q=Henry's+Burger+Harajuku+Jingumae+Shibuya)** — PRIORITY. A5 Wagyu burgers from the chef behind top yakiniku restaurant Sumibi Yakiniku Nakahara. Right on Meiji-dori, 5 min from Meiji-Jingumae Station. The standard wagyu burger (~1,130 yen) is solid but **the move is the Harami Burger** (~3,810 yen) — a skirt steak slab, perfectly charred, with cream-acid-heat sauce. 26 seats. *ADVANCE RESERVATION for Harami: DM @henrysburger_japan on Instagram ~1 week ahead.*
-2. **[Shin Udon Harajuku](https://maps.google.com/?q=Shin+Udon+Harajuku+Tokyo)** — Backup. Carbonara udon — 950 yen/pp. Walk-in, creative udon, open holidays.
-3. **[Gyukatsu Motomura Harajuku](https://maps.google.com/?q=Gyukatsu+Motomura+Harajuku)** — Backup. Beef cutlet — ~2,600 yen/pp.
+### Midday — Reunion + Walk to Kabukicho (~12:00-1:55 PM)
+*No formal lunch today — Samurai Restaurant ticket includes a bento/meal (depending on ticket type), and you've already snacked at Gyoza Ru. If anyone's hungry, grab a konbini onigiri / coffee on the way; otherwise just decompress.*
+- 12:00 Brad rejoins group from Nakano (JR Yamanote → Harajuku).
+- 12:00-1:30 Free browse — wander Omotesando, hit any Harajuku shop you missed (Mofusand, Onitsuka Tiger Omotesando) or sit down for a Koffee Mameya pour-over.
+- 1:30-1:40 JR Yamanote Harajuku → Shinjuku (~5 min) — exit east side.
+- 1:40-1:55 Walk Shinjuku Stn → Kabukicho to Samurai Restaurant.
 
 ### Samurai Restaurant Show (2:00 PM) — Kabukicho
-- 1:15-1:30 Walk to Harajuku Stn or Meiji-Jingumae Stn
-- 1:30-1:40 JR Yamanote Harajuku → Shinjuku (~5 min) — exit east side
-- 1:40-1:55 Walk Shinjuku Stn → Kabukicho to **[Samurai Restaurant](https://maps.google.com/?q=Samurai+Restaurant+Kabukicho+Shinjuku)** (former Robot Restaurant location)
-- **2:00-3:30 PM — Samurai Restaurant show (90 min).** Choreographed neon-and-drumming spectacle, dancers, costumed performers. ~¥9,000/pp incl. show + drink/bento depending on ticket. *BOOKED 2:00 PM via Klook/GetYourGuide for 4.*
+- **[Samurai Restaurant](https://maps.google.com/?q=Samurai+Restaurant+Kabukicho+Shinjuku)** — former Robot Restaurant location.
+- **2:00-3:30 PM — Samurai Restaurant show (90 min).** Choreographed neon-and-drumming spectacle, dancers, costumed performers. ~¥9,000/pp incl. show + bento/drinks (depending on ticket type). *BOOKED 2:00 PM via Klook/GetYourGuide for 4.*
 
 ### Late Afternoon — Shibuya Watch + Shop Crawl (~3:30-5:15 PM)
 - 3:30-3:40 Train Shinjuku → Shibuya (JR Yamanote, ~5 min)
@@ -302,7 +301,7 @@
 - **Samurai Restaurant Apr 29 2:00 PM:** ~¥9,000/pp (varies by ticket type). Book on Klook/GetYourGuide/Viator for 4. Show ~90 min. Kabukicho location, former Robot Restaurant building.
 - **Brad's Nakano Broadway morning:** Showa Day risk for small dealers — phone or IG-check Jackroad/Kamekichi/Fire Kids the night before. Cash gives negotiation leverage at Nakano shops; Ginza shops are more fixed pricing.
 - **Onsen alt for Alyona + Gail (optional, not on schedule):** While Brad is at Nakano Broadway 8:30-11:30 AM, the ladies can swap a slow Meiji+Harajuku morning for an onsen. Best Tokyo option is **[Thermae-Yu Shinjuku](https://maps.google.com/?q=Thermae+Yu+Shinjuku+Kabukicho)** — largest urban onsen in Tokyo, 24-hour, ~10 min subway from Shibuya. Natural-water baths + outdoor rotenburo + sauna. ~¥2,500/pp + ¥300 tattoo cover seals if needed (covered tattoos OK; large tattoos may be denied — call 03-5285-1726 day-of to confirm). Do 9:00-11:00, meet group for noon Harajuku lunch. *Smaller secondary window:* Apr 28 Kappabashi knife shopping 2:50-4:15 — onsen-sento **[Jakotsu-yu](https://maps.google.com/?q=Jakotsu-yu+Asakusa)** is in Asakusa near Sensoji, but tight to fit a real soak.
-- **Henry's Burger Harami reservation:** DM @henrysburger_japan on Instagram ~1 week before Apr 29. Include name, phone, preferred date (Apr 29), arrival time (~12:00pm — note we shifted later for the Samurai Restaurant show), and quantity (2 Harami Burgers).
+- ~~**Henry's Burger Harami reservation:** DM @henrysburger_japan~~ — **Lunch dropped from Apr 29: Samurai Restaurant 2pm includes the meal.** Henry's Harami can shift to a different Tokyo lunch slot or skip this trip.
 - ~~Nishikawa Pillow Fitting~~ — **CANCELLED** (not practical for 2-week trip).
 - Send luggage to Kyoto via takkyubin this morning (arrange at front desk).
 - Tomorrow: pack a day bag. Shinkansen to Kyoto departs 10:12 AM from Tokyo Station.

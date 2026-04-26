@@ -122,7 +122,7 @@
 
 | Item | Date | What to Do | Account | When |
 |------|------|-----------|---------|------|
-| **Henry's Burger Harami** | Apr 29 lunch | DM with name, phone, date (Apr 29), arrival time (~11:30am), qty (2 Harami Burgers). Without this, only standard wagyu burger available. | @henrysburger_japan | **DM ~1 week before (Apr 22)** |
+| ~~**Henry's Burger Harami**~~ | ~~Apr 29 lunch~~ | ~~DM with name, phone, date (Apr 29), arrival time, qty (2 Harami Burgers).~~ **DROPPED — Apr 29 lunch removed; Samurai Restaurant 2pm includes the meal. Reschedule for a flex Tokyo lunch if still wanted.** | ~~@henrysburger_japan~~ | ~~DM ~1 week before~~ |
 | **Ijou Maru Parfait** | May 6 evening (birthday!) | 1) Follow account NOW for "membership." 2) DM to reserve for May 6, ~9:00 PM, 2 people. Try English + Japanese. Cashless only. | @ijou_maru_parfait | **Follow NOW. DM ~1 week before (Apr 29).** |
 | **AMAM DACOTAN Kyoto** | May 3 morning | No reservation — digital queue via Airwait (link on their IG). Register at 9:30 AM day-of. Check IG the night before for irregular closures. | @amam_dacotan_kyoto | **Follow now. Check night of May 2.** |
 
@@ -171,7 +171,7 @@
 | ~~**~Apr 11, 8:00 AM**~~ | ~~Shibuya Sky~~ | ~~Apr 26, 6:20 PM (sunset slot)~~ | ~~✅ BOOKED — moved to Already Booked~~ | ~~DONE~~ |
 | ~~**Apr 18, 8:00 PM**~~ | ~~Tonkatsu Narikura~~ | ~~Apr 26, ~7:30 PM (dinner)~~ | ~~MISSED booking window — Apr 26 dinner is now Shabu-Shabu Tsukada walk-in (same bldg as Shibuya Sky)~~ | ~~DONE~~ |
 | ~~**Apr 20**~~ | ~~Bar Benfiddich (backup)~~ | ~~May 9, evening~~ | ~~May schedule posts on Instagram. Book on TableCheck. Only 15 seats.~~ **MISSED — try walk-in May 9 if time permits** | ~~MEDIUM~~ |
-| **~Apr 22** | Henry's Burger Harami | Apr 29, ~12:15 PM (lunch — shifted later for Samurai 2pm) | DM @henrysburger_japan — name, phone, date, arrival time (~12:15), qty (2 Harami Burgers) | HIGH |
+| ~~**~Apr 22**~~ | ~~Henry's Burger Harami~~ | ~~Apr 29 lunch~~ | ~~DM @henrysburger_japan~~ — **DROPPED: Apr 29 lunch removed entirely (Samurai Restaurant 2pm includes a bento/meal). Henry's Harami can shift to a different Tokyo lunch slot or skip this trip.** | ~~HIGH~~ |
 | ~~**Apr 25, before flight**~~ | ~~Ginza Hachigo~~ | ~~Apr 28, ~12:30 PM (lunch)~~ | ~~Book on TableCheck — opens 9:00 AM JST Apr 25.~~ **MISSED — Apr 28 lunch is now Nakajima (walk-in queue, Tue-Sat only)** | ~~HIGH~~ |
 | **~Apr 29** | Ijou Maru Parfait | May 6, ~9:00 PM (birthday!) | DM @ijou_maru_parfait — 2 people, Brad's birthday night | HIGH |
 | **May 2** | Gen Yamamoto | May 9, evening | Call to reserve — phone only, 7 days ahead, directly from guests | HIGH |

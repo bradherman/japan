@@ -733,39 +733,20 @@
           ]
         },
         {
-          "title": "Lunch",
-          "subtitle": "Group reunites in Harajuku. Eat fast — Samurai Restaurant check-in at 1:50 PM in Kabukicho.",
-          "activities": [
-            {
-              "name": "Henry's Burger Harajuku",
-              "mapLink": "https://maps.google.com/?q=Henry's+Burger+Harajuku+Jingumae+Shibuya",
-              "description": "A5 Wagyu burgers from the chef behind top yakiniku restaurant Sumibi Yakiniku Nakahara. Right on Meiji-dori, 5 min from Meiji-Jingumae Station. The standard wagyu burger is solid but the move is the Harami Burger — a skirt steak slab, perfectly charred, with cream-acid-heat sauce. 26 seats. ADVANCE RESERVATION for Harami: DM @henrysburger_japan on Instagram ~1 week ahead",
-              "priority": true,
-              "reservationRequired": true
-            },
-            {
-              "name": "Shin Udon Harajuku",
-              "mapLink": "https://maps.google.com/?q=Shin+Udon+Harajuku+Tokyo",
-              "description": "Carbonara udon. Walk-in, creative udon, open holidays",
-              "priority": false,
-              "reservationRequired": false,
-              "backup": true,
-              "price": "¥950"
-            },
-            {
-              "name": "Gyukatsu Motomura Harajuku",
-              "mapLink": "https://maps.google.com/?q=Gyukatsu+Motomura+Harajuku",
-              "description": "Beef cutlet",
-              "priority": false,
-              "reservationRequired": false,
-              "backup": true,
-              "price": "¥2,600"
-            }
-          ]
+          "title": "Midday — Reunion + Walk to Kabukicho",
+          "subtitle": "No formal lunch today — Samurai Restaurant ticket includes a bento/meal (depending on ticket type), and you've already snacked at Gyoza Ru. If anyone's hungry, grab a konbini onigiri / coffee on the way; otherwise just decompress.",
+          "activities": []
         },
         {
           "title": "Samurai Restaurant Show",
           "activities": [
+            {
+              "name": "Samurai Restaurant",
+              "mapLink": "https://maps.google.com/?q=Samurai+Restaurant+Kabukicho+Shinjuku",
+              "description": "Former Robot Restaurant location",
+              "priority": false,
+              "reservationRequired": false
+            },
             {
               "name": "2:00-3:30 PM — Samurai Restaurant show (90 min).",
               "priority": false,
@@ -844,7 +825,7 @@
           "text": "Onsen alt for Alyona + Gail (optional, not on schedule): While Brad is at Nakano Broadway 8:30-11:30 AM, the ladies can swap a slow Meiji+Harajuku morning for an onsen. Best Tokyo option is Thermae-Yu Shinjuku — largest urban onsen in Tokyo, 24-hour, ~10 min subway from Shibuya. Natural-water baths + outdoor rotenburo + sauna. ~¥2,500/pp + ¥300 tattoo cover seals if needed (covered tattoos OK; large tattoos may be denied — call 03-5285-1726 day-of to confirm). Do 9:00-11:00, meet group for noon Harajuku lunch. Smaller secondary window: Apr 28 Kappabashi knife shopping 2:50-4:15 — onsen-sento Jakotsu-yu is in Asakusa near Sensoji, but tight to fit a real soak."
         },
         {
-          "text": "Henry's Burger Harami reservation: DM @henrysburger_japan on Instagram ~1 week before Apr 29. Include name, phone, preferred date (Apr 29), arrival time (~12:00pm — note we shifted later for the Samurai Restaurant show), and quantity (2 Harami Burgers)."
+          "text": "~~Henry's Burger Harami reservation: DM @henrysburger_japan~~ — Lunch dropped from Apr 29: Samurai Restaurant 2pm includes the meal. Henry's Harami can shift to a different Tokyo lunch slot or skip this trip."
         },
         {
           "text": "~~Nishikawa Pillow Fitting~~ — CANCELLED (not practical for 2-week trip)."
