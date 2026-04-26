@@ -35,12 +35,15 @@ export function BottomNav() {
 
   const handleTabClick = (e: React.MouseEvent, to: string, index: number) => {
     e.preventDefault()
-    if (index === prevIndexRef.current) return
 
-    // Set direction for CSS view-transition animations
-    document.documentElement.dataset.navDir = index > prevIndexRef.current ? 'forward' : 'back'
+    // Set direction for CSS view-transition animations (only when changing tabs)
+    if (index !== prevIndexRef.current) {
+      document.documentElement.dataset.navDir = index > prevIndexRef.current ? 'forward' : 'back'
+    }
 
-    if ('startViewTransition' in document) {
+    // Always navigate — even on same-tab tap — so views can re-mount or react
+    // to the tap (e.g. ItineraryView resetting to today via location.key).
+    if ('startViewTransition' in document && index !== prevIndexRef.current) {
       ;(document as unknown as { startViewTransition: (cb: () => void) => void }).startViewTransition(() => {
         flushSync(() => navigate(to))
       })

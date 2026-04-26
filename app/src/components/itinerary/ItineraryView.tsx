@@ -1,10 +1,11 @@
 import { useState, useMemo, useEffect } from 'react'
+import { useLocation } from 'react-router-dom'
 import { MapPin, Star, Ticket, Clock, Coffee, UtensilsCrossed, Hourglass, Train, CheckCircle, Map } from 'lucide-react'
 import { itinerary, transport } from '@/data'
 import { DayPicker } from './DayPicker'
 import { CityBadge } from '@/components/ui/CityBadge'
 import { YenUsd } from '@/components/ui/YenUsd'
-import { cn, getDayCity, getCityAccent, buildDayMapUrl } from '@/lib/utils'
+import { cn, getDayCity, getCityAccent, getTripDay, buildDayMapUrl } from '@/lib/utils'
 import { useCity } from '@/lib/city-context'
 
 function getDayMapLinks(day: typeof itinerary.days[0]): string[] {
@@ -35,7 +36,13 @@ function getHotelMapLink(dayNumber: number): string | undefined {
 }
 
 export function ItineraryView() {
-  const [selectedDay, setSelectedDay] = useState(1)
+  const location = useLocation()
+  const [selectedDay, setSelectedDay] = useState(() => getTripDay() ?? 1)
+  // Reset to current trip day on every navigation into the view (initial mount + same-tab taps).
+  // location.key changes on each navigate() call, even when navigating to the same path.
+  useEffect(() => {
+    setSelectedDay(getTripDay() ?? 1)
+  }, [location.key])
   const day = itinerary.days.find(d => d.dayNumber === selectedDay)
   const dayTransport = useMemo(() => transport.days.find(t => t.dayNumber === selectedDay), [selectedDay])
   const dayMapUrl = useMemo(() => {
