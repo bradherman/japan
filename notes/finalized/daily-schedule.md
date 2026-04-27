@@ -110,13 +110,15 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 ## Day 4: Tue, Apr 28 — Verve / Hanazono / Isetan Shopping / Nakajima / Sumo / Kappabashi / Sensoji / Pit Inn
 
 ```
-7:15 AM    Wake up
-7:30       Leave hotel, subway Shibuya → Jimbocho (Hanzomon Line, 15 min)
-7:45       Arrive Jimbocho
-7:50-8:30  Glitch Coffee — 2-3 bean tasting flight (~40 min)
-8:30-9:45  Browse Jimbocho bookshops, light wander (Maruka skipped today — sumo timing)
-10:00-10:15 Subway Jimbocho → Shinjuku-sanchome (Toei Shinjuku Line, ~12 min)
-10:15-10:55 Walk to Nakajima area, position near entrance
+6:45 AM    Wake up
+8:00       Leave hotel, subway Shibuya → Shinjuku-sanchome (Hanzomon Line, 10-12 min, ¥210)
+8:15       Arrive Shinjuku-sanchome
+8:15-8:45  Verve Coffee Roasters NEWoMan Shinjuku (opens 7am) — pour-over, single-origin
+8:45-9:00  Walk to Hanazono Shrine (5-10 min)
+9:00-9:20  Hanazono Shrine — quiet morning visit, small historic shrine
+9:20-9:50  Walk/browse area, settle toward Isetan Shinjuku
+10:00-10:40 ISETAN SHINJUKU MAIN BUILDING (opens 10am) — Alyona shops facial products, natural/organic skincare, beauty floor. Tax-free available.
+10:40-10:55 Walk to Nakajima area (3-5 min from Shinjuku-sanchome Stn)
 11:00-11:30 IN QUEUE at Nakajima ⚠️ FIRST WAVE — cash, no reservations, Tue-Sat only
 11:30-12:00 Eat sardine set FAST (~30 min) — leave by 12:00 sharp for sumo
 12:00-12:25 Walk Nakajima (Shinjuku 3-chome) → Shinjuku Sumo Club (Okubo 2-5-22, ~15 min via Yasukuni-dori)
