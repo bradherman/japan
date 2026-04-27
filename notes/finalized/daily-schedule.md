@@ -107,7 +107,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 ---
 
-## Day 4: Tue, Apr 28 — Glitch / Nakajima / Sumo / Kappabashi / Sensoji / Pit Inn
+## Day 4: Tue, Apr 28 — Verve / Hanazono / Isetan Shopping / Nakajima / Sumo / Kappabashi / Sensoji / Pit Inn
 
 ```
 7:15 AM    Wake up
