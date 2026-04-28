@@ -147,57 +147,59 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 
 ---
 
-## Day 5: Wed, Apr 29 — Showa Day — Meiji + Nakano (split) / Samurai Restaurant / Sushi
+## Day 5: Wed, Apr 29 — Showa Day — Meiji / Nakano / Mofusand / Samurai / Houseki / Loft / Beams / Late Cheap Eats
 
 ```
-8:00 AM    Wake up
-8:15       SPLIT: Brad → Nakano Broadway. Group → Meiji Shrine.
+7:30 AM    Wake up — gentle morning, key venues open at 11
+7:45-8:30  Konbini onigiri + coffee (or hotel area cafe). Light breakfast — Samurai meal is the main lunch at 2pm.
 
-           BRAD (solo flex):
-8:15-8:25  Walk to Shibuya Stn
-8:25-8:55  JR Yamanote Shibuya → Shinjuku → JR Chuo Shinjuku → Nakano (~25 min total)
-9:00-11:30 Nakano Broadway 3F — Jackroad, Kamekichi (opens 11:00), Fire Kids
-           ⚠️ Showa Day risk: phone/IG check key shops night before. Cash for leverage.
-11:30-12:00 Train Nakano → Harajuku, meet group for lunch
-
-           GROUP (Alyona, Dave, Gail):
-8:15       Leave hotel, walk to Meiji Shrine through Yoyogi Park (10 min)
-8:30-9:15  Meiji Shrine — peaceful walk, main hall, forest path (45 min)
-9:15-9:25  Walk to Harajuku / Takeshita-dori (10 min)
-9:25-10:00 Browse Harajuku — Takeshita-dori window shopping
-10:00-10:15 Walk to Harajuku Gyoza Ru
-10:15-10:45 Gyoza snack — best gyoza in Tokyo (~500-800 yen)
-10:45-11:00 Walk to Mofusand Harajuku (Yeva's gifts)
-11:00-11:30 Kiddyland Harajuku ⚠️ Pick up Licca-chan doll for Yeva (holiday hours 10:30-9pm)
-11:30-11:45 Walk to Koffee Mameya Omotesando — quick coffee sommelier experience
-11:45-12:00 Walk back toward Harajuku Stn for reunion
-
-           REUNITED — NO FORMAL LUNCH (Samurai 2pm includes meal):
-12:00-1:30 Free time — Brad back from Nakano. Wander Omotesando/Harajuku, hit any
-           shops missed earlier (Mofusand, Onitsuka Tiger Omotesando), or sit
-           for Koffee Mameya pour-over. Konbini onigiri or coffee if hungry.
-           Snack at Gyoza Ru already covered the morning.
-
-           SAMURAI RESTAURANT — KABUKICHO:
-1:30-1:40  JR Yamanote Harajuku → Shinjuku (~5 min, exit east)
+           BRAD (Meiji → Nakano → Mofusand):
+8:30-8:35  JR Yamanote Shibuya → Harajuku (1 stop, 3 min)
+8:35-9:45  Meiji Shrine + brief Yoyogi Park stroll — Showa Day vibe, locals picnicking, free
+9:45-10:25 Walk to Harajuku Stn → JR Yamanote → Shinjuku → JR Chuo → Nakano (~25-30 min)
+10:25-11:00 Coffee/wander Nakano (Bonchi or local cafe) — dealers open at 11
+11:00-12:30 Nakano Broadway 3F — Jackroad, Kamekichi (opens 11), Fire Kids ⚠️ Showa Day: phone-check key shops if specific piece in mind
+12:30-12:55 Train Nakano → Harajuku (~25 min via Shinjuku)
+12:55-1:25 Mofusand Harajuku — Yeva's gift run (~30 min)
+1:25-1:40  Walk to Harajuku Stn → JR Yamanote → Shinjuku
 1:40-1:55  Walk Shinjuku Stn → Kabukicho Samurai Restaurant
-1:55-2:00  Check in, claim seats
-2:00-3:30 ⚠️ SAMURAI RESTAURANT SHOW (90 min) — neon, drumming, dancers ⚠️ BOOKED
 
-3:30-3:45  Exit Samurai Restaurant, walk to Shinjuku Stn
-3:45-3:50  JR Yamanote Shinjuku → Shibuya (~5 min)
-3:55-5:00  Houseki Hiroba Shibuya — secondhand watch hunt. Walk-in. ⚠️ If nothing here, fall back to Grand Seiko Osaka Shinsaibashi on May 5 (world's largest Seiko store)
-5:00-5:20  Loft Shibuya — quick browse 6 floors of design goods (5 min from hotel)
-5:20-5:30  Walk to Midori Sushi Shibuya (or hotel detour to drop bags)
-5:30       Arrive Midori Sushi
-5:30-7:00  Queue at Midori (~60-90 min GW wait) ⚠️ ARRIVE BY 5:30-6PM
-7:00-8:00  Eat sushi dinner
-           (B) If line is insane → pivot to Ebisu Yokocho (1 stop on Yamanote)
-8:00-8:30  Walk back toward hotel area
-8:30       Option A: Ginza Music Bar (subway to Ginza, 15 min) — til 4am
-           Option B: JBS Vinyl Bar (walking distance) — no cover, til 11pm
-           Option C: Early night — Golden Week is on, save energy for Kyoto tomorrow
-10:00-11:00 Back to hotel — pack day bag for Shinkansen 10:12 AM
+           ALYONA + GAIL (Onsen):
+8:00-10:30 Slow morning, hotel coffee, light konbini snack
+10:30-10:50 Subway Shibuya → Shinjuku-sanchome (Hanzomon, ~10 min)
+10:50-11:00 Walk to Thermae-Yu Shinjuku (Kabukicho)
+11:00-1:00 ⚠️ THERMAE-YU SHINJUKU — multiple natural-water baths, sauna, outdoor rotenburo. ~¥2,800 holiday. Tattoo cover seals ¥300 each. 2-hour soak.
+1:00-1:55  Get dressed, light wander/coffee Kabukicho, meet group at Samurai
+
+           DAVE: Flex (sleep in / Loft Shibuya solo / join Brad at Nakano)
+
+           SAMURAI RESTAURANT (group reunion):
+1:55-2:00  All meet at Samurai Restaurant Kabukicho
+2:00-3:30 ⚠️ SAMURAI RESTAURANT SHOW (90 min, includes bento/meal — this IS lunch) ⚠️ BOOKED
+
+           AFTERNOON WATCH HUNT:
+3:30-3:45  Walk Kabukicho → Shinjuku Stn
+3:45-3:55  JR Yamanote Shinjuku → Shibuya (~5 min)
+4:00-5:30 ⚠️ HOUSEKI HIROBA SHIBUYA (PRIORITY) — secondhand watch hunt. ~5,000 watches. Walk-in. Tax-free.
+           ⚠️ If nothing here → Grand Seiko Boutique Kyoto Shijo (Apr 30 PM) or Osaka Shinsaibashi (May 5)
+
+           LATE AFTERNOON SHOPPING:
+5:30-6:00  Loft Shibuya — design goods, kitchenware, stationery (3 min walk from Houseki)
+6:00-6:45  Beams House Shibuya (Hikarie 8F) — fashion + lifestyle (~5 min walk from Loft)
+6:45-7:00  Walk back to hotel area, freshen up. Rain expected ~7pm.
+
+           DINNER — LATE CHEAP STREET FOOD (rain shelter):
+7:15-8:30  PICK ONE:
+           A) ⭐ Shibuya Yokocho at Miyashita Park — covered indoor yokocho, multiple regional yatai stalls (yakitori, takoyaki, oden, regional bites), ~¥1,000-2,000/pp. 5 min from hotel. Best rain pick.
+           B) Sakuratei Harajuku — DIY okonomyaki at the table, ~¥1,500-2,000/pp. 3 min train + 5 min walk.
+           C) Tonkasu Negiyaki Yamamoto Shibuya — Hiroshima okonomyaki, ~10 min walk, ~¥1,500/pp
+           D) CoCo Ichibanya Shibuya — curry katsu chain, ~¥1,000-1,500/pp
+           E) Tendon Tenya Shibuya — tempura don chain, cheap (~¥600-1,000/pp)
+
+           WIND DOWN FOR KYOTO:
+8:30-9:30  Optional: one drink at JBS Vinyl Bar (close, no cover, dry route)
+9:30-10:30 Pack day bag for tomorrow's Shinkansen. Confirm takkyubin sent. Alarm for 7:00 AM.
+10:30      Bed — 8:30 AM departure to Tokyo Station for Nozomi 23 at 10:12
 ```
 
 ~~**Pillow fitting: BOOKED**~~ — **CANCELLED** (not practical for 2-week trip)

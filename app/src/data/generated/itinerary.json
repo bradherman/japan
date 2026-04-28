@@ -652,39 +652,31 @@
       "dayNumber": 5,
       "date": "April 29",
       "dayOfWeek": "Wednesday",
-      "title": "Showa Day — Meiji / Harajuku / Samurai Restaurant / Sushi",
+      "title": "Showa Day — Meiji / Nakano / Mofusand / Samurai / Watch Hunt / Late Eats",
       "city": "Tokyo",
-      "subtitle": "With Dave & Gail. Golden Week Day 1 (Showa Day). Many family-run restaurants closed. Brad splits off in the morning for Nakano Broadway watch shopping while the group does Meiji + Harajuku, then everyone reunites for lunch and the 2pm Samurai Restaurant show in Kabukicho.",
-      "summary": "Golden Week kicks off. Brad solos to Nakano Broadway for the vintage watch crawl while Alyona, Dave, and Gail walk Meiji Shrine and Harajuku in the morning calm. The group reconvenes for a Harajuku lunch (Henry's Burger or Shin Udon), then heads to Kabukicho for the Samurai Restaurant 2pm show — flashy choreographed neon-and-drumming spectacle in the old Robot Restaurant space. Late afternoon is rest, then Midori Sushi for an early dinner queue, capped with Ginza Music Bar or JBS for vinyl.",
-      "morningCoffee": {
-        "kind": "coffee",
-        "name": "Koffee Mameya Omotesando",
-        "mapLink": "https://maps.google.com/?q=Koffee+Mameya+Omotesando+Tokyo",
-        "description": "Opens 10am. Coffee sommelier picks your bean. *(Group can swing through after Harajuku Gyoza Ru, ~11:15-11:45.)*"
-      },
+      "subtitle": "With Dave & Gail. Showa Day = Golden Week Day 1. Brad: Meiji + Nakano + Mofusand. Alyona + Gail: onsen morning. Group converges for 2pm Samurai. Afternoon: Houseki Hiroba (priority), Loft, Beams. Late cheap dinner. Pack and bed — 8:30 AM hotel departure tomorrow for the 10:12 Nozomi to Kyoto.",
+      "summary": "Last day in Tokyo. The morning splits cleanly: Brad does Meiji Shrine and Yoyogi Park first thing for the Showa Day vibe, then trains to Nakano Broadway for vintage watches at Jackroad, Kamekichi, and Fire Kids. Alyona and Gail head to Thermae-Yu for a long morning soak. Reunion at 2pm for the Samurai Restaurant show in Kabukicho (food included). Afternoon is the priority watch hunt at Houseki Hiroba in Shibuya, then Loft + Beams. Light early-snack breakfast, lunch is the Samurai bento, dinner is late and cheap — a Shibuya yokocho or DIY okonomyaki — before rain rolls in at 7.",
       "sections": [
         {
-          "title": "Morning Split — Brad: Nakano Broadway",
+          "title": "Brad's Morning — Meiji Shrine → Nakano → Mofusand",
           "activities": [
             {
-              "name": "Nakano Broadway",
+              "name": "11:00-12:30 [Nakano Broadway](https://maps.google.com/?q=Nakano+Broadway+Tokyo) 3F watch hunt:",
               "mapLink": "https://maps.google.com/?q=Nakano+Broadway+Tokyo",
-              "description": "THE vintage watch mecca. 3F is dealer floor",
-              "duration": "2.5 hrs",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Jackroad",
               "mapLink": "https://maps.google.com/?q=Jackroad+Nakano+Broadway+Tokyo",
-              "description": "Largest dealer at Nakano, multilingual, deep Rolex/Grand Seiko inventory",
+              "description": "Largest dealer at Nakano, multilingual, deep Rolex/Grand Seiko inventory. Opens 11:00",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Kamekichi",
               "mapLink": "https://maps.google.com/?q=Kamekichi+Nakano+Broadway+Tokyo",
-              "description": "3,000+ watches, Grand Seiko specialist. Hours 11:00-20:30",
+              "description": "3,000+ watches, Grand Seiko specialist. Opens 11:00",
               "priority": false,
               "reservationRequired": false
             },
@@ -698,43 +690,11 @@
           ]
         },
         {
-          "title": "Morning — Meiji Shrine + Harajuku",
-          "activities": [
-            {
-              "name": "Meiji Shrine",
-              "mapLink": "https://maps.google.com/?q=Meiji+Shrine+Tokyo",
-              "description": "Early morning is best (less crowded). Free, serene, majestic torii gate. Take JR Yamanote 1 stop to Harajuku, then 10 min walk to shrine entrance. (Or ~20-25 min walk from Shibuya.)",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Harajuku Gyoza Ru",
-              "mapLink": "https://maps.google.com/?q=Harajuku+Gyoza+Ro+Tokyo",
-              "description": "Best gyoza in Tokyo per multiple Instagram recs. Perfect mid-morning snack",
-              "priority": false,
-              "reservationRequired": false,
-              "price": "¥500-800"
-            },
-            {
-              "name": "Mofusand Tokyo Harajuku",
-              "mapLink": "https://maps.google.com/?q=Mofusand+Tokyo+Harajuku",
-              "description": "For Yeva's gifts",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Kiddyland Harajuku",
-              "mapLink": "https://maps.google.com/?q=Kiddyland+Harajuku+Jingumae",
-              "description": "6-1-9 Jingumae, ~3 min walk from Meiji-Jingumae Stn. Holiday hours 10:30 AM-9:00 PM. up a Licca-chan doll for Yeva — they carry the full range of Licca dolls and playsets",
-              "duration": "30 min",
-              "priority": true,
-              "reservationRequired": false
-            }
-          ]
+          "title": "Alyona + Gail's Morning — Onsen",
+          "activities": []
         },
         {
-          "title": "Midday — Reunion + Walk to Kabukicho",
-          "subtitle": "No formal lunch today — Samurai Restaurant ticket includes a bento/meal (depending on ticket type), and you've already snacked at Gyoza Ru. If anyone's hungry, grab a konbini onigiri / coffee on the way; otherwise just decompress.",
+          "title": "Dave's Morning — Flex",
           "activities": []
         },
         {
@@ -756,19 +716,31 @@
           ]
         },
         {
-          "title": "Late Afternoon — Shibuya Watch + Shop Crawl",
+          "title": "Afternoon Watch Hunt",
           "activities": [
             {
-              "name": "Houseki Hiroba Shibuya",
+              "name": "4:00-5:30 [Houseki Hiroba Shibuya](https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo)",
               "mapLink": "https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo",
-              "description": "5 min from hotel. Massive secondhand watch inventory: Rolex, Grand Seiko, Omega. Open 11:00-19:30 daily, walk-in. If Houseki has the piece — done. If not, fall back to Grand Seiko Osaka Shinsaibashi on May 5 (the world's largest Seiko/GS store, way better selection than Tokyo Ginza)",
+              "description": "5 min from hotel. Massive secondhand watch inventory: Rolex, Grand Seiko, Omega. ~5,000 watches refurbished and overhauled. Open 11:00-19:30 daily, walk-in. Tax-free with passport. If Houseki has the piece → done. If not, fallback to Grand Seiko Boutique Kyoto Shijo on Apr 30 afternoon (Nishiki Market neighborhood), or Osaka Shinsaibashi on May 5 (world's largest Seiko/Grand Seiko store)",
+              "priority": true,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
+          "title": "Late Afternoon Shopping",
+          "activities": [
+            {
+              "name": "5:30-6:00 [Loft Shibuya](https://maps.google.com/?q=Loft+Shibuya+21-1+Udagawacho+Tokyo)",
+              "mapLink": "https://maps.google.com/?q=Loft+Shibuya+21-1+Udagawacho+Tokyo",
+              "description": "21-1 Udagawacho, 3 min from Shibuya Stn. 6 floors of Japanese design goods, stationery, kitchenware. Open 10am-9pm. Focused 30-min browse",
               "priority": false,
               "reservationRequired": false
             },
             {
-              "name": "Loft Shibuya",
-              "mapLink": "https://maps.google.com/?q=Loft+Shibuya+21-1+Udagawacho+Tokyo",
-              "description": "21-1 Udagawacho, 3 min from Shibuya Stn. 6 floors of Japanese design goods, stationery, kitchenware. Open 10am-9pm. Quick browse on the way back to hotel",
+              "name": "6:00-6:45 [Beams House Shibuya](https://maps.google.com/?q=Beams+House+Shibuya+Hikarie+8F)",
+              "mapLink": "https://maps.google.com/?q=Beams+House+Shibuya+Hikarie+8F",
+              "description": "Shibuya Hikarie 8F, ~5 min walk from Loft. Beams' Shibuya outpost — fashion, lifestyle, accessories. Smaller than Beams Japan Shinjuku flagship but closer to hotel and rain-shelter friendly",
               "priority": false,
               "reservationRequired": false
             }
@@ -776,74 +748,88 @@
         },
         {
           "title": "Dinner",
-          "subtitle": "Holiday closures limit options. These stay open:",
+          "subtitle": "Rain is forecast 7-9 PM. Stay close to hotel and pick covered/indoor.",
           "activities": [
             {
-              "name": "Midori Sushi Shibuya",
-              "mapLink": "https://maps.google.com/?q=Umegaoka+Sushi+Midori+Shibuya",
-              "description": "Walk-in, queue before opening — Legendary quality-to-price. Expect 60-90 min GW wait. Queue overlooks Shibuya Crossing",
-              "priority": false,
+              "name": "Shibuya Yokocho at Miyashita Park",
+              "mapLink": "https://maps.google.com/?q=Shibuya+Yokocho+Miyashita+Park+Tokyo",
+              "description": "Indoor yokocho on the Miyashita Park complex, ~5 min walk from hotel. Multiple regional Japanese yatai stalls (Hokkaido, Osaka, Kyushu, etc.) — yakitori, takoyaki, oden, regional bites. Covered, perfect rain shelter. Cheap; delicious; variety",
+              "priority": true,
               "reservationRequired": false,
-              "lineUpTip": "Arrive by 5:30-6:00pm. Expect 60-90 min GW wait. Queue overlooks Shibuya Crossing.",
-              "price": "¥3,000-6,000"
+              "price": "¥1,000-2,000"
             },
             {
-              "name": "Ebisu Yokocho",
-              "mapLink": "https://maps.google.com/?q=Ebisu+Yokocho+Tokyo",
-              "description": "Izakaya/stall hopping — If sushi waits are too long",
+              "name": "Sakuratei Harajuku",
+              "mapLink": "https://maps.google.com/?q=Sakuratei+Harajuku+Okonomiyaki",
+              "description": "DIY okonomyaki (you cook on a hot plate at the table). Fun group experience. 3 min train to Harajuku; 5 min walk. Use covered routes via Shibuya Stn underground passages if rain is heavy",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
-              "price": "¥2,000-4,000"
+              "price": "¥1,500-2,000"
+            },
+            {
+              "name": "Tonkasu Negiyaki Yamamoto Shibuya",
+              "mapLink": "https://maps.google.com/?q=Yamamoto+Shibuya+okonomiyaki",
+              "description": "Hiroshima-style okonomyaki, ~10 min walk from hotel",
+              "priority": false,
+              "reservationRequired": false,
+              "backup": true,
+              "price": "¥1,500"
+            },
+            {
+              "name": "CoCo Ichibanya Shibuya",
+              "mapLink": "https://maps.google.com/?q=CoCo+Ichibanya+Shibuya",
+              "description": "Curry chain, multiple Shibuya locations. Curry katsu, customizable spice level",
+              "priority": false,
+              "reservationRequired": false,
+              "backup": true,
+              "price": "¥1,000-1,500"
+            },
+            {
+              "name": "Tendon Tenya Shibuya",
+              "mapLink": "https://maps.google.com/?q=Tendon+Tenya+Shibuya",
+              "description": "Tempura don chain. Cheap and fast. Multiple Shibuya locations",
+              "priority": false,
+              "reservationRequired": false,
+              "backup": true
             }
           ]
         },
         {
           "title": "Evening",
-          "activities": [
-            {
-              "name": "Ginza Music Bar",
-              "mapLink": "https://maps.google.com/?q=Ginza+Music+Bar+Tokyo",
-              "description": "Vinyl bar in Ginza. Curated listening sessions. Great sound system. Open Mon-Sat 7pm-4am",
-              "priority": false,
-              "reservationRequired": false
-            }
-          ]
+          "activities": []
         }
       ],
       "logistics": [
         {
-          "text": "Showa Day closures: Nakajima, Udon Maruka, Bird Land, most family-run spots closed. Henry's Burger and Shin Udon stay open on holidays."
+          "text": "8:30 AM hotel departure tomorrow (Apr 30) — Shinkansen Nozomi 23 at 10:12 AM from Tokyo Station. Pack day bag tonight. Takkyubin luggage to Kyoto should already be arranged."
         },
         {
-          "text": "Samurai Restaurant Apr 29 2:00 PM: ~¥9,000/pp (varies by ticket type). Book on Klook/GetYourGuide/Viator for 4. Show ~90 min. Kabukicho location, former Robot Restaurant building."
+          "text": "Showa Day closures: Nakajima, Udon Maruka, Bird Land, most family-run spots closed. Sumo, watch dealers, Beams, Loft, Mofusand, Thermae-Yu, Samurai Restaurant all open."
         },
         {
-          "text": "Brad's Nakano Broadway morning: Showa Day risk for small dealers — phone or IG-check Jackroad/Kamekichi/Fire Kids the night before. Cash gives negotiation leverage at Nakano shops; Ginza shops are more fixed pricing."
+          "text": "Samurai Restaurant Apr 29 2:00 PM: ~¥9,000/pp. Book on Klook/GetYourGuide/Viator for 4. Show ~90 min. Includes bento/meal — this IS lunch."
         },
         {
-          "text": "Onsen alt for Alyona + Gail (optional, not on schedule): While Brad is at Nakano Broadway 8:30-11:30 AM, the ladies can swap a slow Meiji+Harajuku morning for an onsen. Best Tokyo option is Thermae-Yu Shinjuku — largest urban onsen in Tokyo, 24-hour, ~10 min subway from Shibuya. Natural-water baths + outdoor rotenburo + sauna. ~¥2,500/pp + ¥300 tattoo cover seals if needed (covered tattoos OK; large tattoos may be denied — call 03-5285-1726 day-of to confirm). Do 9:00-11:00, meet group for noon Harajuku lunch. Smaller secondary window: Apr 28 Kappabashi knife shopping 2:50-4:15 — onsen-sento Jakotsu-yu is in Asakusa near Sensoji, but tight to fit a real soak."
+          "text": "Brad's Nakano Broadway morning: Watch dealers open 11:00 AM. Phone/IG-check Jackroad or Kamekichi if a specific piece matters. Cash gives leverage; Ginza shops are more fixed pricing."
         },
         {
-          "text": "~~Henry's Burger Harami reservation: DM @henrysburger_japan~~ — Lunch dropped from Apr 29: Samurai Restaurant 2pm includes the meal. Henry's Harami can shift to a different Tokyo lunch slot or skip this trip."
+          "text": "Thermae-Yu Shinjuku for Alyona + Gail: 11:00 AM-9:00 AM next day operation; tattoo cover seals ¥300 each, max 2 per person. Large tattoos may be denied — call 03-5285-1726 day-of to confirm. Holiday rate ~¥2,800/pp."
+        },
+        {
+          "text": "Rain forecast 7-9 PM: Plan dinner indoor / covered. Shibuya Yokocho at Miyashita Park is the easy rain-friendly pick."
+        },
+        {
+          "text": "~~Henry's Burger Harami reservation: DM @henrysburger_japan~~ — Not booked. Lunch dropped from Apr 29; Samurai Restaurant 2pm includes the meal."
         },
         {
           "text": "~~Nishikawa Pillow Fitting~~ — CANCELLED (not practical for 2-week trip)."
         },
         {
-          "text": "Send luggage to Kyoto via takkyubin this morning (arrange at front desk)."
-        },
-        {
-          "text": "Tomorrow: pack a day bag. Shinkansen to Kyoto departs 10:12 AM from Tokyo Station."
-        },
-        {
           "text": "Flower Mountain shoes — Save for Osaka's Tenjinbashi store (on the same shopping street as Harukoma sushi)."
         },
         {
-          "text": "Grand Seiko Factory Tour — 5.5 hours outside the city. Doesn't fit this trip. Brad can visit the Ginza flagship boutique on Apr 26."
-        },
-        {
-          "text": "Loft Shibuya — 21-1 Udagawacho, 3 min from Shibuya Station. 6 floors of Japanese design goods, stationery, kitchenware. Open 10am-9pm. Pop in anytime — it's right by your hotel."
+          "text": "Beams Japan Shinjuku flagship — Bigger Beams option in Shinjuku 3-chome, but Beams House Shibuya works on the way home tonight without a Shinjuku detour."
         }
       ]
     },

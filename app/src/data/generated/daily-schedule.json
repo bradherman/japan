@@ -492,47 +492,59 @@
   {
     "dayNumber": 4,
     "date": "Apr 28",
-    "title": "Glitch / Nakajima / Sumo / Kappabashi / Sensoji / Pit Inn",
+    "title": "Verve / Hanazono / Isetan Shopping / Nakajima / Sumo / Kappabashi / Sensoji / Pit Inn",
     "entries": [
       {
-        "time": "7:15 AM",
+        "time": "6:45 AM",
         "text": "Wake up",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "7:30",
-        "text": "Leave hotel, subway Shibuya → Jimbocho (Hanzomon Line, 15 min)",
+        "time": "8:00",
+        "text": "Leave hotel, subway Shibuya → Shinjuku-sanchome (Hanzomon Line, 10-12 min, ¥210)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "7:45",
-        "text": "Arrive Jimbocho",
+        "time": "8:15",
+        "text": "Arrive Shinjuku-sanchome",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "7:50-8:30",
-        "text": "Glitch Coffee — 2-3 bean tasting flight (~40 min)",
+        "time": "8:15-8:45",
+        "text": "Verve Coffee Roasters NEWoMan Shinjuku (opens 7am) — pour-over, single-origin",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "8:30-9:45",
-        "text": "Browse Jimbocho bookshops, light wander (Maruka skipped today — sumo timing)",
+        "time": "8:45-9:00",
+        "text": "Walk to Hanazono Shrine (5-10 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "10:00-10:15",
-        "text": "Subway Jimbocho → Shinjuku-sanchome (Toei Shinjuku Line, ~12 min)",
+        "time": "9:00-9:20",
+        "text": "Hanazono Shrine — quiet morning visit, small historic shrine",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "10:15-10:55",
-        "text": "Walk to Nakajima area, position near entrance",
+        "time": "9:20-9:50",
+        "text": "Walk/browse area, settle toward Isetan Shinjuku",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:40",
+        "text": "ISETAN SHINJUKU MAIN BUILDING (opens 10am) — Alyona shops facial products, natural/organic skincare, beauty floor. Tax-free available.",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:40-10:55",
+        "text": "Walk to Nakajima area (3-5 min from Shinjuku-sanchome Stn)",
         "isWarning": false,
         "isBackup": false
       },
@@ -685,133 +697,69 @@
   {
     "dayNumber": 5,
     "date": "Apr 29",
-    "title": "Showa Day — Meiji + Nakano (split) / Samurai Restaurant / Sushi",
+    "title": "Showa Day — Meiji / Nakano / Mofusand / Samurai / Houseki / Loft / Beams / Late Cheap Eats",
     "entries": [
       {
-        "time": "8:00 AM",
-        "text": "Wake up",
+        "time": "7:30 AM",
+        "text": "Wake up — gentle morning, key venues open at 11",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "8:15",
-        "text": "SPLIT: Brad → Nakano Broadway. Group → Meiji Shrine.",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "",
-        "text": "BRAD (solo flex):"
-      },
-      {
-        "time": "8:15-8:25",
-        "text": "Walk to Shibuya Stn",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "8:25-8:55",
-        "text": "JR Yamanote Shibuya → Shinjuku → JR Chuo Shinjuku → Nakano (~25 min total)",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "9:00-11:30",
-        "text": "Nakano Broadway 3F — Jackroad, Kamekichi (opens 11:00), Fire Kids",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "11:30-12:00",
-        "text": "Train Nakano → Harajuku, meet group for lunch",
+        "time": "7:45-8:30",
+        "text": "Konbini onigiri + coffee (or hotel area cafe). Light breakfast — Samurai meal is the main lunch at 2pm.",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "",
-        "text": "GROUP (Alyona, Dave, Gail):"
+        "text": "BRAD (Meiji → Nakano → Mofusand):"
       },
       {
-        "time": "8:15",
-        "text": "Leave hotel, walk to Meiji Shrine through Yoyogi Park (10 min)",
+        "time": "8:30-8:35",
+        "text": "JR Yamanote Shibuya → Harajuku (1 stop, 3 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "8:30-9:15",
-        "text": "Meiji Shrine — peaceful walk, main hall, forest path (45 min)",
+        "time": "8:35-9:45",
+        "text": "Meiji Shrine + brief Yoyogi Park stroll — Showa Day vibe, locals picnicking, free",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "9:15-9:25",
-        "text": "Walk to Harajuku / Takeshita-dori (10 min)",
+        "time": "9:45-10:25",
+        "text": "Walk to Harajuku Stn → JR Yamanote → Shinjuku → JR Chuo → Nakano (~25-30 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "9:25-10:00",
-        "text": "Browse Harajuku — Takeshita-dori window shopping",
+        "time": "10:25-11:00",
+        "text": "Coffee/wander Nakano (Bonchi or local cafe) — dealers open at 11",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "10:00-10:15",
-        "text": "Walk to Harajuku Gyoza Ru",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "10:15-10:45",
-        "text": "Gyoza snack — best gyoza in Tokyo (~500-800 yen)",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "10:45-11:00",
-        "text": "Walk to Mofusand Harajuku (Yeva's gifts)",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "11:00-11:30",
-        "text": "Kiddyland Harajuku ⚠️ Pick up Licca-chan doll for Yeva (holiday hours 10:30-9pm)",
+        "time": "11:00-12:30",
+        "text": "Nakano Broadway 3F — Jackroad, Kamekichi (opens 11), Fire Kids ⚠️ Showa Day: phone-check key shops if specific piece in mind",
         "isWarning": true,
         "isBackup": false
       },
       {
-        "time": "11:30-11:45",
-        "text": "Walk to Koffee Mameya Omotesando — quick coffee sommelier experience",
+        "time": "12:30-12:55",
+        "text": "Train Nakano → Harajuku (~25 min via Shinjuku)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "11:45-12:00",
-        "text": "Walk back toward Harajuku Stn for reunion",
+        "time": "12:55-1:25",
+        "text": "Mofusand Harajuku — Yeva's gift run (~30 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "",
-        "text": "REUNITED — NO FORMAL LUNCH (Samurai 2pm includes meal):"
-      },
-      {
-        "time": "12:00-1:30",
-        "text": "Free time — Brad back from Nakano. Wander Omotesando/Harajuku, hit any",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "",
-        "text": "Snack at Gyoza Ru already covered the morning."
-      },
-      {
-        "time": "",
-        "text": "SAMURAI RESTAURANT — KABUKICHO:"
-      },
-      {
-        "time": "1:30-1:40",
-        "text": "JR Yamanote Harajuku → Shinjuku (~5 min, exit east)",
+        "time": "1:25-1:40",
+        "text": "Walk to Harajuku Stn → JR Yamanote → Shinjuku",
         "isWarning": false,
         "isBackup": false
       },
@@ -822,93 +770,152 @@
         "isBackup": false
       },
       {
+        "time": "",
+        "text": "ALYONA + GAIL (Onsen):"
+      },
+      {
+        "time": "8:00-10:30",
+        "text": "Slow morning, hotel coffee, light konbini snack",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:30-10:50",
+        "text": "Subway Shibuya → Shinjuku-sanchome (Hanzomon, ~10 min)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "10:50-11:00",
+        "text": "Walk to Thermae-Yu Shinjuku (Kabukicho)",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:00-1:00",
+        "text": "⚠️ THERMAE-YU SHINJUKU — multiple natural-water baths, sauna, outdoor rotenburo. ~¥2,800 holiday. Tattoo cover seals ¥300 each. 2-hour soak.",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "1:00-1:55",
+        "text": "Get dressed, light wander/coffee Kabukicho, meet group at Samurai",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "DAVE: Flex (sleep in / Loft Shibuya solo / join Brad at Nakano)"
+      },
+      {
+        "time": "",
+        "text": "SAMURAI RESTAURANT (group reunion):"
+      },
+      {
         "time": "1:55-2:00",
-        "text": "Check in, claim seats",
+        "text": "All meet at Samurai Restaurant Kabukicho",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "2:00-3:30",
-        "text": "⚠️ SAMURAI RESTAURANT SHOW (90 min) — neon, drumming, dancers ⚠️ BOOKED",
+        "text": "⚠️ SAMURAI RESTAURANT SHOW (90 min, includes bento/meal — this IS lunch) ⚠️ BOOKED",
         "isWarning": true,
         "isBackup": false
       },
       {
+        "time": "",
+        "text": "AFTERNOON WATCH HUNT:"
+      },
+      {
         "time": "3:30-3:45",
-        "text": "Exit Samurai Restaurant, walk to Shinjuku Stn",
+        "text": "Walk Kabukicho → Shinjuku Stn",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "3:45-3:50",
+        "time": "3:45-3:55",
         "text": "JR Yamanote Shinjuku → Shibuya (~5 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "3:55-5:00",
-        "text": "Houseki Hiroba Shibuya — secondhand watch hunt. Walk-in. ⚠️ If nothing here, fall back to Grand Seiko Osaka Shinsaibashi on May 5 (world's largest Seiko store)",
+        "time": "4:00-5:30",
+        "text": "⚠️ HOUSEKI HIROBA SHIBUYA (PRIORITY) — secondhand watch hunt. ~5,000 watches. Walk-in. Tax-free.",
         "isWarning": true,
         "isBackup": false
       },
       {
-        "time": "5:00-5:20",
-        "text": "Loft Shibuya — quick browse 6 floors of design goods (5 min from hotel)",
+        "time": "",
+        "text": "LATE AFTERNOON SHOPPING:"
+      },
+      {
+        "time": "5:30-6:00",
+        "text": "Loft Shibuya — design goods, kitchenware, stationery (3 min walk from Houseki)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "5:20-5:30",
-        "text": "Walk to Midori Sushi Shibuya (or hotel detour to drop bags)",
+        "time": "6:00-6:45",
+        "text": "Beams House Shibuya (Hikarie 8F) — fashion + lifestyle (~5 min walk from Loft)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "5:30",
-        "text": "Arrive Midori Sushi",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "5:30-7:00",
-        "text": "Queue at Midori (~60-90 min GW wait) ⚠️ ARRIVE BY 5:30-6PM",
-        "isWarning": true,
-        "isBackup": false
-      },
-      {
-        "time": "7:00-8:00",
-        "text": "Eat sushi dinner",
+        "time": "6:45-7:00",
+        "text": "Walk back to hotel area, freshen up. Rain expected ~7pm.",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "",
-        "text": "(B) If line is insane → pivot to Ebisu Yokocho (1 stop on Yamanote)",
+        "text": "DINNER — LATE CHEAP STREET FOOD (rain shelter):"
+      },
+      {
+        "time": "7:15-8:30",
+        "text": "PICK ONE:",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "A) ⭐ Shibuya Yokocho at Miyashita Park — covered indoor yokocho, multiple regional yatai stalls (yakitori, takoyaki, oden, regional bites), ~¥1,000-2,000/pp. 5 min from hotel. Best rain pick."
+      },
+      {
+        "time": "",
+        "text": "B) Sakuratei Harajuku — DIY okonomyaki at the table, ~¥1,500-2,000/pp. 3 min train + 5 min walk."
+      },
+      {
+        "time": "",
+        "text": "C) Tonkasu Negiyaki Yamamoto Shibuya — Hiroshima okonomyaki, ~10 min walk, ~¥1,500/pp"
+      },
+      {
+        "time": "",
+        "text": "D) CoCo Ichibanya Shibuya — curry katsu chain, ~¥1,000-1,500/pp"
+      },
+      {
+        "time": "",
+        "text": "E) Tendon Tenya Shibuya — tempura don chain, cheap (~¥600-1,000/pp)"
+      },
+      {
+        "time": "",
+        "text": "WIND DOWN FOR KYOTO:"
+      },
+      {
+        "time": "8:30-9:30",
+        "text": "Optional: one drink at JBS Vinyl Bar (close, no cover, dry route)",
+        "isWarning": false,
         "isBackup": true
       },
       {
-        "time": "8:00-8:30",
-        "text": "Walk back toward hotel area",
+        "time": "9:30-10:30",
+        "text": "Pack day bag for tomorrow's Shinkansen. Confirm takkyubin sent. Alarm for 7:00 AM.",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "8:30",
-        "text": "Option A: Ginza Music Bar (subway to Ginza, 15 min) — til 4am",
-        "isWarning": false,
-        "isBackup": true
-      },
-      {
-        "time": "",
-        "text": "Option B: JBS Vinyl Bar (walking distance) — no cover, til 11pm"
-      },
-      {
-        "time": "",
-        "text": "Option C: Early night — Golden Week is on, save energy for Kyoto tomorrow"
-      },
-      {
-        "time": "10:00-11:00",
-        "text": "Back to hotel — pack day bag for Shinkansen 10:12 AM",
+        "time": "10:30",
+        "text": "Bed — 8:30 AM departure to Tokyo Station for Nozomi 23 at 10:12",
         "isWarning": false,
         "isBackup": false
       }
