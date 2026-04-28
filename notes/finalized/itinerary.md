@@ -247,10 +247,11 @@
 
 > Last day in Tokyo. The morning splits cleanly: Brad does Meiji Shrine and Yoyogi Park first thing
 > for the Showa Day vibe, then trains to Nakano Broadway for vintage watches at Jackroad, Kamekichi,
-> and Fire Kids. Alyona and Gail head to Thermae-Yu for a long morning soak. Reunion at 2pm for the
-> Samurai Restaurant show in Kabukicho (food included). Afternoon is the priority watch hunt at
-> Houseki Hiroba in Shibuya, then Loft + Beams. Light early-snack breakfast, lunch is the Samurai
-> bento, dinner is late and cheap — a Shibuya yokocho or DIY okonomyaki — before rain rolls in at 7.
+> and Fire Kids. Alyona and Gail flex — coffee + slow morning, with Shibuya SAUNAS as an optional
+> easy-walk add (next door to hotel) pre- or post-lunch. Reunion at 2pm for the Samurai Restaurant
+> show in Kabukicho (food included). Afternoon is the priority watch hunt at Houseki Hiroba in
+> Shibuya, then Loft + Beams. Light early-snack breakfast, lunch is the Samurai bento, dinner is
+> late and cheap — a Shibuya yokocho or DIY okonomyaki — before rain rolls in at 7.
 
 **Morning Coffee:** [Lights Up Coffee Shibuya](https://maps.google.com/?q=Lights+Up+Coffee+Shibuya) — Opens 8 AM daily (incl. holidays), pour-over + house pastries (croissant, cinnamon roll). 5-min walk from hotel, light snack here covers your "early snack with coffee" since the Samurai bento at 2 PM is the actual lunch.
 
@@ -268,10 +269,9 @@
 
 *Brad's transit notes:* Hotel → Shibuya Stn (5 min walk) → JR Yamanote 1 stop to Harajuku (3 min) → 7-min walk to Meiji torii. After Yoyogi: walk back to Harajuku Stn → JR Yamanote 2 stops to Shinjuku (5 min) → JR Chuo Rapid 1 stop to Nakano (5 min) → 5-min walk through SunMall arcade. Reverse for Mofusand. Walk + train to Samurai 1:50-1:55.
 
-### Alyona + Gail's Morning — Onsen
-- **[Thermae-Yu Shinjuku](https://maps.google.com/?q=Thermae+Yu+Shinjuku+Kabukicho)** — 11:00 AM-1:00 PM. Largest urban onsen in Tokyo, in Kabukicho. 9 distinct baths (indoor Roman bath, outdoor rotenburo, silky high-density carbonate bath, Cleopatra bath, salt sauna, low-temp mist sauna). Natural hot spring water trucked in daily from Nakaizu. ~¥2,800 holiday rate. Tattoo cover seals ¥300 each, max 2 per person — call 03-5285-1726 day-of if either has tattoos larger than that.
-
-*Alyona+Gail transit:* Pack first, then 5-min walk to Shibuya Stn → Hanzomon Line (purple) 2 stops to Shinjuku-sanchome (~10 min, no transfer) → 5-7 min walk through Kabukicho. After onsen: 5-min walk through Kabukicho to meet group at Samurai (same neighborhood).
+### Alyona + Gail's Morning — Flex (Coffee + Optional Sauna)
+- **[Shibuya SAUNAS](https://maps.google.com/?q=Shibuya+SAUNAS+18-9+Sakuragaokacho)** — Optional, **easy walk: literally next door to Granbell** (Sakuragaoka 18-9 vs hotel at 15-17, ~30 sec). Modern Tokyo sauna (NOT a traditional onsen) — 9 sauna rooms + 4 cold plunge baths across two buildings (WOODS + LÄMPI), alternating men/women by odd/even date. Apr 29 = odd, check signage at door. **Tattoo-friendly** (no cover seals needed). Open 8 AM – midnight. ~¥3,300-3,800/pp. 90-120 min for a real sauna→cold plunge→rest cycle. **Slottable pre-lunch (e.g., 11:00-1:00) or post-lunch (e.g., 4:00-6:00 while Brad does Houseki + Loft + Beams).**
+- **If skipping sauna entirely:** slow morning at hotel, coffee at Lights Up Coffee, browse Hikarie / Cat Street / Omotesando, meet group at Samurai 1:55 PM.
 
 ### Dave's Morning — Flex
 Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Nakano if the watch crawl appeals. Meet group at Samurai 1:55 PM.
@@ -303,7 +303,8 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - **Showa Day closures:** Nakajima, Udon Maruka, Bird Land, most family-run spots closed. Sumo, watch dealers, Beams, Loft, Mofusand, Thermae-Yu, Samurai Restaurant all open.
 - **Samurai Restaurant Apr 29 2:00 PM:** ~¥9,000/pp. Book on Klook/GetYourGuide/Viator for 4. Show ~90 min. Includes bento/meal — this IS lunch.
 - **Brad's Nakano Broadway morning:** Watch dealers open 11:00 AM. Phone/IG-check Jackroad or Kamekichi if a specific piece matters. Cash gives leverage; Ginza shops are more fixed pricing.
-- **Thermae-Yu Shinjuku for Alyona + Gail:** 11:00 AM-9:00 AM next day operation; tattoo cover seals ¥300 each, max 2 per person. Large tattoos may be denied — call 03-5285-1726 day-of to confirm. Holiday rate ~¥2,800/pp.
+- **Shibuya SAUNAS** (Alyona + Gail's flex option): 30-sec walk from Granbell (Sakuragaoka 18-9). Tattoo-friendly. 8 AM-midnight. ~¥3,300-3,800/pp holiday. Phone 03-6627-4757. Apr 29 is an odd-numbered day — confirm at door which side (WOODS or LÄMPI) is women's today.
+- ~~**Thermae-Yu Shinjuku** option~~ — replaced by Shibuya SAUNAS (Alyona not sold on traditional onsen today).
 - **Rain forecast 7-9 PM:** Plan dinner indoor / covered. Shibuya Yokocho at Miyashita Park is the easy rain-friendly pick.
 - ~~**Henry's Burger Harami reservation:** DM @henrysburger_japan~~ — **Not booked. Lunch dropped from Apr 29; Samurai Restaurant 2pm includes the meal.**
 - ~~Nishikawa Pillow Fitting~~ — **CANCELLED** (not practical for 2-week trip).

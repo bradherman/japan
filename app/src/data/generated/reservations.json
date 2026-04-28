@@ -277,10 +277,21 @@
     {
       "name": "Houseki Hiroba Shibuya",
       "details": "Massive secondhand watch inventory — Rolex, Grand Seiko, Omega. 5 min from Granbell. Tax-free with passport.",
-      "date": "Apr 29, 3:55 PM",
+      "date": "Apr 29, 4:00 PM",
       "cost": "walk-in",
       "bookingMethod": "11:00-19:30 daily. If Houseki strikes out → Grand Seiko Osaka Shinsaibashi on May 5.",
       "mapLink": "https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Shibuya SAUNAS (Alyona + Gail flex)",
+      "details": "Modern Tokyo sauna — 9 sauna rooms + 4 cold plunge baths. 18-9 Sakuragaoka-cho — 30 sec from Granbell. Tattoo-friendly. WOODS / LÄMPI alternate by odd/even date — Apr 29 = odd, check signage.",
+      "date": "Apr 29 (flex pre- or post-lunch)",
+      "cost": "~¥3,300-3,800/pp",
+      "bookingMethod": "8 AM-midnight. Phone 03-6627-4757. Skip-able if Alyona doesn't feel it today.",
+      "mapLink": "https://maps.google.com/?q=Shibuya+SAUNAS+18-9+Sakuragaokacho",
       "status": "walk-in",
       "category": "walk-in",
       "city": "Tokyo"

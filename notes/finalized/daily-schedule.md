@@ -164,12 +164,15 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 1:25-1:40  Walk to Harajuku Stn → JR Yamanote → Shinjuku
 1:40-1:55  Walk Shinjuku Stn → Kabukicho Samurai Restaurant
 
-           ALYONA + GAIL (Onsen):
-8:00-10:30 Slow morning, hotel coffee, light konbini snack
-10:30-10:50 Subway Shibuya → Shinjuku-sanchome (Hanzomon, ~10 min)
-10:50-11:00 Walk to Thermae-Yu Shinjuku (Kabukicho)
-11:00-1:00 ⚠️ THERMAE-YU SHINJUKU — multiple natural-water baths, sauna, outdoor rotenburo. ~¥2,800 holiday. Tattoo cover seals ¥300 each. 2-hour soak.
-1:00-1:55  Get dressed, light wander/coffee Kabukicho, meet group at Samurai
+           ALYONA + GAIL (Flex):
+8:00-9:00  Pack, slow morning at hotel
+9:00-9:30  Coffee at Lights Up (or Cona)
+9:30-11:00 Browse Shibuya — Hikarie, Cat Street, Omotesando, whatever's open
+           OPTIONAL — Shibuya SAUNAS (30-sec walk from hotel, tattoo-friendly):
+           Pre-lunch slot: 11:00-1:00 (sauna+cold plunge cycle), then walk to Samurai 1:30-1:55
+           OR Post-lunch slot: 4:00-6:00 PM while Brad does Houseki/Loft/Beams (skip those if doing sauna)
+           IF SKIPPING SAUNA ENTIRELY:
+11:00-1:30 Free wander Shibuya/Omotesando, light snack/coffee, meet group at Samurai 1:55
 
            DAVE: Flex (sleep in / Loft Shibuya solo / join Brad at Nakano)
 
