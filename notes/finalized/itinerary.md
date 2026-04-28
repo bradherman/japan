@@ -252,59 +252,51 @@
 > Houseki Hiroba in Shibuya, then Loft + Beams. Light early-snack breakfast, lunch is the Samurai
 > bento, dinner is late and cheap — a Shibuya yokocho or DIY okonomyaki — before rain rolls in at 7.
 
-**Morning Snack/Coffee:** Konbini onigiri + canned coffee from 7-Eleven near hotel, OR walk to a Shibuya cafe for a quick pour-over. Keep it light — Samurai meal lands at 2pm.
+**Morning Coffee:** [Lights Up Coffee Shibuya](https://maps.google.com/?q=Lights+Up+Coffee+Shibuya) — Opens 8 AM daily (incl. holidays), pour-over + house pastries (croissant, cinnamon roll). 5-min walk from hotel, light snack here covers your "early snack with coffee" since the Samurai bento at 2 PM is the actual lunch.
 
-### Brad's Morning — Meiji Shrine → Nakano → Mofusand (~8:30 AM-1:25 PM)
-- 8:30-8:35 JR Yamanote Shibuya → Harajuku (1 stop, 3 min)
-- 8:35-9:45 **[Meiji Shrine](https://maps.google.com/?q=Meiji+Shrine+Tokyo)** + brief Yoyogi Park stroll (locals picnicking on Showa Day, free, peaceful). The Spring Grand Festival is happening late April-May 3 — main performances are May 2-3, but the shrine still has festival-energy this week.
-- 9:45-10:25 Walk to Harajuku Stn → JR Yamanote → Shinjuku → JR Chuo → Nakano (~25-30 min total)
-- 10:25-11:00 Coffee/wander Nakano (Bonchi Cafe or local spot) — watch dealers don't open until 11:00, so this is the buffer.
-- **11:00-12:30 [Nakano Broadway](https://maps.google.com/?q=Nakano+Broadway+Tokyo) 3F watch hunt:**
-  - **[Jackroad](https://maps.google.com/?q=Jackroad+Nakano+Broadway+Tokyo)** — Largest dealer at Nakano, multilingual, deep Rolex/Grand Seiko inventory. Opens 11:00.
-  - **[Kamekichi](https://maps.google.com/?q=Kamekichi+Nakano+Broadway+Tokyo)** — 3,000+ watches, Grand Seiko specialist. Opens 11:00.
-  - **[Fire Kids](https://maps.google.com/?q=Fire+Kids+Nakano+Broadway+Tokyo)** — Curated Japanese vintage.
-  - *Showa Day risk:* large dealers stay open; small one-off booths can be hit-or-miss. Phone/IG check Jackroad or Kamekichi before going if a specific piece matters.
-- 12:30-12:55 Train Nakano → JR Chuo → Shinjuku → JR Yamanote → Harajuku (~25 min)
-- 12:55-1:25 **[Mofusand Tokyo Harajuku](https://maps.google.com/?q=Mofusand+Tokyo+Harajuku)** — Yeva's gift run (Mofusand is the cat-themed merch line). 30 min for browse + checkout.
-- 1:25-1:40 Walk Harajuku Stn, JR Yamanote → Shinjuku
-- 1:40-1:55 Walk Shinjuku Stn → Kabukicho Samurai Restaurant for 2:00 check-in.
+### Morning Coffee + Snack (~9:00-9:30 AM)
+- **[Lights Up Coffee Shibuya](https://maps.google.com/?q=Lights+Up+Coffee+Shibuya)** — Sit-down spot, hand-drip pour-over + pastries. Easy place to meet up after packing wraps. *Backup if line/closed: [About Life Coffee Brewers](https://maps.google.com/?q=About+Life+Coffee+Brewers+Shibuya) (standing-only espresso bar, opens 9 AM holidays, 5 min from hotel).*
 
-### Alyona + Gail's Morning — Onsen (~10:30 AM-1:00 PM)
-- 8:00-10:30 Slow morning, hotel coffee, light konbini snack.
-- 10:30-10:50 Subway Shibuya → Shinjuku-sanchome (Hanzomon Line, ~10 min).
-- 10:50-11:00 Walk to **[Thermae-Yu Shinjuku](https://maps.google.com/?q=Thermae+Yu+Shinjuku+Kabukicho)** — largest urban onsen in Tokyo, in Kabukicho.
-- 11:00-1:00 Onsen — multiple natural-water baths, sauna, outdoor rotenburo. ~¥2,800 holiday rate. Tattoo cover seals ¥300 each (max 2 per person). 2-hour soak.
-- 1:00-1:55 Get dressed, light wander or coffee in Kabukicho area, meet group at Samurai Restaurant.
+### Brad's Morning — Meiji Shrine + Nakano Broadway + Mofusand
+- **[Meiji Shrine](https://maps.google.com/?q=Meiji+Shrine+Tokyo)** — 9:50-10:50 AM. Tokyo's most iconic Shinto shrine, dedicated to Emperor Meiji (Emperor Showa's grandfather, perfectly thematic for Showa Day). Sits inside a 170,000-tree cypress forest donated from every prefecture in Japan. Stop at the **temizuya** for the cleansing ritual, walk through the cypress otorii, see the prayer plaques and main hall. Free entry.
+- **[Yoyogi Park](https://maps.google.com/?q=Yoyogi+Park+Tokyo)** — 10:30-10:50 AM. Adjacent to Meiji Shrine, exit to it on your way back to Harajuku Stn. Locals picnic on Showa Day — pure Golden Week kickoff energy. Free.
+- **[Nakano Broadway](https://maps.google.com/?q=Nakano+Broadway+Tokyo)** — 11:25 AM-12:55 PM. THE vintage watch density in Tokyo. 3F is the dealer floor. Bring cash for negotiation leverage (5-10% off realistic at Nakano vs fixed-price Ginza). 90 min covers all 3 priority dealers below.
+- **[Jackroad](https://maps.google.com/?q=Jackroad+Nakano+Broadway+Tokyo)** — Largest Nakano dealer, English-fluent staff, deep Rolex + Grand Seiko inventory. Start here — highest volume + no language friction. Opens 11:00.
+- **[Kamekichi](https://maps.google.com/?q=Kamekichi+Nakano+Broadway+Tokyo)** — 3,000+ watches, Grand Seiko + King Seiko specialist. If you're after a vintage GS, this is the shop. Opens 11:00.
+- **[Fire Kids](https://maps.google.com/?q=Fire+Kids+Nakano+Broadway+Tokyo)** — Curated Japanese vintage, smaller but unique selection. Best for the "weird old piece you didn't know you wanted" find.
+- **[Mofusand Tokyo Harajuku](https://maps.google.com/?q=Mofusand+Tokyo+Harajuku)** — 1:20-1:45 PM. Yeva's gift run. Permanent flagship opened Dec 2024 — the only place with the full Mofusand range (cat-themed plushies, stationery, mugs, apparel) under one roof. Cat Street area, ~3 min from Meiji-Jingumae Stn.
+
+*Brad's transit notes:* Hotel → Shibuya Stn (5 min walk) → JR Yamanote 1 stop to Harajuku (3 min) → 7-min walk to Meiji torii. After Yoyogi: walk back to Harajuku Stn → JR Yamanote 2 stops to Shinjuku (5 min) → JR Chuo Rapid 1 stop to Nakano (5 min) → 5-min walk through SunMall arcade. Reverse for Mofusand. Walk + train to Samurai 1:50-1:55.
+
+### Alyona + Gail's Morning — Onsen
+- **[Thermae-Yu Shinjuku](https://maps.google.com/?q=Thermae+Yu+Shinjuku+Kabukicho)** — 11:00 AM-1:00 PM. Largest urban onsen in Tokyo, in Kabukicho. 9 distinct baths (indoor Roman bath, outdoor rotenburo, silky high-density carbonate bath, Cleopatra bath, salt sauna, low-temp mist sauna). Natural hot spring water trucked in daily from Nakaizu. ~¥2,800 holiday rate. Tattoo cover seals ¥300 each, max 2 per person — call 03-5285-1726 day-of if either has tattoos larger than that.
+
+*Alyona+Gail transit:* Pack first, then 5-min walk to Shibuya Stn → Hanzomon Line (purple) 2 stops to Shinjuku-sanchome (~10 min, no transfer) → 5-7 min walk through Kabukicho. After onsen: 5-min walk through Kabukicho to meet group at Samurai (same neighborhood).
 
 ### Dave's Morning — Flex
-- Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Nakano if the watch crawl appeals. Meet group at Samurai 1:55 PM.
+Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Nakano if the watch crawl appeals. Meet group at Samurai 1:55 PM.
 
-### Samurai Restaurant Show (2:00 PM) — Kabukicho
-- **[Samurai Restaurant](https://maps.google.com/?q=Samurai+Restaurant+Kabukicho+Shinjuku)** — former Robot Restaurant location.
-- **2:00-3:30 PM — Samurai Restaurant show (90 min).** Choreographed neon-and-drumming spectacle, dancers, costumed performers. ~¥9,000/pp incl. show + bento/drinks (depending on ticket type). *BOOKED 2:00 PM via Klook/GetYourGuide for 4. **This IS lunch.***
+### Samurai Restaurant Show (2:00 PM)
+- **[Samurai Restaurant Kabukicho](https://maps.google.com/?q=Samurai+Restaurant+Kabukicho+Shinjuku)** — 2:00-3:30 PM, BOOKED. Successor to the legendary Robot Restaurant in the same Kabukicho building (Robot closed 2020). 90-min choreographed spectacle: neon, taiko drumming, dancers, costumed warrior performers. **Ticket includes bento + drink — this IS your lunch.** ~¥9,000/pp.
 
-### Afternoon Watch Hunt (~3:30-5:30 PM)
-- 3:30-3:45 Walk Kabukicho → Shinjuku Stn.
-- 3:45-3:55 JR Yamanote Shinjuku → Shibuya (~5 min).
-- **4:00-5:30 [Houseki Hiroba Shibuya](https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo)** — **PRIORITY.** 5 min from hotel. Massive secondhand watch inventory: Rolex, Grand Seiko, Omega. ~5,000 watches refurbished and overhauled. Open 11:00-19:30 daily, walk-in. Tax-free with passport. **If Houseki has the piece → done.** If not, fallback to Grand Seiko Boutique **Kyoto Shijo** on Apr 30 afternoon (Nishiki Market neighborhood), or **Osaka Shinsaibashi** on May 5 (world's largest Seiko/Grand Seiko store).
+### Afternoon Watch Hunt + Shopping
+- **[Houseki Hiroba Shibuya](https://maps.google.com/?q=Houseki+Hiroba+Shibuya+Tokyo)** — 4:00-5:30 PM. **PRIORITY watch destination.** ~5,000 secondhand watches across Honten + 別館 (Rolex, Grand Seiko, Omega, Patek). Every piece refurbished + overhauled in-house by their watchmaker. Tax-free with passport. Walk-in. **If you find the piece → done.** Otherwise fallback to Grand Seiko Kyoto Shijo (Apr 30 PM) or Osaka Shinsaibashi (May 5, world's largest Seiko/GS store).
+- **[Loft Shibuya](https://maps.google.com/?q=Loft+Shibuya+21-1+Udagawacho+Tokyo)** — 5:30-6:00 PM. **Best one-stop souvenir shop in Shibuya.** 6 floors of Japanese design goods: 1F-2F stationery (washi tape, fountain pens, MD notebooks — perfect small gifts), 3F kitchenware, 4F homeware, 5F bath/beauty, 6F lifestyle. Open 10am-9pm. 30-min focused browse.
+- **[Beams House Shibuya (Hikarie 8F)](https://maps.google.com/?q=Beams+House+Shibuya+Hikarie+8F)** — 6:00-6:45 PM. Beams' Shibuya outpost in Hikarie tower's 8F lifestyle floor. Mix of Beams' own lines (Beams Plus, Beams Boy, Beams T graphic tees), curated apparel, accessories. Smaller than Beams Japan Shinjuku flagship — but Hikarie connects to Shibuya Stn via covered indoor passages, so you stay dry as the rain comes in.
 
-### Late Afternoon Shopping (~5:30-7:00 PM)
-- **5:30-6:00 [Loft Shibuya](https://maps.google.com/?q=Loft+Shibuya+21-1+Udagawacho+Tokyo)** — 21-1 Udagawacho, 3 min from Shibuya Stn. 6 floors of Japanese design goods, stationery, kitchenware. Open 10am-9pm. Focused 30-min browse.
-- **6:00-6:45 [Beams House Shibuya](https://maps.google.com/?q=Beams+House+Shibuya+Hikarie+8F)** — Shibuya Hikarie 8F, ~5 min walk from Loft. Beams' Shibuya outpost — fashion, lifestyle, accessories. Smaller than Beams Japan Shinjuku flagship but closer to hotel and rain-shelter friendly.
-- 6:45-7:00 Walk back to hotel area, freshen up. Rain expected ~7 PM.
+*Afternoon transit:* Walk Kabukicho → Shinjuku Stn (12 min) → JR Yamanote 2 stops to Shibuya (5 min) → 5-min walk to Houseki. Houseki → Loft = 3-min walk. Loft → Hikarie = 5-7 min walk via covered Shibuya Stn underground. Hikarie → hotel = 5-min walk.
 
 ### Dinner (~7:15-8:30 PM) — Late Cheap Eats
-*Rain is forecast 7-9 PM. Stay close to hotel and pick covered/indoor.*
-1. **[Shibuya Yokocho at Miyashita Park](https://maps.google.com/?q=Shibuya+Yokocho+Miyashita+Park+Tokyo)** — PRIORITY. Indoor yokocho on the Miyashita Park complex, ~5 min walk from hotel. Multiple regional Japanese yatai stalls (Hokkaido, Osaka, Kyushu, etc.) — yakitori, takoyaki, oden, regional bites. ¥1,000-2,000/pp. Covered, perfect rain shelter. Cheap + delicious + variety.
-2. **[Sakuratei Harajuku](https://maps.google.com/?q=Sakuratei+Harajuku+Okonomiyaki)** — DIY okonomyaki (you cook on a hot plate at the table). Fun group experience. ~¥1,500-2,000/pp. 3 min train to Harajuku + 5 min walk. *Use covered routes via Shibuya Stn underground passages if rain is heavy.*
-3. **[Tonkasu Negiyaki Yamamoto Shibuya](https://maps.google.com/?q=Yamamoto+Shibuya+okonomiyaki)** — Hiroshima-style okonomyaki, ~10 min walk from hotel. ~¥1,500/pp.
-4. **[CoCo Ichibanya Shibuya](https://maps.google.com/?q=CoCo+Ichibanya+Shibuya)** — Curry chain, multiple Shibuya locations. **Curry katsu**, customizable spice level. ~¥1,000-1,500/pp.
-5. **[Tendon Tenya Shibuya](https://maps.google.com/?q=Tendon+Tenya+Shibuya)** — Tempura don chain. Cheap (~¥600-1,000/pp) and fast. Multiple Shibuya locations.
+*Rain forecast 7-9 PM. Stay close to hotel + indoor.*
+- **[Shibuya Yokocho at Miyashita Park](https://maps.google.com/?q=Shibuya+Yokocho+Miyashita+Park+Tokyo)** — PRIORITY pick. Indoor yokocho on the Miyashita Park complex. **Multiple regional Japanese yatai stalls** under one covered roof — Hokkaido seafood (scallops, kani), Osaka kushikatsu/takoyaki/okonomyaki, Kyushu motsunabe + mentaiko, Tohoku gyutan, Tokyo yakiniku. Order from 2-3 stalls and share. ¥500-1,500 per stall, total ~¥1,500-2,500/pp. Cheap, delicious, varied, perfect rain shelter, 5 min from hotel.
+- **[Sakuratei Harajuku](https://maps.google.com/?q=Sakuratei+Harajuku+Okonomiyaki)** — DIY okonomyaki backup. You cook on a hot plate at the table — fun group experience. ~¥1,500-2,000/pp. Train to Harajuku (3 min) + 5-min walk.
+- **[Tonkasu Negiyaki Yamamoto Shibuya](https://maps.google.com/?q=Yamamoto+Shibuya+okonomiyaki)** — Hiroshima-style okonomyaki layered with noodles. ~¥1,500/pp. 10-min walk from hotel.
+- **[CoCo Ichibanya Shibuya](https://maps.google.com/?q=CoCo+Ichibanya+Shibuya)** — Curry chain. Order **rosu katsu curry** with your spice level. ~¥1,200-1,500/pp. 3-5 min walk.
+- **[Tendon Tenya Shibuya](https://maps.google.com/?q=Tendon+Tenya+Shibuya)** — Cheap chain tempura don. ~¥600-1,000/pp. 3-5 min walk.
 
-### Evening (~8:30 PM) — Wind Down for Kyoto
-- 8:30-9:30 Optional one drink at **[JBS Vinyl Bar](https://maps.google.com/?q=JBS+Jazz+Bar+Shibuya)** — close to hotel, no cover, dry route. Or skip and head straight back.
-- 9:30-10:30 Pack day bag for tomorrow's Shinkansen. Confirm takkyubin luggage was sent. Set alarm for ~7:00 AM.
-- 10:30 Bed.
+### Evening (~8:30 PM) — One Drink, Then Bed
+- **[JBS Vinyl Bar](https://maps.google.com/?q=JBS+Jazz+Bar+Shibuya)** — Optional one drink, 8:30-9:30 PM. Tiny basement bar, owner Kobayashi-san spinning jazz/soul vinyl from his 11,000-record collection. No cover, drinks ~¥1,000, dry walk from dinner. Skip if energy is low — early start tomorrow.
+- 9:30 Hotel for an early-ish bed. Set alarm for 7:00 AM. Day bag for Shinkansen should already be packed (you packed this morning).
 
 ### Logistics
 - **8:30 AM hotel departure tomorrow** (Apr 30) — Shinkansen Nozomi 23 at 10:12 AM from Tokyo Station. Pack day bag tonight. Takkyubin luggage to Kyoto should already be arranged.
