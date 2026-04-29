@@ -165,7 +165,7 @@
 
 | Alarm (PDT) | Venue | Booking For (JST) | What To Do | Priority |
 |-------------|-------|--------------------|------------|----------|
-| **NOW** | @ijou_maru_parfait | May 6, ~9:00 PM (birthday parfait) | Follow on Instagram — required for "membership" before you can DM to reserve | HIGH |
+| ~~**NOW**~~ | ~~@ijou_maru_parfait~~ | ~~May 6, ~9:00 PM (birthday parfait)~~ | ~~Follow on Instagram — required for "membership" before you can DM to reserve~~ | **✅ BOOKED (8:30 PM)** |
 | **NOW** | @amam_dacotan_kyoto | May 3, ~9:30 AM (bakery queue) | Follow on Instagram — check IG night of May 2 for closures, register Airwait 9:30 AM day-of | MEDIUM |
 | ~~**Mar 31, 7:55 AM**~~ | ~~Pizza Bar on 38th~~ | ~~May 9, 11:30 AM (lunch)~~ | ~~✅ BOOKED — moved to Already Booked~~ | ~~DONE~~ |
 | ~~**~Apr 7**~~ | ~~Shinkansen: Shin-Osaka → Odawara~~ | ~~May 7, 10:18 AM (Hikari 646)~~ | ~~✅ BOOKED — moved to Shinkansen Bookings~~ | ~~DONE~~ |
