@@ -124,7 +124,7 @@
 | Item | Date | What to Do | Account | When |
 |------|------|-----------|---------|------|
 | ~~**Henry's Burger Harami**~~ | ~~Apr 29 lunch~~ | ~~DM with name, phone, date (Apr 29), arrival time, qty (2 Harami Burgers).~~ **DROPPED — Apr 29 lunch removed; Samurai Restaurant 2pm includes the meal. Reschedule for a flex Tokyo lunch if still wanted.** | ~~@henrysburger_japan~~ | ~~DM ~1 week before~~ |
-| **Ijou Maru Parfait** | May 6 evening (birthday!) | 1) Follow account NOW for "membership." 2) DM to reserve for May 6, ~9:00 PM, 2 people. Try English + Japanese. Cashless only. | @ijou_maru_parfait | **Follow NOW. DM ~1 week before (Apr 29).** |
+| ~~**Ijou Maru Parfait**~~ | ~~May 6 evening (birthday!)~~ | ~~1) Follow account NOW for "membership." 2) DM to reserve for May 6, ~9:00 PM, 2 people. Try English + Japanese. Cashless only.~~ | ~~@ijou_maru_parfait~~ | **✅ BOOKED — moved to Already Booked** |
 | **AMAM DACOTAN Kyoto** | May 3 morning | No reservation — digital queue via Airwait (link on their IG). Register at 9:30 AM day-of. Check IG the night before for irregular closures. | @amam_dacotan_kyoto | **Follow now. Check night of May 2.** |
 
 ---
