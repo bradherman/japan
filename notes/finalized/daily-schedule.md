@@ -481,8 +481,8 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 7:00-9:00  BIRTHDAY DINNER — Matsuzaka wagyu, one of Japan's top 3 beef brands
            Happy 40th, Brad. 🎂
 9:00-9:15  Walk/subway to Kitashinchi (3 min from Kitashinchi Stn)
-9:15-10:00 Ijou Maru Parfait — birthday dessert. Speakeasy art parfait bar (~¥4,500-5k each) ⚠️ FOLLOW @ijou_maru_parfait NOW for "membership." DM ~1 week ahead to reserve. Cashless only. Parfait revealed through glowing door. Perfect surreal birthday cap.
-           (B) If no Ijou Maru: Hozenji Yokocho stroll — find a tiny bar for a birthday nightcap
+9:15-10:00 Ijou Maru Parfait — birthday dessert. Speakeasy art parfait bar (~¥4,500-5k each) ⚠️ BOOKED 8:30 PM — Cashless only. Parfait revealed through glowing door. Perfect surreal birthday cap.
+           (B) If cancelled: Hozenji Yokocho stroll — find a tiny bar for a birthday nightcap
 10:00      Option A: Bar Nayuta (Amerikamura, tiny door, no menu, til 3am)
            Option B: Content birthday walk home along Dotonbori canal
 10:00+     Whenever you want — it's your birthday
