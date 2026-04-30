@@ -1176,6 +1176,20 @@
               "reservationRequired": false
             },
             {
+              "name": "Tohgoro Kiln",
+              "mapLink": "https://maps.google.com/?q=Tohgoro+Kiln+Chawan-zaka+Kiyomizu",
+              "description": "On Chawan-zaka (\"Tea Bowl Lane\") leading up to Kiyomizu-dera. Working kiln, full Kiyomizu-yaki range — tea bowls, sake cups, and chakoro (茶香炉, tea incense burners). Custom commissions available",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Shoindo",
+              "mapLink": "https://maps.google.com/?q=Shoindo+Kiyomizu+Kyoto",
+              "description": "Kiln specializing in Kyo-yaki / Kiyomizu-yaki since late Edo (1855). One of the oldest still-working kilns in the area. Tea ceremony focus — ask specifically for chakoro",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
               "name": "Kiyomizu-dera",
               "mapLink": "https://maps.google.com/?q=Kiyomizu-dera+Kyoto",
               "description": "UNESCO World Heritage. Famous wooden stage. Uphill but steady, not steep",
@@ -1307,10 +1321,34 @@
       },
       "sections": [
         {
+          "title": "Optional Stretch — Asahi-yaki Uji Stop",
+          "subtitle": "Only if Alyona didn't find the right chakoro on Friday's Higashiyama walk. Asahi-yaki is the premier tea-ceremony kiln of the Kyoto region — 400+ years, 16 generations of the Matsubayashi family.",
+          "activities": [
+            {
+              "name": "Asahiyaki Shop & Studio",
+              "mapLink": "https://maps.google.com/?q=Asahiyaki+Uji+Kyoto",
+              "description": "Uji-gawa Avenue, near JR Uji Station. Tea ceremony chawan, mizusashi, chakoro (茶香炉). Pottery class possible but a shop visit is enough for the chakoro hunt",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Route:",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
           "title": "Morning — Nara Day Trip",
           "activities": [
             {
               "name": "Kintetsu Limited Express",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "For Uji stop: take JR Nara Line instead",
+              "description": "Slightly slower but lets you stop at Uji",
               "priority": false,
               "reservationRequired": false
             },

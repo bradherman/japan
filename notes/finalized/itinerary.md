@@ -407,7 +407,9 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 ### Late Morning — Gion / Higashiyama (~10:00 AM-12:30 PM)
 - Walk east along Shijo-dori into Gion
 - **[Yasaka Shrine](https://maps.google.com/?q=Yasaka+Shrine+Kyoto)** — Free, always open.
-- Walk south through **[Ninenzaka and Sannenzaka](https://maps.google.com/?q=Ninenzaka+Sannenzaka+Kyoto)** — Stone-paved lanes, traditional shops
+- Walk south through **[Ninenzaka and Sannenzaka](https://maps.google.com/?q=Ninenzaka+Sannenzaka+Kyoto)** — Stone-paved lanes, traditional shops. **⚠️ Pottery hunt for Alyona's handmade chakoro:** the lanes are lined with authentic Kiyomizu-yaki kilns. Look for shops with maker's stamps on the underside of pieces — skip the obvious tourist souvenirs.
+- **[Tohgoro Kiln](https://maps.google.com/?q=Tohgoro+Kiln+Chawan-zaka+Kiyomizu)** — On Chawan-zaka ("Tea Bowl Lane") leading up to Kiyomizu-dera. Working kiln, full Kiyomizu-yaki range — tea bowls, sake cups, and **chakoro (茶香炉, tea incense burners)**. Custom commissions available.
+- **[Shoindo](https://maps.google.com/?q=Shoindo+Kiyomizu+Kyoto)** — Kiln specializing in Kyo-yaki / Kiyomizu-yaki since late Edo (1855). One of the oldest still-working kilns in the area. Tea ceremony focus — ask specifically for chakoro.
 - **[Kiyomizu-dera](https://maps.google.com/?q=Kiyomizu-dera+Kyoto)** — UNESCO World Heritage. Famous wooden stage. ~400 yen. Uphill but steady, not steep.
 
 ### Lunch (~1:00 PM) — Tempura
@@ -448,8 +450,14 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Morning Coffee:** [Iolite Coffee Roasters](https://maps.google.com/?q=Iolite+Coffee+Roasters+Kyoto) — Hidden gem in Nakagyo.
 
-### Morning — Nara Day Trip (depart ~9:00 AM)
+### Optional Stretch — Asahi-yaki Uji Stop (en route to Nara)
+*Only if Alyona didn't find the right chakoro on Friday's Higashiyama walk. Asahi-yaki is the premier tea-ceremony kiln of the Kyoto region — 400+ years, 16 generations of the Matsubayashi family.*
+- **[Asahiyaki Shop & Studio](https://maps.google.com/?q=Asahiyaki+Uji+Kyoto)** — Uji-gawa Avenue, near JR Uji Station. Tea ceremony chawan, mizusashi, chakoro (茶香炉). Pottery class possible (~¥4,400-5,500) but a shop visit is enough for the chakoro hunt.
+- **Route:** JR Nara Line Kyoto → Uji (~25 min, ~240 yen) → walk to Asahi-yaki, ~1-1.5 hr browse → JR Nara Line Uji → Nara (~30 min). Total adds ~1.5-2 hrs to the Nara day.
+
+### Morning — Nara Day Trip (depart ~9:00 AM, or earlier if doing Uji)
 - **Kintetsu Limited Express** from Kyoto Station to Kintetsu-Nara: ~35 min, ~1,490 yen.
+- **For Uji stop: take JR Nara Line instead** (Kyoto → Uji → Nara) — slightly slower but lets you stop at Uji.
 - **[Nara Park (Deer Park)](https://maps.google.com/?q=Nara+Park+Nara+Japan)** — Hundreds of free-roaming deer. Buy shika senbei (deer crackers, 200 yen/pack). Deer bow if you bow to them!
 - **[Todai-ji Temple](https://maps.google.com/?q=Todai-ji+Temple+Nara)** — World's largest bronze Buddha (15m). Jaw-dropping. ~600 yen.
 - **[Kasuga Taisha Shrine](https://maps.google.com/?q=Kasuga+Taisha+Shrine+Nara)** — Thousands of stone and bronze lanterns. ~500 yen.
