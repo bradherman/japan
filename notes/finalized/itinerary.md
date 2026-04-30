@@ -450,14 +450,17 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Morning Coffee:** [Iolite Coffee Roasters](https://maps.google.com/?q=Iolite+Coffee+Roasters+Kyoto) — Hidden gem in Nakagyo.
 
-### Optional Stretch — Asahi-yaki Uji Stop (en route to Nara)
-*Only if Alyona didn't find the right chakoro on Friday's Higashiyama walk. Asahi-yaki is the premier tea-ceremony kiln of the Kyoto region — 400+ years, 16 generations of the Matsubayashi family.*
-- **[Asahiyaki Shop & Studio](https://maps.google.com/?q=Asahiyaki+Uji+Kyoto)** — Uji-gawa Avenue, near JR Uji Station. Tea ceremony chawan, mizusashi, chakoro (茶香炉). Pottery class possible (~¥4,400-5,500) but a shop visit is enough for the chakoro hunt.
-- **Route:** JR Nara Line Kyoto → Uji (~25 min, ~240 yen) → walk to Asahi-yaki, ~1-1.5 hr browse → JR Nara Line Uji → Nara (~30 min). Total adds ~1.5-2 hrs to the Nara day.
+### Morning — Kuoe Restock Check (11:00-11:30 AM)
+- **[Kuoe Watches Kyoto](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — **PRIORITY.** Saturday is the actual day Kuoe is open (closed Sun + Tue). Brad checking if the piece he wanted from Apr 30 visit got restocked. Opens 11:00 AM. ~10-min walk from Hotel Forza, down a small flight of stairs in Tohbeh Bldg #105, 224 Eirakucho. *Quick in/out (~15-30 min): if restocked, decide; if not, head to Nara.*
 
-### Morning — Nara Day Trip (depart ~9:00 AM, or earlier if doing Uji)
-- **Kintetsu Limited Express** from Kyoto Station to Kintetsu-Nara: ~35 min, ~1,490 yen.
-- **For Uji stop: take JR Nara Line instead** (Kyoto → Uji → Nara) — slightly slower but lets you stop at Uji.
+### Optional Stretch — Asahi-yaki Uji Stop (would replace some of Nara time)
+*Only if Alyona didn't find the right chakoro on Friday's Higashiyama walk AND Brad's done with Kuoe early. Asahi-yaki is the premier tea-ceremony kiln of the Kyoto region — 400+ years, 16 generations of the Matsubayashi family.*
+- **[Asahiyaki Shop & Studio](https://maps.google.com/?q=Asahiyaki+Uji+Kyoto)** — Uji-gawa Avenue, near JR Uji Station. Tea ceremony chawan, mizusashi, chakoro (茶香炉).
+- **Route:** JR Nara Line Kyoto → Uji (~25 min) → 1 hr browse → Uji → Nara (~30 min). Adds ~1.5-2 hrs total. Tight given today already adds Kuoe + Fushimi sake.
+
+### Late Morning → Early Afternoon — Nara (~12:00-3:30 PM)
+- **Kintetsu Limited Express** Kyoto Station → Kintetsu-Nara: ~35 min, ~1,490 yen. Depart ~11:45 AM after Kuoe.
+- *(Alt: JR Nara Line if doing Uji or wanting Fushimi-route convenience for the return)*
 - **[Nara Park (Deer Park)](https://maps.google.com/?q=Nara+Park+Nara+Japan)** — Hundreds of free-roaming deer. Buy shika senbei (deer crackers, 200 yen/pack). Deer bow if you bow to them!
 - **[Todai-ji Temple](https://maps.google.com/?q=Todai-ji+Temple+Nara)** — World's largest bronze Buddha (15m). Jaw-dropping. ~600 yen.
 - **[Kasuga Taisha Shrine](https://maps.google.com/?q=Kasuga+Taisha+Shrine+Nara)** — Thousands of stone and bronze lanterns. ~500 yen.
@@ -505,11 +508,11 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Morning Coffee:** [% Arabica Higashiyama](https://maps.google.com/?q=Arabica+Higashiyama+Kyoto) — Go early (opens 8am). Stunning Yasaka Pagoda backdrop. *LINE UP: GW lines can be 20-30 min by 10am. Go right at opening.*
 
-### Morning — JIKKO Knife Revisit + Kuoe (~9:30-11:30 AM)
-*Note: 9 AM "Grand Tea Gathering" was a fake slot the bot tried to book — same event as the 7 PM Six Shadows you officially booked. Morning is now flex.*
+### Morning — JIKKO Knife Revisit (~10:00-11:00 AM)
+*Note: 9 AM "Grand Tea Gathering" was a fake slot the bot tried to book — same event as the 7 PM Six Shadows you officially booked. Kuoe was moved to Saturday May 2 (closed Sundays). Morning is mostly flex now.*
 
-- **[JIKKO Kyoto Nishiki Teramachi](https://maps.google.com/?q=JIKKO+Cutlery+Kyoto+Nishiki+Teramachi)** — **Brad's knife pick-up.** Brad's preferred knife shop in Nishiki (the one he liked best on Apr 30). JIKKO is a Sakai-forged kitchen knife maker, est. 1901 — used by chefs at 100,000+ restaurants worldwide. Sakai is the historic Japanese knife-forging capital (600+ years of swordsmith heritage). The Nishiki Teramachi shop has 100+ Sakai knives across 2 floors at the intersection of Nishiki Market and Teramachi. *High quality, often better value than Aritsugu for serious cooking knives. Hand-engraving available.* Hours not publicly listed — likely 10 AM open; verify at door or call.
-- **[Kuoe Watches Kyoto](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — **11:00 AM at open.** Restock check on the piece Brad wanted from the Apr 30 visit. 224 Eirakucho, Tohbeh Bldg #105, Nakagyo-ku (down a small flight of stairs in Teramachi). Mon-Sat 11:00-17:30, closed Tue. ~10-min walk from Hotel Forza, *clusters with JIKKO geographically* — knock both out in one loop.
+- **[JIKKO Kyoto Nishiki Teramachi](https://maps.google.com/?q=JIKKO+Cutlery+Kyoto+Nishiki+Teramachi)** — **Brad's knife pick-up.** Brad's preferred knife shop in Nishiki (the one he liked best on Apr 30). JIKKO is a Sakai-forged kitchen knife maker, est. 1901 — used by chefs at 100,000+ restaurants worldwide. Sakai is the historic Japanese knife-forging capital (600+ years of swordsmith heritage). The Nishiki Teramachi shop has 100+ Sakai knives across 2 floors. *High quality, often better value than Aritsugu. Hand-engraving available.* Verify Sun hours at door — most Nishiki shops open ~10 AM weekends.
+- ~~Kuoe Watches~~ — **MOVED to Saturday May 2 morning** (Kuoe is closed Sundays).
 
 ### Morning Flex (alternate / addition)
 
