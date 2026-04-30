@@ -255,9 +255,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 7:10       JR Nara Line to Inari Station (5 min, 1 stop)
 7:15-7:20  Walk out of station — shrine is right there
 7:20-8:00  Fushimi Inari — Senbon Torii (vermillion tunnel), first section (15-20 min flat walk)
-8:00-8:10  Walk south toward Fushimi sake district (10 min)
-8:10-8:45  Sake tasting flight at a Fushimi brewery (~1,000-1,500 yen)
-8:45-9:15  Train back to hotel area
+8:00-9:15  Train back to hotel area, freshen up
 9:15-9:45  Weekenders Coffee Tominokoji — THE Kyoto coffee
 9:45-10:00 Walk east along Shijo-dori toward Gion
 10:00-10:20 Yasaka Shrine (free, quick visit)
