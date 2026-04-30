@@ -83,21 +83,12 @@
       "city": "Tokyo"
     },
     {
-      "name": "Kyoto Nippon Festival — Grand Tea Gathering",
-      "details": "Immersive 60-min \"Grand Tea Gathering of the Flowered Night\" theater at Kitano Tenmangu Shrine",
-      "date": "May 3, 9:00 AM",
-      "cost": "¥3,500",
-      "mapLink": "https://maps.google.com/?q=Kitano+Tenmangu+Shrine+Kyoto",
-      "status": "booked",
-      "category": "booked",
-      "city": "Kyoto"
-    },
-    {
-      "name": "Kyoto Nippon Festival — Immersive Theater \"The Six Shadows\"",
-      "details": "70-min Mika Ninagawa + EiM + DAZZLE immersive theater in Fugetsu-den hall, Kitano Tenmangu. Venue closes when show ends — arrive 6 PM to walk grounds.",
+      "name": "Kyoto Nippon Festival — Immersive Theater \"The Six Shadows\" / Hana-yoi no Ochakai",
+      "details": "70-min Mika Ninagawa + EiM + DAZZLE immersive theater in Fugetsu-den hall, Kitano Tenmangu. Venue closes when show ends — arrive ~6 PM to walk grounds before.",
       "date": "May 3, 7:00 PM",
-      "cost": "TBD",
+      "cost": "—",
       "mapLink": "https://maps.google.com/?q=Kitano+Tenmangu+Fugetsuden+Kyoto",
+      "notes": "arrive ~6 PM to walk grounds before",
       "status": "booked",
       "category": "booked",
       "city": "Kyoto"

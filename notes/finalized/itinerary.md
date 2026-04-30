@@ -482,10 +482,13 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Morning Coffee:** [% Arabica Higashiyama](https://maps.google.com/?q=Arabica+Higashiyama+Kyoto) — Go early (opens 8am). Stunning Yasaka Pagoda backdrop. *LINE UP: GW lines can be 20-30 min by 10am. Go right at opening.*
 
-### Morning — Kuoe Restock Check (11:00 AM)
-- **[Kuoe Watches Kyoto](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — **PRIORITY revisit at open.** Brad checking if the piece he wanted from Apr 30 visit got restocked. Opens 11:00 AM Sat. Address: 224 Eirakucho, Tohbeh Bldg #105, Nakagyo-ku (down a small flight of stairs in Teramachi shopping district). Mon-Sat 11:00-17:30, closed Tue. ~10-min walk from Hotel Forza. *Could combine with Nishiki knife shop revisit on the same loop — both are in the Nishiki/Teramachi neighborhood.*
+### Morning — JIKKO Knife Revisit + Kuoe (~9:30-11:30 AM)
+*Note: 9 AM "Grand Tea Gathering" was a fake slot the bot tried to book — same event as the 7 PM Six Shadows you officially booked. Morning is now flex.*
 
-### Morning Flex (~9:00-11:00 AM)
+- **[JIKKO Kyoto Nishiki Teramachi](https://maps.google.com/?q=JIKKO+Cutlery+Kyoto+Nishiki+Teramachi)** — **Brad's knife pick-up.** Brad's preferred knife shop in Nishiki (the one he liked best on Apr 30). JIKKO is a Sakai-forged kitchen knife maker, est. 1901 — used by chefs at 100,000+ restaurants worldwide. Sakai is the historic Japanese knife-forging capital (600+ years of swordsmith heritage). The Nishiki Teramachi shop has 100+ Sakai knives across 2 floors at the intersection of Nishiki Market and Teramachi. *High quality, often better value than Aritsugu for serious cooking knives. Hand-engraving available.* Hours not publicly listed — likely 10 AM open; verify at door or call.
+- **[Kuoe Watches Kyoto](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — **11:00 AM at open.** Restock check on the piece Brad wanted from the Apr 30 visit. 224 Eirakucho, Tohbeh Bldg #105, Nakagyo-ku (down a small flight of stairs in Teramachi). Mon-Sat 11:00-17:30, closed Tue. ~10-min walk from Hotel Forza, *clusters with JIKKO geographically* — knock both out in one loop.
+
+### Morning Flex (alternate / addition)
 
 **Option A: Arashiyama (only if going early)**
 - [Hankyu Line from Kawaramachi to Arashiyama](https://maps.google.com/?q=Arashiyama+Bamboo+Grove+Kyoto) (~25 min, 240 yen). Bamboo grove. Togetsukyo Bridge.
@@ -522,7 +525,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ### Evening (~6:00-8:30 PM) — Kyoto Nippon Festival + Theater
 - **[Kitano Tenmangu Shrine](https://maps.google.com/?q=Kitano+Tenmangu+Shrine+Kyoto)** — 6:00-7:00 PM. Walk the festival grounds + garden ("Beyond Time, A Garden in Full Bloom"). The shrine itself is gorgeous — plum trees, orange torii, history dating to 947. **Venue closes when the 7 PM show ends, so this hour is your only chance to wander.**
-- **[KYOTO NIPPON FESTIVAL — Immersive Theater "The Six Shadows" / Hana-yoi no Ochakai](https://maps.google.com/?q=Kitano+Tenmangu+Fugetsuden+Kyoto)** — **7:00-8:10 PM (≈70 min).** Mika Ninagawa with EiM and dance company DAZZLE present an immersive theater piece in Fugetsu-den hall. *BOOKING IN PROGRESS — Brad booking 7 PM slot.* Separate ticket from the Grand Tea Gathering event already on the calendar.
+- **[KYOTO NIPPON FESTIVAL — Immersive Theater "The Six Shadows" / Hana-yoi no Ochakai](https://maps.google.com/?q=Kitano+Tenmangu+Fugetsuden+Kyoto)** — **✅ BOOKED 7:00-8:10 PM (≈70 min).** Mika Ninagawa with EiM and dance company DAZZLE present an immersive theater piece in Fugetsu-den hall.
 
 ### Late Dinner (~8:45 PM)
 1. **Pontocho walk-in** — Take taxi/subway back from Kitano Tenmangu (~25 min). Browse the narrow alley, pick a spot with seats. Many open until 11 PM.

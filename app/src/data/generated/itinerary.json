@@ -1420,13 +1420,21 @@
       },
       "sections": [
         {
-          "title": "Morning — Kuoe Restock Check",
+          "title": "Morning — JIKKO Knife Revisit + Kuoe",
+          "subtitle": "Note: 9 AM \"Grand Tea Gathering\" was a fake slot the bot tried to book — same event as the 7 PM Six Shadows you officially booked. Morning is now flex.",
           "activities": [
+            {
+              "name": "JIKKO Kyoto Nishiki Teramachi",
+              "mapLink": "https://maps.google.com/?q=JIKKO+Cutlery+Kyoto+Nishiki+Teramachi",
+              "description": "Brad's knife -up. Brad's preferred knife shop in Nishiki (the one he liked best on Apr 30). JIKKO is a Sakai-forged kitchen knife maker, est. 1901 — used by chefs at 100,000+ restaurants worldwide. Sakai is the historic Japanese knife-forging capital (600+ years of swordsmith heritage). The Nishiki Teramachi shop has 100+ Sakai knives across 2 floors at the intersection of Nishiki Market and Teramachi. High quality, often better value than Aritsugu for serious cooking knives. Hand-engraving available. Hours not publicly listed — likely 10 AM open; verify at door or call",
+              "priority": true,
+              "reservationRequired": false
+            },
             {
               "name": "Kuoe Watches Kyoto",
               "mapLink": "https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi",
-              "description": "Revisit at open. Brad checking if the piece he wanted from Apr 30 visit got restocked. Opens 11:00 AM Sat. Address: 224 Eirakucho, Tohbeh Bldg #105, Nakagyo-ku (down a small flight of stairs in Teramachi shopping district). Mon-Sat 11:00-17:30, closed Tue. ~10-min walk from Hotel Forza. Could combine with Nishiki knife shop revisit on the same loop — both are in the Nishiki/Teramachi neighborhood",
-              "priority": true,
+              "description": "11:00 AM at open. Restock check on the piece Brad wanted from the Apr 30 visit. 224 Eirakucho, Tohbeh Bldg #105, Nakagyo-ku (down a small flight of stairs in Teramachi). Mon-Sat 11:00-17:30, closed Tue. ~10-min walk from Hotel Forza, clusters with JIKKO geographically — knock both out in one loop",
+              "priority": false,
               "reservationRequired": false
             }
           ]
@@ -1573,10 +1581,12 @@
             {
               "name": "KYOTO NIPPON FESTIVAL — Immersive Theater \"The Six Shadows\" / Hana-yoi no Ochakai",
               "mapLink": "https://maps.google.com/?q=Kitano+Tenmangu+Fugetsuden+Kyoto",
-              "description": "7:00-8:10 PM (≈). Mika Ninagawa with EiM and dance company DAZZLE present an immersive theater piece in Fugetsu-den hall. BOOKING IN PROGRESS — Brad booking 7 PM slot. Separate ticket from the Grand Tea Gathering event already on the calendar",
+              "description": "8:10 PM (≈). Mika Ninagawa with EiM and dance company DAZZLE present an immersive theater piece in Fugetsu-den hall",
+              "time": "7:00",
               "duration": "70 min",
               "priority": false,
-              "reservationRequired": false
+              "reservationRequired": false,
+              "booked": true
             }
           ]
         },
