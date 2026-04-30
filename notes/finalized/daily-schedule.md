@@ -339,15 +339,20 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 ```
            SLOW MORNING — you're 9 days in
 8:00 AM    Wake up (or sleep in — no alarm)
-           Option A: Arashiyama
-8:15       Hankyu from Kawaramachi to Arashiyama (25 min, ¥240)
-8:45-10:00 Bamboo grove (quiet before 9am), Togetsukyo Bridge
-10:00-10:30 Train back to hotel area
-           Option B: Slow morning
+
+9:00-10:00 ⚠️ KYOTO NIPPON FESTIVAL — Grand Tea Gathering Performance (60 min) ⚠️ BOOKED 9:00 AM
+           Kitano Tenmangu Shrine, Immersive "Grand Tea Gathering of the Flowered Night" theater experience
+           Admission: ¥3,500 adults. Constitution Day (May 3) — festival runs full schedule.
+
+10:00-10:45 Walk back to hotel area, freshen up
+           Optional: Coffee at % Arabica Higashiyama, or browse Teramachi arcades while you wait for tea ceremony
+           
+           Alternative AM plan (if skipping Nippon Festival):
 8:30-9:30  Coffee at % Arabica Higashiyama ⚠️ GO AT 8AM OPENING — GW lines 20-30 min by 10am
 9:30-10:30 Walk along Kamo River, browse Teramachi arcades
 10:30-11:30 Wander, rest, explore at your own pace
-           Option C: AMAM DACOTAN breakfast + Rakushaan pickup
+           
+           If time permits — AMAM DACOTAN breakfast + Rakushaan pickup
 9:30       Register for AMAM DACOTAN queue on Airwait (link on @amam_dacotan_kyoto IG) ⚠️ CHECK IG NIGHT BEFORE for closures
 ~10:00     Called for entry (wander Karasuma Oike area while waiting, 10-15 min from hotel)
 10:00-10:45 AMAM DACOTAN — artisan bakery in machiya. Must-grab: mentaiko baguette, rare doughnut. 2F cafe has % Arabica coffee. ~¥1-2k/pp. Cashless OK.
