@@ -1051,12 +1051,33 @@
           ]
         },
         {
-          "title": "Evening",
+          "title": "Evening — Used Grand Seiko Hunt + Dinner",
           "activities": [
+            {
+              "name": "BIG MOON KYOTO",
+              "mapLink": "https://maps.google.com/?q=BIG+MOON+KYOTO+Karasuma",
+              "description": "For used Grand Seiko. Karasuma Dai-san Star Bldg on Karasuma-dori, ~5-min walk west from Hotel Forza. 300+ secondhand watches incl. Grand Seiko, Rolex, Omega, Hublot, Panerai, Kurono Tokyo. Considered Kyoto's best dedicated secondhand watch shop. Tax-free with passport. Hours 10:30-19:00, closed Thursdays",
+              "priority": true,
+              "reservationRequired": false
+            },
+            {
+              "name": "Komehyo Kyoto Shinkyogoku",
+              "mapLink": "https://maps.google.com/?q=Komehyo+Kyoto+Shinkyogoku",
+              "description": "Japan's largest reuse retailer (70+ years), near Shijo-Karasuma intersection by Kyoto Takashimaya, ~5-min walk. Has used Grand Seiko, Rolex, Omega, IWC, Patek. Open 11:00-20:00",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Grand Seiko Boutique Kyoto Shijo",
+              "mapLink": "https://maps.google.com/?q=Grand+Seiko+Boutique+Kyoto+Shijo",
+              "description": "NEW only (for current-model reference). Largest Grand Seiko boutique in Asia, opened 2024. 21-1 Shijo-dori. Hours 11:00-19:00. ~5-min walk",
+              "priority": false,
+              "reservationRequired": false
+            },
             {
               "name": "Koe Donuts Kyoto",
               "mapLink": "https://maps.google.com/?q=Koe+Donuts+Kyoto+Shinkyogoku",
-              "description": "Kengo Kuma-designed organic donut shop, 1 min from Hankyu Kawaramachi Stn (Shinkyogoku-dori). Open 8am-8pm. /donut, 30+ varieties. Kyoto's most photogenic donut spot — the ceiling has 572 hexagonal bamboo baskets from Arashiyama. Worth a quick stop if energy allows tonight (closes 8pm)",
+              "description": "Kengo Kuma-designed organic donut shop, 1 min from Hankyu Kawaramachi Stn (Shinkyogoku-dori). Open 8am-8pm. /donut, 30+ varieties. The ceiling has 572 hexagonal bamboo baskets from Arashiyama. Worth a quick stop if energy allows",
               "priority": false,
               "reservationRequired": false,
               "price": "¥200"

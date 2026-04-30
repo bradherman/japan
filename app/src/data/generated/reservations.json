@@ -319,6 +319,28 @@
       "city": "Tokyo"
     },
     {
+      "name": "BIG MOON KYOTO",
+      "details": "Top secondhand watch shop in Kyoto — 300+ pieces incl. Grand Seiko, Rolex, Omega, Hublot, Panerai. Karasuma-dori, 5-min walk west of Hotel Forza. Tax-free w/ passport.",
+      "date": "Apr 30 evening (today)",
+      "cost": "walk-in",
+      "bookingMethod": "10:30-19:00, closed Thursdays. Hit before tomorrow's Nara day.",
+      "mapLink": "https://maps.google.com/?q=BIG+MOON+KYOTO+Karasuma",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Kyoto"
+    },
+    {
+      "name": "Komehyo Kyoto Shinkyogoku",
+      "details": "Major Japanese reuse chain (70+ yr history). Used Grand Seiko, Rolex, Omega, IWC, Patek. Near Shijo-Karasuma.",
+      "date": "Apr 30 evening (today)",
+      "cost": "walk-in",
+      "bookingMethod": "11:00-20:00 daily. Backup if BIG MOON doesn't have the piece.",
+      "mapLink": "https://maps.google.com/?q=Komehyo+Kyoto+Shinkyogoku",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Kyoto"
+    },
+    {
       "name": "Grand Seiko Boutique Osaka Shinsaibashi",
       "details": "World's largest Seiko/Grand Seiko store (333+ m²). Backup if Houseki Hiroba strikes out. Osaka Toyota Bldg 1F, 4-3-11 Minamisenba. Tax-free with passport.",
       "date": "May 5, ~2:00 PM",

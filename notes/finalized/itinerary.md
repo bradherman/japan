@@ -365,8 +365,12 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 3. ~~**Honke Owariya**~~ — closed for renovation.
 4. **[Omen Pontocho](https://maps.google.com/?q=Omen+Pontocho+Kyoto)** — Kyoto's beloved udon backup. ~1,000-2,000 yen/pp. Walking distance.
 
-### Evening
-- **[Koe Donuts Kyoto](https://maps.google.com/?q=Koe+Donuts+Kyoto+Shinkyogoku)** — Kengo Kuma-designed organic donut shop, 1 min from Hankyu Kawaramachi Stn (Shinkyogoku-dori). Open 8am-8pm. ~¥200/donut, 30+ varieties. Kyoto's most photogenic donut spot — the ceiling has 572 hexagonal bamboo baskets from Arashiyama. Worth a quick stop if energy allows tonight (closes 8pm).
+### Evening — Used Grand Seiko Hunt + Dinner
+**⚠️ Hit BIG MOON tonight — closed Thursdays, and tomorrow is Nara day.**
+- **[BIG MOON KYOTO](https://maps.google.com/?q=BIG+MOON+KYOTO+Karasuma)** — **PRIORITY for used Grand Seiko.** Karasuma Dai-san Star Bldg on Karasuma-dori, ~5-min walk west from Hotel Forza. 300+ secondhand watches incl. Grand Seiko, Rolex, Omega, Hublot, Panerai, Kurono Tokyo. Considered Kyoto's best dedicated secondhand watch shop. Tax-free with passport. Hours 10:30-19:00, **closed Thursdays.**
+- **[Komehyo Kyoto Shinkyogoku](https://maps.google.com/?q=Komehyo+Kyoto+Shinkyogoku)** — Backup. Japan's largest reuse retailer (70+ years), near Shijo-Karasuma intersection by Kyoto Takashimaya, ~5-min walk. Has used Grand Seiko, Rolex, Omega, IWC, Patek. Open 11:00-20:00.
+- **[Grand Seiko Boutique Kyoto Shijo](https://maps.google.com/?q=Grand+Seiko+Boutique+Kyoto+Shijo)** — NEW only (for current-model reference). Largest Grand Seiko boutique in Asia, opened 2024. 21-1 Shijo-dori. Hours 11:00-19:00. ~5-min walk.
+- **[Koe Donuts Kyoto](https://maps.google.com/?q=Koe+Donuts+Kyoto+Shinkyogoku)** — Kengo Kuma-designed organic donut shop, 1 min from Hankyu Kawaramachi Stn (Shinkyogoku-dori). Open 8am-8pm. ~¥200/donut, 30+ varieties. The ceiling has 572 hexagonal bamboo baskets from Arashiyama. Worth a quick stop if energy allows.
 - **[Gion walking at dusk](https://maps.google.com/?q=Gion+District+Kyoto)** — Walk east along Shijo-dori into Gion. Hanamikoji-dori for teahouses. Possible maiko sighting.
 - **[Pontocho alley](https://maps.google.com/?q=Pontocho+Alley+Kyoto)** — Atmospheric alley parallel to Kamo River.
 - **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar on Kiyamachi, near hotel.
