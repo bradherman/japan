@@ -342,15 +342,25 @@
     },
     {
       "name": "Grand Seiko Boutique Osaka Shinsaibashi",
-      "details": "World's largest Seiko/Grand Seiko store (333+ m²). Backup if Houseki Hiroba strikes out. Osaka Toyota Bldg 1F, 4-3-11 Minamisenba. Tax-free with passport.",
+      "details": "World's largest Seiko/Grand Seiko store (333+ m²) — NEW only. Osaka Toyota Bldg 1F, 4-3-11 Minamisenba. Tax-free with passport.",
       "date": "May 5, ~2:00 PM",
       "cost": "walk-in",
-      "bookingMethod": "Allow ~45 min. Skip if Brad already bought a watch at Houseki.",
+      "bookingMethod": "Allow ~45 min.",
       "mapLink": "https://maps.google.com/?q=Grand+Seiko+Boutique+Osaka+Shinsaibashi+4-3-11+Minamisenba",
       "status": "walk-in",
       "category": "walk-in",
-      "city": "Osaka",
-      "isBackup": true
+      "city": "Osaka"
+    },
+    {
+      "name": "HOUBIDOU Shinsaibashi (used)",
+      "details": "Used Grand Seiko + other secondhand watches — 818 listings on Chrono24. 2-2-17 Shinsaibashisuji, ~3-min walk from Grand Seiko Boutique. Tax-free w/ passport.",
+      "date": "May 5, ~2:30 PM",
+      "cost": "walk-in",
+      "bookingMethod": "Verify hours at door (typical Shinsaibashi 10/11am-8pm). One review noted limited price negotiation.",
+      "mapLink": "https://maps.google.com/?q=HOUBIDOU+2-2-17+Shinsaibashisuji+Osaka",
+      "status": "walk-in",
+      "category": "walk-in",
+      "city": "Osaka"
     },
     {
       "name": "Nakajima",

@@ -1859,8 +1859,15 @@
             {
               "name": "Grand Seiko Boutique Osaka Shinsaibashi",
               "mapLink": "https://maps.google.com/?q=Grand+Seiko+Boutique+Osaka+Shinsaibashi+4-3-11+Minamisenba",
-              "description": "If Houseki Hiroba (Apr 29) didn't have the piece. 4-amisenba, Osaka Toyota Building 1F. The Seiko; Grand Seiko combined floor here is the world's largest Seiko store (333+ m²). Tax-free with passport. ~45 min",
+              "description": "For NEW pieces. 4-amisenba, Osaka Toyota Building 1F. The Seiko; Grand Seiko combined floor here is the world's largest Seiko store (333+ m²). Tax-free with passport. ~45 min",
               "duration": "3-11 Min",
+              "priority": true,
+              "reservationRequired": false
+            },
+            {
+              "name": "HOUBIDOU Shinsaibashi",
+              "mapLink": "https://maps.google.com/?q=HOUBIDOU+2-2-17+Shinsaibashisuji+Osaka",
+              "description": "For USED Grand Seiko. 2-2-17 Shinsaibashisuji, Chuo-ku. ~3-min walk from Grand Seiko Boutique. 818 watches on Chrono24 (massive inventory of secondhand GS). Also operates as HOUBIDOU x Bluek Watch Company. Tax-free with passport. ⚠️ One Watchuseek review noted limited price negotiation flexibility — go in with set expectations. Verify hours at door (Shinsaibashi shops typically 10/11am-8pm)",
               "priority": true,
               "reservationRequired": false
             },
