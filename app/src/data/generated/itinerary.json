@@ -991,7 +991,7 @@
             {
               "name": "SOU SOU Kyoto",
               "mapLink": "https://maps.google.com/?q=SOU+SOU+Shinkyogoku+Kyoto",
-              "description": "Modern Japanese fashion brand, 1 min from Kawaramachi Station on Shinkyogoku-dori. Nine shops clustered together — the men's line (SOU SOU Kei-i) carries modern haori jackets with bold original textile prints. Not costume-y at all — designed to wear with jeans. Also iconic split-toe tabi shoes and textiles. Hours: 11am-8pm. Right on the way between Nishiki and Teramachi — pop in while record shopping. For a full haori shopping tour hitting multiple stores, save that for Day 9",
+              "description": "Modern Japanese fashion brand, 1 min from Kawaramachi Station on Shinkyogoku-dori. Nine shops clustered together — the men's line (SOU SOU Kei-i) carries modern haori jackets with bold original textile prints. ⚠️ Brad wants modern cut (NOT the huge baggy-arm traditional silhouette) — SOU SOU Kei-i is the right line for this; ask for \"modern fit\" or \"tailored\" haori. Also iconic split-toe tabi shoes and textiles. Hours: 11am-8pm. Right on the way between Nishiki and Teramachi — pop in while record shopping. For a full haori shopping tour hitting multiple stores, save that for Day 9",
               "priority": false,
               "reservationRequired": false
             }
@@ -1001,14 +1001,6 @@
           "title": "Lunch — Keep Open / Flexible",
           "subtitle": "Just Brad & Alyona now. Be flexible with Nishiki grazing as your \"lunch\" or sit down somewhere:",
           "activities": [
-            {
-              "name": "Honke Owariya",
-              "mapLink": "https://maps.google.com/?q=Honke+Owariya+Kyoto",
-              "description": "560-year-old soba institution — Founded 1465. Horai Soba: 5-tier soba serving. Walk-in",
-              "priority": false,
-              "reservationRequired": false,
-              "price": "¥1,000-2,500"
-            },
             {
               "name": "Wagyu Ramen Julia",
               "mapLink": "https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto",
@@ -1032,16 +1024,25 @@
           "title": "Dinner",
           "activities": [
             {
-              "name": "Honke Owariya",
-              "mapLink": "https://maps.google.com/?q=Honke+Owariya+Kyoto",
-              "description": "If you didn't do lunch here. The 5-tier Horai Soba is ceremonial and beautiful. The building alone is worth the visit",
+              "name": "Hyakuten Manten",
+              "mapLink": "https://maps.google.com/?q=Hyakuten+Manten+Kyoto+Sanjo+Takakura",
+              "description": "Tonight. 2F, Sanjo-dori Takakura Nishi-iru, Nakagyo-ku. ~12-min walk north from Hotel Forza along Kawaramachi-dori then west on Sanjo-dori. Famous for curry ramen (Kyoto rare specialty). Open Thu 11:00-22:30. Cash or Alipay. Phone 075-213-2292. Casual, quick",
+              "priority": true,
+              "reservationRequired": false,
+              "price": "¥1,000-1,500"
+            },
+            {
+              "name": "Gion Duck Noodles",
+              "mapLink": "https://maps.google.com/?q=Gion+Duck+Noodles+Kyoto+Higashiyama",
+              "description": "Premium Kishu duck broth ramen; handmade German rye noodles. Tabelog \"best ramen in West Japan.\" 8 seats total (5 counter; 3 table) — possible queue, no reservations. Gionmachi Kitagawa, ~6-min walk east from hotel",
               "priority": false,
-              "reservationRequired": false
+              "reservationRequired": false,
+              "backup": true
             },
             {
               "name": "Omen Pontocho",
               "mapLink": "https://maps.google.com/?q=Omen+Pontocho+Kyoto",
-              "description": "Kyoto's beloved udon — Walking distance. Closed 2nd/3rd Thursdays. (Apr 30 is a Thu — check if 5th Thursday, should be fine)",
+              "description": "Kyoto's beloved udon backup. Walking distance",
               "priority": false,
               "reservationRequired": false,
               "backup": true,
@@ -1052,6 +1053,14 @@
         {
           "title": "Evening",
           "activities": [
+            {
+              "name": "Koe Donuts Kyoto",
+              "mapLink": "https://maps.google.com/?q=Koe+Donuts+Kyoto+Shinkyogoku",
+              "description": "Kengo Kuma-designed organic donut shop, 1 min from Hankyu Kawaramachi Stn (Shinkyogoku-dori). Open 8am-8pm. /donut, 30+ varieties. Kyoto's most photogenic donut spot — the ceiling has 572 hexagonal bamboo baskets from Arashiyama. Worth a quick stop if energy allows tonight (closes 8pm)",
+              "priority": false,
+              "reservationRequired": false,
+              "price": "¥200"
+            },
             {
               "name": "Gion walking at dusk",
               "mapLink": "https://maps.google.com/?q=Gion+District+Kyoto",
@@ -1088,6 +1097,15 @@
         },
         {
           "text": "Kyoto Loft is in Mina Kyoto building on Kawaramachi — right by your hotel. 11am-9pm. Pop in anytime."
+        },
+        {
+          "text": "✅ Already done: Aritsugu Knives, Kuoe Watches (initial visit), some other stores (Apr 30 afternoon)."
+        },
+        {
+          "text": "Nishiki Knife revisit (any flex day, but most shops close ~5-6 PM): Brad wants to revisit the non-Aritsugu knife shop he liked. Candidates in Nishiki Market: Yoshimune (basement east end), Kanetaka, Hamono Collection, Yagi Houchouten, JIKKO Kyoto Nishiki Teramachi, Seisuke. He'll know which one when he sees it. Could squeeze tonight before 6 PM, or May 3 morning before Kuoe revisit, or any Kyoto morning before Camellia / Nara."
+        },
+        {
+          "text": "~~Honke Owariya~~ — CLOSED for renovation (extended) — out for this trip."
         }
       ]
     },
@@ -1243,7 +1261,7 @@
           "text": "Fushimi Inari: trains start ~5:30 AM. The 7:30am arrival means leaving hotel ~7:00am."
         },
         {
-          "text": "🍳 Kichi Kichi Side Quest (try EVERY day, May 1-3): Chef Motokichi's legendary omurice in Pontocho. Tiny 14-seat counter. Same-day online reservations ONLY at kichikichi.com/kichikichi-reservation. Dinner slots open at 1:00 PM JST — they fill in 10-15 SECONDS. Both you and Alyona on the booking page at 12:59, refresh at 1:00, type fast. If you score it, dinner is 5-8:10PM (1-hour strict seating). ~5,000-8,000 yen/pp — get the regular omurice + beef tongue stew. Counter seats for the full tableside performance. Arrive 20 min early or lose your seat. Standby backup: show up at 4:30 PM (30 min before opening) and wait — no-shows happen because of their strict lateness policy. Try all 3 days. If you get it, swap that evening's dinner plan. The food is solid yoshoku, not life-changing, but the performance is genuinely one-of-a-kind."
+          "text": "~~🍳 Kichi Kichi Side Quest~~ — CLOSED until June. Skip this trip. (Was the famous Pontocho omurice tableside-performance spot.)"
         }
       ]
     },
@@ -1402,7 +1420,19 @@
       },
       "sections": [
         {
-          "title": "Morning — Choose Your Adventure",
+          "title": "Morning — Kuoe Restock Check",
+          "activities": [
+            {
+              "name": "Kuoe Watches Kyoto",
+              "mapLink": "https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi",
+              "description": "Revisit at open. Brad checking if the piece he wanted from Apr 30 visit got restocked. Opens 11:00 AM Sat. Address: 224 Eirakucho, Tohbeh Bldg #105, Nakagyo-ku (down a small flight of stairs in Teramachi shopping district). Mon-Sat 11:00-17:30, closed Tue. ~10-min walk from Hotel Forza. Could combine with Nishiki knife shop revisit on the same loop — both are in the Nishiki/Teramachi neighborhood",
+              "priority": true,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
+          "title": "Morning Flex",
           "activities": [
             {
               "name": "AMAM DACOTAN Kyoto",
@@ -1526,28 +1556,52 @@
           ]
         },
         {
-          "title": "Dinner",
+          "title": "Late Afternoon",
+          "subtitle": "New: 7 PM immersive theater. Venue closes when show ends, so go early to walk the festival grounds before.",
+          "activities": []
+        },
+        {
+          "title": "Evening",
           "activities": [
             {
-              "name": "Hikiniku to Come",
-              "mapLink": "https://maps.google.com/?q=Hikiniku+to+Come+Kyoto",
-              "description": "Charcoal-grilled hamburger patties with rice — Cult-favorite Kyoto spot. Walk-in, expect a queue. Near Kawaramachi",
-              "priority": true,
-              "reservationRequired": false,
-              "lineUpTip": "Arrive 30-45 min before dinner rush (by 5:45pm).",
-              "price": "¥1,500-2,000"
+              "name": "Kitano Tenmangu Shrine",
+              "mapLink": "https://maps.google.com/?q=Kitano+Tenmangu+Shrine+Kyoto",
+              "description": "6:00-7:00 PM. Walk the festival grounds; garden (\"Beyond Time, A Garden in Full Bloom\"). The shrine itself is gorgeous — plum trees, orange torii, history dating to 947. Venue closes when the 7 PM show ends, so this hour is your only chance to wander",
+              "priority": false,
+              "reservationRequired": false
             },
             {
-              "name": "Pontocho walk-in",
-              "description": "Browse the narrow alley, find a restaurant with kawayuka (river terrace) seating",
+              "name": "KYOTO NIPPON FESTIVAL — Immersive Theater \"The Six Shadows\" / Hana-yoi no Ochakai",
+              "mapLink": "https://maps.google.com/?q=Kitano+Tenmangu+Fugetsuden+Kyoto",
+              "description": "7:00-8:10 PM (≈). Mika Ninagawa with EiM and dance company DAZZLE present an immersive theater piece in Fugetsu-den hall. BOOKING IN PROGRESS — Brad booking 7 PM slot. Separate ticket from the Grand Tea Gathering event already on the calendar",
+              "duration": "70 min",
               "priority": false,
-              "reservationRequired": false,
-              "backup": true
+              "reservationRequired": false
             }
           ]
         },
         {
-          "title": "Evening",
+          "title": "Late Dinner",
+          "activities": [
+            {
+              "name": "Pontocho walk-in",
+              "description": "Take taxi/subway back from Kitano Tenmangu. Browse the narrow alley, a spot with seats. Many open until 11 PM",
+              "priority": true,
+              "reservationRequired": false
+            },
+            {
+              "name": "Hikiniku to Come",
+              "mapLink": "https://maps.google.com/?q=Hikiniku+to+Come+Kyoto",
+              "description": "If open late. Charcoal hamburger patties with rice, Walk-in. Note: typical LO 8:30 PM — likely too late tonight, save for another flex slot",
+              "priority": false,
+              "reservationRequired": false,
+              "backup": true,
+              "price": "¥1,500-2,000"
+            }
+          ]
+        },
+        {
+          "title": "Late Night",
           "activities": [
             {
               "name": "P.M. Sounds",
@@ -1651,6 +1705,15 @@
               "priority": false,
               "reservationRequired": false,
               "price": "¥500"
+            },
+            {
+              "name": "Uncle Rikuro Namba",
+              "mapLink": "https://maps.google.com/?q=Rikuro+Ojisan+Namba+Osaka",
+              "description": "Famous Osaka jiggly soufflé cheesecake. Whole 6-inch cake fresh-baked every, only sold in Osaka. Light, airy, lightly sweet with raisins at the bottom. Namba HQ store has a viewing window where you can watch them being baked. Walking distance from Cross Hotel. Brad's been wanting one — up to share back at hotel or eat warm at the cafe upstairs",
+              "duration": "30 min",
+              "priority": true,
+              "reservationRequired": false,
+              "price": "¥865,"
             }
           ]
         },
@@ -1740,7 +1803,7 @@
             {
               "name": "Flower Mountain Tenjinbashi",
               "mapLink": "https://maps.google.com/?q=Flower+Mountain+5-8-27+Tenjinbashi+Kita+Osaka",
-              "description": "Same shopping arcade! 5-8-27 Tenjinbashi. Brad's shoe stop. Hit before or after sushi",
+              "description": "MUST HIT. Same shopping arcade as Harukoma Sushi (5-8-27 Tenjinbashi). Brad's shoe stop. The Kyoto location was small/limited stock — this Osaka store has full lineup. Hit before or after sushi",
               "priority": false,
               "reservationRequired": false
             },

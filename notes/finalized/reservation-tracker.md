@@ -20,6 +20,7 @@
 | Chopstick Making Workshop | Custom chopsticks for 4 | Apr 26, 10:00 AM | $27/pp | [Map](https://maps.google.com/?q=Ginza+Natsuno+chopsticks+Tokyo) | ✅ CONFIRMED |
 | ~~Nishikawa Pillow Fitting~~ | ~~COREDO Nihonbashi — 2 slots~~ | ~~Apr 29, 3:00 PM~~ | ~~Varies~~ | — | ~~CANCELLED~~ |
 | **Kyoto Nippon Festival — Grand Tea Gathering** | **Immersive 60-min "Grand Tea Gathering of the Flowered Night" theater at Kitano Tenmangu Shrine** | **May 3, 9:00 AM** | **¥3,500** | **[Map](https://maps.google.com/?q=Kitano+Tenmangu+Shrine+Kyoto)** | **✅ BOOKED & CONFIRMED** |
+| **Kyoto Nippon Festival — Immersive Theater "The Six Shadows"** | **70-min Mika Ninagawa + EiM + DAZZLE immersive theater in Fugetsu-den hall, Kitano Tenmangu. Venue closes when show ends — arrive 6 PM to walk grounds.** | **May 3, 7:00 PM** | **TBD** | **[Map](https://maps.google.com/?q=Kitano+Tenmangu+Fugetsuden+Kyoto)** | **BOOKING IN PROGRESS — Brad on it** |
 | **Camellia Tea Ceremony** | **Kyoto traditional matcha whisking — machiya setting** | **May 3, 12:00 PM** | **~¥4,500-5,000** | **[Map](https://maps.google.com/?q=Camellia+Tea+Ceremony+Kyoto+Gion)** | **✅ BOOKED & CONFIRMED** |
 | Casiopea at Billboard Live Osaka | Japanese jazz fusion legends — Herbis Plaza ENT, Nishi-Umeda. Early dinner at Sodaisho before. | May 5, 7:00 PM | — | [Map](https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT) | TICKETS PURCHASED |
 | **Shinjuku Sumo Show** | 90-min sumo show — bilingual MC, 3 matches + photo session. Sekisaku Bldg 2F, Okubo 2-5-22. Late entry refused — leave Nakajima by 12:00 sharp. | Apr 28, 12:30 PM | ~$60-81/pp | [Map](https://maps.google.com/?q=Shinjuku+Sumo+Club+Okubo+Sekisaku+Building) | **BOOK NOW on Klook (12:30 slot)** |
@@ -142,7 +143,7 @@
 
 | Item | Dates | What to Do | URL | Strategy |
 |------|-------|-----------|-----|----------|
-| **Kichi Kichi Omurice** | May 1, 2, or 3 | Same-day dinner reservation. Slots open at **1:00 PM JST**. Fill in 10-15 seconds. Both Brad + Alyona on separate phones at 12:59, refresh at 1:00, type fast. Counter seats. Arrive 20 min early or forfeit. 1-hour dining limit. ~¥5-8k/pp. | [kichikichi.com/kichikichi-reservation](https://kichikichi.com/kichikichi-reservation/) | **Try EVERY day May 1-3 at 1:00 PM. If you score it, swap that night's dinner plan. Standby backup: show up 4:30 PM.** |
+| ~~**Kichi Kichi Omurice**~~ | ~~May 1, 2, or 3~~ | ~~Same-day dinner reservation.~~ **CLOSED UNTIL JUNE — out for this trip.** | — | ~~Try EVERY day~~ |
 
 ---
 
@@ -156,7 +157,7 @@
 - [ ] Blue Note Tokyo / Shinjuku Pit Inn / UFO Club — check Apr 25-30 schedules when posted
 - [ ] Flower Mountain Osaka Tenjinbashi store hours
 - [ ] Rakushaan warabi mochi — have Hotel Forza concierge call 075-494-2551 on May 2 for May 3 pickup
-- [ ] Kichi Kichi — bookmark reservation page, practice the flow before May 1
+- [x] ~~Kichi Kichi — bookmark reservation page~~ — **CLOSED until June.**
 
 ---
 

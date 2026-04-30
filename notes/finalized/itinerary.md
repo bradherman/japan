@@ -351,19 +351,22 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
   - **[100000t alonetoco](https://maps.google.com/?q=100000t+alonetoco+Teramachi+Kyoto)** — Eclectic digger's paradise: jazz, city pop, psych rock, funk. Same building as Workshop Records. Opens ~12pm.
   - **[Workshop Records](https://maps.google.com/?q=Workshop+Records+Teramachi+Kyoto)** — Jazz + rock, fair prices. Same building as 100000t.
   - *All three are on Teramachi north of Oike — hit them as a cluster after Kuoe Watches and before/after Ippodo Tea.*
-- **[SOU SOU Kyoto](https://maps.google.com/?q=SOU+SOU+Shinkyogoku+Kyoto)** — Modern Japanese fashion brand, 1 min from Kawaramachi Station on Shinkyogoku-dori. Nine shops clustered together — the men's line (SOU SOU Kei-i) carries **modern haori jackets** with bold original textile prints (~14,000-28,000 yen). Not costume-y at all — designed to wear with jeans. Also iconic split-toe tabi shoes and textiles. Hours: 11am-8pm. *Right on the way between Nishiki and Teramachi — pop in while record shopping. For a full haori shopping tour hitting multiple stores, save that for Day 9.*
+- **[SOU SOU Kyoto](https://maps.google.com/?q=SOU+SOU+Shinkyogoku+Kyoto)** — Modern Japanese fashion brand, 1 min from Kawaramachi Station on Shinkyogoku-dori. Nine shops clustered together — the men's line (SOU SOU Kei-i) carries **modern haori jackets** with bold original textile prints (~14,000-28,000 yen). **⚠️ Brad wants modern cut (NOT the huge baggy-arm traditional silhouette)** — SOU SOU Kei-i is the right line for this; ask for "modern fit" or "tailored" haori. Also iconic split-toe tabi shoes and textiles. Hours: 11am-8pm. *Right on the way between Nishiki and Teramachi — pop in while record shopping. For a full haori shopping tour hitting multiple stores, save that for Day 9.*
 
 ### Lunch — Keep Open / Flexible
 *Just Brad & Alyona now. Be flexible with Nishiki grazing as your "lunch" or sit down somewhere:*
-1. **[Honke Owariya](https://maps.google.com/?q=Honke+Owariya+Kyoto)** — 560-year-old soba institution — ~1,000-2,500 yen/pp — Founded 1465. Horai Soba: 5-tier soba serving. Walk-in.
+1. ~~**[Honke Owariya](https://maps.google.com/?q=Honke+Owariya+Kyoto)**~~ — **CLOSED for renovation** (extended). Skip this trip.
 2. **[Wagyu Ramen Julia](https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto)** — Wagyu beef broth ramen — ~1,200-1,800 yen — Hidden gem in Gion. Quick and hearty.
 3. **Nishiki Market grazing** — Skip sit-down entirely, eat your way through for 2,000-3,000 yen.
 
-### Dinner (~6:30 PM) — Soba
-1. **[Honke Owariya](https://maps.google.com/?q=Honke+Owariya+Kyoto)** — If you didn't do lunch here. The 5-tier Horai Soba is ceremonial and beautiful. The building alone is worth the visit.
-2. **[Omen Pontocho](https://maps.google.com/?q=Omen+Pontocho+Kyoto)** — Kyoto's beloved udon — ~1,000-2,000 yen/pp — Walking distance. Closed 2nd/3rd Thursdays. *(Apr 30 is a Thu — check if 5th Thursday, should be fine)*
+### Dinner (~6:30-7:30 PM) — Ramen
+1. **[Hyakuten Manten](https://maps.google.com/?q=Hyakuten+Manten+Kyoto+Sanjo+Takakura)** — **PRIORITY tonight.** 2F, Sanjo-dori Takakura Nishi-iru, Nakagyo-ku. ~12-min walk north from Hotel Forza along Kawaramachi-dori then west on Sanjo-dori. Famous for **curry ramen** (Kyoto rare specialty). Open Thu 11:00-22:30. ~¥1,000-1,500/pp. Cash or Alipay. Phone 075-213-2292. Casual, quick.
+2. **[Gion Duck Noodles](https://maps.google.com/?q=Gion+Duck+Noodles+Kyoto+Higashiyama)** — Backup. Premium Kishu duck broth ramen + handmade German rye noodles. Tabelog "best ramen in West Japan." 8 seats total (5 counter + 3 table) — possible queue, no reservations. Gionmachi Kitagawa, ~6-min walk east from hotel.
+3. ~~**Honke Owariya**~~ — closed for renovation.
+4. **[Omen Pontocho](https://maps.google.com/?q=Omen+Pontocho+Kyoto)** — Kyoto's beloved udon backup. ~1,000-2,000 yen/pp. Walking distance.
 
 ### Evening
+- **[Koe Donuts Kyoto](https://maps.google.com/?q=Koe+Donuts+Kyoto+Shinkyogoku)** — Kengo Kuma-designed organic donut shop, 1 min from Hankyu Kawaramachi Stn (Shinkyogoku-dori). Open 8am-8pm. ~¥200/donut, 30+ varieties. Kyoto's most photogenic donut spot — the ceiling has 572 hexagonal bamboo baskets from Arashiyama. Worth a quick stop if energy allows tonight (closes 8pm).
 - **[Gion walking at dusk](https://maps.google.com/?q=Gion+District+Kyoto)** — Walk east along Shijo-dori into Gion. Hanamikoji-dori for teahouses. Possible maiko sighting.
 - **[Pontocho alley](https://maps.google.com/?q=Pontocho+Alley+Kyoto)** — Atmospheric alley parallel to Kamo River.
 - **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar on Kiyamachi, near hotel.
@@ -373,6 +376,9 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - Kyoto buses are SLOW during Golden Week. Walk or use subway.
 - **Don't forget:** Buy matcha to take home at **[Ippodo Tea](https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi)** (Teramachi Street, 10 min from hotel). Scheduled for Day 7 but easy to pop in anytime — it's on the same street as Nishiki Market.
 - [Kyoto Loft](https://maps.google.com/?q=Loft+Mina+Kyoto+Kawaramachi) is in Mina Kyoto building on Kawaramachi — right by your hotel. 11am-9pm. Pop in anytime.
+- ✅ Already done: Aritsugu Knives, Kuoe Watches (initial visit), some other stores (Apr 30 afternoon).
+- **Nishiki Knife revisit (any flex day, but most shops close ~5-6 PM):** Brad wants to revisit the non-Aritsugu knife shop he liked. Candidates in Nishiki Market: Yoshimune (basement east end), Kanetaka, Hamono Collection, Yagi Houchouten, JIKKO Kyoto Nishiki Teramachi, Seisuke. He'll know which one when he sees it. Could squeeze tonight before 6 PM, or May 3 morning before Kuoe revisit, or any Kyoto morning before Camellia / Nara.
+- ~~**Honke Owariya**~~ — **CLOSED for renovation (extended) — out for this trip.**
 
 ---
 
@@ -420,7 +426,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ### Logistics
 - Fushimi Inari: trains start ~5:30 AM. The 7:30am arrival means leaving hotel ~7:00am.
-- **🍳 Kichi Kichi Side Quest (try EVERY day, May 1-3):** Chef Motokichi's legendary omurice in Pontocho. Tiny 14-seat counter. Same-day online reservations ONLY at [kichikichi.com/kichikichi-reservation](https://kichikichi.com/kichikichi-reservation/). **Dinner slots open at 1:00 PM JST** — they fill in 10-15 SECONDS. Both you and Alyona on the booking page at 12:59, refresh at 1:00, type fast. If you score it, dinner is 5-8:10PM (1-hour strict seating). ~5,000-8,000 yen/pp — get the regular omurice + beef tongue stew. **Counter seats** for the full tableside performance. Arrive 20 min early or lose your seat. **Standby backup:** show up at 4:30 PM (30 min before opening) and wait — no-shows happen because of their strict lateness policy. *Try all 3 days. If you get it, swap that evening's dinner plan. The food is solid yoshoku, not life-changing, but the performance is genuinely one-of-a-kind.*
+- ~~**🍳 Kichi Kichi Side Quest**~~ — **CLOSED until June.** Skip this trip. (Was the famous Pontocho omurice tableside-performance spot.)
 
 ---
 
@@ -476,7 +482,10 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Morning Coffee:** [% Arabica Higashiyama](https://maps.google.com/?q=Arabica+Higashiyama+Kyoto) — Go early (opens 8am). Stunning Yasaka Pagoda backdrop. *LINE UP: GW lines can be 20-30 min by 10am. Go right at opening.*
 
-### Morning — Choose Your Adventure (~9:00-11:30 AM)
+### Morning — Kuoe Restock Check (11:00 AM)
+- **[Kuoe Watches Kyoto](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — **PRIORITY revisit at open.** Brad checking if the piece he wanted from Apr 30 visit got restocked. Opens 11:00 AM Sat. Address: 224 Eirakucho, Tohbeh Bldg #105, Nakagyo-ku (down a small flight of stairs in Teramachi shopping district). Mon-Sat 11:00-17:30, closed Tue. ~10-min walk from Hotel Forza. *Could combine with Nishiki knife shop revisit on the same loop — both are in the Nishiki/Teramachi neighborhood.*
+
+### Morning Flex (~9:00-11:00 AM)
 
 **Option A: Arashiyama (only if going early)**
 - [Hankyu Line from Kawaramachi to Arashiyama](https://maps.google.com/?q=Arashiyama+Bamboo+Grove+Kyoto) (~25 min, 240 yen). Bamboo grove. Togetsukyo Bridge.
@@ -506,11 +515,20 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
   - **[FDMTL at FASCINATE Kyoto](https://maps.google.com/?q=FASCINATE+Kyoto+Gokomachi)** — Denim/indigo haori, sashiko-stitched. ~20,000-50,000 yen. Grows character with wear.
   - *All 5 stores are within a 10-15 min walking radius. Budget 2-3 hours. This is the best haori shopping cluster in Japan.*
 
-### Dinner (~6:30 PM) — Hamburger Steak
-1. **[Hikiniku to Come](https://maps.google.com/?q=Hikiniku+to+Come+Kyoto)** — PRIORITY. Charcoal-grilled hamburger patties with rice — ~1,500-2,000 yen — Cult-favorite Kyoto spot. Walk-in, expect a queue. Near Kawaramachi. *LINE UP: Arrive 30-45 min before dinner rush (by 5:45pm).*
-2. **Pontocho walk-in** — Browse the narrow alley, find a restaurant with kawayuka (river terrace) seating.
+### Late Afternoon (~5:00-6:00 PM) — Travel to Kitano Tenmangu
+*New: 7 PM immersive theater. Venue closes when show ends, so go early to walk the festival grounds before.*
+- 5:00-5:30 Quick light snack near hotel (konbini onigiri / matcha sweet) OR Assemblages parfait if not yet had. **Skip a sit-down dinner for now — late dinner after theater.**
+- 5:30-6:00 Subway/walk to Kitano Tenmangu Shrine (~25-30 min via Karasuma Line + walk, or short taxi).
 
-### Evening
+### Evening (~6:00-8:30 PM) — Kyoto Nippon Festival + Theater
+- **[Kitano Tenmangu Shrine](https://maps.google.com/?q=Kitano+Tenmangu+Shrine+Kyoto)** — 6:00-7:00 PM. Walk the festival grounds + garden ("Beyond Time, A Garden in Full Bloom"). The shrine itself is gorgeous — plum trees, orange torii, history dating to 947. **Venue closes when the 7 PM show ends, so this hour is your only chance to wander.**
+- **[KYOTO NIPPON FESTIVAL — Immersive Theater "The Six Shadows" / Hana-yoi no Ochakai](https://maps.google.com/?q=Kitano+Tenmangu+Fugetsuden+Kyoto)** — **7:00-8:10 PM (≈70 min).** Mika Ninagawa with EiM and dance company DAZZLE present an immersive theater piece in Fugetsu-den hall. *BOOKING IN PROGRESS — Brad booking 7 PM slot.* Separate ticket from the Grand Tea Gathering event already on the calendar.
+
+### Late Dinner (~8:45 PM)
+1. **Pontocho walk-in** — Take taxi/subway back from Kitano Tenmangu (~25 min). Browse the narrow alley, pick a spot with seats. Many open until 11 PM.
+2. **[Hikiniku to Come](https://maps.google.com/?q=Hikiniku+to+Come+Kyoto)** — Backup if open late. Charcoal hamburger patties with rice, ~1,500-2,000 yen. Walk-in. Note: typical LO 8:30 PM — likely too late tonight, save for another flex slot.
+
+### Late Night
 - **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar, Kiyamachi. Near hotel.
 - **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** — Pontocho speakeasy, magician-bartender. If you haven't been yet.
 
@@ -549,6 +567,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - **[Shinsekai](https://maps.google.com/?q=Shinsekai+Osaka)** — Retro 1912 neighborhood. Neon, dive bars.
 - **[Yaekatsu](https://maps.google.com/?q=Yaekatsu+kushikatsu+Shinsekai+Osaka)** — Kushikatsu est. 1949. ~1,500-3,000 yen. *Don't double-dip!*
 - **[Tower Knives Osaka](https://maps.google.com/?q=Tower+Knives+Osaka+Tsutenkaku)** — Knife gallery. Free 10-min care lesson with purchase. Name engraving 500 yen.
+- **[Uncle Rikuro Namba](https://maps.google.com/?q=Rikuro+Ojisan+Namba+Osaka)** — **Famous Osaka jiggly soufflé cheesecake.** Whole 6-inch cake ¥865, fresh-baked every 30 min, only sold in Osaka. Light, airy, lightly sweet with raisins at the bottom. Namba HQ store has a viewing window where you can watch them being baked. Walking distance from Cross Hotel. *Brad's been wanting one — pick up to share back at hotel or eat warm at the cafe upstairs.*
 
 ### Dinner (~7:30 PM) — Kushikatsu
 1. **[Kushikatsu Kei](https://maps.google.com/?q=Kushikatsu+Kei+Osaka)** — PICK. Renovated 80-year-old house — ~2,000-4,000 yen — "Phantom sauce" with chicken broth. Beautiful setting.
@@ -580,7 +599,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ### Morning — Kuromon Market + Osaka Castle (~8:30-12:00)
 - **[Karukoma Sushi](https://maps.google.com/?q=Harukoma+Sushi+Tenjinbashi+Osaka)** — PICK. Tenjinbashi — ~1,300-2,000 yen/pp — Insane value. Toro, uni, anago. In Japan's longest shopping arcade. *LINE UP: Arrive by 10:30-11:00am. Expect 30-60 min GW wait.* *(Midosuji Line to Tenjinbashisuji-Rokuchome)*
-  - **[Flower Mountain Tenjinbashi](https://maps.google.com/?q=Flower+Mountain+5-8-27+Tenjinbashi+Kita+Osaka)** — Same shopping arcade! 5-8-27 Tenjinbashi. Brad's shoe stop. Hit before or after sushi.
+  - **[Flower Mountain Tenjinbashi](https://maps.google.com/?q=Flower+Mountain+5-8-27+Tenjinbashi+Kita+Osaka)** — **MUST HIT.** Same shopping arcade as Harukoma Sushi (5-8-27 Tenjinbashi). Brad's shoe stop. The Kyoto location was small/limited stock — this Osaka store has full lineup. Hit before or after sushi.
 - **[Osaka Castle](https://maps.google.com/?q=Osaka+Castle)** — Iconic landmark. Castle tower has elevator (no stairs for Brad). ~600 yen. Allow 1.5-2 hrs.
 
 ### Lunch (~12:30 PM) — Sushi (at Harukoma, see above)

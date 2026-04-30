@@ -83,6 +83,26 @@
       "city": "Tokyo"
     },
     {
+      "name": "Kyoto Nippon Festival — Grand Tea Gathering",
+      "details": "Immersive 60-min \"Grand Tea Gathering of the Flowered Night\" theater at Kitano Tenmangu Shrine",
+      "date": "May 3, 9:00 AM",
+      "cost": "¥3,500",
+      "mapLink": "https://maps.google.com/?q=Kitano+Tenmangu+Shrine+Kyoto",
+      "status": "booked",
+      "category": "booked",
+      "city": "Kyoto"
+    },
+    {
+      "name": "Kyoto Nippon Festival — Immersive Theater \"The Six Shadows\"",
+      "details": "70-min Mika Ninagawa + EiM + DAZZLE immersive theater in Fugetsu-den hall, Kitano Tenmangu. Venue closes when show ends — arrive 6 PM to walk grounds.",
+      "date": "May 3, 7:00 PM",
+      "cost": "TBD",
+      "mapLink": "https://maps.google.com/?q=Kitano+Tenmangu+Fugetsuden+Kyoto",
+      "status": "booked",
+      "category": "booked",
+      "city": "Kyoto"
+    },
+    {
       "name": "Camellia Tea Ceremony",
       "details": "Kyoto traditional matcha whisking — machiya setting",
       "date": "May 3, 12:00 PM",
@@ -488,27 +508,11 @@
   "alarms": [
     {
       "alarmDate": "NOW",
-      "venue": "@ijou_maru_parfait",
-      "bookingFor": "May 6, ~9:00 PM (birthday parfait)",
-      "action": "Follow on Instagram — required for \"membership\" before you can DM to reserve",
-      "priority": "HIGH",
-      "city": "Osaka"
-    },
-    {
-      "alarmDate": "NOW",
       "venue": "@amam_dacotan_kyoto",
       "bookingFor": "May 3, ~9:30 AM (bakery queue)",
       "action": "Follow on Instagram — check IG night of May 2 for closures, register Airwait 9:30 AM day-of",
       "priority": "MEDIUM",
       "city": "Kyoto"
-    },
-    {
-      "alarmDate": "~Apr 29",
-      "venue": "Ijou Maru Parfait",
-      "bookingFor": "May 6, ~9:00 PM (birthday!)",
-      "action": "DM @ijou_maru_parfait — 2 people, Brad's birthday night",
-      "priority": "HIGH",
-      "city": "Osaka"
     },
     {
       "alarmDate": "May 2",
