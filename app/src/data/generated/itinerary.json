@@ -1147,14 +1147,6 @@
               "description": "That's the money shot. No need to summit",
               "priority": false,
               "reservationRequired": false
-            },
-            {
-              "name": "Fushimi Sake District",
-              "mapLink": "https://maps.google.com/?q=Fushimi+Sake+District+Kyoto",
-              "description": "Walk south from Inari into the historic sake brewing district. Get a flight of 18 local sakes at a tasting room",
-              "duration": "10 min",
-              "priority": false,
-              "reservationRequired": false
             }
           ]
         },
@@ -1305,7 +1297,7 @@
       "title": "Nara Day Trip",
       "city": "Kyoto",
       "subtitle": "Half-day in Nara (deer, giant Buddha), return for Kyoto afternoon and evening.",
-      "summary": "Day trip to Nara — the one with the bowing deer and the world's largest bronze Buddha. Feed deer, gawk at Todai-ji, eat persimmon leaf sushi (a Nara-only thing). Back to Kyoto for a flat, easy walk along the Philosopher's Path and the gorgeous Nanzen-ji aqueduct. Dinner is unagi — eel over rice with a thin egg blanket. Then live jazz at Hello Dolly on Pontocho. It's Friday night, this is the one.",
+      "summary": "Day trip to Nara — the one with the bowing deer and the world's largest bronze Buddha. Feed deer, gawk at Todai-ji, eat persimmon leaf sushi (a Nara-only thing). Stop at Fushimi sake district on the ride back to Kyoto for a 4 PM tasting flight (18 sakes, the sensible time to do this not 8:30 AM). Dinner is unagi — eel over rice with a thin egg blanket. Then live jazz at Hello Dolly on Pontocho.",
       "morningCoffee": {
         "kind": "coffee",
         "name": "Iolite Coffee Roasters",
@@ -1392,23 +1384,38 @@
           ]
         },
         {
-          "title": "Afternoon — Return to Kyoto",
+          "title": "Late Afternoon — Fushimi Sake District",
+          "subtitle": "Stop on the way back from Nara to Kyoto. Sensible 4 PM sake tasting hour, not 8:30 AM.",
           "activities": [
             {
-              "name": "Philosopher's Path",
-              "mapLink": "https://maps.google.com/?q=Philosopher's+Path+Kyoto",
-              "description": "Flat, easy 2km canal-side walk. Beautiful. Fine for Brad's foot",
+              "name": "Route:",
               "priority": false,
               "reservationRequired": false
             },
             {
-              "name": "Nanzen-ji",
-              "mapLink": "https://maps.google.com/?q=Nanzen-ji+Temple+Kyoto",
-              "description": "Beautiful brick aqueduct (free photo op). Less crowded than Kiyomizu",
+              "name": "Fushimi Sake District",
+              "mapLink": "https://maps.google.com/?q=Fushimi+Sake+District+Kyoto",
+              "description": "Historic sake brewing area, source for 1/4 of all Japanese sake. Multiple working breweries: Gekkeikan Okura Sake Museum, Tsukinokatsura, Kizakura Kappa Country",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Tasting flight:",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "5:30 PM",
+              "description": "Train back to Kyoto Station, Hotel by 6 PM",
+              "duration": "10-15 min",
               "priority": false,
               "reservationRequired": false
             }
           ]
+        },
+        {
+          "title": "Then — Light Walk",
+          "activities": []
         },
         {
           "title": "Dinner",
@@ -1438,7 +1445,7 @@
             {
               "name": "Hello Dolly",
               "mapLink": "https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto",
-              "description": "Live jazz Friday! Three sets at 8pm, 9:30pm, 11pm. Tonight is Friday — this is the night for it",
+              "description": "Live jazz Pontocho. Three sets at 8pm, 9:30pm, 11pm. Live music Fri AND Sat — tonight (Sat) qualifies",
               "priority": false,
               "reservationRequired": false
             },

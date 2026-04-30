@@ -401,8 +401,8 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - Take Kyoto subway to Kyoto Station, then JR Nara Line 1 stop to Inari Station. Total ~25 min, ~410 yen.
 - **[Fushimi Inari](https://maps.google.com/?q=Fushimi+Inari+Taisha+Kyoto)** — By 7:30am for near-empty torii gates. The iconic vermillion tunnels. Free, open 24 hrs.
 - **Brad:** First section (Senbon Torii) is 15-20 min of flat/gentle walking — that's the money shot. No need to summit.
-- **[Fushimi Sake District](https://maps.google.com/?q=Fushimi+Sake+District+Kyoto)** — Walk 10 min south from Inari into the historic sake brewing district. Get a flight of 18 local sakes at a tasting room (~1,000-1,500 yen).
-- Return to hotel by ~9:30 AM for coffee
+- ~~Fushimi Sake District tasting~~ — **MOVED to Saturday May 2 late afternoon** (returning from Nara, more sensible time for 18 sake flights). Skip this morning.
+- Return to hotel by ~9:30 AM for coffee.
 
 ### Late Morning — Gion / Higashiyama (~10:00 AM-12:30 PM)
 - Walk east along Shijo-dori into Gion
@@ -444,9 +444,9 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 *Half-day in Nara (deer, giant Buddha), return for Kyoto afternoon and evening.*
 
 > Day trip to Nara — the one with the bowing deer and the world's largest bronze Buddha. Feed deer,
-> gawk at Todai-ji, eat persimmon leaf sushi (a Nara-only thing). Back to Kyoto for a flat, easy walk
-> along the Philosopher's Path and the gorgeous Nanzen-ji aqueduct. Dinner is unagi — eel over rice
-> with a thin egg blanket. Then live jazz at Hello Dolly on Pontocho. It's Friday night, this is the one.
+> gawk at Todai-ji, eat persimmon leaf sushi (a Nara-only thing). Stop at Fushimi sake district on the
+> ride back to Kyoto for a 4 PM tasting flight (18 sakes, the sensible time to do this not 8:30 AM).
+> Dinner is unagi — eel over rice with a thin egg blanket. Then live jazz at Hello Dolly on Pontocho.
 
 **Morning Coffee:** [Iolite Coffee Roasters](https://maps.google.com/?q=Iolite+Coffee+Roasters+Kyoto) — Hidden gem in Nakagyo.
 
@@ -467,16 +467,24 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 1. **[Kakinoha-zushi](https://maps.google.com/?q=persimmon+leaf+sushi+Nara)** (persimmon leaf-wrapped sushi) — PRIORITY. Nara specialty. ~1,000-1,500 yen. A must-try.
 2. Local soba in Naramachi — Wander and discover.
 
-### Afternoon — Return to Kyoto (~3:00 PM)
-- **[Philosopher's Path](https://maps.google.com/?q=Philosopher's+Path+Kyoto)** — Flat, easy 2km canal-side walk. Beautiful. Fine for Brad's foot.
-- **[Nanzen-ji](https://maps.google.com/?q=Nanzen-ji+Temple+Kyoto)** — Beautiful brick aqueduct (free photo op). Less crowded than Kiyomizu.
+### Late Afternoon — Fushimi Sake District (~3:30-5:30 PM)
+*Stop on the way back from Nara to Kyoto. Sensible 4 PM sake tasting hour, not 8:30 AM.*
+- **Route:** JR Nara Line Nara → Inari (~30 min, ~410 yen). Walk south ~10-15 min from Inari Station into the sake brewing district along Bunkacho-dori. Or transfer at Tofukuji to Keihan Line → Fushimi-Momoyama (~5 min walk to Chushojima sake breweries).
+- **[Fushimi Sake District](https://maps.google.com/?q=Fushimi+Sake+District+Kyoto)** — Historic sake brewing area, source for 1/4 of all Japanese sake. Multiple working breweries: Gekkeikan Okura Sake Museum, Tsukinokatsura, Kizakura Kappa Country.
+- **Tasting flight:** 18-sake tasting set ~¥1,000-1,500/pp at one of the tasting rooms (Gekkeikan Okura is the most accessible for non-Japanese-speakers; Kizakura has a beer hall too if you want a switch).
+- **5:30 PM** — Train back to Kyoto Station, ~10-15 min. Hotel by 6 PM.
+
+### Then — Light Walk (~6:00-6:45 PM, optional)
+- Skip Philosopher's Path / Nanzen-ji today — sake afternoon makes it too tight. Save for a flex Sunday slot if you want, or skip entirely.
+- ~~Philosopher's Path~~ — Drop today; can flex into Sunday morning before Kuoe.
+- ~~Nanzen-ji~~ — Drop today.
 
 ### Dinner (~7:00 PM) — Unagi
 1. **[Kyogoku Kaneyo](https://maps.google.com/?q=Kyogoku+Kaneyo+Kyoto)** — PRIORITY. Unagi (eel) — ~2,000-4,000 yen — Kinshi-don: eel over rice topped with thin egg omelet. Ritz-Carlton recommended. Closed Tue night/Wed. Open Fri.
 2. **[Pontocho Fujita](https://maps.google.com/?q=Pontocho+Fujita+Kyoto)** — Kaiseki along Pontocho — ~5,000-8,000 yen — River terraces may be open!
 
 ### Evening
-- **[Hello Dolly](https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto)** — Live jazz Friday! Three sets at 8pm, 9:30pm, 11pm. *Tonight is Friday — this is the night for it.*
+- **[Hello Dolly](https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto)** — Live jazz Pontocho. Three sets at 8pm, 9:30pm, 11pm. Live music Fri AND Sat — tonight (Sat) qualifies.
 - **[Jazz Live Candy](https://maps.google.com/?q=Jazz+Live+Candy+Gion+Kyoto)** — Gion. Nightly live jazz. *Can do both — Hello Dolly first, Candy after.*
 - ~~Kamogawa Odori~~ — Doesn't start until May 5 this year.
 
