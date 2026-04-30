@@ -422,7 +422,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 ### Afternoon — Tea + Rest (~3:00-5:00 PM)
 *Alyona loves tea — this afternoon is for her:*
 - **[Ippodo Tea](https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi)** — Since 1717. Whisk your own matcha at the counter with seasonal sweets. Teramachi Street, ~10 min walk from hotel. ~700-1,500 yen. Also buy matcha to bring home.
-- **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — Award-winning matcha parfait. Open Thu-Mon. Closes 5pm cafe. Book ahead.
+- **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — Award-winning desserts from Chef Akihiro Kakimoto (Japan rep at World Chocolate Masters). Located south of the Imperial Palace in a traditional machiya. Famous for inventive parfaits and handmade chocolates. **Cafe walk-in 12-5 PM, store 12-7 PM** — no reservation needed for dessert. *(Reservation is only for the 6 PM+ dinner omakase course, which is different.)* Closed Tue + Wed.
 - **[Imoya Tsunekichi](https://maps.google.com/?q=Imoya+Tsunekichi+Gion+Kyoto)** — **Caramelized sweet potato (daigaku imo) specialty shop in Gion.** 570-262 Gionmachi Minamigawa, near Yasui Konpira-gu Shrine, short walk from Gion Shijo, passing Hanamikoji and Kennin-ji. Uses red haruka sweet potatoes from Ibaraki, everything handmade. **Daigaku imo coated in their secret golden syrup**, plus Tokichi Imo (baked + fried) and a loaded Sweet Potato Parfait (~¥1,200) with daigaku imo, sweet potato chips, candied potato, baked potato, and mitarashi dango. Easy to pop in during the Higashiyama walk — Gion is on the way.
 
 ### ~~Late Afternoon — BIG MOON Kyoto~~ — SKIPPED

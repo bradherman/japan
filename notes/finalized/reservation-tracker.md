@@ -74,7 +74,7 @@
 | ~~**Chopstick Making Workshop**~~ | ~~Custom chopsticks for 4~~ | ~~Apr 26, 10:00 AM~~ | ~~$27/pp~~ | — | **BOOKED — moved to Already Booked** |
 | **Yoshikawa Tempura** (Kyoto) | Counter-seat tempura in machiya w/ koi pond | May 1 lunch, ~1:00 PM | ¥5,000-8,000 | Phone | [Map](https://maps.google.com/?q=Yoshikawa+Tempura+Kyoto) |
 | **Gion Takuma** (Kyoto) | Affordable kaiseki along Shirakawa river | Apr 30 or May 1 lunch | ¥3,600+ | Phone/online | [Map](https://maps.google.com/?q=Gion+Takuma+kaiseki+Kyoto) |
-| **Assemblages Kakimoto** | Matcha parfait | May 1 or 3, ~3:00 PM | ~¥2,000 | Online | [Map](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto) |
+| ~~**Assemblages Kakimoto**~~ (no booking needed for parfait) | ~~Matcha parfait~~ Cafe is **walk-in 12-5 PM**, store 12-7 PM. Reservation only required for the 6 PM dinner omakase (different thing). Closed Tue + Wed. | May 1 or 3, ~3:00 PM | ~¥2,000 | Walk-in cafe | [Map](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto) |
 | **Tonkatsu Sugita** | Bib Gourmand tonkatsu — rosu katsu | Tokyo backup (any flex day) | ¥3,000-4,500 | Omakase.in or byFood | [Map](https://maps.google.com/?q=Tonkatsu+Sugita+Kuramae+Tokyo) |
 | ~~**Nishikawa Pillow Fitting**~~ | ~~Custom pillow for 4 people~~ | ~~Apr 29~~ | — | — | **BOOKED — moved to Already Booked** |
 | **Nokishita 711** (Kyoto) | Cocktail omakase (5 cocktails + snacks) | May 1-3 evening | ¥5,000+ | TableCheck | [Map](https://maps.google.com/?q=Nokishita+711+Kyoto) |

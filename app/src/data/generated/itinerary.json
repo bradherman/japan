@@ -1224,9 +1224,9 @@
             {
               "name": "Assemblages Kakimoto",
               "mapLink": "https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto",
-              "description": "Award-winning matcha parfait. Open Thu-Mon. Closes 5pm cafe. Book ahead",
+              "description": "Award-winning desserts from Chef Akihiro Kakimoto (Japan rep at World Chocolate Masters). Located south of the Imperial Palace in a traditional machiya. Famous for inventive parfaits and handmade chocolates. Cafe walk-in 12-5 PM, store 12-7 PM — no reservation needed for dessert. (Reservation is only for the 6 PM+ dinner omakase course, which is different.) Closed Tue; Wed",
               "priority": false,
-              "reservationRequired": true
+              "reservationRequired": false
             },
             {
               "name": "Imoya Tsunekichi",
