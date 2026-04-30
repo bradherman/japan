@@ -314,18 +314,22 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 3:15-3:30  Subway/walk to Philosopher's Path area
 3:30-4:30  Philosopher's Path — flat 2km canal walk, peaceful (fine for Brad's foot)
 4:30-5:00  Nanzen-ji Temple — brick aqueduct photo op (free)
-5:00-5:30  Walk/subway back to hotel area
-5:30-6:30  Rest at hotel
+5:00-5:30  Walk/subway back to hotel area or head to Fushimi
+5:30-5:40  Rest/freshen up at hotel (optional — can go straight to Fushimi)
+5:40-5:50  Walk south toward Fushimi sake district (10 min)
+5:50-6:25  Sake tasting flight at a Fushimi brewery (~1,000-1,500 yen)
+6:25-6:35  Walk back from sake district (10 min)
+6:35-6:45  Rest/freshen up at hotel
            ⚠️ TONIGHT: Ask concierge to call Rakushaan (075-494-2551) for May 3 warabi mochi pickup. 2x 16-piece boxes. Cash only.
            ⚠️ TONIGHT: Check @amam_dacotan_kyoto IG for tomorrow's closure status.
-6:30-6:45  Walk to Kyogoku Kaneyo
-6:45-7:45  Dinner — kinshi-don (eel + egg omelet over rice, ~2,000-4,000 yen)
+6:45-7:00  Walk to Kyogoku Kaneyo
+7:00-8:00  Dinner — kinshi-don (eel + egg omelet over rice, ~2,000-4,000 yen)
            (B) Pontocho Fujita — kaiseki with river terrace
-7:45-8:00  Walk to Hello Dolly on Pontocho
-8:00-9:30  Hello Dolly — LIVE JAZZ FRIDAY! Sets at 8pm, 9:30pm ⚠️ TONIGHT IS THE NIGHT
-9:30-10:00 Walk to Jazz Live Candy in Gion (10 min)
-10:00-11:00 Jazz Live Candy — nightly live jazz
-11:00      Walk to hotel (10 min)
+8:00-8:15  Walk to Hello Dolly on Pontocho
+8:15-9:45  Hello Dolly — LIVE JAZZ FRIDAY! Sets at 8pm, 9:30pm ⚠️ TONIGHT IS THE NIGHT
+9:45-10:15 Walk to Jazz Live Candy in Gion (10 min)
+10:15-11:15 Jazz Live Candy — nightly live jazz
+11:15      Walk to hotel (10 min)
 ```
 
 ---
