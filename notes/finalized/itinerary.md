@@ -365,15 +365,18 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 3. ~~**Honke Owariya**~~ — closed for renovation.
 4. **[Omen Pontocho](https://maps.google.com/?q=Omen+Pontocho+Kyoto)** — Kyoto's beloved udon backup. ~1,000-2,000 yen/pp. Walking distance.
 
-### Evening — Dinner (Used Watch Hunt Pushed to Friday)
-**⚠️ TONIGHT IS THURSDAY — BIG MOON IS CLOSED, and Komehyo Kyoto Shinkyogoku turned out to be a bust (only ~3 watches total). Watch hunt is BIG MOON tomorrow (Fri May 1) afternoon.**
-- ~~**Komehyo Kyoto Shinkyogoku**~~ — Visited Apr 30, near-empty inventory. Skip.
-- ~~**BIG MOON KYOTO**~~ today — closed Thursdays. Hit tomorrow afternoon (added to Day 7).
-- **[Grand Seiko Boutique Kyoto Shijo](https://maps.google.com/?q=Grand+Seiko+Boutique+Kyoto+Shijo)** — NEW only (for current-model reference). Largest Grand Seiko boutique in Asia, opened 2024. 21-1 Shijo-dori. Hours 11:00-19:00. ~5-min walk.
-- **[Koe Donuts Kyoto](https://maps.google.com/?q=Koe+Donuts+Kyoto+Shinkyogoku)** — Kengo Kuma-designed organic donut shop, 1 min from Hankyu Kawaramachi Stn (Shinkyogoku-dori). Open 8am-8pm. ~¥200/donut, 30+ varieties. The ceiling has 572 hexagonal bamboo baskets from Arashiyama. Worth a quick stop if energy allows.
-- **[Gion walking at dusk](https://maps.google.com/?q=Gion+District+Kyoto)** — Walk east along Shijo-dori into Gion. Hanamikoji-dori for teahouses. Possible maiko sighting.
-- **[Pontocho alley](https://maps.google.com/?q=Pontocho+Alley+Kyoto)** — Atmospheric alley parallel to Kamo River.
-- **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar on Kiyamachi, near hotel.
+### Evening — Dinner + Matcha Dessert
+*Watch hunt moved to Friday (BIG MOON closed Thu); Koe Donuts moved to Saturday morning pre-Kuoe.*
+
+- **[Hyakuten Manten](https://maps.google.com/?q=Hyakuten+Manten+Kyoto+Sanjo+Takakura)** — Curry ramen dinner ~7-8 PM (covered above).
+
+### Post-Dinner Matcha (~8:30-9:00 PM)
+- **[Kyo Hayashiya Kyoto Sanjo](https://maps.google.com/?q=Kyo+Hayashiya+Sanjo+Kyoto+Takase)** — **Late-night matcha cafe, one of the few open past 9pm in Kyoto.** Takase Building 6F near Kawaramachi, ~5-7 min walk from Hyakuten Manten or hotel. Open 11:30 AM-9:30 PM (last order 9:00 PM). Famous for matcha parfait, matcha ice cream, matcha warabi mochi, and matcha shaved ice. **Order by 9:00 PM sharp.** Multi-floor cafe with traditional Japanese aesthetic.
+
+### Late Night
+- **[Pontocho alley](https://maps.google.com/?q=Pontocho+Alley+Kyoto)** — Atmospheric alley parallel to Kamo River. Walk through after Kyo Hayashiya for the night-lit lanterns.
+- **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar on Kiyamachi, near hotel. Open late.
+- ~~Grand Seiko Boutique / BIG MOON / Komehyo / Koe Donuts~~ — All wrong-day or wrong-time for tonight; rescheduled.
 
 ### Logistics
 - Kyoto is very walkable from your hotel — Gion, Pontocho, Nishiki Market, Kamo River all within 10-15 min
@@ -451,10 +454,11 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Morning Coffee:** [Iolite Coffee Roasters](https://maps.google.com/?q=Iolite+Coffee+Roasters+Kyoto) — Hidden gem in Nakagyo.
 
-### Morning — Slow Start + Kuoe (~9:00 AM-12:00 PM)
+### Morning — Slow Start + Koe Donuts + Kuoe (~9:00 AM-12:00 PM)
 *Leisurely morning — Nara departs ~12:30 PM, no need to rush.*
-- 9-10:30 AM: Coffee at hotel area / Iolite or Kurasu / light breakfast
-- **[Kuoe Watches Kyoto](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — **11:00 AM at open (PRIORITY).** Saturday is the day Kuoe is open (closed Sun + Tue). Brad checking if the Apr 30 piece got restocked. ~10-min walk from Hotel Forza, down a small flight of stairs in Tohbeh Bldg #105, 224 Eirakucho. Allow ~45 min for a real browse this time around.
+- 9:00-9:30 Coffee at hotel area or quick Iolite / Kurasu pour-over
+- **[Koe Donuts Kyoto](https://maps.google.com/?q=Koe+Donuts+Kyoto+Shinkyogoku)** — ~10:00-10:45 AM. Kengo Kuma-designed organic donut shop, 1 min from Hankyu Kawaramachi Stn on Shinkyogoku-dori. Opens 8 AM. ~¥200/donut, 30+ varieties — Brad's been wanting this; perfect breakfast on the way to Kuoe (both are in the Kawaramachi/Teramachi/Shinkyogoku cluster, ~3-5 min walk apart). The ceiling has 572 hexagonal bamboo baskets from Arashiyama.
+- **[Kuoe Watches Kyoto](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — **11:00 AM at open (PRIORITY).** Saturday is the day Kuoe is open (closed Sun + Tue). Brad checking if the Apr 30 piece got restocked. ~10-min walk from Hotel Forza (or 3-5 min from Koe Donuts), down a small flight of stairs in Tohbeh Bldg #105, 224 Eirakucho. Allow ~45 min for a real browse this time around.
 - 11:45 AM-12:30 PM: Walk back, quick light lunch at Nishiki Market or konbini en route to Kyoto Stn.
 
 ### Optional Stretch — Asahi-yaki Uji Stop
