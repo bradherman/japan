@@ -420,6 +420,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 *Alyona loves tea — this afternoon is for her:*
 - **[Ippodo Tea](https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi)** — Since 1717. Whisk your own matcha at the counter with seasonal sweets. Teramachi Street, ~10 min walk from hotel. ~700-1,500 yen. Also buy matcha to bring home.
 - **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — Award-winning matcha parfait. Open Thu-Mon. Closes 5pm cafe. Book ahead.
+- **[Imoya Tsunekichi](https://maps.google.com/?q=Imoya+Tsunekichi+Gion+Kyoto)** — **Caramelized sweet potato (daigaku imo) specialty shop in Gion.** 570-262 Gionmachi Minamigawa, near Yasui Konpira-gu Shrine, short walk from Gion Shijo, passing Hanamikoji and Kennin-ji. Uses red haruka sweet potatoes from Ibaraki, everything handmade. **Daigaku imo coated in their secret golden syrup**, plus Tokichi Imo (baked + fried) and a loaded Sweet Potato Parfait (~¥1,200) with daigaku imo, sweet potato chips, candied potato, baked potato, and mitarashi dango. Easy to pop in during the Higashiyama walk — Gion is on the way.
 
 ### Late Afternoon — BIG MOON Kyoto (~5:00-6:30 PM)
 - **[BIG MOON KYOTO](https://maps.google.com/?q=BIG+MOON+KYOTO+Karasuma)** — **Brad's Kyoto used Grand Seiko hunt.** Karasuma Dai-san Star Bldg, Karasuma-dori, ~5-min walk west from Hotel Forza (very close to Ippodo on Teramachi too — they're both in central Kyoto). 300+ secondhand watches incl. Grand Seiko, Rolex, Omega, Hublot, Panerai, Kurono Tokyo. Tax-free with passport. **Closed Thursdays — Friday is the open day.** Hours 10:30-19:00 — get there by 6 PM at latest.
@@ -797,8 +798,11 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 ### Lunch (11:30 AM) — Pizza Bar on 38th — BOOKED
 - **[Pizza Bar on 38th](https://maps.google.com/?q=Pizza+Bar+38th+Mandarin+Oriental+Tokyo)** — Omakase pizza (#2 in world) — 8 seats, Mandarin Oriental 38F — ~¥15,000-20,000/pp — **✅ BOOKED 11:30 AM**
 
-### Arrival at Hotel (~1:30 PM)
-- *After lunch (~1:00 PM): Walk back to Tokyo Station → Nippori via JR Yamanote (~12 min, ¥170).*
+### Post-Pizza Bar — Sembikiya Nihonbashi (~1:00-1:45 PM)
+- **[Sembikiya Nihonbashi (Senbikiya Sohonten)](https://maps.google.com/?q=Sembikiya+Nihonbashi+Mitsui+Tower)** — **Japan's most legendary luxury fruit shop, est. 1834.** Flagship at Mitsui Tower 1F, 2-1-2 Nihonbashi Muromachi — **5-7 min walk from Mandarin Oriental** (where Pizza Bar is). Whole muskmelons from Shizuoka are their signature (¥5,000-30,000 — treated like jewels by farmers). 2F fruit parlor serves the **insane melon parfait** Brad's been wanting (~¥3,500-5,000). The shop itself feels like a fruit museum. *If you don't want to commit to a parlor sit-down, just buy a half-melon downstairs (~¥3,000-5,000) and have it at the hotel.*
+
+### Arrival at Hotel (~2:00 PM)
+- *Walk back to Tokyo Station from Nihonbashi (~10 min) → Nippori via JR Yamanote (~12 min, ¥170).*
 - **[Hotel MyStays Nippori](https://maps.google.com/?q=Hotel+Mystays+Nippori+Tokyo)** — 3-5 min walk from Nippori Station. Check in, drop bags, freshen up.
 
 ### Afternoon — Yanaka Ginza + Missed Spots (~2:00-5:30 PM)

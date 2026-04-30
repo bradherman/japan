@@ -1224,6 +1224,13 @@
               "description": "Award-winning matcha parfait. Open Thu-Mon. Closes 5pm cafe. Book ahead",
               "priority": false,
               "reservationRequired": true
+            },
+            {
+              "name": "Imoya Tsunekichi",
+              "mapLink": "https://maps.google.com/?q=Imoya+Tsunekichi+Gion+Kyoto",
+              "description": "Caramelized sweet potato (daigaku imo) specialty shop in Gion. 570-262 Gionmachi Minamigawa, near Yasui Konpira-gu Shrine, short walk from Gion Shijo, passing Hanamikoji and Kennin-ji. Uses red haruka sweet potatoes from Ibaraki, everything handmade. Daigaku imo coated in their secret golden syrup, plus Tokichi Imo (baked; fried) and a loaded Sweet Potato Parfait with daigaku imo, sweet potato chips, candied potato, baked potato, and mitarashi dango. Easy to pop in during the Higashiyama walk — Gion is on the way",
+              "priority": false,
+              "reservationRequired": false
             }
           ]
         },
@@ -2334,6 +2341,19 @@
               "reservationRequired": false,
               "booked": true,
               "price": "¥15,000-20,000"
+            }
+          ]
+        },
+        {
+          "title": "Post-Pizza Bar — Sembikiya Nihonbashi",
+          "activities": [
+            {
+              "name": "Sembikiya Nihonbashi (Senbikiya Sohonten)",
+              "mapLink": "https://maps.google.com/?q=Sembikiya+Nihonbashi+Mitsui+Tower",
+              "description": "Japan's most legendary luxury fruit shop, est. 1834. Flagship at Mitsui Tower 1F, 2-1-2 Nihonbashi Muromachi — 5-7 min walk from Mandarin Oriental (where Pizza Bar is). Whole muskmelons from Shizuoka are their signature (— treated like jewels by farmers). 2F fruit parlor serves the insane melon parfait Brad's been wanting. The shop itself feels like a fruit museum. If you don't want to commit to a parlor sit-down, just buy a half-melon downstairs and have it at the hotel",
+              "priority": false,
+              "reservationRequired": false,
+              "price": "¥5,000-30,000"
             }
           ]
         },
