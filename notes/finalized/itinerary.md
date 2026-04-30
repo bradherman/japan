@@ -425,8 +425,8 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — Award-winning matcha parfait. Open Thu-Mon. Closes 5pm cafe. Book ahead.
 - **[Imoya Tsunekichi](https://maps.google.com/?q=Imoya+Tsunekichi+Gion+Kyoto)** — **Caramelized sweet potato (daigaku imo) specialty shop in Gion.** 570-262 Gionmachi Minamigawa, near Yasui Konpira-gu Shrine, short walk from Gion Shijo, passing Hanamikoji and Kennin-ji. Uses red haruka sweet potatoes from Ibaraki, everything handmade. **Daigaku imo coated in their secret golden syrup**, plus Tokichi Imo (baked + fried) and a loaded Sweet Potato Parfait (~¥1,200) with daigaku imo, sweet potato chips, candied potato, baked potato, and mitarashi dango. Easy to pop in during the Higashiyama walk — Gion is on the way.
 
-### Late Afternoon — BIG MOON Kyoto (~5:00-6:30 PM)
-- **[BIG MOON KYOTO](https://maps.google.com/?q=BIG+MOON+KYOTO+Karasuma)** — **Brad's Kyoto used Grand Seiko hunt.** Karasuma Dai-san Star Bldg, Karasuma-dori, ~5-min walk west from Hotel Forza (very close to Ippodo on Teramachi too — they're both in central Kyoto). 300+ secondhand watches incl. Grand Seiko, Rolex, Omega, Hublot, Panerai, Kurono Tokyo. Tax-free with passport. **Closed Thursdays — Friday is the open day.** Hours 10:30-19:00 — get there by 6 PM at latest.
+### ~~Late Afternoon — BIG MOON Kyoto~~ — SKIPPED
+- ~~**BIG MOON KYOTO**~~ — Brad scrolled their full online inventory (Chrono24 + own site) — nothing caught his eye. Japanese dealer online listings are comprehensive (5-10% lag for fresh acquisitions max), so in-store is likely the same. **Skip and put the watch hunt energy into HOUBIDOU Osaka Shinsaibashi on May 5** (818 Chrono24 listings, ~3× BIG MOON's depth). Frees ~1.5 hrs of Friday afternoon for a longer Ippodo/Assemblages window or Pontocho stroll.
 
 ### Dinner (~6:30 PM) — Ramen
 1. **[Menya Inoichi](https://maps.google.com/?q=Menya+Inoichi+Shimogyo+Kyoto)** — PRIORITY. Bib Gourmand — ~1,000 yen — Seafood shio ramen, 9 consecutive years. In Shimogyo-ku, ~10-15 min walk south from hotel. No train needed.
@@ -543,13 +543,10 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 ### Afternoon (~2:00-5:00 PM)
 - **[Kodai-ji Temple](https://maps.google.com/?q=Kodai-ji+Temple+Kyoto)** — Zen temple with stunning gardens. ~600 yen.
 - **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — If you haven't done the matcha parfait yet.
-- **Modern Haori Shopping Tour** — All stores walkable in central Nakagyo-ku (near Shinkyogoku/Gokomachi/Teramachi). Hit in one loop:
-  - **[SOU SOU Kei-i (Menswear)](https://maps.google.com/?q=SOU+SOU+Shinkyogoku+Kyoto)** — Bold print haori jackets, ~14,000-28,000 yen. Modern Japanese pop aesthetic. *(If you didn't visit on Day 6)*
-  - **[Musubi Kyoto (Shijo-Shinkyogoku)](https://maps.google.com/?q=Musubi+Kyoto+Shijo+Shinkyogoku)** — Clean, minimal modern haori designed to wear over t-shirts. 18 men's styles, ~5,600-14,000 yen. The most affordable option. 12pm-8pm.
-  - **[KAPITAL K.K-POPPO STORE](https://maps.google.com/?q=KAPITAL+Kyoto+Gokomachi+Rokkaku)** — Artisanal indigo/boro/sashiko noragi and haori. Fashion-forward Japanese-Americana. ~25,000-60,000+ yen. Walking distance from SOU SOU.
-  - **[Visvim F.I.L. KYOTO](https://maps.google.com/?q=Visvim+FIL+Kyoto)** — Luxury tier. Handcrafted haori, noragi, kimono coats in premium fabrics. ~40,000-120,000+ yen. If budget isn't a concern, this is the pinnacle. 11am-7pm.
-  - **[FDMTL at FASCINATE Kyoto](https://maps.google.com/?q=FASCINATE+Kyoto+Gokomachi)** — Denim/indigo haori, sashiko-stitched. ~20,000-50,000 yen. Grows character with wear.
-  - *All 5 stores are within a 10-15 min walking radius. Budget 2-3 hours. This is the best haori shopping cluster in Japan.*
+- **Haori — compressed to ~1-1.5 hrs (was a 3-hr tour, slimmed down):**
+  - **[SOU SOU Kei-i Honten (Menswear)](https://maps.google.com/?q=SOU+SOU+Shinkyogoku+Kyoto)** — **PRIMARY.** Modern cut, bold print haori jackets (~14-28k yen). The "no baggy arms" line. Ask for tailored fit / "modern" silhouette. ~45 min focused try-on session.
+  - **[Musubi Kyoto](https://maps.google.com/?q=Musubi+Kyoto+Shijo+Shinkyogoku)** — Quick 15-min stop if SOU SOU doesn't land. Clean minimal cuts designed to wear over t-shirts, 18 men's styles, ~5,600-14k yen.
+  - *Skipped: KAPITAL, Visvim F.I.L., FDMTL — overshooting the brief. Could revisit any if time/budget pulls you that direction, but SOU SOU Kei-i is the modern-cut answer.*
 
 ### Late Afternoon (~5:00-6:00 PM) — Travel to Kitano Tenmangu
 *New: 7 PM immersive theater. Venue closes when show ends, so go early to walk the festival grounds before.*

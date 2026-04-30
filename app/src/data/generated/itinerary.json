@@ -1238,16 +1238,8 @@
           ]
         },
         {
-          "title": "Late Afternoon — BIG MOON Kyoto",
-          "activities": [
-            {
-              "name": "BIG MOON KYOTO",
-              "mapLink": "https://maps.google.com/?q=BIG+MOON+KYOTO+Karasuma",
-              "description": "Brad's Kyoto used Grand Seiko hunt. Karasuma Dai-san Star Bldg, Karasuma-dori, ~5-min walk west from Hotel Forza (very close to Ippodo on Teramachi too — they're both in central Kyoto). 300+ secondhand watches incl. Grand Seiko, Rolex, Omega, Hublot, Panerai, Kurono Tokyo. Tax-free with passport. Closed Thursdays — Friday is the open day. Hours 10:30-19:00 — get there by 6 PM at latest",
-              "priority": false,
-              "reservationRequired": false
-            }
-          ]
+          "title": "~~Late Afternoon — BIG MOON Kyoto~~ — SKIPPED",
+          "activities": []
         },
         {
           "title": "Dinner",
@@ -1583,48 +1575,24 @@
               "reservationRequired": false
             },
             {
-              "name": "Modern Haori Shopping Tour",
-              "description": "All stores walkable in central Nakagyo-ku (near Shinkyogoku/Gokomachi/Teramachi). Hit in one loop",
+              "name": "Haori — compressed to ~1-1.5 hrs (was a 3-hr tour, slimmed down):",
               "priority": false,
               "reservationRequired": false
             },
             {
-              "name": "SOU SOU Kei-i (Menswear)",
+              "name": "SOU SOU Kei-i Honten (Menswear)",
               "mapLink": "https://maps.google.com/?q=SOU+SOU+Shinkyogoku+Kyoto",
-              "description": "Bold print haori jackets, Modern Japanese pop aesthetic. (If you didn't visit on Day 6)",
+              "description": "PRIMARY. Modern cut, bold print haori jackets (~14-28k yen). The \"no baggy arms\" line. Ask for tailored fit / \"modern\" silhouette. focused try-on session",
+              "duration": "45 min",
               "priority": false,
-              "reservationRequired": false,
-              "price": "¥14,000-28,000"
+              "reservationRequired": false
             },
             {
-              "name": "Musubi Kyoto (Shijo-Shinkyogoku)",
+              "name": "Musubi Kyoto",
               "mapLink": "https://maps.google.com/?q=Musubi+Kyoto+Shijo+Shinkyogoku",
-              "description": "Clean, minimal modern haori designed to wear over t-shirts. 18 men's styles, The most affordable option. 12pm-8pm",
-              "priority": false,
-              "reservationRequired": false,
-              "price": "¥5,600-14,000"
-            },
-            {
-              "name": "KAPITAL K.K-POPPO STORE",
-              "mapLink": "https://maps.google.com/?q=KAPITAL+Kyoto+Gokomachi+Rokkaku",
-              "description": "Artisanal indigo/boro/sashiko noragi and haori. Fashion-forward Japanese-Americana. ~25,000-60,000+ yen. Walking distance from SOU SOU",
+              "description": "Quick 15-min stop if SOU SOU doesn't land. Clean minimal cuts designed to wear over t-shirts, 18 men's styles, ~5,600-14k yen",
               "priority": false,
               "reservationRequired": false
-            },
-            {
-              "name": "Visvim F.I.L. KYOTO",
-              "mapLink": "https://maps.google.com/?q=Visvim+FIL+Kyoto",
-              "description": "Luxury tier. Handcrafted haori, noragi, kimono coats in premium fabrics. ~40,000-120,000+ yen. If budget isn't a concern, this is the pinnacle. 11am-7pm",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "FDMTL at FASCINATE Kyoto",
-              "mapLink": "https://maps.google.com/?q=FASCINATE+Kyoto+Gokomachi",
-              "description": "Denim/indigo haori, sashiko-stitched. Grows character with wear",
-              "priority": false,
-              "reservationRequired": false,
-              "price": "¥20,000-50,000"
             }
           ]
         },
