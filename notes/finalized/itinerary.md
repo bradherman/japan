@@ -365,10 +365,10 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 3. ~~**Honke Owariya**~~ — closed for renovation.
 4. **[Omen Pontocho](https://maps.google.com/?q=Omen+Pontocho+Kyoto)** — Kyoto's beloved udon backup. ~1,000-2,000 yen/pp. Walking distance.
 
-### Evening — Used Grand Seiko Hunt + Dinner
-**⚠️ TONIGHT IS THURSDAY — BIG MOON IS CLOSED. Komehyo is the play tonight; BIG MOON moves to Friday afternoon (May 1).**
-- **[Komehyo Kyoto Shinkyogoku](https://maps.google.com/?q=Komehyo+Kyoto+Shinkyogoku)** — **TONIGHT'S used watch stop.** Japan's largest reuse retailer (70+ years), near Shijo-Karasuma intersection by Kyoto Takashimaya, ~5-min walk from hotel. Has used Grand Seiko, Rolex, Omega, IWC, Patek. Open 11:00-20:00 daily. Tax-free with passport.
-- ~~**[BIG MOON KYOTO]**~~ — **CLOSED today (Thursday). Hit tomorrow (Fri May 1) afternoon — added to Day 7.**
+### Evening — Dinner (Used Watch Hunt Pushed to Friday)
+**⚠️ TONIGHT IS THURSDAY — BIG MOON IS CLOSED, and Komehyo Kyoto Shinkyogoku turned out to be a bust (only ~3 watches total). Watch hunt is BIG MOON tomorrow (Fri May 1) afternoon.**
+- ~~**Komehyo Kyoto Shinkyogoku**~~ — Visited Apr 30, near-empty inventory. Skip.
+- ~~**BIG MOON KYOTO**~~ today — closed Thursdays. Hit tomorrow afternoon (added to Day 7).
 - **[Grand Seiko Boutique Kyoto Shijo](https://maps.google.com/?q=Grand+Seiko+Boutique+Kyoto+Shijo)** — NEW only (for current-model reference). Largest Grand Seiko boutique in Asia, opened 2024. 21-1 Shijo-dori. Hours 11:00-19:00. ~5-min walk.
 - **[Koe Donuts Kyoto](https://maps.google.com/?q=Koe+Donuts+Kyoto+Shinkyogoku)** — Kengo Kuma-designed organic donut shop, 1 min from Hankyu Kawaramachi Stn (Shinkyogoku-dori). Open 8am-8pm. ~¥200/donut, 30+ varieties. The ceiling has 572 hexagonal bamboo baskets from Arashiyama. Worth a quick stop if energy allows.
 - **[Gion walking at dusk](https://maps.google.com/?q=Gion+District+Kyoto)** — Walk east along Shijo-dori into Gion. Hanamikoji-dori for teahouses. Possible maiko sighting.
