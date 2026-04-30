@@ -313,7 +313,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ---
 
-## Day 6: Wednesday, April 30 — Tokyo to Kyoto — Travel Day / Nishiki Market / Gion
+## Day 6: Thursday, April 30 — Tokyo to Kyoto — Travel Day / Nishiki Market / Gion
 
 *Dave & Gail depart (or stay in Tokyo). Brad & Alyona take Nozomi 23 to Kyoto. Arrive 12:23 PM.*
 
@@ -366,9 +366,9 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 4. **[Omen Pontocho](https://maps.google.com/?q=Omen+Pontocho+Kyoto)** — Kyoto's beloved udon backup. ~1,000-2,000 yen/pp. Walking distance.
 
 ### Evening — Used Grand Seiko Hunt + Dinner
-**⚠️ Hit BIG MOON tonight — closed Thursdays, and tomorrow is Nara day.**
-- **[BIG MOON KYOTO](https://maps.google.com/?q=BIG+MOON+KYOTO+Karasuma)** — **PRIORITY for used Grand Seiko.** Karasuma Dai-san Star Bldg on Karasuma-dori, ~5-min walk west from Hotel Forza. 300+ secondhand watches incl. Grand Seiko, Rolex, Omega, Hublot, Panerai, Kurono Tokyo. Considered Kyoto's best dedicated secondhand watch shop. Tax-free with passport. Hours 10:30-19:00, **closed Thursdays.**
-- **[Komehyo Kyoto Shinkyogoku](https://maps.google.com/?q=Komehyo+Kyoto+Shinkyogoku)** — Backup. Japan's largest reuse retailer (70+ years), near Shijo-Karasuma intersection by Kyoto Takashimaya, ~5-min walk. Has used Grand Seiko, Rolex, Omega, IWC, Patek. Open 11:00-20:00.
+**⚠️ TONIGHT IS THURSDAY — BIG MOON IS CLOSED. Komehyo is the play tonight; BIG MOON moves to Friday afternoon (May 1).**
+- **[Komehyo Kyoto Shinkyogoku](https://maps.google.com/?q=Komehyo+Kyoto+Shinkyogoku)** — **TONIGHT'S used watch stop.** Japan's largest reuse retailer (70+ years), near Shijo-Karasuma intersection by Kyoto Takashimaya, ~5-min walk from hotel. Has used Grand Seiko, Rolex, Omega, IWC, Patek. Open 11:00-20:00 daily. Tax-free with passport.
+- ~~**[BIG MOON KYOTO]**~~ — **CLOSED today (Thursday). Hit tomorrow (Fri May 1) afternoon — added to Day 7.**
 - **[Grand Seiko Boutique Kyoto Shijo](https://maps.google.com/?q=Grand+Seiko+Boutique+Kyoto+Shijo)** — NEW only (for current-model reference). Largest Grand Seiko boutique in Asia, opened 2024. 21-1 Shijo-dori. Hours 11:00-19:00. ~5-min walk.
 - **[Koe Donuts Kyoto](https://maps.google.com/?q=Koe+Donuts+Kyoto+Shinkyogoku)** — Kengo Kuma-designed organic donut shop, 1 min from Hankyu Kawaramachi Stn (Shinkyogoku-dori). Open 8am-8pm. ~¥200/donut, 30+ varieties. The ceiling has 572 hexagonal bamboo baskets from Arashiyama. Worth a quick stop if energy allows.
 - **[Gion walking at dusk](https://maps.google.com/?q=Gion+District+Kyoto)** — Walk east along Shijo-dori into Gion. Hanamikoji-dori for teahouses. Possible maiko sighting.
@@ -386,7 +386,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ---
 
-## Day 7: Thursday, May 1 — Kyoto — Fushimi Inari / Gion / Higashiyama
+## Day 7: Friday, May 1 — Kyoto — Fushimi Inari / Gion / Higashiyama
 
 *Peak temple and culture day. Early start for empty torii gates (but not 6am — 7:30am).*
 
@@ -419,6 +419,9 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - **[Ippodo Tea](https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi)** — Since 1717. Whisk your own matcha at the counter with seasonal sweets. Teramachi Street, ~10 min walk from hotel. ~700-1,500 yen. Also buy matcha to bring home.
 - **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — Award-winning matcha parfait. Open Thu-Mon. Closes 5pm cafe. Book ahead.
 
+### Late Afternoon — BIG MOON Kyoto (~5:00-6:30 PM)
+- **[BIG MOON KYOTO](https://maps.google.com/?q=BIG+MOON+KYOTO+Karasuma)** — **Brad's Kyoto used Grand Seiko hunt.** Karasuma Dai-san Star Bldg, Karasuma-dori, ~5-min walk west from Hotel Forza (very close to Ippodo on Teramachi too — they're both in central Kyoto). 300+ secondhand watches incl. Grand Seiko, Rolex, Omega, Hublot, Panerai, Kurono Tokyo. Tax-free with passport. **Closed Thursdays — Friday is the open day.** Hours 10:30-19:00 — get there by 6 PM at latest.
+
 ### Dinner (~6:30 PM) — Ramen
 1. **[Menya Inoichi](https://maps.google.com/?q=Menya+Inoichi+Shimogyo+Kyoto)** — PRIORITY. Bib Gourmand — ~1,000 yen — Seafood shio ramen, 9 consecutive years. In Shimogyo-ku, ~10-15 min walk south from hotel. No train needed.
 2. **[Wagyu Ramen Julia](https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto)** — Gion — ~1,200-1,800 yen — Walking distance from hotel. Backup.
@@ -434,7 +437,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ---
 
-## Day 8: Friday, May 2 — Kyoto — Nara Day Trip
+## Day 8: Saturday, May 2 — Kyoto — Nara Day Trip
 
 *Half-day in Nara (deer, giant Buddha), return for Kyoto afternoon and evening.*
 
@@ -475,7 +478,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ---
 
-## Day 9: Saturday, May 3 — Kyoto — Constitution Memorial Day — Relaxed Day
+## Day 9: Sunday, May 3 — Kyoto — Constitution Memorial Day — Relaxed Day
 
 *Golden Week peak. Many restaurants closed. Slow morning, explore what's open.*
 
@@ -546,7 +549,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ---
 
-## Day 10: Sunday, May 4 — Kyoto to Osaka — Greenery Day — Dotonbori / Shinsekai
+## Day 10: Monday, May 4 — Kyoto to Osaka — Greenery Day — Dotonbori / Shinsekai
 
 *Travel to Osaka (~55 min). Afternoon exploring. Nakanoshima Festival starts today.*
 
@@ -592,7 +595,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ---
 
-## Day 11: Monday, May 5 — Osaka — Children's Day — Osaka Castle / Tenjinbashi / Shinsaibashi
+## Day 11: Tuesday, May 5 — Osaka — Children's Day — Osaka Castle / Tenjinbashi / Shinsaibashi
 
 *Golden Week continues. Explore Osaka's landmarks, food gems, and shopping.*
 
@@ -800,7 +803,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ---
 
-## Day 16: Saturday, May 10 — Tokyo — Departure Day
+## Day 16: Sunday, May 10 — Tokyo — Departure Day
 
 *Last morning. Yanaka Ginza stroll, final food, then Skyliner to Narita. 5pm flight.*
 

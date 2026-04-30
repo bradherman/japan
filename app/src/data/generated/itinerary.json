@@ -893,7 +893,7 @@
       "dayNumber": 6,
       "date": "",
       "dayOfWeek": "",
-      "title": "Wednesday, April 30 — Tokyo to Kyoto — Travel Day / Nishiki Market / Gion",
+      "title": "Thursday, April 30 — Tokyo to Kyoto — Travel Day / Nishiki Market / Gion",
       "city": "Kyoto",
       "subtitle": "Dave & Gail depart (or stay in Tokyo). Brad & Alyona take Nozomi 23 to Kyoto. Arrive 12:23 PM.",
       "summary": "Travel day — say goodbye to Dave and Gail, grab an ekiben bento, and bullet-train to Kyoto. You arrive just after noon and the vibe shifts completely. Afternoon is Nishiki Market grazing, Japanese jazz vinyl shopping on Teramachi Street, and maybe your first look at SOU SOU haori jackets. Evening is 560-year-old soba, a walk through Gion at dusk, and Pontocho alley along the river.",
@@ -1054,16 +1054,9 @@
           "title": "Evening — Used Grand Seiko Hunt + Dinner",
           "activities": [
             {
-              "name": "BIG MOON KYOTO",
-              "mapLink": "https://maps.google.com/?q=BIG+MOON+KYOTO+Karasuma",
-              "description": "For used Grand Seiko. Karasuma Dai-san Star Bldg on Karasuma-dori, ~5-min walk west from Hotel Forza. 300+ secondhand watches incl. Grand Seiko, Rolex, Omega, Hublot, Panerai, Kurono Tokyo. Considered Kyoto's best dedicated secondhand watch shop. Tax-free with passport. Hours 10:30-19:00, closed Thursdays",
-              "priority": true,
-              "reservationRequired": false
-            },
-            {
               "name": "Komehyo Kyoto Shinkyogoku",
               "mapLink": "https://maps.google.com/?q=Komehyo+Kyoto+Shinkyogoku",
-              "description": "Japan's largest reuse retailer (70+ years), near Shijo-Karasuma intersection by Kyoto Takashimaya, ~5-min walk. Has used Grand Seiko, Rolex, Omega, IWC, Patek. Open 11:00-20:00",
+              "description": "TONIGHT'S used watch stop. Japan's largest reuse retailer (70+ years), near Shijo-Karasuma intersection by Kyoto Takashimaya, ~5-min walk from hotel. Has used Grand Seiko, Rolex, Omega, IWC, Patek. Open 11:00-20:00 daily. Tax-free with passport",
               "priority": false,
               "reservationRequired": false
             },
@@ -1133,7 +1126,7 @@
     {
       "dayNumber": 7,
       "date": "May 1",
-      "dayOfWeek": "Thursday",
+      "dayOfWeek": "Friday",
       "title": "Fushimi Inari / Gion / Higashiyama",
       "city": "Kyoto",
       "subtitle": "Peak temple and culture day. Early start for empty torii gates (but not 6am — 7:30am).",
@@ -1236,6 +1229,18 @@
           ]
         },
         {
+          "title": "Late Afternoon — BIG MOON Kyoto",
+          "activities": [
+            {
+              "name": "BIG MOON KYOTO",
+              "mapLink": "https://maps.google.com/?q=BIG+MOON+KYOTO+Karasuma",
+              "description": "Brad's Kyoto used Grand Seiko hunt. Karasuma Dai-san Star Bldg, Karasuma-dori, ~5-min walk west from Hotel Forza (very close to Ippodo on Teramachi too — they're both in central Kyoto). 300+ secondhand watches incl. Grand Seiko, Rolex, Omega, Hublot, Panerai, Kurono Tokyo. Tax-free with passport. Closed Thursdays — Friday is the open day. Hours 10:30-19:00 — get there by 6 PM at latest",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
           "title": "Dinner",
           "activities": [
             {
@@ -1289,7 +1294,7 @@
     {
       "dayNumber": 8,
       "date": "May 2",
-      "dayOfWeek": "Friday",
+      "dayOfWeek": "Saturday",
       "title": "Nara Day Trip",
       "city": "Kyoto",
       "subtitle": "Half-day in Nara (deer, giant Buddha), return for Kyoto afternoon and evening.",
@@ -1428,7 +1433,7 @@
     {
       "dayNumber": 9,
       "date": "May 3",
-      "dayOfWeek": "Saturday",
+      "dayOfWeek": "Sunday",
       "title": "Constitution Memorial Day — Relaxed Day",
       "city": "Kyoto",
       "subtitle": "Golden Week peak. Many restaurants closed. Slow morning, explore what's open.",
@@ -1667,7 +1672,7 @@
       "dayNumber": 10,
       "date": "",
       "dayOfWeek": "",
-      "title": "Sunday, May 4 — Kyoto to Osaka — Greenery Day — Dotonbori / Shinsekai",
+      "title": "Monday, May 4 — Kyoto to Osaka — Greenery Day — Dotonbori / Shinsekai",
       "city": "Osaka",
       "subtitle": "Travel to Osaka (~55 min). Afternoon exploring. Nakanoshima Festival starts today.",
       "summary": "Kyoto to Osaka on the Hankyu Line — under an hour, completely different energy. Osaka is louder, wilder, more neon. Lunch is okonomiyaki at a Dotonbori institution since 1945, then Shinsekai for retro alley vibes and kushikatsu (don't double-dip). Tower Knives for the knife nerds. Evening is the Nakanoshima Festival — a free handmade amusement park on an island — and Dotonbori lit up like Times Square on steroids.",
@@ -1807,7 +1812,7 @@
     {
       "dayNumber": 11,
       "date": "May 5",
-      "dayOfWeek": "Monday",
+      "dayOfWeek": "Tuesday",
       "title": "Children's Day — Osaka Castle / Tenjinbashi / Shinsaibashi",
       "city": "Osaka",
       "subtitle": "Golden Week continues. Explore Osaka's landmarks, food gems, and shopping.",
@@ -2391,7 +2396,7 @@
     {
       "dayNumber": 16,
       "date": "May 10",
-      "dayOfWeek": "Saturday",
+      "dayOfWeek": "Sunday",
       "title": "Departure Day",
       "city": "Tokyo",
       "subtitle": "Last morning. Yanaka Ginza stroll, final food, then Skyliner to Narita. 5pm flight.",
