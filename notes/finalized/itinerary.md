@@ -450,17 +450,20 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Morning Coffee:** [Iolite Coffee Roasters](https://maps.google.com/?q=Iolite+Coffee+Roasters+Kyoto) — Hidden gem in Nakagyo.
 
-### Morning — Kuoe Restock Check (11:00-11:30 AM)
-- **[Kuoe Watches Kyoto](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — **PRIORITY.** Saturday is the actual day Kuoe is open (closed Sun + Tue). Brad checking if the piece he wanted from Apr 30 visit got restocked. Opens 11:00 AM. ~10-min walk from Hotel Forza, down a small flight of stairs in Tohbeh Bldg #105, 224 Eirakucho. *Quick in/out (~15-30 min): if restocked, decide; if not, head to Nara.*
+### Morning — Slow Start + Kuoe (~9:00 AM-12:00 PM)
+*Leisurely morning — Nara departs ~12:30 PM, no need to rush.*
+- 9-10:30 AM: Coffee at hotel area / Iolite or Kurasu / light breakfast
+- **[Kuoe Watches Kyoto](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — **11:00 AM at open (PRIORITY).** Saturday is the day Kuoe is open (closed Sun + Tue). Brad checking if the Apr 30 piece got restocked. ~10-min walk from Hotel Forza, down a small flight of stairs in Tohbeh Bldg #105, 224 Eirakucho. Allow ~45 min for a real browse this time around.
+- 11:45 AM-12:30 PM: Walk back, quick light lunch at Nishiki Market or konbini en route to Kyoto Stn.
 
-### Optional Stretch — Asahi-yaki Uji Stop (would replace some of Nara time)
-*Only if Alyona didn't find the right chakoro on Friday's Higashiyama walk AND Brad's done with Kuoe early. Asahi-yaki is the premier tea-ceremony kiln of the Kyoto region — 400+ years, 16 generations of the Matsubayashi family.*
-- **[Asahiyaki Shop & Studio](https://maps.google.com/?q=Asahiyaki+Uji+Kyoto)** — Uji-gawa Avenue, near JR Uji Station. Tea ceremony chawan, mizusashi, chakoro (茶香炉).
-- **Route:** JR Nara Line Kyoto → Uji (~25 min) → 1 hr browse → Uji → Nara (~30 min). Adds ~1.5-2 hrs total. Tight given today already adds Kuoe + Fushimi sake.
+### Optional Stretch — Asahi-yaki Uji Stop
+*Skip today — too tight with Kuoe + Nara + Fushimi sake. Save chakoro hunt for Friday Higashiyama (Tohgoro / Shoindo) — that's the primary plan anyway.*
 
-### Late Morning → Early Afternoon — Nara (~12:00-3:30 PM)
-- **Kintetsu Limited Express** Kyoto Station → Kintetsu-Nara: ~35 min, ~1,490 yen. Depart ~11:45 AM after Kuoe.
-- *(Alt: JR Nara Line if doing Uji or wanting Fushimi-route convenience for the return)*
+### Afternoon — Nara (~1:00-4:30 PM)
+- 12:30 PM Walk to Kyoto Stn
+- **Kintetsu Limited Express** Kyoto Station → Kintetsu-Nara: ~35 min, ~1,490 yen. Depart ~1:00 PM.
+- Arrive Nara ~1:35 PM. ~3 hours in Nara is enough for the deer + Todai-ji + persimmon-leaf sushi highlights.
+- *(Alt: JR Nara Line if you want the Fushimi-route convenience for the return)*
 - **[Nara Park (Deer Park)](https://maps.google.com/?q=Nara+Park+Nara+Japan)** — Hundreds of free-roaming deer. Buy shika senbei (deer crackers, 200 yen/pack). Deer bow if you bow to them!
 - **[Todai-ji Temple](https://maps.google.com/?q=Todai-ji+Temple+Nara)** — World's largest bronze Buddha (15m). Jaw-dropping. ~600 yen.
 - **[Kasuga Taisha Shrine](https://maps.google.com/?q=Kasuga+Taisha+Shrine+Nara)** — Thousands of stone and bronze lanterns. ~500 yen.
@@ -470,16 +473,15 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 1. **[Kakinoha-zushi](https://maps.google.com/?q=persimmon+leaf+sushi+Nara)** (persimmon leaf-wrapped sushi) — PRIORITY. Nara specialty. ~1,000-1,500 yen. A must-try.
 2. Local soba in Naramachi — Wander and discover.
 
-### Late Afternoon — Fushimi Sake District (~3:30-5:30 PM)
-*Stop on the way back from Nara to Kyoto. Sensible 4 PM sake tasting hour, not 8:30 AM.*
-- **Route:** JR Nara Line Nara → Inari (~30 min, ~410 yen). Walk south ~10-15 min from Inari Station into the sake brewing district along Bunkacho-dori. Or transfer at Tofukuji to Keihan Line → Fushimi-Momoyama (~5 min walk to Chushojima sake breweries).
+### Late Afternoon — Fushimi Sake District (~5:00-6:30 PM)
+*Stop on the way back from Nara to Kyoto. Sensible late-afternoon tasting hour, not 8:30 AM.*
+- 4:30 PM Train Nara → Inari (JR Nara Line, ~30 min, ~410 yen). Walk south ~10-15 min from Inari Station into the sake brewing district along Bunkacho-dori. Or transfer at Tofukuji to Keihan Line → Fushimi-Momoyama (~5 min walk to Chushojima sake breweries).
 - **[Fushimi Sake District](https://maps.google.com/?q=Fushimi+Sake+District+Kyoto)** — Historic sake brewing area, source for 1/4 of all Japanese sake. Multiple working breweries: Gekkeikan Okura Sake Museum, Tsukinokatsura, Kizakura Kappa Country.
 - **Tasting flight:** 18-sake tasting set ~¥1,000-1,500/pp at one of the tasting rooms (Gekkeikan Okura is the most accessible for non-Japanese-speakers; Kizakura has a beer hall too if you want a switch).
-- **5:30 PM** — Train back to Kyoto Station, ~10-15 min. Hotel by 6 PM.
+- **6:30 PM** — Train back to Kyoto Station, ~10-15 min. Hotel by 6:45.
 
-### Then — Light Walk (~6:00-6:45 PM, optional)
-- Skip Philosopher's Path / Nanzen-ji today — sake afternoon makes it too tight. Save for a flex Sunday slot if you want, or skip entirely.
-- ~~Philosopher's Path~~ — Drop today; can flex into Sunday morning before Kuoe.
+### Drops — Save for Sunday or skip
+- ~~Philosopher's Path~~ — Drop today; can flex into Sunday morning before Camellia tea ceremony.
 - ~~Nanzen-ji~~ — Drop today.
 
 ### Dinner (~7:00 PM) — Unagi
