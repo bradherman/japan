@@ -420,14 +420,13 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - **[Yoshikawa Tempura](https://maps.google.com/?q=Yoshikawa+Tempura+Kyoto)** — Counter seats facing the chef in a machiya with koi pond garden. ~¥5,000-8,000 — sit-down 90 min. Most chill possible lunch experience.
 - *(Reserve via phone if you want a guaranteed seat.)*
 
-### Afternoon — Hotel Rest + Tea (~2:30-5:45 PM)
+### Afternoon — Hotel Rest + Sweets (~2:30-5:45 PM)
 - 2:30 **Taxi back to hotel** (~10 min, ~¥1,200).
-- **2:45-3:45 — Hotel rest.** Foot up. Critical recovery hour.
-- 3:45 walk to **[Ippodo Kaboku Tearoom](https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi)** (Teramachi Street, ~10 min flat from hotel).
-- **Ippodo Tea** — 4:00-4:45. Whisk your own matcha at the counter with seasonal sweets, since 1717. ~¥700-1,500. Also buy matcha to bring home.
+- **2:45-4:45 Hotel rest.** Foot up. Long recovery.
 - 4:45 **Taxi to Assemblages Kakimoto** (~5-7 min, ~¥1,000).
-- **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — 5:00-5:45. Walk-in dessert salon (cafe closes 5 PM — go *right at* 4:45 to be safe; takeout from store still possible 5-7 PM). Award-winning parfaits + handmade chocolates from Chef Kakimoto (Japan rep at World Chocolate Masters).
+- **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — 5:00-5:45. Walk-in dessert salon (cafe closes 5 PM). Award-winning parfaits from Chef Kakimoto.
 - 5:45 **Taxi back to hotel** (~5 min).
+- ~~Ippodo Tea~~ — **MOVED to Sun May 3 morning 10:00 AM** (couldn't fit today).
 
 ### Foot Massage (~5:15-5:55 PM)
 - **[Foot Therapy Kawaramachi Sanjo](https://maps.google.com/?q=Foot+Therapy+Kawaramachi+Sanjo+Kyoto)** — 40-min foot massage. **Reserve 5:15 slot** (was booked earlier in the day, opens up at 5:15 onward).
@@ -468,30 +467,29 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Morning Coffee:** [Iolite Coffee Roasters](https://maps.google.com/?q=Iolite+Coffee+Roasters+Kyoto) — Hidden gem in Nakagyo.
 
-### Morning — Slow Start + Koe Donuts + Kuoe (~9:00 AM-12:00 PM)
-*Leisurely morning — Nara departs ~12:30 PM, no need to rush.*
-- 9:00-9:30 Coffee at hotel area or quick Iolite / Kurasu pour-over
-- **[Koe Donuts Kyoto](https://maps.google.com/?q=Koe+Donuts+Kyoto+Shinkyogoku)** — ~10:00-10:45 AM. Kengo Kuma-designed organic donut shop, 1 min from Hankyu Kawaramachi Stn on Shinkyogoku-dori. Opens 8 AM. ~¥200/donut, 30+ varieties — Brad's been wanting this; perfect breakfast on the way to Kuoe (both are in the Kawaramachi/Teramachi/Shinkyogoku cluster, ~3-5 min walk apart). The ceiling has 572 hexagonal bamboo baskets from Arashiyama.
-- **[Kuoe Watches Kyoto](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — **11:00 AM at open (PRIORITY).** Saturday is the day Kuoe is open (closed Sun + Tue). Brad checking if the Apr 30 piece got restocked. ~10-min walk from Hotel Forza (or 3-5 min from Koe Donuts), down a small flight of stairs in Tohbeh Bldg #105, 224 Eirakucho. Allow ~45 min for a real browse this time around.
-- 11:45 AM-12:30 PM: Walk back, quick light lunch at Nishiki Market or konbini en route to Kyoto Stn.
+### Morning — Koe Donuts → Kuoe → JIKKO → Hotel (9:30 AM-12:45 PM)
+*Clean linear loop. Goal: Kuoe at 11 open, JIKKO knife pickup on the walk back, drop bags at hotel, train to Nara.*
+- **9:30-9:40 Walk hotel → Koe Donuts** (Shinkyogoku-dori, 1 min from Hankyu Kawaramachi Stn).
+- **[Koe Donuts Kyoto](https://maps.google.com/?q=Koe+Donuts+Kyoto+Shinkyogoku)** — 9:40-10:30. Kengo Kuma-designed organic donut shop. Opens 8 AM. ~¥200/donut, 30+ varieties. Sit-down breakfast.
+- **10:30-10:55 Walk to Kuoe area** (Teramachi, ~10 min) — wander the Teramachi/Nishiki shopping arcade en route.
+- **[Kuoe Watches Kyoto](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — **11:00-11:45 AM at open (PRIORITY).** Saturday is the day Kuoe is open. Restock check on Apr 30 piece. 224 Eirakucho, Tohbeh Bldg #105 (down a small flight of stairs). 45 min for a real browse.
+- **11:45-11:50 Walk to JIKKO** (~2-3 min — JIKKO is at the intersection of Nishiki Market + Teramachi).
+- **[JIKKO Kyoto Nishiki Teramachi](https://maps.google.com/?q=JIKKO+Cutlery+Kyoto+Nishiki+Teramachi)** — 11:50-12:30. **Knife pickup.** Sakai-forged kitchen knife, est. 1901. 100+ knives across 2 floors. Hand-engraving available (~10-15 min add).
+- **12:30-12:45 Walk back to hotel**, drop knife + donuts in room.
 
-### Asahi-yaki Uji Stop (~11:45 AM-1:15 PM) — NOW PRIMARY for chakoro
-*Friday Sannenzaka pottery hunt got dropped (foot day). Asahi-yaki is the upgrade anyway — premier tea-ceremony kiln of the Kyoto region, 400+ years, 16 generations of the Matsubayashi family.*
-- Right after Kuoe (~11:45 AM), walk to Kyoto Stn → **JR Nara Line Kyoto → Uji** (~25 min, ~240 yen).
-- **[Asahiyaki Shop & Studio](https://maps.google.com/?q=Asahiyaki+Uji+Kyoto)** — Uji-gawa Avenue, near JR Uji Station. Tea ceremony chawan, mizusashi, **chakoro (茶香炉)**. ~45-60 min for browsing + purchase. *Brad/Alyona walk-in is fine; pottery class is optional separate booking.*
-- ~1:15 PM JR Nara Line Uji → Nara (~30 min).
+### Departure for Nara (~12:45 PM)
+- **12:45 leave hotel** → **Karasuma subway** Shijo → Kyoto Station (4 min, ¥260).
+- **~1:00 PM Kintetsu Limited Express** Kyoto → Kintetsu-Nara (~35 min, ¥1,490).
+- *Asahi-yaki Uji stretch dropped from today — no time with the JIKKO + hotel drop. Chakoro hunt unresolved; could push to Sun May 3 morning or Mon May 4 morning before Osaka if Alyona still wants.*
 
-### Afternoon — Nara (~1:00-4:30 PM)
-- 12:30 PM Walk to Kyoto Stn
-- **Kintetsu Limited Express** Kyoto Station → Kintetsu-Nara: ~35 min, ~1,490 yen. Depart ~1:00 PM.
-- Arrive Nara ~1:35 PM. ~3 hours in Nara is enough for the deer + Todai-ji + persimmon-leaf sushi highlights.
-- *(Alt: JR Nara Line if you want the Fushimi-route convenience for the return)*
+### Afternoon — Nara (~1:35-4:30 PM)
+- Arrive Kintetsu-Nara ~1:35 PM. ~3 hours covers deer + Todai-ji + persimmon-leaf sushi highlights. Skip the temples that are flat (Kasuga Taisha is uphill, prioritize lower).
 - **[Nara Park (Deer Park)](https://maps.google.com/?q=Nara+Park+Nara+Japan)** — Hundreds of free-roaming deer. Buy shika senbei (deer crackers, 200 yen/pack). Deer bow if you bow to them!
 - **[Todai-ji Temple](https://maps.google.com/?q=Todai-ji+Temple+Nara)** — World's largest bronze Buddha (15m). Jaw-dropping. ~600 yen.
-- **[Kasuga Taisha Shrine](https://maps.google.com/?q=Kasuga+Taisha+Shrine+Nara)** — Thousands of stone and bronze lanterns. ~500 yen.
-- **[Naramachi](https://maps.google.com/?q=Naramachi+Nara)** — Historic merchant district.
+- **[Naramachi](https://maps.google.com/?q=Naramachi+Nara)** — Historic merchant district. Walk through if time.
+- **[Kasuga Taisha Shrine](https://maps.google.com/?q=Kasuga+Taisha+Shrine+Nara)** — Optional. Thousands of stone and bronze lanterns. ~500 yen. *Skip if foot is complaining (uphill walk through forest).*
 
-### Lunch in Nara (~12:00-1:00 PM)
+### Late Lunch in Nara (~2:00-2:45 PM)
 1. **[Kakinoha-zushi](https://maps.google.com/?q=persimmon+leaf+sushi+Nara)** (persimmon leaf-wrapped sushi) — PRIORITY. Nara specialty. ~1,000-1,500 yen. A must-try.
 2. Local soba in Naramachi — Wander and discover.
 
@@ -532,11 +530,12 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Morning Coffee:** [% Arabica Higashiyama](https://maps.google.com/?q=Arabica+Higashiyama+Kyoto) — Go early (opens 8am). Stunning Yasaka Pagoda backdrop. *LINE UP: GW lines can be 20-30 min by 10am. Go right at opening.*
 
-### Morning — JIKKO Knife Revisit (~10:00-11:00 AM)
-*Note: 9 AM "Grand Tea Gathering" was a fake slot the bot tried to book — same event as the 7 PM Six Shadows you officially booked. Kuoe was moved to Saturday May 2 (closed Sundays). Morning is mostly flex now.*
+### Morning — Ippodo Tea (~10:00-10:45 AM)
+*Sun morning is mostly flex. JIKKO + Kuoe both moved to Sat. 9 AM "Grand Tea Gathering" was the fake slot — actual booking is the 7 PM Six Shadows.*
 
-- **[JIKKO Kyoto Nishiki Teramachi](https://maps.google.com/?q=JIKKO+Cutlery+Kyoto+Nishiki+Teramachi)** — **Brad's knife pick-up.** Brad's preferred knife shop in Nishiki (the one he liked best on Apr 30). JIKKO is a Sakai-forged kitchen knife maker, est. 1901 — used by chefs at 100,000+ restaurants worldwide. Sakai is the historic Japanese knife-forging capital (600+ years of swordsmith heritage). The Nishiki Teramachi shop has 100+ Sakai knives across 2 floors. *High quality, often better value than Aritsugu. Hand-engraving available.* Verify Sun hours at door — most Nishiki shops open ~10 AM weekends.
-- ~~Kuoe Watches~~ — **MOVED to Saturday May 2 morning** (Kuoe is closed Sundays).
+- **[Ippodo Kaboku Tearoom](https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi)** — 10:00-10:45 AM. Whisk your own matcha at the counter with seasonal sweets, since 1717. ~¥700-1,500. Also buy matcha to bring home. Sun hours 10:00 AM-6 PM (cafe last order 4:30 PM). Teramachi Street, ~10 min flat walk from hotel.
+- 10:45-11:30 Walk back / hotel rest before Camellia.
+- ~~Kuoe Watches~~ — done Saturday. ~~JIKKO~~ — done Saturday.
 
 ### Morning Flex (alternate / addition)
 
@@ -553,9 +552,9 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 ### Late Morning — Camellia Tea Ceremony (~12:00 PM)
 - **[Camellia Tea Ceremony](https://maps.google.com/?q=Camellia+Tea+Ceremony+Kyoto+Gion)** — **✅ BOOKED 12:00 PM.** Traditional matcha whisking in a beautiful machiya setting. Seasonal sweets included. ~45-60 min. ~¥4,500-5,000/pp. Gion area.
 
-### Lunch (~12:30-1:00 PM) — Sushi
-1. **[Izuju](https://maps.google.com/?q=Izuju+sushi+Kyoto+Gion)** — PRIORITY. Saba-zushi (mackerel pressed sushi) — ~1,000-2,000 yen — Near Yasaka Shrine. Kyoto's signature sushi. *Brad loves mackerel — this is a must.*
-2. **[Hiyoko Sushi](https://maps.google.com/?q=Hiyoko+Sushi+Kyoto)** — 10-piece omakase from 2,000 yen — Insane value. Locals' favorite.
+### Lunch (~1:00-2:30 PM) — Akoya Jaya Tsukemono Buffet
+- **[Akoya Jaya (Akoya Chaya)](https://maps.google.com/?q=Akoya+Jaya+Ninenzaka+Kyoto)** — ⭐ Lunch-only tsukemono (Japanese pickle) buffet on Ninenzaka steps near Kiyomizu-dera. ~¥1,600/pp tax-incl. 20+ pickle types (eggplant, cucumber, yuzu radish, yam), all-you-can-eat rice + 16-grain rice + miso soup. Pour hot tea over pickles + rice for traditional ochazuke. Sweet monaka with bean paste for dessert. **Cash only. No time limit.** ~10-min uphill walk from Camellia (Gion area), so foot will work for it. *Same Higashiyama side as Camellia — cluster the morning's east-side activity.*
+- **Backup:** [Izuju](https://maps.google.com/?q=Izuju+sushi+Kyoto+Gion) (saba-zushi near Yasaka) if Akoya queue is brutal — Kyoto's signature mackerel pressed sushi, Brad loves mackerel.
 
 ### Afternoon (~2:00-5:00 PM)
 - **[Kodai-ji Temple](https://maps.google.com/?q=Kodai-ji+Temple+Kyoto)** — Zen temple with stunning gardens. ~600 yen.

@@ -1196,24 +1196,17 @@
           ]
         },
         {
-          "title": "Afternoon — Hotel Rest + Tea",
+          "title": "Afternoon — Hotel Rest + Sweets",
           "activities": [
             {
-              "name": "2:45-3:45 — Hotel rest.",
+              "name": "2:45-4:45 Hotel rest.",
               "priority": false,
               "reservationRequired": false
             },
             {
-              "name": "Ippodo Tea",
-              "description": "4:00-4:45. Whisk your own matcha at the counter with seasonal sweets, since 1717. Also buy matcha to bring home",
-              "priority": false,
-              "reservationRequired": false,
-              "price": "¥700-1,500"
-            },
-            {
               "name": "Assemblages Kakimoto",
               "mapLink": "https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto",
-              "description": "5:00-5:45. Walk-in dessert salon (cafe closes 5 PM — go right at 4:45 to be safe; takeout from store still possible 5-7 PM). Award-winning parfaits; handmade chocolates from Chef Kakimoto (Japan rep at World Chocolate Masters)",
+              "description": "5:00-5:45. Walk-in dessert salon (cafe closes 5 PM). Award-winning parfaits from Chef Kakimoto",
               "priority": false,
               "reservationRequired": false
             }
@@ -1323,36 +1316,67 @@
       },
       "sections": [
         {
-          "title": "Morning — Slow Start + Koe Donuts + Kuoe",
-          "subtitle": "Leisurely morning — Nara departs ~12:30 PM, no need to rush.",
+          "title": "Morning — Koe Donuts → Kuoe → JIKKO → Hotel",
+          "subtitle": "Clean linear loop. Goal: Kuoe at 11 open, JIKKO knife pickup on the walk back, drop bags at hotel, train to Nara.",
           "activities": [
+            {
+              "name": "9:30-9:40 Walk hotel → Koe Donuts",
+              "priority": false,
+              "reservationRequired": false
+            },
             {
               "name": "Koe Donuts Kyoto",
               "mapLink": "https://maps.google.com/?q=Koe+Donuts+Kyoto+Shinkyogoku",
-              "description": "~10:00-10:45 AM. Kengo Kuma-designed organic donut shop, 1 min from Hankyu Kawaramachi Stn on Shinkyogoku-dori. Opens 8 AM. /donut, 30+ varieties — Brad's been wanting this; perfect breakfast on the way to Kuoe (both are in the Kawaramachi/Teramachi/Shinkyogoku cluster, ~3-5 min walk apart). The ceiling has 572 hexagonal bamboo baskets from Arashiyama",
+              "description": "9:40-10:30. Kengo Kuma-designed organic donut shop. Opens 8 AM. /donut, 30+ varieties. Sit-down breakfast",
               "priority": false,
               "reservationRequired": false,
               "price": "¥200"
             },
             {
+              "name": "10:30-10:55 Walk to Kuoe area",
+              "description": "Wander the Teramachi/Nishiki shopping arcade en route",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
               "name": "Kuoe Watches Kyoto",
               "mapLink": "https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi",
-              "description": "11:00 AM at open. Saturday is the day Kuoe is open (closed Sun; Tue). Brad checking if the Apr 30 piece got restocked. ~10-min walk from Hotel Forza (or 3-5 min from Koe Donuts), down a small flight of stairs in Tohbeh Bldg #105, 224 Eirakucho. for a real browse this time around",
+              "description": "11:00-11:45 AM at open. Saturday is the day Kuoe is open. Restock check on Apr 30 piece. 224 Eirakucho, Tohbeh Bldg #105 (down a small flight of stairs). for a real browse",
               "duration": "45 min",
               "priority": true,
+              "reservationRequired": false
+            },
+            {
+              "name": "11:45-11:50 Walk to JIKKO",
+              "description": "JIKKO is at the intersection of Nishiki Market; Teramachi)",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "JIKKO Kyoto Nishiki Teramachi",
+              "mapLink": "https://maps.google.com/?q=JIKKO+Cutlery+Kyoto+Nishiki+Teramachi",
+              "description": "11:50-12:30. Knife up. Sakai-forged kitchen knife, est. 1901. 100+ knives across 2 floors. Hand-engraving available (add)",
+              "duration": "10-15 min",
+              "priority": true,
+              "reservationRequired": false
+            },
+            {
+              "name": "12:30-12:45 Walk back to hotel",
+              "priority": false,
               "reservationRequired": false
             }
           ]
         },
         {
-          "title": "Asahi-yaki Uji Stop",
-          "subtitle": "Friday Sannenzaka pottery hunt got dropped (foot day). Asahi-yaki is the upgrade anyway — premier tea-ceremony kiln of the Kyoto region, 400+ years, 16 generations of the Matsubayashi family.",
+          "title": "Departure for Nara",
           "activities": [
             {
-              "name": "Asahiyaki Shop & Studio",
-              "mapLink": "https://maps.google.com/?q=Asahiyaki+Uji+Kyoto",
-              "description": "Uji-gawa Avenue, near JR Uji Station. Tea ceremony chawan, mizusashi, chakoro (茶香炉). for browsing; purchase. Brad/Alyona walk-in is fine; pottery class is optional separate booking",
-              "duration": "45-60 min",
+              "name": "12:45 leave hotel",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "~1:00 PM Kintetsu Limited Express",
               "priority": false,
               "reservationRequired": false
             }
@@ -1361,11 +1385,6 @@
         {
           "title": "Afternoon — Nara",
           "activities": [
-            {
-              "name": "Kintetsu Limited Express",
-              "priority": false,
-              "reservationRequired": false
-            },
             {
               "name": "Nara Park (Deer Park)",
               "mapLink": "https://maps.google.com/?q=Nara+Park+Nara+Japan",
@@ -1383,24 +1402,24 @@
               "price": "¥600"
             },
             {
+              "name": "Naramachi",
+              "mapLink": "https://maps.google.com/?q=Naramachi+Nara",
+              "description": "Historic merchant district. Walk through if time",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
               "name": "Kasuga Taisha Shrine",
               "mapLink": "https://maps.google.com/?q=Kasuga+Taisha+Shrine+Nara",
-              "description": "Thousands of stone and bronze lanterns",
+              "description": "Optional. Thousands of stone and bronze lanterns. Skip if foot is complaining (uphill walk through forest)",
               "priority": false,
               "reservationRequired": false,
               "price": "¥500"
-            },
-            {
-              "name": "Naramachi",
-              "mapLink": "https://maps.google.com/?q=Naramachi+Nara",
-              "description": "Historic merchant district",
-              "priority": false,
-              "reservationRequired": false
             }
           ]
         },
         {
-          "title": "Lunch in Nara",
+          "title": "Late Lunch in Nara",
           "activities": [
             {
               "name": "Kakinoha-zushi",
@@ -1508,15 +1527,17 @@
       },
       "sections": [
         {
-          "title": "Morning — JIKKO Knife Revisit",
-          "subtitle": "Note: 9 AM \"Grand Tea Gathering\" was a fake slot the bot tried to book — same event as the 7 PM Six Shadows you officially booked. Kuoe was moved to Saturday May 2 (closed Sundays). Morning is mostly flex now.",
+          "title": "Morning — Ippodo Tea",
+          "subtitle": "Sun morning is mostly flex. JIKKO + Kuoe both moved to Sat. 9 AM \"Grand Tea Gathering\" was the fake slot — actual booking is the 7 PM Six Shadows.",
           "activities": [
             {
-              "name": "JIKKO Kyoto Nishiki Teramachi",
-              "mapLink": "https://maps.google.com/?q=JIKKO+Cutlery+Kyoto+Nishiki+Teramachi",
-              "description": "Brad's knife -up. Brad's preferred knife shop in Nishiki (the one he liked best on Apr 30). JIKKO is a Sakai-forged kitchen knife maker, est. 1901 — used by chefs at 100,000+ restaurants worldwide. Sakai is the historic Japanese knife-forging capital (600+ years of swordsmith heritage). The Nishiki Teramachi shop has 100+ Sakai knives across 2 floors. High quality, often better value than Aritsugu. Hand-engraving available. Verify Sun hours at door — most Nishiki shops open ~10 AM weekends",
-              "priority": true,
-              "reservationRequired": false
+              "name": "Ippodo Kaboku Tearoom",
+              "mapLink": "https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi",
+              "description": "10:00-10:45 AM. Whisk your own matcha at the counter with seasonal sweets, since 1717. Also buy matcha to bring home. Sun hours 10:00 AM-6 PM (cafe last order 4:30 PM). Teramachi Street, flat walk from hotel",
+              "duration": "10 min",
+              "priority": false,
+              "reservationRequired": false,
+              "price": "¥700-1,500"
             }
           ]
         },
@@ -1562,21 +1583,19 @@
           "title": "Lunch",
           "activities": [
             {
-              "name": "Izuju",
-              "mapLink": "https://maps.google.com/?q=Izuju+sushi+Kyoto+Gion",
-              "description": "Saba-zushi (mackerel pressed sushi) — Near Yasaka Shrine. Kyoto's signature sushi. Brad loves mackerel — this is a must",
+              "name": "Akoya Jaya (Akoya Chaya)",
+              "mapLink": "https://maps.google.com/?q=Akoya+Jaya+Ninenzaka+Kyoto",
+              "description": "⭐ Lunch-only tsukemono (Japanese le) buffet on Ninenzaka steps near Kiyomizu-dera. tax-incl. 20+ le types (eggplant, cucumber, yuzu radish, yam), all-you-can-eat rice; 16-grain rice; miso soup. Pour hot tea over les; rice for traditional ochazuke. Sweet monaka with bean paste for dessert. Cash only. No time limit. ~10-min uphill walk from Camellia (Gion area), so foot will work for it. Same Higashiyama side as Camellia — cluster the morning's east-side activity",
               "priority": true,
               "reservationRequired": false,
-              "price": "¥1,000-2,000"
+              "price": "¥1,600"
             },
             {
-              "name": "Hiyoko Sushi",
-              "mapLink": "https://maps.google.com/?q=Hiyoko+Sushi+Kyoto",
-              "description": "10-piece omakase from — Insane value. Locals' favorite",
+              "name": "Backup:",
+              "mapLink": "https://maps.google.com/?q=Izuju+sushi+Kyoto+Gion",
+              "description": "Kyoto's signature mackerel pressed sushi, Brad loves mackerel",
               "priority": false,
-              "reservationRequired": false,
-              "backup": true,
-              "price": "¥2,000"
+              "reservationRequired": false
             }
           ]
         },
