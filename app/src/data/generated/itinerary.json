@@ -1220,21 +1220,63 @@
           ]
         },
         {
-          "title": "Evening Rest + Dinner",
+          "title": "Foot Massage",
           "activities": [
             {
-              "name": "6:00-7:00 Hotel rest #2.",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "7:00-8:30 Dinner — [Wagyu Ramen Julia](https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto)",
-              "mapLink": "https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto",
-              "description": "It's a 10-15 min walk south, more than the foot wants. (Or Pontocho walk-in even closer.)",
+              "name": "Foot Therapy Kawaramachi Sanjo",
+              "mapLink": "https://maps.google.com/?q=Foot+Therapy+Kawaramachi+Sanjo+Kyoto",
+              "description": "40-min foot massage. Reserve 5:15 slot (was earlier in the day, opens up at 5:15 onward)",
               "priority": false,
               "reservationRequired": false
             }
           ]
+        },
+        {
+          "title": "Sake Flight",
+          "activities": [
+            {
+              "name": "Bar Pontostand",
+              "mapLink": "https://maps.google.com/?q=Bar+Pontostand+Pontocho+Kyoto",
+              "description": "Pontocho, English-friendly, rotating Kyoto sake selection (incl. fruit-infused; umeshu). Crispy gyoza; light bar snacks pair. ~10 min walk from Foot Therapy",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
+          "title": "Dinner",
+          "activities": [
+            {
+              "name": "Menya Inoichi",
+              "mapLink": "https://maps.google.com/?q=Menya+Inoichi+Kyoto+Kawaramachi",
+              "description": "⭐ PRIMARY. Tabelog 3.70, Tabelog 100 Ramen WEST 2025, Michelin Bib Gourmand 9 yrs running. ~3-min walk from Kyoto-Kawaramachi Station, ~10 min from Pontocho. Refined seafood shio",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Alternative: [Wajo Ryo Men Sugari](https://maps.google.com/?q=Wajo+Ryo+Men+Sugari+Kyoto+Shijo)",
+              "mapLink": "https://maps.google.com/?q=Wajo+Ryo+Men+Sugari+Kyoto+Shijo",
+              "description": "Tabelog 3.67, near Shijo Stn, multilingual menu. Heaviest dank tsukemen of the list",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
+          "title": "Jazz",
+          "activities": [
+            {
+              "name": "Hello Dolly",
+              "mapLink": "https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto",
+              "description": "Pontocho jazz bar. Friday live sets 8 / 9:30 / 11 PM — catch the 9:30 set. ~5-7 min walk from Menya Inoichi",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
+          "title": "~~Sweets~~ — skipped tonight",
+          "activities": []
         },
         {
           "title": "Evening",

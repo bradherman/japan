@@ -429,9 +429,22 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — 5:00-5:45. Walk-in dessert salon (cafe closes 5 PM — go *right at* 4:45 to be safe; takeout from store still possible 5-7 PM). Award-winning parfaits + handmade chocolates from Chef Kakimoto (Japan rep at World Chocolate Masters).
 - 5:45 **Taxi back to hotel** (~5 min).
 
-### Evening Rest + Dinner (~6:00-8:30 PM)
-- **6:00-7:00 Hotel rest #2.** Foot up.
-- **7:00-8:30 Dinner — [Wagyu Ramen Julia](https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto)** in Gion (~5 min flat walk from hotel). Wagyu beef broth ramen, ~¥1,200-1,800. *Skipping Menya Inoichi tonight — it's a 10-15 min walk south, more than the foot wants.* (Or Pontocho walk-in even closer.)
+### Foot Massage (~5:15-5:55 PM)
+- **[Foot Therapy Kawaramachi Sanjo](https://maps.google.com/?q=Foot+Therapy+Kawaramachi+Sanjo+Kyoto)** — 40-min foot massage. **Reserve 5:15 slot** (was booked earlier in the day, opens up at 5:15 onward).
+
+### Sake Flight (~6:15-7:15 PM)
+- **[Bar Pontostand](https://maps.google.com/?q=Bar+Pontostand+Pontocho+Kyoto)** — Pontocho, English-friendly, rotating Kyoto sake selection (incl. fruit-infused + umeshu). Crispy gyoza + light bar snacks pair. ~10 min walk from Foot Therapy.
+
+### Dinner (~7:30-8:30 PM) — Verified-Open Dank Ramen
+- **[Menya Inoichi](https://maps.google.com/?q=Menya+Inoichi+Kyoto+Kawaramachi)** — ⭐ PRIMARY. Tabelog 3.70, **Tabelog 100 Ramen WEST 2025**, **Michelin Bib Gourmand 9 yrs running**. ~3-min walk from Kyoto-Kawaramachi Station, ~10 min from Pontocho. Refined seafood shio.
+- **Alternative: [Wajo Ryo Men Sugari](https://maps.google.com/?q=Wajo+Ryo+Men+Sugari+Kyoto+Shijo)** — Tabelog 3.67, near Shijo Stn, multilingual menu. **Heaviest dank tsukemen** of the list.
+- ~~Tonkotsu Ramen Zururu~~ — permanently closed. ~~Wagyu Ramen Julia~~ — name didn't resolve.
+
+### Jazz (~8:45 PM-late)
+- **[Hello Dolly](https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto)** — Pontocho jazz bar. Friday live sets 8 / 9:30 / 11 PM — catch the 9:30 set. ~5-7 min walk from Menya Inoichi.
+
+### ~~Sweets~~ — skipped tonight
+- ~~Kyo Hayashiya matcha~~ — dropped from tonight's flow. Save for another Kyoto evening.
 
 ### Evening
 - **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** — Pontocho speakeasy with a magician-bartender. Near hotel.
