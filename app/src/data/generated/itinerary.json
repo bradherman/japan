@@ -1922,13 +1922,6 @@
               "reservationRequired": false
             },
             {
-              "name": "Momotaro Jeans Osaka",
-              "mapLink": "https://maps.google.com/?q=Momotaro+Jeans+Osaka+Horie",
-              "description": "Horie neighborhood. If you haven't bought denim yet",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
               "name": "Japanese Jazz Vinyl — Shinsaibashi Record Run",
               "priority": false,
               "reservationRequired": false
@@ -1979,12 +1972,24 @@
           ]
         },
         {
+          "title": "Pre-Concert — Snow Peak LUCUA Ihre",
+          "activities": [
+            {
+              "name": "Snow Peak LUCUA Ihre",
+              "mapLink": "https://maps.google.com/?q=Snow+Peak+LUCUA+Ihre+Osaka+Umeda",
+              "description": "Brad's stretch/comfort pant (Japanese DUER analogue). Inside LUCUA mall, 1 min from Osaka Station, literally next door to Herbis Plaza ENT (where Casiopea is). Camping gear; LOCAL WEAR Japan-exclusive apparel; dedicated fishing corner. Stretch panel pants (Takibi, FR lines) with gusseted construction — closest Japanese match to DUER. Hours typically 10:00-21:00",
+              "priority": true,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
           "title": "Evening — Casiopea at Billboard Live Osaka",
           "activities": [
             {
               "name": "Billboard Live Osaka",
               "mapLink": "https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT",
-              "description": "Herbis Plaza ENT, Nishi-Umeda. Japanese jazz fusion legends. 7:00 PM show. Arrive by 6:30 for seating/drinks",
+              "description": "Herbis Plaza ENT, Nishi-Umeda. Japanese jazz fusion legends. 7:00 PM show. Arrive by 6:30 for seating/drinks. 5-min walk from Snow Peak LUCUA",
               "priority": false,
               "reservationRequired": false
             },

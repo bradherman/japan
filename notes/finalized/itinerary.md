@@ -659,7 +659,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - **[HOUBIDOU Shinsaibashi](https://maps.google.com/?q=HOUBIDOU+2-2-17+Shinsaibashisuji+Osaka)** — **PRIORITY for USED Grand Seiko.** 2-2-17 Shinsaibashisuji, Chuo-ku. ~3-min walk from Grand Seiko Boutique. **818 watches on Chrono24** (massive inventory of secondhand GS). Also operates as HOUBIDOU x Bluek Watch Company. Tax-free with passport. *⚠️ One Watchuseek review noted limited price negotiation flexibility — go in with set expectations. Verify hours at door (Shinsaibashi shops typically 10/11am-8pm).*
 - **[Nakanoshima Festival](https://maps.google.com/?q=Nakanoshima+Park+Osaka)** — Day 2 if you didn't do it last night. Free! Also walk the beautiful **[Nakanoshima riverside](https://maps.google.com/?q=Nakanoshima+Island+Osaka)** — especially lovely lit up.
 - **[Shinsaibashi Shopping Arcade](https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka)** — 180 stores. **Onitsuka Tiger flagship**, Don Quijote. Tax-free with passport. *(Brad: Onitsuka Tiger here covers what we skipped in Tokyo.)*
-- **[Momotaro Jeans Osaka](https://maps.google.com/?q=Momotaro+Jeans+Osaka+Horie)** — Horie neighborhood. If you haven't bought denim yet.
+- ~~**Momotaro Jeans Osaka (Horie)**~~ — **DROPPED.** Heritage raw selvedge ethos = opposite of what Brad wants (stretch, gusset, comfort, fun dyes). Buying DUER at home + Snow Peak LUCUA in Umeda May 5 instead.
 - **Japanese Jazz Vinyl — Shinsaibashi Record Run** (all walking distance from hotel):
   - **[Rare Groove](https://maps.google.com/?q=Rare+Groove+Records+Nishi-Shinsaibashi+Osaka)** — On The Vinyl Factory's "World's Best Record Shops" list. Rare Japanese pressings specialty. ~8 min walk from hotel. Building has 5 other record shops too. **Closed Wednesdays** — today (Mon) is perfect.
   - **[HMV Record Shop Shinsaibashi](https://maps.google.com/?q=HMV+Record+Shop+Shinsaibashi+OPA+Osaka)** — 8F of Shinsaibashi OPA. 50,000 records, rated 5/5 for jazz. ~5 min from hotel.
@@ -669,8 +669,11 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 1. **[Shoyu-Ramen Sodaisho](https://maps.google.com/?q=Shoyu+Ramen+Sodaisho+Temma+Osaka)** — PICK. Temma — ~1,000 yen — Chicken-clam shoyu ramen. Baseball-themed. Local gem.
 2. **[Chukasoba Kazura](https://maps.google.com/?q=Chukasoba+Kazura+Awaza+Osaka)** — Awaza — ~1,000 yen — "Mousse-like" broth, fabulously light. Backup.
 
+### Pre-Concert — Snow Peak LUCUA Ihre (~5:30-6:30 PM)
+- **[Snow Peak LUCUA Ihre](https://maps.google.com/?q=Snow+Peak+LUCUA+Ihre+Osaka+Umeda)** — **Brad's stretch/comfort pant pick (Japanese DUER analogue).** Inside LUCUA mall, 1 min from Osaka Station, **literally next door to Herbis Plaza ENT** (where Casiopea is). Camping gear + LOCAL WEAR Japan-exclusive apparel + dedicated fishing corner. Stretch panel pants (Takibi, FR lines) with gusseted construction — closest Japanese match to DUER. Hours typically 10:00-21:00.
+
 ### Evening — Casiopea at Billboard Live Osaka (7:00 PM) ⚠️ TICKETS PURCHASED
-- **[Billboard Live Osaka](https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT)** — Herbis Plaza ENT, Nishi-Umeda. Japanese jazz fusion legends. 7:00 PM show. Arrive by 6:30 for seating/drinks.
+- **[Billboard Live Osaka](https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT)** — Herbis Plaza ENT, Nishi-Umeda. Japanese jazz fusion legends. 7:00 PM show. Arrive by 6:30 for seating/drinks. *5-min walk from Snow Peak LUCUA.*
 - After the show (~9:00 PM):
   - **[Bible Club Osaka](https://maps.google.com/?q=Bible+Club+Osaka+Shinsaibashi)** — Shinsaibashi speakeasy. Portland sister bar. Hidden entrance. Nightcap option.
   - **[Nakanoshima stroll](https://maps.google.com/?q=Nakanoshima+Island+Osaka)** — Beautiful riverside walk from Umeda back toward hotel, lit up at night.
