@@ -1432,25 +1432,34 @@
           ]
         },
         {
-          "title": "Late Afternoon — Fushimi Sake District",
-          "subtitle": "Stop on the way back from Nara to Kyoto. Sensible late-afternoon tasting hour, not 8:30 AM.",
+          "title": "Late Afternoon — Fushimi Sake",
+          "subtitle": "Stop on the way back from Nara, but tighter today: 6 PM foot massage at Foot Therapy Shijo means we can't linger.",
           "activities": [
             {
               "name": "Fushimi Sake District",
               "mapLink": "https://maps.google.com/?q=Fushimi+Sake+District+Kyoto",
-              "description": "Historic sake brewing area, source for 1/4 of all Japanese sake. Multiple working breweries: Gekkeikan Okura Sake Museum, Tsukinokatsura, Kizakura Kappa Country",
-              "priority": false,
-              "reservationRequired": false
+              "description": "4:00-5:00 PM. Compressed to — ONE tasting room and do a smaller 5-8 sake flight (skip the full 18). Gekkeikan Okura Sake Museum is the foreigner-friendliest, English signage, for a tasting flight",
+              "duration": "1 hr",
+              "priority": true,
+              "reservationRequired": false,
+              "price": "¥600-1,000"
             },
             {
-              "name": "Tasting flight:",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "6:30 PM",
-              "description": "Train back to Kyoto Station, Hotel by 6:45",
+              "name": "5:00 PM",
+              "description": "Train back to Kyoto Station, Hotel by 5:30. Drop bags, freshen up by 5:55",
               "duration": "10-15 min",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
+          "title": "Foot Massage",
+          "activities": [
+            {
+              "name": "Foot Therapy Shijo",
+              "mapLink": "https://maps.google.com/?q=Foot+Therapy+Shijo+Kyoto",
+              "description": "Right next to hotel. 40-min foot massages for both Brad; Alyona at 6:00 PM",
               "priority": false,
               "reservationRequired": false
             }
@@ -1527,20 +1536,17 @@
       },
       "sections": [
         {
-          "title": "Morning — Ippodo Tea + Chakoro Hunt",
-          "subtitle": "Sun morning flex. JIKKO + Kuoe both done Saturday. 9 AM \"Grand Tea Gathering\" was the fake slot — actual booking is the 7 PM Six Shadows.",
+          "title": "Morning — Slow Start + Chakoro Hunt",
+          "subtitle": "Sun morning is properly chill. JIKKO + Kuoe done Saturday. Ippodo moved to Monday morning (it's redundant before Camellia ceremony anyway). 9 AM \"Grand Tea Gathering\" was the fake slot — actual booking is 7 PM Six Shadows.",
           "activities": [
             {
-              "name": "Ippodo Kaboku Tearoom",
-              "mapLink": "https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi",
-              "description": "10:00-10:45 AM. Whisk your own matcha at the counter with seasonal sweets, since 1717. Also buy matcha to bring home. Sun hours 10:00 AM-6 PM (cafe LO 4:30 PM). Teramachi Street, flat walk from hotel",
-              "duration": "10 min",
+              "name": "10:00-10:30 Slow morning",
+              "description": "Coffee at hotel area / Iolite / Kurasu / hotel breakfast",
               "priority": false,
-              "reservationRequired": false,
-              "price": "¥700-1,500"
+              "reservationRequired": false
             },
             {
-              "name": "Chakoro hunt — Teramachi-dori southbound (~10:45-11:30 AM):",
+              "name": "Chakoro hunt — Teramachi-dori arcade (~10:30-11:30 AM):",
               "description": "The arcade has multiple pottery/craft shops. Look for handmade chakoro (茶香炉) with maker's stamps. Skip obvious souvenir-grade pieces",
               "priority": false,
               "reservationRequired": false
@@ -1746,16 +1752,28 @@
       "summary": "Kyoto to Osaka on the Hankyu Line — under an hour, completely different energy. Osaka is louder, wilder, more neon. Lunch is okonomiyaki at a Dotonbori institution since 1945, then Shinsekai for retro alley vibes and kushikatsu (don't double-dip). Tower Knives for the knife nerds. Evening is the Nakanoshima Festival — a free handmade amusement park on an island — and Dotonbori lit up like Times Square on steroids.",
       "morningCoffee": {
         "kind": "coffee",
-        "name": "Weekenders Coffee Tominokoji",
-        "mapLink": "https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto",
-        "description": "One last Kyoto coffee. *(Closed Wed — Sun is fine)*"
+        "name": "~~Weekenders Coffee Tominokoji~~ — permanently closed. Ippodo cafe IS the morning ritual today (see below)."
       },
       "sections": [
         {
-          "title": "Morning — Departure",
+          "title": "Morning — Final Kyoto Ritual: Ippodo Cafe",
           "activities": [
             {
-              "name": "Hankyu Kyoto Line",
+              "name": "Ippodo Kaboku Tearoom",
+              "mapLink": "https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi",
+              "description": "Whisk your own matcha at the counter with seasonal sweets, since 1717. Also buy matcha to bring home. Mon hours 10:00 AM-5:00 PM (cafe LO 4:30 PM). Teramachi/Nijo, flat walk from hotel",
+              "duration": "10 min",
+              "priority": false,
+              "reservationRequired": false,
+              "price": "¥700-1,500"
+            }
+          ]
+        },
+        {
+          "title": "Departure for Osaka",
+          "activities": [
+            {
+              "name": "~11:30 AM Hankyu Kyoto Line",
               "priority": false,
               "reservationRequired": false
             }
