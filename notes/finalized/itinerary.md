@@ -399,10 +399,13 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 > Kakimoto for the parfait, hotel rest, easy ramen dinner walking distance, then Hello Dolly
 > Friday-night jazz on Pontocho. Total walking: ~25-35 min spread out.
 
-**Morning Coffee:** [Weekenders Coffee Tominokoji](https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto) — THE Kyoto coffee destination. Opens 7:30am.
+**Morning Coffee:** [Kurasu Ebisugawa](https://maps.google.com/?q=Kurasu+Ebisugawa+Kyoto) — Kurasu's Nakagyo flagship, specialty roaster. Opens 8 AM. *(Weekenders Coffee Tominokoji is permanently closed — Kurasu is the closest equivalent.)*
 
-### Morning — Slow Start + Weekenders (~9:30-10:30 AM)
-- 9:30 leave hotel, ~10 min walk (or taxi if foot complaining) to **[Weekenders Coffee Tominokoji](https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto)**
+### Morning — Slow Start + Coffee (~9:30-10:30 AM)
+- 9:30 leave hotel, ~10 min walk (or taxi if foot complaining) to coffee. Pick from:
+  - **[Kurasu Ebisugawa](https://maps.google.com/?q=Kurasu+Ebisugawa+Kyoto)** — PRIMARY. Specialty roaster flagship, minimalist wood + concrete, single-origin pour-overs. Opens 8 AM.
+  - **[% Arabica Karasuma](https://maps.google.com/?q=Arabica+Karasuma+Kyoto)** — Backup. Central, opens 9 AM. More well-known, simpler menu.
+  - **[Rokuyosha Coffee](https://maps.google.com/?q=Rokuyosha+Coffee+Sanjo+Kyoto)** — Retro kissaten vibe (Kawaramachi Sanjo area). 8:30 AM open. Different feel — old-school siphon coffee.
 - Pour-over + light pastry. ~45-60 min slow morning.
 
 ### Late Morning — Kennin-ji + Gion (~10:30 AM-12:45 PM)

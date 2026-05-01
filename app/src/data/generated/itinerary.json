@@ -1129,14 +1129,36 @@
       "summary": "Slow start with Weekenders coffee, taxi to Kennin-ji for one chill temple stop (Kyoto's oldest Zen temple, twin dragons ceiling, three gardens, all flat), daigaku imo in Gion, taxi to Yoshikawa Tempura for a sit-down 90-min lunch, hotel rest, Ippodo matcha at the tearoom, taxi to Assemblages Kakimoto for the parfait, hotel rest, easy ramen dinner walking distance, then Hello Dolly Friday-night jazz on Pontocho. Total walking: ~25-35 min spread out.",
       "morningCoffee": {
         "kind": "coffee",
-        "name": "Weekenders Coffee Tominokoji",
-        "mapLink": "https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto",
-        "description": "THE Kyoto coffee destination. Opens 7:30am."
+        "name": "Kurasu Ebisugawa",
+        "mapLink": "https://maps.google.com/?q=Kurasu+Ebisugawa+Kyoto",
+        "description": "Kurasu's Nakagyo flagship, specialty roaster. Opens 8 AM. *(Weekenders Coffee Tominokoji is permanently closed — Kurasu is the closest equivalent.)*"
       },
       "sections": [
         {
-          "title": "Morning — Slow Start + Weekenders",
-          "activities": []
+          "title": "Morning — Slow Start + Coffee",
+          "activities": [
+            {
+              "name": "Kurasu Ebisugawa",
+              "mapLink": "https://maps.google.com/?q=Kurasu+Ebisugawa+Kyoto",
+              "description": "PRIMARY. Specialty roaster flagship, minimalist wood; concrete, single-origin pour-overs. Opens 8 AM",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "% Arabica Karasuma",
+              "mapLink": "https://maps.google.com/?q=Arabica+Karasuma+Kyoto",
+              "description": "Central, opens 9 AM. More well-known, simpler menu",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Rokuyosha Coffee",
+              "mapLink": "https://maps.google.com/?q=Rokuyosha+Coffee+Sanjo+Kyoto",
+              "description": "Retro kissaten vibe (Kawaramachi Sanjo area). 8:30 AM open. Different feel — old-school siphon coffee",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
         },
         {
           "title": "Late Morning — Kennin-ji + Gion",
