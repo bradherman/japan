@@ -1123,10 +1123,10 @@
       "dayNumber": 7,
       "date": "May 1",
       "dayOfWeek": "Friday",
-      "title": "Chill Day (Yasaka / Tea / Parfait / Ramen / Jazz)",
+      "title": "Chill Day (Kennin-ji / Tea / Parfait / Ramen / Jazz)",
       "city": "Kyoto",
-      "subtitle": "Foot-friendly version: slept in, ONE shrine (Yasaka), drop Kiyomizu-dera + Sannenzaka pottery hunt (uphill). Cabs between far stops, multiple sit-down breaks.",
-      "summary": "Slow start with Weekenders coffee, taxi to Yasaka Shrine for one chill cultural stop, daigaku imo in Gion, taxi to Yoshikawa Tempura for a sit-down 90-min lunch, hotel rest, Ippodo matcha at the tearoom, taxi to Assemblages Kakimoto for the parfait, hotel rest, easy ramen dinner walking distance, then Hello Dolly Friday-night jazz on Pontocho. Total walking: ~25-35 min spread out.",
+      "subtitle": "Foot-friendly version: slept in, ONE temple (Kennin-ji — pivoting from shrines, you've already done plenty). Drop Kiyomizu-dera + Sannenzaka pottery hunt (uphill). Cabs between far stops, multiple sit-down breaks.",
+      "summary": "Slow start with Weekenders coffee, taxi to Kennin-ji for one chill temple stop (Kyoto's oldest Zen temple, twin dragons ceiling, three gardens, all flat), daigaku imo in Gion, taxi to Yoshikawa Tempura for a sit-down 90-min lunch, hotel rest, Ippodo matcha at the tearoom, taxi to Assemblages Kakimoto for the parfait, hotel rest, easy ramen dinner walking distance, then Hello Dolly Friday-night jazz on Pontocho. Total walking: ~25-35 min spread out.",
       "morningCoffee": {
         "kind": "coffee",
         "name": "Weekenders Coffee Tominokoji",
@@ -1139,20 +1139,20 @@
           "activities": []
         },
         {
-          "title": "Late Morning — Yasaka Shrine + Gion",
-          "subtitle": "ONE shrine today. Skip Kiyomizu-dera (too steep) and Sannenzaka pottery hunt (uphill — chakoro moves to Asahi-yaki Uji tomorrow).",
+          "title": "Late Morning — Kennin-ji + Gion",
+          "subtitle": "ONE temple today (you've already done plenty of shrines). Skip Kiyomizu-dera (too steep) and Sannenzaka pottery hunt (uphill — chakoro moves to Asahi-yaki Uji tomorrow).",
           "activities": [
             {
-              "name": "Yasaka Shrine",
-              "mapLink": "https://maps.google.com/?q=Yasaka+Shrine+Kyoto",
-              "description": "11:00-11:45. Iconic Gion shrine. Free, flat, beautiful main hall; lantern-lit ema area. Take it slow",
+              "name": "Kennin-ji (建仁寺)",
+              "mapLink": "https://maps.google.com/?q=Kennin-ji+Temple+Kyoto",
+              "description": "11:00-12:15. Kyoto's OLDEST Zen temple, founded 1202. Famous for the Twin Dragons ceiling painting in the Hatto hall (huge and dramatic), the Wind God and Thunder God folding screen (national treasure replica), and three flat gardens — Choontei rock garden, circular Maru-ji garden, Daiozen garden. Open 10:00-16:30. Flat grounds, indoor tatami walking. South end of Hanamikoji-dori in Gion",
               "priority": false,
-              "reservationRequired": false
+              "reservationRequired": false,
+              "price": "¥600"
             },
             {
               "name": "Imoya Tsunekichi",
-              "mapLink": "https://maps.google.com/?q=Imoya+Tsunekichi+Gion+Kyoto",
-              "description": "12:00-12:30. Caramelized sweet potato (daigaku imo) sit-down cafe. 570-262 Gionmachi Minamigawa. Sweet Potato Parfait with daigaku imo; sweet potato chips; candied potato; mitarashi dango. This is your daigaku imo stop",
+              "description": "12:20-12:50. Caramelized sweet potato (daigaku imo) sit-down cafe. Sweet Potato Parfait with daigaku imo; sweet potato chips; candied potato; mitarashi dango. This is your daigaku imo stop",
               "priority": false,
               "reservationRequired": false,
               "price": "¥1,200"

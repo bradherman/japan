@@ -389,14 +389,15 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ---
 
-## Day 7: Friday, May 1 — Kyoto — Chill Day (Yasaka / Tea / Parfait / Ramen / Jazz)
+## Day 7: Friday, May 1 — Kyoto — Chill Day (Kennin-ji / Tea / Parfait / Ramen / Jazz)
 
-*Foot-friendly version: slept in, ONE shrine (Yasaka), drop Kiyomizu-dera + Sannenzaka pottery hunt (uphill). Cabs between far stops, multiple sit-down breaks.*
+*Foot-friendly version: slept in, ONE temple (Kennin-ji — pivoting from shrines, you've already done plenty). Drop Kiyomizu-dera + Sannenzaka pottery hunt (uphill). Cabs between far stops, multiple sit-down breaks.*
 
-> Slow start with Weekenders coffee, taxi to Yasaka Shrine for one chill cultural stop, daigaku imo
-> in Gion, taxi to Yoshikawa Tempura for a sit-down 90-min lunch, hotel rest, Ippodo matcha at the
-> tearoom, taxi to Assemblages Kakimoto for the parfait, hotel rest, easy ramen dinner walking
-> distance, then Hello Dolly Friday-night jazz on Pontocho. Total walking: ~25-35 min spread out.
+> Slow start with Weekenders coffee, taxi to Kennin-ji for one chill temple stop (Kyoto's oldest Zen
+> temple, twin dragons ceiling, three gardens, all flat), daigaku imo in Gion, taxi to Yoshikawa
+> Tempura for a sit-down 90-min lunch, hotel rest, Ippodo matcha at the tearoom, taxi to Assemblages
+> Kakimoto for the parfait, hotel rest, easy ramen dinner walking distance, then Hello Dolly
+> Friday-night jazz on Pontocho. Total walking: ~25-35 min spread out.
 
 **Morning Coffee:** [Weekenders Coffee Tominokoji](https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto) — THE Kyoto coffee destination. Opens 7:30am.
 
@@ -404,12 +405,12 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - 9:30 leave hotel, ~10 min walk (or taxi if foot complaining) to **[Weekenders Coffee Tominokoji](https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto)**
 - Pour-over + light pastry. ~45-60 min slow morning.
 
-### Late Morning — Yasaka Shrine + Gion (~10:30 AM-12:30 PM)
-*ONE shrine today. Skip Kiyomizu-dera (too steep) and Sannenzaka pottery hunt (uphill — chakoro moves to Asahi-yaki Uji tomorrow).*
-- 10:30 **Taxi to Yasaka Shrine** (~5 min ride from Weekenders area, ~¥800).
-- **[Yasaka Shrine](https://maps.google.com/?q=Yasaka+Shrine+Kyoto)** — 11:00-11:45. Iconic Gion shrine. Free, flat, beautiful main hall + lantern-lit ema area. Take it slow.
-- 11:45 walk through **[Hanamikoji-dori](https://maps.google.com/?q=Hanamikoji-dori+Gion+Kyoto)** — flat, atmospheric Gion teahouse street. ~10 min flat walk south.
-- **[Imoya Tsunekichi](https://maps.google.com/?q=Imoya+Tsunekichi+Gion+Kyoto)** — 12:00-12:30. Caramelized sweet potato (daigaku imo) sit-down cafe. 570-262 Gionmachi Minamigawa. Sweet Potato Parfait ~¥1,200 with daigaku imo + sweet potato chips + candied potato + mitarashi dango. *This is your daigaku imo stop.*
+### Late Morning — Kennin-ji + Gion (~10:30 AM-12:45 PM)
+*ONE temple today (you've already done plenty of shrines). Skip Kiyomizu-dera (too steep) and Sannenzaka pottery hunt (uphill — chakoro moves to Asahi-yaki Uji tomorrow).*
+- 10:30 **Taxi to Kennin-ji** (~7 min ride from Weekenders area, ~¥1,000).
+- **[Kennin-ji (建仁寺)](https://maps.google.com/?q=Kennin-ji+Temple+Kyoto)** — 11:00-12:15. **Kyoto's OLDEST Zen temple, founded 1202.** Famous for the **Twin Dragons ceiling painting** in the Hatto hall (huge and dramatic), the **Wind God and Thunder God folding screen** (national treasure replica), and three flat gardens — Choontei rock garden, circular Maru-ji garden, Daiozen garden. ¥600 entry. Open 10:00-16:30. **Flat grounds, indoor tatami walking.** South end of Hanamikoji-dori in Gion.
+- 12:15 walk a few blocks south to **[Imoya Tsunekichi](https://maps.google.com/?q=Imoya+Tsunekichi+Gion+Kyoto)** — ~3-min flat walk (Imoya is on Gionmachi Minamigawa, right by Kennin-ji).
+- **Imoya Tsunekichi** — 12:20-12:50. Caramelized sweet potato (daigaku imo) sit-down cafe. Sweet Potato Parfait ~¥1,200 with daigaku imo + sweet potato chips + candied potato + mitarashi dango. *This is your daigaku imo stop.*
 
 ### Lunch (~1:00-2:30 PM) — Yoshikawa Tempura
 - 12:30-12:45 **Taxi to Yoshikawa Tempura** (~10-12 min, ~¥1,200).
