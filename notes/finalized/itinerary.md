@@ -389,48 +389,45 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ---
 
-## Day 7: Friday, May 1 — Kyoto — Fushimi Inari / Gion / Higashiyama
+## Day 7: Friday, May 1 — Kyoto — Chill Day (Yasaka / Tea / Parfait / Ramen / Jazz)
 
-*Peak temple and culture day. Early start for empty torii gates (but not 6am — 7:30am).*
+*Foot-friendly version: slept in, ONE shrine (Yasaka), drop Kiyomizu-dera + Sannenzaka pottery hunt (uphill). Cabs between far stops, multiple sit-down breaks.*
 
-> The iconic Kyoto day. Fushimi Inari's vermillion torii gates at 7:30am before the crowds, then a sake
-> tasting flight in the historic brewing district. Walk the stone lanes to Kiyomizu-dera. Lunch is Bib
-> Gourmand tempura. Afternoon is matcha everything — whisk your own at Ippodo (since 1717) and hit
-> Assemblages for the famous parfait. Ramen for dinner, then Pontocho bars.
+> Slow start with Weekenders coffee, taxi to Yasaka Shrine for one chill cultural stop, daigaku imo
+> in Gion, taxi to Yoshikawa Tempura for a sit-down 90-min lunch, hotel rest, Ippodo matcha at the
+> tearoom, taxi to Assemblages Kakimoto for the parfait, hotel rest, easy ramen dinner walking
+> distance, then Hello Dolly Friday-night jazz on Pontocho. Total walking: ~25-35 min spread out.
 
-**Morning Coffee:** [Weekenders Coffee Tominokoji](https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto) — THE Kyoto coffee destination. Opens 7:30am. Closed Wed (today is Thu, perfect).
+**Morning Coffee:** [Weekenders Coffee Tominokoji](https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto) — THE Kyoto coffee destination. Opens 7:30am.
 
-### Morning — Fushimi Inari (~7:30-9:30 AM)
-- Take Kyoto subway to Kyoto Station, then JR Nara Line 1 stop to Inari Station. Total ~25 min, ~410 yen.
-- **[Fushimi Inari](https://maps.google.com/?q=Fushimi+Inari+Taisha+Kyoto)** — By 7:30am for near-empty torii gates. The iconic vermillion tunnels. Free, open 24 hrs.
-- **Brad:** First section (Senbon Torii) is 15-20 min of flat/gentle walking — that's the money shot. No need to summit.
-- ~~Fushimi Sake District tasting~~ — **MOVED to Saturday May 2 late afternoon** (returning from Nara, more sensible time for 18 sake flights). Skip this morning.
-- Return to hotel by ~9:30 AM for coffee.
+### Morning — Slow Start + Weekenders (~9:30-10:30 AM)
+- 9:30 leave hotel, ~10 min walk (or taxi if foot complaining) to **[Weekenders Coffee Tominokoji](https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto)**
+- Pour-over + light pastry. ~45-60 min slow morning.
 
-### Late Morning — Gion / Higashiyama (~10:00 AM-12:30 PM)
-- Walk east along Shijo-dori into Gion
-- **[Yasaka Shrine](https://maps.google.com/?q=Yasaka+Shrine+Kyoto)** — Free, always open.
-- Walk south through **[Ninenzaka and Sannenzaka](https://maps.google.com/?q=Ninenzaka+Sannenzaka+Kyoto)** — Stone-paved lanes, traditional shops. **⚠️ Pottery hunt for Alyona's handmade chakoro:** the lanes are lined with authentic Kiyomizu-yaki kilns. Look for shops with maker's stamps on the underside of pieces — skip the obvious tourist souvenirs.
-- **[Tohgoro Kiln](https://maps.google.com/?q=Tohgoro+Kiln+Chawan-zaka+Kiyomizu)** — On Chawan-zaka ("Tea Bowl Lane") leading up to Kiyomizu-dera. Working kiln, full Kiyomizu-yaki range — tea bowls, sake cups, and **chakoro (茶香炉, tea incense burners)**. Custom commissions available.
-- **[Shoindo](https://maps.google.com/?q=Shoindo+Kiyomizu+Kyoto)** — Kiln specializing in Kyo-yaki / Kiyomizu-yaki since late Edo (1855). One of the oldest still-working kilns in the area. Tea ceremony focus — ask specifically for chakoro.
-- **[Kiyomizu-dera](https://maps.google.com/?q=Kiyomizu-dera+Kyoto)** — UNESCO World Heritage. Famous wooden stage. ~400 yen. Uphill but steady, not steep.
+### Late Morning — Yasaka Shrine + Gion (~10:30 AM-12:30 PM)
+*ONE shrine today. Skip Kiyomizu-dera (too steep) and Sannenzaka pottery hunt (uphill — chakoro moves to Asahi-yaki Uji tomorrow).*
+- 10:30 **Taxi to Yasaka Shrine** (~5 min ride from Weekenders area, ~¥800).
+- **[Yasaka Shrine](https://maps.google.com/?q=Yasaka+Shrine+Kyoto)** — 11:00-11:45. Iconic Gion shrine. Free, flat, beautiful main hall + lantern-lit ema area. Take it slow.
+- 11:45 walk through **[Hanamikoji-dori](https://maps.google.com/?q=Hanamikoji-dori+Gion+Kyoto)** — flat, atmospheric Gion teahouse street. ~10 min flat walk south.
+- **[Imoya Tsunekichi](https://maps.google.com/?q=Imoya+Tsunekichi+Gion+Kyoto)** — 12:00-12:30. Caramelized sweet potato (daigaku imo) sit-down cafe. 570-262 Gionmachi Minamigawa. Sweet Potato Parfait ~¥1,200 with daigaku imo + sweet potato chips + candied potato + mitarashi dango. *This is your daigaku imo stop.*
 
-### Lunch (~1:00 PM) — Tempura
-1. **[Kitenya](https://maps.google.com/?q=Kitenya+tempura+Kyoto)** — Bib Gourmand tempura — ~2,000-4,000 yen — Central location, walk-in friendly.
-2. **[Yoshikawa Tempura](https://maps.google.com/?q=Yoshikawa+Tempura+Kyoto)** — Machiya with koi pond garden — ~5,000-8,000 yen — Counter seats to watch the chef. Reserve ahead.
+### Lunch (~1:00-2:30 PM) — Yoshikawa Tempura
+- 12:30-12:45 **Taxi to Yoshikawa Tempura** (~10-12 min, ~¥1,200).
+- **[Yoshikawa Tempura](https://maps.google.com/?q=Yoshikawa+Tempura+Kyoto)** — Counter seats facing the chef in a machiya with koi pond garden. ~¥5,000-8,000 — sit-down 90 min. Most chill possible lunch experience.
+- *(Reserve via phone if you want a guaranteed seat.)*
 
-### Afternoon — Tea + Rest (~3:00-5:00 PM)
-*Alyona loves tea — this afternoon is for her:*
-- **[Ippodo Tea](https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi)** — Since 1717. Whisk your own matcha at the counter with seasonal sweets. Teramachi Street, ~10 min walk from hotel. ~700-1,500 yen. Also buy matcha to bring home.
-- **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — Award-winning desserts from Chef Akihiro Kakimoto (Japan rep at World Chocolate Masters). Located south of the Imperial Palace in a traditional machiya. Famous for inventive parfaits and handmade chocolates. **Cafe walk-in 12-5 PM, store 12-7 PM** — no reservation needed for dessert. *(Reservation is only for the 6 PM+ dinner omakase course, which is different.)* Closed Tue + Wed.
-- **[Imoya Tsunekichi](https://maps.google.com/?q=Imoya+Tsunekichi+Gion+Kyoto)** — **Caramelized sweet potato (daigaku imo) specialty shop in Gion.** 570-262 Gionmachi Minamigawa, near Yasui Konpira-gu Shrine, short walk from Gion Shijo, passing Hanamikoji and Kennin-ji. Uses red haruka sweet potatoes from Ibaraki, everything handmade. **Daigaku imo coated in their secret golden syrup**, plus Tokichi Imo (baked + fried) and a loaded Sweet Potato Parfait (~¥1,200) with daigaku imo, sweet potato chips, candied potato, baked potato, and mitarashi dango. Easy to pop in during the Higashiyama walk — Gion is on the way.
+### Afternoon — Hotel Rest + Tea (~2:30-5:45 PM)
+- 2:30 **Taxi back to hotel** (~10 min, ~¥1,200).
+- **2:45-3:45 — Hotel rest.** Foot up. Critical recovery hour.
+- 3:45 walk to **[Ippodo Kaboku Tearoom](https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi)** (Teramachi Street, ~10 min flat from hotel).
+- **Ippodo Tea** — 4:00-4:45. Whisk your own matcha at the counter with seasonal sweets, since 1717. ~¥700-1,500. Also buy matcha to bring home.
+- 4:45 **Taxi to Assemblages Kakimoto** (~5-7 min, ~¥1,000).
+- **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — 5:00-5:45. Walk-in dessert salon (cafe closes 5 PM — go *right at* 4:45 to be safe; takeout from store still possible 5-7 PM). Award-winning parfaits + handmade chocolates from Chef Kakimoto (Japan rep at World Chocolate Masters).
+- 5:45 **Taxi back to hotel** (~5 min).
 
-### ~~Late Afternoon — BIG MOON Kyoto~~ — SKIPPED
-- ~~**BIG MOON KYOTO**~~ — Brad scrolled their full online inventory (Chrono24 + own site) — nothing caught his eye. Japanese dealer online listings are comprehensive (5-10% lag for fresh acquisitions max), so in-store is likely the same. **Skip and put the watch hunt energy into HOUBIDOU Osaka Shinsaibashi on May 5** (818 Chrono24 listings, ~3× BIG MOON's depth). Frees ~1.5 hrs of Friday afternoon for a longer Ippodo/Assemblages window or Pontocho stroll.
-
-### Dinner (~6:30 PM) — Ramen
-1. **[Menya Inoichi](https://maps.google.com/?q=Menya+Inoichi+Shimogyo+Kyoto)** — PRIORITY. Bib Gourmand — ~1,000 yen — Seafood shio ramen, 9 consecutive years. In Shimogyo-ku, ~10-15 min walk south from hotel. No train needed.
-2. **[Wagyu Ramen Julia](https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto)** — Gion — ~1,200-1,800 yen — Walking distance from hotel. Backup.
+### Evening Rest + Dinner (~6:00-8:30 PM)
+- **6:00-7:00 Hotel rest #2.** Foot up.
+- **7:00-8:30 Dinner — [Wagyu Ramen Julia](https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto)** in Gion (~5 min flat walk from hotel). Wagyu beef broth ramen, ~¥1,200-1,800. *Skipping Menya Inoichi tonight — it's a 10-15 min walk south, more than the foot wants.* (Or Pontocho walk-in even closer.)
 
 ### Evening
 - **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** — Pontocho speakeasy with a magician-bartender. Near hotel.
@@ -461,8 +458,11 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - **[Kuoe Watches Kyoto](https://maps.google.com/?q=Kuoe+Watches+Kyoto+Teramachi)** — **11:00 AM at open (PRIORITY).** Saturday is the day Kuoe is open (closed Sun + Tue). Brad checking if the Apr 30 piece got restocked. ~10-min walk from Hotel Forza (or 3-5 min from Koe Donuts), down a small flight of stairs in Tohbeh Bldg #105, 224 Eirakucho. Allow ~45 min for a real browse this time around.
 - 11:45 AM-12:30 PM: Walk back, quick light lunch at Nishiki Market or konbini en route to Kyoto Stn.
 
-### Optional Stretch — Asahi-yaki Uji Stop
-*Skip today — too tight with Kuoe + Nara + Fushimi sake. Save chakoro hunt for Friday Higashiyama (Tohgoro / Shoindo) — that's the primary plan anyway.*
+### Asahi-yaki Uji Stop (~11:45 AM-1:15 PM) — NOW PRIMARY for chakoro
+*Friday Sannenzaka pottery hunt got dropped (foot day). Asahi-yaki is the upgrade anyway — premier tea-ceremony kiln of the Kyoto region, 400+ years, 16 generations of the Matsubayashi family.*
+- Right after Kuoe (~11:45 AM), walk to Kyoto Stn → **JR Nara Line Kyoto → Uji** (~25 min, ~240 yen).
+- **[Asahiyaki Shop & Studio](https://maps.google.com/?q=Asahiyaki+Uji+Kyoto)** — Uji-gawa Avenue, near JR Uji Station. Tea ceremony chawan, mizusashi, **chakoro (茶香炉)**. ~45-60 min for browsing + purchase. *Brad/Alyona walk-in is fine; pottery class is optional separate booking.*
+- ~1:15 PM JR Nara Line Uji → Nara (~30 min).
 
 ### Afternoon — Nara (~1:00-4:30 PM)
 - 12:30 PM Walk to Kyoto Stn

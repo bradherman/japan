@@ -1123,67 +1123,39 @@
       "dayNumber": 7,
       "date": "May 1",
       "dayOfWeek": "Friday",
-      "title": "Fushimi Inari / Gion / Higashiyama",
+      "title": "Chill Day (Yasaka / Tea / Parfait / Ramen / Jazz)",
       "city": "Kyoto",
-      "subtitle": "Peak temple and culture day. Early start for empty torii gates (but not 6am — 7:30am).",
-      "summary": "The iconic Kyoto day. Fushimi Inari's vermillion torii gates at 7:30am before the crowds, then a sake tasting flight in the historic brewing district. Walk the stone lanes to Kiyomizu-dera. Lunch is Bib Gourmand tempura. Afternoon is matcha everything — whisk your own at Ippodo (since 1717) and hit Assemblages for the famous parfait. Ramen for dinner, then Pontocho bars.",
+      "subtitle": "Foot-friendly version: slept in, ONE shrine (Yasaka), drop Kiyomizu-dera + Sannenzaka pottery hunt (uphill). Cabs between far stops, multiple sit-down breaks.",
+      "summary": "Slow start with Weekenders coffee, taxi to Yasaka Shrine for one chill cultural stop, daigaku imo in Gion, taxi to Yoshikawa Tempura for a sit-down 90-min lunch, hotel rest, Ippodo matcha at the tearoom, taxi to Assemblages Kakimoto for the parfait, hotel rest, easy ramen dinner walking distance, then Hello Dolly Friday-night jazz on Pontocho. Total walking: ~25-35 min spread out.",
       "morningCoffee": {
         "kind": "coffee",
         "name": "Weekenders Coffee Tominokoji",
         "mapLink": "https://maps.google.com/?q=Weekenders+Coffee+Tominokoji+Kyoto",
-        "description": "THE Kyoto coffee destination. Opens 7:30am. Closed Wed (today is Thu, perfect)."
+        "description": "THE Kyoto coffee destination. Opens 7:30am."
       },
       "sections": [
         {
-          "title": "Morning — Fushimi Inari",
-          "activities": [
-            {
-              "name": "Fushimi Inari",
-              "mapLink": "https://maps.google.com/?q=Fushimi+Inari+Taisha+Kyoto",
-              "description": "By 7:30am for near-empty torii gates. The iconic vermillion tunnels. Free, open",
-              "duration": "24 hrs",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Brad:",
-              "description": "That's the money shot. No need to summit",
-              "priority": false,
-              "reservationRequired": false
-            }
-          ]
+          "title": "Morning — Slow Start + Weekenders",
+          "activities": []
         },
         {
-          "title": "Late Morning — Gion / Higashiyama",
+          "title": "Late Morning — Yasaka Shrine + Gion",
+          "subtitle": "ONE shrine today. Skip Kiyomizu-dera (too steep) and Sannenzaka pottery hunt (uphill — chakoro moves to Asahi-yaki Uji tomorrow).",
           "activities": [
             {
               "name": "Yasaka Shrine",
               "mapLink": "https://maps.google.com/?q=Yasaka+Shrine+Kyoto",
-              "description": "Free, always open",
+              "description": "11:00-11:45. Iconic Gion shrine. Free, flat, beautiful main hall; lantern-lit ema area. Take it slow",
               "priority": false,
               "reservationRequired": false
             },
             {
-              "name": "Tohgoro Kiln",
-              "mapLink": "https://maps.google.com/?q=Tohgoro+Kiln+Chawan-zaka+Kiyomizu",
-              "description": "On Chawan-zaka (\"Tea Bowl Lane\") leading up to Kiyomizu-dera. Working kiln, full Kiyomizu-yaki range — tea bowls, sake cups, and chakoro (茶香炉, tea incense burners). Custom commissions available",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Shoindo",
-              "mapLink": "https://maps.google.com/?q=Shoindo+Kiyomizu+Kyoto",
-              "description": "Kiln specializing in Kyo-yaki / Kiyomizu-yaki since late Edo (1855). One of the oldest still-working kilns in the area. Tea ceremony focus — ask specifically for chakoro",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Kiyomizu-dera",
-              "mapLink": "https://maps.google.com/?q=Kiyomizu-dera+Kyoto",
-              "description": "UNESCO World Heritage. Famous wooden stage. Uphill but steady, not steep",
+              "name": "Imoya Tsunekichi",
+              "mapLink": "https://maps.google.com/?q=Imoya+Tsunekichi+Gion+Kyoto",
+              "description": "12:00-12:30. Caramelized sweet potato (daigaku imo) sit-down cafe. 570-262 Gionmachi Minamigawa. Sweet Potato Parfait with daigaku imo; sweet potato chips; candied potato; mitarashi dango. This is your daigaku imo stop",
               "priority": false,
               "reservationRequired": false,
-              "price": "¥400"
+              "price": "¥1,200"
             }
           ]
         },
@@ -1191,32 +1163,27 @@
           "title": "Lunch",
           "activities": [
             {
-              "name": "Kitenya",
-              "mapLink": "https://maps.google.com/?q=Kitenya+tempura+Kyoto",
-              "description": "Bib Gourmand tempura — Central location, walk-in friendly",
-              "priority": false,
-              "reservationRequired": false,
-              "price": "¥2,000-4,000"
-            },
-            {
               "name": "Yoshikawa Tempura",
               "mapLink": "https://maps.google.com/?q=Yoshikawa+Tempura+Kyoto",
-              "description": "Machiya with koi pond garden — Counter seats to watch the chef. Reserve ahead",
+              "description": "Counter seats facing the chef in a machiya with koi pond garden. — sit-down. Most chill possible lunch experience",
+              "duration": "90 min",
               "priority": false,
               "reservationRequired": false,
-              "backup": true,
               "price": "¥5,000-8,000"
             }
           ]
         },
         {
-          "title": "Afternoon — Tea + Rest",
-          "subtitle": "Alyona loves tea — this afternoon is for her:",
+          "title": "Afternoon — Hotel Rest + Tea",
           "activities": [
             {
+              "name": "2:45-3:45 — Hotel rest.",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
               "name": "Ippodo Tea",
-              "mapLink": "https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi",
-              "description": "Since 1717. Whisk your own matcha at the counter with seasonal sweets. Teramachi Street, ~10 min walk from hotel. Also buy matcha to bring home",
+              "description": "4:00-4:45. Whisk your own matcha at the counter with seasonal sweets, since 1717. Also buy matcha to bring home",
               "priority": false,
               "reservationRequired": false,
               "price": "¥700-1,500"
@@ -1224,42 +1191,26 @@
             {
               "name": "Assemblages Kakimoto",
               "mapLink": "https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto",
-              "description": "Award-winning desserts from Chef Akihiro Kakimoto (Japan rep at World Chocolate Masters). Located south of the Imperial Palace in a traditional machiya. Famous for inventive parfaits and handmade chocolates. Cafe walk-in 12-5 PM, store 12-7 PM — no reservation needed for dessert. (Reservation is only for the 6 PM+ dinner omakase course, which is different.) Closed Tue; Wed",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Imoya Tsunekichi",
-              "mapLink": "https://maps.google.com/?q=Imoya+Tsunekichi+Gion+Kyoto",
-              "description": "Caramelized sweet potato (daigaku imo) specialty shop in Gion. 570-262 Gionmachi Minamigawa, near Yasui Konpira-gu Shrine, short walk from Gion Shijo, passing Hanamikoji and Kennin-ji. Uses red haruka sweet potatoes from Ibaraki, everything handmade. Daigaku imo coated in their secret golden syrup, plus Tokichi Imo (baked; fried) and a loaded Sweet Potato Parfait with daigaku imo, sweet potato chips, candied potato, baked potato, and mitarashi dango. Easy to pop in during the Higashiyama walk — Gion is on the way",
+              "description": "5:00-5:45. Walk-in dessert salon (cafe closes 5 PM — go right at 4:45 to be safe; takeout from store still possible 5-7 PM). Award-winning parfaits; handmade chocolates from Chef Kakimoto (Japan rep at World Chocolate Masters)",
               "priority": false,
               "reservationRequired": false
             }
           ]
         },
         {
-          "title": "~~Late Afternoon — BIG MOON Kyoto~~ — SKIPPED",
-          "activities": []
-        },
-        {
-          "title": "Dinner",
+          "title": "Evening Rest + Dinner",
           "activities": [
             {
-              "name": "Menya Inoichi",
-              "mapLink": "https://maps.google.com/?q=Menya+Inoichi+Shimogyo+Kyoto",
-              "description": "Bib Gourmand — Seafood shio ramen, 9 consecutive years. In Shimogyo-ku, ~10-15 min walk south from hotel. No train needed",
-              "priority": true,
-              "reservationRequired": false,
-              "price": "¥1,000"
+              "name": "6:00-7:00 Hotel rest #2.",
+              "priority": false,
+              "reservationRequired": false
             },
             {
-              "name": "Wagyu Ramen Julia",
+              "name": "7:00-8:30 Dinner — [Wagyu Ramen Julia](https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto)",
               "mapLink": "https://maps.google.com/?q=Wagyu+Ramen+Julia+Gion+Kyoto",
-              "description": "Gion — Walking distance from hotel",
+              "description": "It's a 10-15 min walk south, more than the foot wants. (Or Pontocho walk-in even closer.)",
               "priority": false,
-              "reservationRequired": false,
-              "backup": true,
-              "price": "¥1,200-1,800"
+              "reservationRequired": false
             }
           ]
         },
@@ -1330,9 +1281,18 @@
           ]
         },
         {
-          "title": "Optional Stretch — Asahi-yaki Uji Stop",
-          "subtitle": "Skip today — too tight with Kuoe + Nara + Fushimi sake. Save chakoro hunt for Friday Higashiyama (Tohgoro / Shoindo) — that's the primary plan anyway.",
-          "activities": []
+          "title": "Asahi-yaki Uji Stop",
+          "subtitle": "Friday Sannenzaka pottery hunt got dropped (foot day). Asahi-yaki is the upgrade anyway — premier tea-ceremony kiln of the Kyoto region, 400+ years, 16 generations of the Matsubayashi family.",
+          "activities": [
+            {
+              "name": "Asahiyaki Shop & Studio",
+              "mapLink": "https://maps.google.com/?q=Asahiyaki+Uji+Kyoto",
+              "description": "Uji-gawa Avenue, near JR Uji Station. Tea ceremony chawan, mizusashi, chakoro (茶香炉). for browsing; purchase. Brad/Alyona walk-in is fine; pottery class is optional separate booking",
+              "duration": "45-60 min",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
         },
         {
           "title": "Afternoon — Nara",
