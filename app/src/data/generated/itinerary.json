@@ -1527,17 +1527,35 @@
       },
       "sections": [
         {
-          "title": "Morning — Ippodo Tea",
-          "subtitle": "Sun morning is mostly flex. JIKKO + Kuoe both moved to Sat. 9 AM \"Grand Tea Gathering\" was the fake slot — actual booking is the 7 PM Six Shadows.",
+          "title": "Morning — Ippodo Tea + Chakoro Hunt",
+          "subtitle": "Sun morning flex. JIKKO + Kuoe both done Saturday. 9 AM \"Grand Tea Gathering\" was the fake slot — actual booking is the 7 PM Six Shadows.",
           "activities": [
             {
               "name": "Ippodo Kaboku Tearoom",
               "mapLink": "https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi",
-              "description": "10:00-10:45 AM. Whisk your own matcha at the counter with seasonal sweets, since 1717. Also buy matcha to bring home. Sun hours 10:00 AM-6 PM (cafe last order 4:30 PM). Teramachi Street, flat walk from hotel",
+              "description": "10:00-10:45 AM. Whisk your own matcha at the counter with seasonal sweets, since 1717. Also buy matcha to bring home. Sun hours 10:00 AM-6 PM (cafe LO 4:30 PM). Teramachi Street, flat walk from hotel",
               "duration": "10 min",
               "priority": false,
               "reservationRequired": false,
               "price": "¥700-1,500"
+            },
+            {
+              "name": "Chakoro hunt — Teramachi-dori southbound (~10:45-11:30 AM):",
+              "description": "The arcade has multiple pottery/craft shops. Look for handmade chakoro (茶香炉) with maker's stamps. Skip obvious souvenir-grade pieces",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Daimaru Kyoto homewares floor",
+              "mapLink": "https://maps.google.com/?q=Daimaru+Kyoto",
+              "description": "Backstop if Teramachi shops strike out. Department-store homewares floors carry curated Kiyomizu-yaki and tea ware including chakoro. Walking distance from hotel",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "11:30-11:45 Walk/subway to Camellia in Gion",
+              "priority": false,
+              "reservationRequired": false
             }
           ]
         },

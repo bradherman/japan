@@ -530,12 +530,14 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Morning Coffee:** [% Arabica Higashiyama](https://maps.google.com/?q=Arabica+Higashiyama+Kyoto) — Go early (opens 8am). Stunning Yasaka Pagoda backdrop. *LINE UP: GW lines can be 20-30 min by 10am. Go right at opening.*
 
-### Morning — Ippodo Tea (~10:00-10:45 AM)
-*Sun morning is mostly flex. JIKKO + Kuoe both moved to Sat. 9 AM "Grand Tea Gathering" was the fake slot — actual booking is the 7 PM Six Shadows.*
+### Morning — Ippodo Tea + Chakoro Hunt (~10:00-11:45 AM)
+*Sun morning flex. JIKKO + Kuoe both done Saturday. 9 AM "Grand Tea Gathering" was the fake slot — actual booking is the 7 PM Six Shadows.*
 
-- **[Ippodo Kaboku Tearoom](https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi)** — 10:00-10:45 AM. Whisk your own matcha at the counter with seasonal sweets, since 1717. ~¥700-1,500. Also buy matcha to bring home. Sun hours 10:00 AM-6 PM (cafe last order 4:30 PM). Teramachi Street, ~10 min flat walk from hotel.
-- 10:45-11:30 Walk back / hotel rest before Camellia.
-- ~~Kuoe Watches~~ — done Saturday. ~~JIKKO~~ — done Saturday.
+- **[Ippodo Kaboku Tearoom](https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi)** — 10:00-10:45 AM. Whisk your own matcha at the counter with seasonal sweets, since 1717. ~¥700-1,500. Also buy matcha to bring home. Sun hours 10:00 AM-6 PM (cafe LO 4:30 PM). Teramachi Street, ~10 min flat walk from hotel.
+- **Chakoro hunt — Teramachi-dori southbound (~10:45-11:30 AM):** Walk Teramachi-dori back south from Ippodo toward hotel — the arcade has multiple pottery/craft shops. Look for handmade chakoro (茶香炉) with maker's stamps. Skip obvious souvenir-grade pieces.
+- **[Daimaru Kyoto homewares floor](https://maps.google.com/?q=Daimaru+Kyoto)** (Shijo-Takakura, ~5F homewares) — backstop if Teramachi shops strike out. Department-store homewares floors carry curated Kiyomizu-yaki and tea ware including chakoro. Walking distance from hotel.
+- **11:30-11:45 Walk/subway to Camellia in Gion** (~15 min walk or 5 min subway + walk).
+- ~~Kuoe Watches~~ — done Saturday. ~~JIKKO~~ — done Saturday. ~~Asahi-yaki Uji~~ — too far for the pre-Camellia window.
 
 ### Morning Flex (alternate / addition)
 
