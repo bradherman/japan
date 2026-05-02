@@ -1436,80 +1436,8 @@
           "activities": []
         },
         {
-          "title": "Tonight: Nara Dinner Trip",
-          "subtitle": "Pivots the Nara skip: do a half-evening Nara visit + dinner there + Naramachi twilight stroll. Skips Todai-ji interior (closes 5:30 PM). Solves \"we never made it to Nara\" without committing a full day.",
+          "title": "Saturday Evening Actuals",
           "activities": []
-        },
-        {
-          "title": "Nara Dinner Backups",
-          "activities": [
-            {
-              "name": "Nara Hotel Main Dining",
-              "mapLink": "https://maps.google.com/?q=Nara+Hotel+Main+Dining+Nara",
-              "description": "Historic Western-style restaurant since 1909 (Einstein dined here). Open dinner 5:30-9 PM, reservation recommended. Splurge tier +. 10-min walk or short cab from Kintetsu-Nara",
-              "priority": false,
-              "reservationRequired": true,
-              "price": "¥10,000"
-            },
-            {
-              "name": "Naramachi izakaya walk-in",
-              "description": "Later evening grazing if Tanaka closes before you arrive. Most spots 5 PM-11 PM",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Tsukihitei",
-              "mapLink": "https://maps.google.com/?q=Tsukihitei+Nara",
-              "description": "High-end kaiseki ryokan dining in the Kasuga forest. Reservation only. Splurge",
-              "priority": false,
-              "reservationRequired": true
-            }
-          ]
-        },
-        {
-          "title": "Kyoto Fallbacks",
-          "activities": [
-            {
-              "name": "Pontocho Fujita",
-              "mapLink": "https://maps.google.com/?q=Pontocho+Fujita+Kyoto",
-              "description": "Pontocho kaiseki, possible kawayuka river-terrace (May = season opens)",
-              "priority": false,
-              "reservationRequired": false,
-              "price": "¥5,000-8,000"
-            },
-            {
-              "name": "Hiyoko Sushi",
-              "mapLink": "https://maps.google.com/?q=Hiyoko+Sushi+Kyoto",
-              "description": "10-piece omakase from. Locals' value",
-              "priority": true,
-              "reservationRequired": false,
-              "price": "¥2,000"
-            },
-            {
-              "name": "Pontocho walk-in izakaya",
-              "description": "Graze, atmospheric",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Kyoto Station Eat Paradise (Isetan 11F)",
-              "description": "If you bail on Nara late and want fast-near-train. Multiple restaurants, open till 10-11 PM",
-              "priority": false,
-              "reservationRequired": false
-            }
-          ]
-        },
-        {
-          "title": "Late Night",
-          "activities": [
-            {
-              "name": "P.M. Sounds",
-              "mapLink": "https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi",
-              "description": "Vinyl bar, Kiyamachi, near hotel. Wind-down",
-              "priority": false,
-              "reservationRequired": false
-            }
-          ]
         },
         {
           "title": "Dinner",
@@ -1578,34 +1506,13 @@
       },
       "sections": [
         {
-          "title": "Morning — Slow Start + Chakoro Hunt",
-          "subtitle": "Sun morning is properly chill. JIKKO + Kuoe done Saturday. Ippodo moved to Monday morning (it's redundant before Camellia ceremony anyway). 9 AM \"Grand Tea Gathering\" was the fake slot — actual booking is 7 PM Six Shadows.",
-          "activities": [
-            {
-              "name": "10:00-10:30 Slow morning",
-              "description": "Coffee at hotel area / Iolite / Kurasu / hotel breakfast",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Chakoro hunt — Teramachi-dori arcade (~10:30-11:30 AM):",
-              "description": "The arcade has multiple pottery/craft shops. Look for handmade chakoro (茶香炉) with maker's stamps. Skip obvious souvenir-grade pieces",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Daimaru Kyoto homewares floor",
-              "mapLink": "https://maps.google.com/?q=Daimaru+Kyoto",
-              "description": "Backstop if Teramachi shops strike out. Department-store homewares floors carry curated Kiyomizu-yaki and tea ware including chakoro. Walking distance from hotel",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "11:30-11:45 Walk/subway to Camellia in Gion",
-              "priority": false,
-              "reservationRequired": false
-            }
-          ]
+          "title": "Sunday — Chill mode",
+          "activities": []
+        },
+        {
+          "title": "Morning — Whatever feels right",
+          "subtitle": "Truly flex. Camellia is the only morning anchor.",
+          "activities": []
         },
         {
           "title": "Morning Flex",
@@ -1647,19 +1554,32 @@
         },
         {
           "title": "Lunch",
+          "subtitle": "No must-do lunch today. Pick based on appetite/mood:",
           "activities": [
             {
               "name": "Akoya Jaya (Akoya Chaya)",
               "mapLink": "https://maps.google.com/?q=Akoya+Jaya+Ninenzaka+Kyoto",
-              "description": "⭐ Lunch-only tsukemono (Japanese le) buffet on Ninenzaka steps near Kiyomizu-dera. tax-incl. 20+ le types (eggplant, cucumber, yuzu radish, yam), all-you-can-eat rice; 16-grain rice; miso soup. Pour hot tea over les; rice for traditional ochazuke. Sweet monaka with bean paste for dessert. Cash only. No time limit. ~10-min uphill walk from Camellia (Gion area), so foot will work for it. Same Higashiyama side as Camellia — cluster the morning's east-side activity",
-              "priority": true,
+              "description": "Tsukemono buffet on Ninenzaka, Cash only. Walking distance from Camellia in Gion (10-min uphill)",
+              "priority": false,
               "reservationRequired": false,
               "price": "¥1,600"
             },
             {
-              "name": "Backup:",
+              "name": "Izuju",
               "mapLink": "https://maps.google.com/?q=Izuju+sushi+Kyoto+Gion",
-              "description": "Kyoto's signature mackerel pressed sushi, Brad loves mackerel",
+              "description": "Saba-zushi near Yasaka. Light, signature Kyoto",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Pontocho or Gion walk-in",
+              "description": "Anything that catches the eye",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Hotel rest + light konbini snack",
+              "description": "Totally fine option, since dinner with Jeremi is the next anchor",
               "priority": false,
               "reservationRequired": false
             }
@@ -1667,24 +1587,31 @@
         },
         {
           "title": "Afternoon",
+          "subtitle": "All optional. Strong default: hotel rest before the Kitano + theater + Jeremi night.",
           "activities": [
+            {
+              "name": "Hotel rest",
+              "description": "Protect the foot for the long evening",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Assemblages Kakimoto",
+              "mapLink": "https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto",
+              "description": "Walk-in dessert salon, cafe 12-5 PM. Famous parfait if you want one Kyoto sweets stop",
+              "priority": false,
+              "reservationRequired": false
+            },
             {
               "name": "Kodai-ji Temple",
               "mapLink": "https://maps.google.com/?q=Kodai-ji+Temple+Kyoto",
-              "description": "Zen temple with stunning gardens",
+              "description": "Zen temple with stunning gardens. Optional second temple if you want one before Kitano",
               "priority": false,
               "reservationRequired": false,
               "price": "¥600"
             },
             {
-              "name": "Assemblages Kakimoto",
-              "mapLink": "https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto",
-              "description": "If you haven't done the matcha parfait yet",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Haori — compressed to ~1-1.5 hrs (was a 3-hr tour, slimmed down):",
+              "name": "Optional Haori try-once-more",
               "priority": false,
               "reservationRequired": false
             },
@@ -1734,37 +1661,43 @@
         },
         {
           "title": "Late Dinner with Jeremi",
-          "subtitle": "Jeremi in town — meet for late dinner at Pontocho.",
+          "subtitle": "Jeremi in town. Wrap by 11 PM — Monday is an early start (8:30 line for Hikiniku).",
           "activities": [
             {
               "name": "Pontocho walk-in",
-              "description": "Take taxi/subway back from Kitano Tenmangu. Browse the narrow alley, a spot with seats — kawayuka river-terrace seating may be open in May. Many spots open until 11 PM",
-              "priority": true,
+              "description": "Take taxi/subway from Kitano. Browse the alley, find seats. Kawayuka river-terrace season opening in May (weather-dependent)",
+              "priority": false,
               "reservationRequired": false
             }
           ]
         },
         {
-          "title": "Bars with Jeremi",
+          "title": "Bar with Jeremi",
           "activities": [
             {
               "name": "L'Escamoteur",
               "mapLink": "https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto",
-              "description": "⭐ ideal \"showing a friend Kyoto\" bar. Pontocho speakeasy with magician-bartender. Atmospheric, dramatic cocktails, unique act",
+              "description": "Pontocho speakeasy magician-bartender. ⚠️ Sat had 1+ hr wait — skip if line is bad. Sunday MAY be slightly less hectic but no guarantee",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "P.M. Sounds",
               "mapLink": "https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi",
-              "description": "Vinyl bar wind-down. Kiyamachi, near hotel",
+              "description": "⭐ better Sun bet — vinyl bar, less hype, Kiyamachi near hotel. Easier walk-in",
               "priority": false,
               "reservationRequired": false
             },
             {
-              "name": "Hello Dolly",
-              "mapLink": "https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto",
-              "description": "Pontocho jazz. Sunday live music status varies — check the night-of schedule",
+              "name": "Bar Pontostand",
+              "mapLink": "https://maps.google.com/?q=Bar+Pontostand+Pontocho+Kyoto",
+              "description": "Pontocho, English-friendly, sake selection; snacks. Less queue-prone than L'Escamoteur",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Pontocho walk-in izakaya",
+              "description": "Seamless if dinner spot has good vibe and you want to stay",
               "priority": false,
               "reservationRequired": false
             }
@@ -1793,28 +1726,57 @@
       "summary": "Kyoto to Osaka on the Hankyu Line — under an hour, completely different energy. Osaka is louder, wilder, more neon. Lunch is okonomiyaki at a Dotonbori institution since 1945, then Shinsekai for retro alley vibes and kushikatsu (don't double-dip). Tower Knives for the knife nerds. Evening is the Nakanoshima Festival — a free handmade amusement park on an island — and Dotonbori lit up like Times Square on steroids.",
       "morningCoffee": {
         "kind": "coffee",
-        "name": "~~Weekenders Coffee Tominokoji~~ — permanently closed. Ippodo cafe IS the morning ritual today (see below)."
+        "name": "Hotel breakfast / quick coffee in the room. Saving Ippodo for after the Hikiniku ticket run."
       },
       "sections": [
         {
-          "title": "Morning — Final Kyoto Ritual: Ippodo Cafe",
+          "title": "8:00-8:45 AM — Hikiniku to Come Ticket Run",
           "activities": [
             {
-              "name": "Ippodo Kaboku Tearoom",
-              "mapLink": "https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi",
-              "description": "Whisk your own matcha at the counter with seasonal sweets, since 1717. Also buy matcha to bring home. Mon hours 10:00 AM-5:00 PM (cafe LO 4:30 PM). Teramachi/Nijo, flat walk from hotel",
-              "duration": "10 min",
+              "name": "8:15-8:30 in line for ticket",
               "priority": false,
-              "reservationRequired": false,
-              "price": "¥700-1,500"
+              "reservationRequired": false
             }
           ]
         },
         {
-          "title": "Departure for Osaka",
+          "title": "9:00-9:30 AM — Hotel Checkout + Bag Drop",
+          "activities": []
+        },
+        {
+          "title": "9:30-10:30 AM — Ippodo Tea",
           "activities": [
             {
-              "name": "~11:30 AM Hankyu Kyoto Line",
+              "name": "10:00 Ippodo opens",
+              "description": "Whisk-your-own matcha at the counter; seasonal sweet (cafe), buy matcha tins to bring home. Mon hours 10-5, cafe LO 4:30",
+              "duration": "30 min",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
+          "title": "11:00 AM — Hikiniku to Come Lunch",
+          "activities": [
+            {
+              "name": "Hikiniku to Come Kyoto",
+              "mapLink": "https://maps.google.com/?q=Hikiniku+to+Come+Kyoto+Higashiyama",
+              "description": "Charcoal-grilled hamburger patties with rice, ~1-hour seating. Cult-favorite",
+              "priority": false,
+              "reservationRequired": false,
+              "price": "¥1,500-2,000"
+            }
+          ]
+        },
+        {
+          "title": "12:00-12:30 PM — Coffee Festival",
+          "activities": []
+        },
+        {
+          "title": "12:30-1:00 PM — Grab Bags + Train to Osaka",
+          "activities": [
+            {
+              "name": "~1:00 PM Hankyu Kyoto Line",
               "priority": false,
               "reservationRequired": false
             }

@@ -503,35 +503,11 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - ~~Fushimi Sake District~~ — Drank sake near hotel instead.
 - ~~Philosopher's Path / Nanzen-ji~~ — Skipped this trip.
 
-### Tonight: Nara Dinner Trip (Primary Plan)
-*Pivots the Nara skip: do a half-evening Nara visit + dinner there + Naramachi twilight stroll. Skips Todai-ji interior (closes 5:30 PM). Solves "we never made it to Nara" without committing a full day.*
-
-**Timing — leave by 4:30 PM:**
-- 4:30 Kintetsu Limited Express Kyoto → Kintetsu-Nara (~35 min, ¥1,490)
-- 5:05 arrive Nara
-- 5:15-6:00 **Nara Park deer at twilight** + Todai-ji exterior (the gate + grounds are still beautiful even with hall closed)
-- 6:00-7:00 **Dinner — Tanaka Honten "Kakinoha Chaya"** ⭐ kakinoha-zushi (persimmon-leaf sushi) — Nara's signature dish. Right by Kintetsu-Nara Station. **Open till 7 PM — must be seated by 6:30 PM.** ¥2,000-3,500/pp.
-- 7:00-7:45 Walk through **Naramachi lantern-lit lanes** — atmospheric old merchant district
-- 7:45 Kintetsu Limited Express back to Kyoto
-- 8:20 Kyoto Stn → hotel
-- 9:00 P.M. Sounds vinyl bar nightcap or sleep
-
-### Nara Dinner Backups (in case Tanaka full or you want different)
-- **[Nara Hotel Main Dining](https://maps.google.com/?q=Nara+Hotel+Main+Dining+Nara)** — Historic Western-style restaurant since 1909 (Einstein dined here). Open dinner 5:30-9 PM, reservation recommended. Splurge tier ~¥10,000+/pp. 10-min walk or short cab from Kintetsu-Nara.
-- **Naramachi izakaya walk-in** — later evening grazing if Tanaka closes before you arrive. Most spots 5 PM-11 PM.
-- **[Tsukihitei](https://maps.google.com/?q=Tsukihitei+Nara)** — high-end kaiseki ryokan dining in the Kasuga forest. Reservation only. Splurge.
-
-### Kyoto Fallbacks (if you bail on Nara, eat in Kyoto instead)
-- **[Pontocho Fujita](https://maps.google.com/?q=Pontocho+Fujita+Kyoto)** — Pontocho kaiseki, possible **kawayuka river-terrace** (May = season opens). ~¥5,000-8,000/pp.
-- **[Hiyoko Sushi](https://maps.google.com/?q=Hiyoko+Sushi+Kyoto)** — 10-piece omakase from ¥2,000. Locals' value pick.
-- **Pontocho walk-in izakaya** — graze, atmospheric.
-- **Kyoto Station Eat Paradise (Isetan 11F)** — if you bail on Nara late and want fast-near-train. Multiple restaurants, open till 10-11 PM.
-- ~~Kyogoku Kaneyo unagi~~ — DROPPED, already had eel.
-
-### Late Night (~9:00-10:00 PM onward) — Chill drink
-- **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar, Kiyamachi, near hotel. Wind-down.
-- ~~L'Escamoteur~~ — **save for tomorrow with Jeremi** so he gets the magician-bartender experience fresh.
-- Sleep earlier — Sunday is loaded.
+### Saturday Evening Actuals
+- ✅ Quick Nara trip — "alright"
+- ✅ Dinner at **Yakitori Seisakusho** (Nara walk-in)
+- ❌ L'Escamoteur — 1+ hour wait, skipped
+- *Note: L'Escamoteur is heavy-wait on weekend nights — for Jeremi tomorrow, plan to either go early (~9pm) or pivot to a less-popular bar.*
 
 ### Dinner (~7:00 PM) — Unagi
 1. **[Kyogoku Kaneyo](https://maps.google.com/?q=Kyogoku+Kaneyo+Kyoto)** — PRIORITY. Unagi (eel) — ~2,000-4,000 yen — Kinshi-don: eel over rice topped with thin egg omelet. Ritz-Carlton recommended. Closed Tue night/Wed. Open Fri.
@@ -559,14 +535,14 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Morning Coffee:** [% Arabica Higashiyama](https://maps.google.com/?q=Arabica+Higashiyama+Kyoto) — Go early (opens 8am). Stunning Yasaka Pagoda backdrop. *LINE UP: GW lines can be 20-30 min by 10am. Go right at opening.*
 
-### Morning — Slow Start + Chakoro Hunt (~10:00-11:45 AM)
-*Sun morning is properly chill. JIKKO + Kuoe done Saturday. Ippodo moved to Monday morning (it's redundant before Camellia ceremony anyway). 9 AM "Grand Tea Gathering" was the fake slot — actual booking is 7 PM Six Shadows.*
+### Sunday — Chill mode (only must-dos: Camellia 12 PM + Six Shadows 7 PM + Jeremi 8:30-11 PM)
 
-- **10:00-10:30 Slow morning** — coffee at hotel area / Iolite / Kurasu / hotel breakfast.
-- **Chakoro hunt — Teramachi-dori arcade (~10:30-11:30 AM):** Walk Teramachi-dori from hotel — the arcade has multiple pottery/craft shops. Look for handmade chakoro (茶香炉) with maker's stamps. Skip obvious souvenir-grade pieces.
-- **[Daimaru Kyoto homewares floor](https://maps.google.com/?q=Daimaru+Kyoto)** (Shijo-Takakura, ~5F homewares) — backstop if Teramachi shops strike out. Department-store homewares floors carry curated Kiyomizu-yaki and tea ware including chakoro. Walking distance from hotel.
-- **11:30-11:45 Walk/subway to Camellia in Gion** (~15 min walk or 5 min subway + walk).
-- ~~Kuoe Watches~~ — done Saturday. ~~JIKKO~~ — done Saturday. ~~Ippodo~~ — moved to Monday morning. ~~Asahi-yaki Uji~~ — too far.
+### Morning — Whatever feels right (~10:00-11:30 AM)
+*Truly flex. Camellia is the only morning anchor.*
+- Slow morning, hotel breakfast / coffee at Iolite or Kurasu.
+- Optional chakoro hunt — Teramachi-dori arcade walk + Daimaru Kyoto homewares floor (Shijo-Takakura, 5F). If nothing landed Friday or you don't feel like it, just skip — chakoro can wait for another trip.
+- 11:30-11:45 Walk/subway to Camellia in Gion.
+- ~~Kuoe / JIKKO / Ippodo / Asahi-yaki~~ — done or moved.
 
 ### Morning Flex (alternate / addition)
 
@@ -583,14 +559,19 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 ### Late Morning — Camellia Tea Ceremony (~12:00 PM)
 - **[Camellia Tea Ceremony](https://maps.google.com/?q=Camellia+Tea+Ceremony+Kyoto+Gion)** — **✅ BOOKED 12:00 PM.** Traditional matcha whisking in a beautiful machiya setting. Seasonal sweets included. ~45-60 min. ~¥4,500-5,000/pp. Gion area.
 
-### Lunch (~1:00-2:30 PM) — Akoya Jaya Tsukemono Buffet
-- **[Akoya Jaya (Akoya Chaya)](https://maps.google.com/?q=Akoya+Jaya+Ninenzaka+Kyoto)** — ⭐ Lunch-only tsukemono (Japanese pickle) buffet on Ninenzaka steps near Kiyomizu-dera. ~¥1,600/pp tax-incl. 20+ pickle types (eggplant, cucumber, yuzu radish, yam), all-you-can-eat rice + 16-grain rice + miso soup. Pour hot tea over pickles + rice for traditional ochazuke. Sweet monaka with bean paste for dessert. **Cash only. No time limit.** ~10-min uphill walk from Camellia (Gion area), so foot will work for it. *Same Higashiyama side as Camellia — cluster the morning's east-side activity.*
-- **Backup:** [Izuju](https://maps.google.com/?q=Izuju+sushi+Kyoto+Gion) (saba-zushi near Yasaka) if Akoya queue is brutal — Kyoto's signature mackerel pressed sushi, Brad loves mackerel.
+### Lunch (~1:00-2:30 PM) — Optional, flex
+*No must-do lunch today. Pick based on appetite/mood:*
+- **[Akoya Jaya (Akoya Chaya)](https://maps.google.com/?q=Akoya+Jaya+Ninenzaka+Kyoto)** — Tsukemono buffet on Ninenzaka, ~¥1,600/pp. Cash only. Walking distance from Camellia in Gion (10-min uphill).
+- **[Izuju](https://maps.google.com/?q=Izuju+sushi+Kyoto+Gion)** — Saba-zushi near Yasaka. Light, signature Kyoto.
+- **Pontocho or Gion walk-in** — anything that catches the eye.
+- **Hotel rest + light konbini snack** — totally fine option, since dinner with Jeremi is the next anchor.
 
-### Afternoon (~2:00-5:00 PM)
-- **[Kodai-ji Temple](https://maps.google.com/?q=Kodai-ji+Temple+Kyoto)** — Zen temple with stunning gardens. ~600 yen.
-- **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — If you haven't done the matcha parfait yet.
-- **Haori — compressed to ~1-1.5 hrs (was a 3-hr tour, slimmed down):**
+### Afternoon (~2:00-5:30 PM) — Truly Flex
+*All optional. Strong default: hotel rest before the Kitano + theater + Jeremi night.*
+- **Hotel rest** — protect the foot for the long evening.
+- **[Assemblages Kakimoto](https://maps.google.com/?q=Assemblages+Kakimoto+Kyoto)** — Walk-in dessert salon, cafe 12-5 PM. Famous parfait if you want one Kyoto sweets stop.
+- **[Kodai-ji Temple](https://maps.google.com/?q=Kodai-ji+Temple+Kyoto)** — Zen temple with stunning gardens. ~600 yen. Optional second temple if you want one before Kitano.
+- **Optional Haori try-once-more** (since Friday SOU SOU didn't land):
   - **[SOU SOU Kei-i Honten (Menswear)](https://maps.google.com/?q=SOU+SOU+Shinkyogoku+Kyoto)** — **PRIMARY.** Modern cut, bold print haori jackets (~14-28k yen). The "no baggy arms" line. Ask for tailored fit / "modern" silhouette. ~45 min focused try-on session.
   - **[Musubi Kyoto](https://maps.google.com/?q=Musubi+Kyoto+Shijo+Shinkyogoku)** — Quick 15-min stop if SOU SOU doesn't land. Clean minimal cuts designed to wear over t-shirts, 18 men's styles, ~5,600-14k yen.
   - *Skipped: KAPITAL, Visvim F.I.L., FDMTL — overshooting the brief. Could revisit any if time/budget pulls you that direction, but SOU SOU Kei-i is the modern-cut answer.*
@@ -605,14 +586,15 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - **[KYOTO NIPPON FESTIVAL — Immersive Theater "The Six Shadows" / Hana-yoi no Ochakai](https://maps.google.com/?q=Kitano+Tenmangu+Fugetsuden+Kyoto)** — **✅ BOOKED 7:00-8:10 PM (≈70 min).** Mika Ninagawa with EiM and dance company DAZZLE present an immersive theater piece in Fugetsu-den hall.
 
 ### Late Dinner with Jeremi (~8:45-10:00 PM)
-*Jeremi in town — meet for late dinner at Pontocho.*
-- **Pontocho walk-in** — Take taxi/subway back from Kitano Tenmangu (~25 min). Browse the narrow alley, pick a spot with seats — kawayuka river-terrace seating may be open in May. Many spots open until 11 PM.
+*Jeremi in town. Wrap by 11 PM — Monday is an early start (8:30 line for Hikiniku).*
+- **Pontocho walk-in** — Take taxi/subway from Kitano (~25 min). Browse the alley, find seats. Kawayuka river-terrace season opening in May (weather-dependent).
 
-### Bars with Jeremi (~10:00 PM-late)
-- **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** — ⭐ ideal "showing a friend Kyoto" bar. Pontocho speakeasy with magician-bartender. Atmospheric, dramatic cocktails, unique act.
-- **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar wind-down. Kiyamachi, near hotel.
-- **[Hello Dolly](https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto)** — Pontocho jazz. Sunday live music status varies — check the night-of schedule.
-- *Pace: L'Escamoteur first (atmosphere) → P.M. Sounds or Hello Dolly second. Or just settle into one good bar with Jeremi.*
+### Bar with Jeremi (~10:00-11:00 PM)
+- **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** — Pontocho speakeasy magician-bartender. **⚠️ Sat had 1+ hr wait — skip if line is bad. Sunday MAY be slightly less hectic but no guarantee.**
+- **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — ⭐ better Sun bet — vinyl bar, less hype, Kiyamachi near hotel. Easier walk-in.
+- **[Bar Pontostand](https://maps.google.com/?q=Bar+Pontostand+Pontocho+Kyoto)** — Pontocho, English-friendly, sake selection + snacks. Less queue-prone than L'Escamoteur.
+- **Pontocho walk-in izakaya** — seamless if dinner spot has good vibe and you want to stay.
+- *Wrap by 11 PM. Monday early.*
 
 ### Logistics
 - **Constitution Memorial Day closures:** Many family-run spots closed May 3-6.
@@ -630,19 +612,34 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 > vibes and kushikatsu (don't double-dip). Tower Knives for the knife nerds. Evening is the Nakanoshima
 > Festival — a free handmade amusement park on an island — and Dotonbori lit up like Times Square on steroids.
 
-**Morning Coffee:** ~~Weekenders Coffee Tominokoji~~ — permanently closed. Ippodo cafe IS the morning ritual today (see below).
+**Morning Coffee:** Hotel breakfast / quick coffee in the room. Saving Ippodo for after the Hikiniku ticket run.
 
-### Morning — Final Kyoto Ritual: Ippodo Cafe (~10:00-10:45 AM)
-- **[Ippodo Kaboku Tearoom](https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi)** — Whisk your own matcha at the counter with seasonal sweets, since 1717. ~¥700-1,500/pp. Also buy matcha to bring home. Mon hours 10:00 AM-5:00 PM (cafe LO 4:30 PM). Teramachi/Nijo, ~10 min flat walk from hotel.
+### 8:00-8:45 AM — Hikiniku to Come Ticket Run
+- 7:30 wake, quick prep (final pack mostly done)
+- 8:00 leave hotel, walk ~15-20 min east to **[Hikiniku to Come Kyoto](https://maps.google.com/?q=Hikiniku+to+Come+Kyoto+Higashiyama)** — 363 Kiyomotocho, Higashiyama (Gion area).
+- **8:15-8:30 in line for ticket** (pro-tip arrival window 8:00-8:15). They run a ticket-distribution system: name on list, get assigned seating slot, come back at marked time. Goal: **~11 AM seating**.
+- 8:30-8:45 ticket received, walk back toward hotel.
 
-### Departure for Osaka (~11:00 AM)
-- 10:45-11:00 Walk back to hotel.
-- 11:00-11:15 Final pack, check out (luggage already forwarded via takkyubin).
-- 11:15-11:25 Walk to Hankyu Kawaramachi Stn.
-- **~11:30 AM Hankyu Kyoto Line** Kawaramachi → Osaka-Umeda (43 min, 410 yen).
-- ~12:15 Umeda: transfer to Midosuji Line south to Namba (10 min, 240 yen).
-- ~12:30 Walk 4 min to [Cross Hotel Osaka](https://maps.google.com/?q=Cross+Hotel+Osaka).
-- Check in ~12:45 PM.
+### 9:00-9:30 AM — Hotel Checkout + Bag Drop
+- 9:00 final pack, **check out** of Hotel Forza. Leave bags at front desk for afternoon pickup (free luggage hold standard at most hotels).
+
+### 9:30-10:30 AM — Ippodo Tea (final Kyoto ritual)
+- 9:30 walk to **[Ippodo Kaboku Tearoom](https://maps.google.com/?q=Ippodo+Tea+Kyoto+Teramachi)** (~10 min north, Teramachi/Nijo).
+- **10:00 Ippodo opens** — whisk-your-own matcha at the counter + seasonal sweet (~30 min cafe), buy matcha tins to bring home. Mon hours 10-5, cafe LO 4:30.
+- 10:30 walk back south toward Hikiniku (~15-20 min walk through central Kyoto). Or quick taxi ~5 min if foot wants.
+
+### 11:00 AM — Hikiniku to Come Lunch
+- **[Hikiniku to Come Kyoto](https://maps.google.com/?q=Hikiniku+to+Come+Kyoto+Higashiyama)** — Charcoal-grilled hamburger patties with rice, ~¥1,500-2,000/pp. ~1-hour seating. Cult-favorite.
+
+### 12:00-12:30 PM — Coffee Festival (next door)
+- Coffee fest right next to Hikiniku. Quick browse + tastings.
+
+### 12:30-1:00 PM — Grab Bags + Train to Osaka
+- Walk back to Hotel Forza, pick up bags from front desk.
+- Walk to **Hankyu Kawaramachi Stn**.
+- **~1:00 PM Hankyu Kyoto Line** Kawaramachi → Osaka-Umeda (43 min, 410 yen).
+- ~1:45 Umeda: transfer to Midosuji Line south to Namba (10 min, 240 yen).
+- ~2:00 Walk 4 min to [Cross Hotel Osaka](https://maps.google.com/?q=Cross+Hotel+Osaka). Check in ~2:00 PM.
 
 **Afternoon Coffee:** [Lilo Coffee Roasters](https://maps.google.com/?q=Lilo+Coffee+Roasters+Osaka) — Walking distance. 20+ single-origin beans. Open til 11pm.
 
