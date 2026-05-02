@@ -325,8 +325,8 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 9:00-10:30 Slow morning — hotel breakfast / Iolite or Kurasu coffee
            Optional chakoro hunt — Teramachi-dori arcade pottery shops + Daimaru Kyoto homewares (5F)
 
-11:30-11:45 Walk/subway to Camellia Tea Ceremony in Gion
-12:00-1:00 ⚠️ CAMELLIA TEA CEREMONY — BOOKED 12:00 PM. Matcha whisking, seasonal sweets, machiya setting. ~45-60 min.
+11:30-11:45 Walk to Camellia FLOWER TEAHOUSE (349-12 Masuyacho, Higashiyama-ku — ~15 min east through Gion)
+12:00-1:00 ⚠️ CAMELLIA FLOWER TEAHOUSE — BOOKED 12:00 PM. Matcha whisking, seasonal sweets, machiya setting. ~45-60 min. ~¥4,500-5,000/pp.
 
 1:00-2:30  FLEX LUNCH (optional, pick by mood):
            A) Akoya Jaya tsukemono buffet on Ninenzaka (cash only, ~¥1,600/pp) — 10-min uphill walk from Camellia
