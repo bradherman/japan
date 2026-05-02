@@ -1432,41 +1432,11 @@
           ]
         },
         {
-          "title": "Late Afternoon — Fushimi Sake",
-          "subtitle": "Stop on the way back from Nara, but tighter today: 6 PM foot massage at Foot Therapy Shijo means we can't linger.",
-          "activities": [
-            {
-              "name": "Fushimi Sake District",
-              "mapLink": "https://maps.google.com/?q=Fushimi+Sake+District+Kyoto",
-              "description": "4:00-5:00 PM. Compressed to — ONE tasting room and do a smaller 5-8 sake flight (skip the full 18). Gekkeikan Okura Sake Museum is the foreigner-friendliest, English signage, for a tasting flight",
-              "duration": "1 hr",
-              "priority": true,
-              "reservationRequired": false,
-              "price": "¥600-1,000"
-            },
-            {
-              "name": "5:00 PM",
-              "description": "Train back to Kyoto Station, Hotel by 5:30. Drop bags, freshen up by 5:55",
-              "duration": "10-15 min",
-              "priority": false,
-              "reservationRequired": false
-            }
-          ]
+          "title": "Saturday Actuals",
+          "activities": []
         },
         {
-          "title": "Foot Massage",
-          "activities": [
-            {
-              "name": "Foot Therapy Shijo",
-              "mapLink": "https://maps.google.com/?q=Foot+Therapy+Shijo+Kyoto",
-              "description": "Right next to hotel. 40-min foot massages for both Brad; Alyona at 6:00 PM",
-              "priority": false,
-              "reservationRequired": false
-            }
-          ]
-        },
-        {
-          "title": "Drops — Save for Sunday or skip",
+          "title": "Tonight",
           "activities": []
         },
         {
@@ -1691,39 +1661,38 @@
           ]
         },
         {
-          "title": "Late Dinner",
+          "title": "Late Dinner with Jeremi",
+          "subtitle": "Jeremi in town — meet for late dinner at Pontocho.",
           "activities": [
             {
               "name": "Pontocho walk-in",
-              "description": "Take taxi/subway back from Kitano Tenmangu. Browse the narrow alley, a spot with seats. Many open until 11 PM",
+              "description": "Take taxi/subway back from Kitano Tenmangu. Browse the narrow alley, a spot with seats — kawayuka river-terrace seating may be open in May. Many spots open until 11 PM",
               "priority": true,
               "reservationRequired": false
-            },
-            {
-              "name": "Hikiniku to Come",
-              "mapLink": "https://maps.google.com/?q=Hikiniku+to+Come+Kyoto",
-              "description": "If open late. Charcoal hamburger patties with rice, Walk-in. Note: typical LO 8:30 PM — likely too late tonight, save for another flex slot",
-              "priority": false,
-              "reservationRequired": false,
-              "backup": true,
-              "price": "¥1,500-2,000"
             }
           ]
         },
         {
-          "title": "Late Night",
+          "title": "Bars with Jeremi",
           "activities": [
             {
-              "name": "P.M. Sounds",
-              "mapLink": "https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi",
-              "description": "Vinyl bar, Kiyamachi. Near hotel",
+              "name": "L'Escamoteur",
+              "mapLink": "https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto",
+              "description": "⭐ ideal \"showing a friend Kyoto\" bar. Pontocho speakeasy with magician-bartender. Atmospheric, dramatic cocktails, unique act",
               "priority": false,
               "reservationRequired": false
             },
             {
-              "name": "L'Escamoteur",
-              "mapLink": "https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto",
-              "description": "Pontocho speakeasy, magician-bartender. If you haven't been yet",
+              "name": "P.M. Sounds",
+              "mapLink": "https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi",
+              "description": "Vinyl bar wind-down. Kiyamachi, near hotel",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Hello Dolly",
+              "mapLink": "https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto",
+              "description": "Pontocho jazz. Sunday live music status varies — check the night-of schedule",
               "priority": false,
               "reservationRequired": false
             }

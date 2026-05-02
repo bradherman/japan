@@ -493,18 +493,19 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 1. **[Kakinoha-zushi](https://maps.google.com/?q=persimmon+leaf+sushi+Nara)** (persimmon leaf-wrapped sushi) — PRIORITY. Nara specialty. ~1,000-1,500 yen. A must-try.
 2. Local soba in Naramachi — Wander and discover.
 
-### Late Afternoon — Fushimi Sake (compressed, ~4:00-5:00 PM)
-*Stop on the way back from Nara, but tighter today: 6 PM foot massage at Foot Therapy Shijo means we can't linger.*
-- 3:30 PM Train Nara → Inari (JR Nara Line, ~30 min, ~410 yen). Walk south ~10-15 min from Inari Station into the sake brewing district along Bunkacho-dori.
-- **[Fushimi Sake District](https://maps.google.com/?q=Fushimi+Sake+District+Kyoto)** — 4:00-5:00 PM. **Compressed to 1 hr** — pick ONE tasting room and do a smaller 5-8 sake flight (skip the full 18). **Gekkeikan Okura Sake Museum** is the foreigner-friendliest, English signage, ~¥600-1,000 for a tasting flight.
-- **5:00 PM** — Train back to Kyoto Station, ~10-15 min. Hotel by 5:30. Drop bags, freshen up by 5:55.
+### Saturday Actuals (replaces planned afternoon)
+- ✅ Sake near hotel (skipped Fushimi sake district trip)
+- ✅ Eel + spicy ramen — covered the dinner plan
+- ✅ Foot Therapy Shijo massage
+- ✅ **Bought Kuoe watch** — watch hunt in Kyoto = DONE. Osaka secondhand (HOUBIDOU Shinsaibashi) → Grand Seiko Boutique only if needed.
+- ✅ **Bought JIKKO knife** — knife shopping = DONE.
+- ~~Nara~~ — **SKIPPED.** Foot day, already ate, tomorrow with Jeremi is the priority. Save Nara for another Japan trip.
+- ~~Fushimi Sake District~~ — Drank sake near hotel instead.
+- ~~Philosopher's Path / Nanzen-ji~~ — Skipped this trip.
 
-### Foot Massage (6:00-6:40 PM) ⚠️ BOOKED
-- **[Foot Therapy Shijo](https://maps.google.com/?q=Foot+Therapy+Shijo+Kyoto)** — right next to hotel. 40-min foot massages booked for both Brad + Alyona at 6:00 PM.
-
-### Drops — Save for Sunday or skip
-- ~~Philosopher's Path~~ — Drop today; can flex into Sunday morning before Camellia tea ceremony.
-- ~~Nanzen-ji~~ — Drop today.
+### Tonight (~8:00 PM onward) — Chill drink, early sleep
+- Optional: **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** (Pontocho speakeasy with magician-bartender) or **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** vinyl bar (Kiyamachi) for a slow nightcap. Walking distance.
+- Sleep earlier — Sunday is loaded with Camellia, Akoya Jaya, haori, Six Shadows, then drinks with Jeremi.
 
 ### Dinner (~7:00 PM) — Unagi
 1. **[Kyogoku Kaneyo](https://maps.google.com/?q=Kyogoku+Kaneyo+Kyoto)** — PRIORITY. Unagi (eel) — ~2,000-4,000 yen — Kinshi-don: eel over rice topped with thin egg omelet. Ritz-Carlton recommended. Closed Tue night/Wed. Open Fri.
@@ -577,13 +578,15 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - **[Kitano Tenmangu Shrine](https://maps.google.com/?q=Kitano+Tenmangu+Shrine+Kyoto)** — 6:00-7:00 PM. Walk the festival grounds + garden ("Beyond Time, A Garden in Full Bloom"). The shrine itself is gorgeous — plum trees, orange torii, history dating to 947. **Venue closes when the 7 PM show ends, so this hour is your only chance to wander.**
 - **[KYOTO NIPPON FESTIVAL — Immersive Theater "The Six Shadows" / Hana-yoi no Ochakai](https://maps.google.com/?q=Kitano+Tenmangu+Fugetsuden+Kyoto)** — **✅ BOOKED 7:00-8:10 PM (≈70 min).** Mika Ninagawa with EiM and dance company DAZZLE present an immersive theater piece in Fugetsu-den hall.
 
-### Late Dinner (~8:45 PM)
-1. **Pontocho walk-in** — Take taxi/subway back from Kitano Tenmangu (~25 min). Browse the narrow alley, pick a spot with seats. Many open until 11 PM.
-2. **[Hikiniku to Come](https://maps.google.com/?q=Hikiniku+to+Come+Kyoto)** — Backup if open late. Charcoal hamburger patties with rice, ~1,500-2,000 yen. Walk-in. Note: typical LO 8:30 PM — likely too late tonight, save for another flex slot.
+### Late Dinner with Jeremi (~8:45-10:00 PM)
+*Jeremi in town — meet for late dinner at Pontocho.*
+- **Pontocho walk-in** — Take taxi/subway back from Kitano Tenmangu (~25 min). Browse the narrow alley, pick a spot with seats — kawayuka river-terrace seating may be open in May. Many spots open until 11 PM.
 
-### Late Night
-- **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar, Kiyamachi. Near hotel.
-- **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** — Pontocho speakeasy, magician-bartender. If you haven't been yet.
+### Bars with Jeremi (~10:00 PM-late)
+- **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** — ⭐ ideal "showing a friend Kyoto" bar. Pontocho speakeasy with magician-bartender. Atmospheric, dramatic cocktails, unique act.
+- **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar wind-down. Kiyamachi, near hotel.
+- **[Hello Dolly](https://maps.google.com/?q=Hello+Dolly+Pontocho+Kyoto)** — Pontocho jazz. Sunday live music status varies — check the night-of schedule.
+- *Pace: L'Escamoteur first (atmosphere) → P.M. Sounds or Hello Dolly second. Or just settle into one good bar with Jeremi.*
 
 ### Logistics
 - **Constitution Memorial Day closures:** Many family-run spots closed May 3-6.
