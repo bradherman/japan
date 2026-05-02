@@ -1436,8 +1436,51 @@
           "activities": []
         },
         {
-          "title": "Tonight",
-          "activities": []
+          "title": "Dinner Tonight",
+          "subtitle": "Heavy lunch at 2 PM. Last contemplative Kyoto night before Jeremi tomorrow. Drop unagi — already had eel today.",
+          "activities": [
+            {
+              "name": "Pontocho Fujita",
+              "mapLink": "https://maps.google.com/?q=Pontocho+Fujita+Kyoto",
+              "priority": true,
+              "reservationRequired": false
+            },
+            {
+              "name": "Hiyoko Sushi",
+              "mapLink": "https://maps.google.com/?q=Hiyoko+Sushi+Kyoto",
+              "description": "10-piece omakase from. Locals' value Light; refreshing",
+              "priority": true,
+              "reservationRequired": false,
+              "backup": true,
+              "price": "¥2,000"
+            },
+            {
+              "name": "Pontocho walk-in izakaya",
+              "description": "Graze small plates, atmospheric. Most flexible if you want to control volume",
+              "priority": false,
+              "reservationRequired": false,
+              "backup": true
+            }
+          ]
+        },
+        {
+          "title": "Late Night",
+          "activities": [
+            {
+              "name": "L'Escamoteur",
+              "mapLink": "https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto",
+              "description": "Pontocho speakeasy with magician-bartender. Atmospheric. Save the same bar for Jeremi tomorrow if you want to show him fresh",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "P.M. Sounds",
+              "mapLink": "https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi",
+              "description": "Vinyl bar, Kiyamachi, near hotel. Less spectacle, more wind-down",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
         },
         {
           "title": "Dinner",

@@ -495,17 +495,25 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ### Saturday Actuals (replaces planned afternoon)
 - ✅ Sake near hotel (skipped Fushimi sake district trip)
-- ✅ Eel + spicy ramen — covered the dinner plan
+- ✅ Eel + spicy ramen for **late lunch (~2 PM)**
 - ✅ Foot Therapy Shijo massage
 - ✅ **Bought Kuoe watch** — watch hunt in Kyoto = DONE. Osaka secondhand (HOUBIDOU Shinsaibashi) → Grand Seiko Boutique only if needed.
 - ✅ **Bought JIKKO knife** — knife shopping = DONE.
-- ~~Nara~~ — **SKIPPED.** Foot day, already ate, tomorrow with Jeremi is the priority. Save Nara for another Japan trip.
+- ~~Nara~~ — **SKIPPED.** Foot day, tomorrow with Jeremi is the priority. Save Nara for another Japan trip.
 - ~~Fushimi Sake District~~ — Drank sake near hotel instead.
 - ~~Philosopher's Path / Nanzen-ji~~ — Skipped this trip.
 
-### Tonight (~8:00 PM onward) — Chill drink, early sleep
-- Optional: **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** (Pontocho speakeasy with magician-bartender) or **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** vinyl bar (Kiyamachi) for a slow nightcap. Walking distance.
-- Sleep earlier — Sunday is loaded with Camellia, Akoya Jaya, haori, Six Shadows, then drinks with Jeremi.
+### Dinner Tonight (~8:00 PM) — Light + Atmospheric
+*Heavy lunch at 2 PM. Last contemplative Kyoto night before Jeremi tomorrow. Drop unagi — already had eel today.*
+1. **[Pontocho Fujita](https://maps.google.com/?q=Pontocho+Fujita+Kyoto)** ⭐ PRIORITY. Pontocho kaiseki, possible **kawayuka river-terrace** seating (May = kawayuka season opens). ~¥5,000-8,000/pp. Light multi-course, works perfectly after the heavy lunch.
+2. **[Hiyoko Sushi](https://maps.google.com/?q=Hiyoko+Sushi+Kyoto)** — 10-piece omakase from ~¥2,000. Locals' value pick. Light + refreshing.
+3. **Pontocho walk-in izakaya** — graze small plates, atmospheric. Most flexible if you want to control volume.
+- ~~Kyogoku Kaneyo unagi~~ — DROPPED, already had eel.
+
+### Late Night (~9:30 PM onward) — Chill drink
+- **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** — Pontocho speakeasy with magician-bartender. Atmospheric. *Save the same bar for Jeremi tomorrow if you want to show him fresh.*
+- **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar, Kiyamachi, near hotel. Less spectacle, more wind-down.
+- Sleep earlier — Sunday is loaded.
 
 ### Dinner (~7:00 PM) — Unagi
 1. **[Kyogoku Kaneyo](https://maps.google.com/?q=Kyogoku+Kaneyo+Kyoto)** — PRIORITY. Unagi (eel) — ~2,000-4,000 yen — Kinshi-don: eel over rice topped with thin egg omelet. Ritz-Carlton recommended. Closed Tue night/Wed. Open Fri.
