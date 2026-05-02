@@ -503,16 +503,34 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 - ~~Fushimi Sake District~~ — Drank sake near hotel instead.
 - ~~Philosopher's Path / Nanzen-ji~~ — Skipped this trip.
 
-### Dinner Tonight (~8:00 PM) — Light + Atmospheric
-*Heavy lunch at 2 PM. Last contemplative Kyoto night before Jeremi tomorrow. Drop unagi — already had eel today.*
-1. **[Pontocho Fujita](https://maps.google.com/?q=Pontocho+Fujita+Kyoto)** ⭐ PRIORITY. Pontocho kaiseki, possible **kawayuka river-terrace** seating (May = kawayuka season opens). ~¥5,000-8,000/pp. Light multi-course, works perfectly after the heavy lunch.
-2. **[Hiyoko Sushi](https://maps.google.com/?q=Hiyoko+Sushi+Kyoto)** — 10-piece omakase from ~¥2,000. Locals' value pick. Light + refreshing.
-3. **Pontocho walk-in izakaya** — graze small plates, atmospheric. Most flexible if you want to control volume.
+### Tonight: Nara Dinner Trip (Primary Plan)
+*Pivots the Nara skip: do a half-evening Nara visit + dinner there + Naramachi twilight stroll. Skips Todai-ji interior (closes 5:30 PM). Solves "we never made it to Nara" without committing a full day.*
+
+**Timing — leave by 4:30 PM:**
+- 4:30 Kintetsu Limited Express Kyoto → Kintetsu-Nara (~35 min, ¥1,490)
+- 5:05 arrive Nara
+- 5:15-6:00 **Nara Park deer at twilight** + Todai-ji exterior (the gate + grounds are still beautiful even with hall closed)
+- 6:00-7:00 **Dinner — Tanaka Honten "Kakinoha Chaya"** ⭐ kakinoha-zushi (persimmon-leaf sushi) — Nara's signature dish. Right by Kintetsu-Nara Station. **Open till 7 PM — must be seated by 6:30 PM.** ¥2,000-3,500/pp.
+- 7:00-7:45 Walk through **Naramachi lantern-lit lanes** — atmospheric old merchant district
+- 7:45 Kintetsu Limited Express back to Kyoto
+- 8:20 Kyoto Stn → hotel
+- 9:00 P.M. Sounds vinyl bar nightcap or sleep
+
+### Nara Dinner Backups (in case Tanaka full or you want different)
+- **[Nara Hotel Main Dining](https://maps.google.com/?q=Nara+Hotel+Main+Dining+Nara)** — Historic Western-style restaurant since 1909 (Einstein dined here). Open dinner 5:30-9 PM, reservation recommended. Splurge tier ~¥10,000+/pp. 10-min walk or short cab from Kintetsu-Nara.
+- **Naramachi izakaya walk-in** — later evening grazing if Tanaka closes before you arrive. Most spots 5 PM-11 PM.
+- **[Tsukihitei](https://maps.google.com/?q=Tsukihitei+Nara)** — high-end kaiseki ryokan dining in the Kasuga forest. Reservation only. Splurge.
+
+### Kyoto Fallbacks (if you bail on Nara, eat in Kyoto instead)
+- **[Pontocho Fujita](https://maps.google.com/?q=Pontocho+Fujita+Kyoto)** — Pontocho kaiseki, possible **kawayuka river-terrace** (May = season opens). ~¥5,000-8,000/pp.
+- **[Hiyoko Sushi](https://maps.google.com/?q=Hiyoko+Sushi+Kyoto)** — 10-piece omakase from ¥2,000. Locals' value pick.
+- **Pontocho walk-in izakaya** — graze, atmospheric.
+- **Kyoto Station Eat Paradise (Isetan 11F)** — if you bail on Nara late and want fast-near-train. Multiple restaurants, open till 10-11 PM.
 - ~~Kyogoku Kaneyo unagi~~ — DROPPED, already had eel.
 
-### Late Night (~9:30 PM onward) — Chill drink
-- **[L'Escamoteur](https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto)** — Pontocho speakeasy with magician-bartender. Atmospheric. *Save the same bar for Jeremi tomorrow if you want to show him fresh.*
-- **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar, Kiyamachi, near hotel. Less spectacle, more wind-down.
+### Late Night (~9:00-10:00 PM onward) — Chill drink
+- **[P.M. Sounds](https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi)** — Vinyl bar, Kiyamachi, near hotel. Wind-down.
+- ~~L'Escamoteur~~ — **save for tomorrow with Jeremi** so he gets the magician-bartender experience fresh.
 - Sleep earlier — Sunday is loaded.
 
 ### Dinner (~7:00 PM) — Unagi

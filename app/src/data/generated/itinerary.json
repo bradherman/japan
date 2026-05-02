@@ -1436,30 +1436,66 @@
           "activities": []
         },
         {
-          "title": "Dinner Tonight",
-          "subtitle": "Heavy lunch at 2 PM. Last contemplative Kyoto night before Jeremi tomorrow. Drop unagi — already had eel today.",
+          "title": "Tonight: Nara Dinner Trip",
+          "subtitle": "Pivots the Nara skip: do a half-evening Nara visit + dinner there + Naramachi twilight stroll. Skips Todai-ji interior (closes 5:30 PM). Solves \"we never made it to Nara\" without committing a full day.",
+          "activities": []
+        },
+        {
+          "title": "Nara Dinner Backups",
+          "activities": [
+            {
+              "name": "Nara Hotel Main Dining",
+              "mapLink": "https://maps.google.com/?q=Nara+Hotel+Main+Dining+Nara",
+              "description": "Historic Western-style restaurant since 1909 (Einstein dined here). Open dinner 5:30-9 PM, reservation recommended. Splurge tier +. 10-min walk or short cab from Kintetsu-Nara",
+              "priority": false,
+              "reservationRequired": true,
+              "price": "¥10,000"
+            },
+            {
+              "name": "Naramachi izakaya walk-in",
+              "description": "Later evening grazing if Tanaka closes before you arrive. Most spots 5 PM-11 PM",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Tsukihitei",
+              "mapLink": "https://maps.google.com/?q=Tsukihitei+Nara",
+              "description": "High-end kaiseki ryokan dining in the Kasuga forest. Reservation only. Splurge",
+              "priority": false,
+              "reservationRequired": true
+            }
+          ]
+        },
+        {
+          "title": "Kyoto Fallbacks",
           "activities": [
             {
               "name": "Pontocho Fujita",
               "mapLink": "https://maps.google.com/?q=Pontocho+Fujita+Kyoto",
-              "priority": true,
-              "reservationRequired": false
+              "description": "Pontocho kaiseki, possible kawayuka river-terrace (May = season opens)",
+              "priority": false,
+              "reservationRequired": false,
+              "price": "¥5,000-8,000"
             },
             {
               "name": "Hiyoko Sushi",
               "mapLink": "https://maps.google.com/?q=Hiyoko+Sushi+Kyoto",
-              "description": "10-piece omakase from. Locals' value Light; refreshing",
+              "description": "10-piece omakase from. Locals' value",
               "priority": true,
               "reservationRequired": false,
-              "backup": true,
               "price": "¥2,000"
             },
             {
               "name": "Pontocho walk-in izakaya",
-              "description": "Graze small plates, atmospheric. Most flexible if you want to control volume",
+              "description": "Graze, atmospheric",
               "priority": false,
-              "reservationRequired": false,
-              "backup": true
+              "reservationRequired": false
+            },
+            {
+              "name": "Kyoto Station Eat Paradise (Isetan 11F)",
+              "description": "If you bail on Nara late and want fast-near-train. Multiple restaurants, open till 10-11 PM",
+              "priority": false,
+              "reservationRequired": false
             }
           ]
         },
@@ -1467,16 +1503,9 @@
           "title": "Late Night",
           "activities": [
             {
-              "name": "L'Escamoteur",
-              "mapLink": "https://maps.google.com/?q=L'Escamoteur+Pontocho+Kyoto",
-              "description": "Pontocho speakeasy with magician-bartender. Atmospheric. Save the same bar for Jeremi tomorrow if you want to show him fresh",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
               "name": "P.M. Sounds",
               "mapLink": "https://maps.google.com/?q=PM+Sounds+Kyoto+Kiyamachi",
-              "description": "Vinyl bar, Kiyamachi, near hotel. Less spectacle, more wind-down",
+              "description": "Vinyl bar, Kiyamachi, near hotel. Wind-down",
               "priority": false,
               "reservationRequired": false
             }
