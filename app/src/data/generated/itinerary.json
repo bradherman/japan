@@ -1723,7 +1723,7 @@
       "title": "Monday, May 4 — Kyoto to Osaka — Greenery Day — Dotonbori / Shinsekai",
       "city": "Osaka",
       "subtitle": "Travel to Osaka (~55 min). Afternoon exploring. Nakanoshima Festival starts today.",
-      "summary": "Kyoto to Osaka on the Hankyu Line — under an hour, completely different energy. Osaka is louder, wilder, more neon. Lunch is okonomiyaki at a Dotonbori institution since 1945, then Shinsekai for retro alley vibes and kushikatsu (don't double-dip). Tower Knives for the knife nerds. Evening is the Nakanoshima Festival — a free handmade amusement park on an island — and Dotonbori lit up like Times Square on steroids.",
+      "summary": "Kyoto to Osaka on the Hankyu Line — under an hour, completely different energy. Osaka is louder, wilder, more neon. Lunch is okonomiyaki at a Dotonbori institution since 1945, then Shinsekai for retro alley vibes and kushikatsu (don't double-dip). Alyona's head spa at 5:50 PM, Brad explores nearby. Evening is the Nakanoshima Festival — a free handmade amusement park on an island — and Dotonbori lit up like Times Square on steroids.",
       "morningCoffee": {
         "kind": "coffee",
         "name": "Hotel breakfast / quick coffee in the room. Saving Ippodo for after the Hikiniku ticket run."
@@ -1824,21 +1824,25 @@
               "price": "¥1,500-3,000"
             },
             {
-              "name": "Tower Knives Osaka",
-              "mapLink": "https://maps.google.com/?q=Tower+Knives+Osaka+Tsutenkaku",
-              "description": "Knife gallery. Free 10-min care lesson with purchase. Name engraving",
-              "priority": false,
-              "reservationRequired": false,
-              "price": "¥500"
-            },
-            {
               "name": "Uncle Rikuro Namba",
               "mapLink": "https://maps.google.com/?q=Rikuro+Ojisan+Namba+Osaka",
-              "description": "Famous Osaka jiggly soufflé cheesecake. Whole 6-inch cake fresh-baked every, only sold in Osaka. Light, airy, lightly sweet with raisins at the bottom. Namba HQ store has a viewing window where you can watch them being baked. Walking distance from Cross Hotel. Brad's been wanting one — up to share back at hotel or eat warm at the cafe upstairs",
+              "description": "Famous Osaka jiggly soufflé cheesecake. Whole 6-inch cake fresh-baked every, only sold in Osaka. Light, airy, lightly sweet with raisins at the bottom. Namba HQ store has a viewing window. Walking distance from Cross Hotel",
               "duration": "30 min",
-              "priority": true,
+              "priority": false,
               "reservationRequired": false,
               "price": "¥865,"
+            }
+          ]
+        },
+        {
+          "title": "Alyona's Head Spa",
+          "activities": [
+            {
+              "name": "Kuu Head Spa",
+              "mapLink": "https://maps.google.com/?q=Kuu+Head+Spa+Osaka",
+              "description": "Alyona's appointment 5:50 PM. Brad: explore the surrounding neighborhood while she's in — coffee, walk, browse. Plan to meet her after (~7:00-7:30 PM depending on treatment length)",
+              "priority": false,
+              "reservationRequired": false
             }
           ]
         },
@@ -1951,18 +1955,18 @@
           "title": "Afternoon",
           "activities": [
             {
-              "name": "Grand Seiko Boutique Osaka Shinsaibashi",
-              "mapLink": "https://maps.google.com/?q=Grand+Seiko+Boutique+Osaka+Shinsaibashi+4-3-11+Minamisenba",
-              "description": "For NEW pieces. 4-amisenba, Osaka Toyota Building 1F. The Seiko; Grand Seiko combined floor here is the world's largest Seiko store (333+ m²). Tax-free with passport. ~45 min",
-              "duration": "3-11 Min",
-              "priority": true,
+              "name": "HOUBIDOU Shinsaibashi",
+              "mapLink": "https://maps.google.com/?q=HOUBIDOU+2-2-17+Shinsaibashisuji+Osaka",
+              "description": "Used Grand Seiko hunt. 2-2-17 Shinsaibashisuji, Chuo-ku. 818 watches on Chrono24 (massive inventory of secondhand GS). Also operates as HOUBIDOU x Bluek Watch Company. Tax-free with passport. Brad's strategy: used first — if he strikes gold here, done",
+              "priority": false,
               "reservationRequired": false
             },
             {
-              "name": "HOUBIDOU Shinsaibashi",
-              "mapLink": "https://maps.google.com/?q=HOUBIDOU+2-2-17+Shinsaibashisuji+Osaka",
-              "description": "For USED Grand Seiko. 2-2-17 Shinsaibashisuji, Chuo-ku. ~3-min walk from Grand Seiko Boutique. 818 watches on Chrono24 (massive inventory of secondhand GS). Also operates as HOUBIDOU x Bluek Watch Company. Tax-free with passport. ⚠️ One Watchuseek review noted limited price negotiation flexibility — go in with set expectations. Verify hours at door (Shinsaibashi shops typically 10/11am-8pm)",
-              "priority": true,
+              "name": "Grand Seiko Boutique Osaka Shinsaibashi",
+              "mapLink": "https://maps.google.com/?q=Grand+Seiko+Boutique+Osaka+Shinsaibashi+4-3-11+Minamisenba",
+              "description": "BACKUP if HOUBIDOU strikes out, then buy NEW. 4-amisenba, Osaka Toyota Building 1F. World's largest Seiko store (333+ m²). 3-min walk from HOUBIDOU. Tax-free with passport",
+              "duration": "3-11 Min",
+              "priority": false,
               "reservationRequired": false
             },
             {

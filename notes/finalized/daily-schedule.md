@@ -382,29 +382,24 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 ~1:00 PM   Hankyu Kyoto Line → Osaka-Umeda (43 min, ¥410)
 ~1:45      Umeda — transfer to Midosuji Line south to Namba (10 min, ¥240)
 ~2:00      Walk 4 min to Cross Hotel Osaka
-~2:00-2:30 Check in, drop bags
+~2:00-2:30 Check in at Cross Hotel, drop bags
 
-           AFTERNOON OSAKA — flex from here:
+           AFTERNOON OSAKA:
 2:30-3:00  Walk to Dotonbori area
-3:00-4:00  Late lunch / snack: Mizuno okonomiyaki (~30-45 min GW queue) OR Ajinoya
-           (B) Ajinoya — Bib Gourmand, less tourist-heavy
-1:15-1:30  Walk back to hotel / freshen up
-1:30-2:00  Lilo Coffee Roasters (walking distance, open til 11pm)
-2:00-2:15  Subway Namba → Dobutsuen-mae (5 min) for Shinsekai
-2:15-3:00  Explore Shinsekai — retro neon neighborhood
-3:00-3:45  Yaekatsu kushikatsu (est. 1949) — don't double-dip! (~1,500-3,000 yen)
-3:45-4:15  Tower Knives Osaka — knife gallery, free care lesson, name engraving
-4:15-4:30  Subway back to Namba
-4:30-6:30  Free time — rest, Dotonbori daytime stroll, browse shops
-6:30-7:00  Subway to Kushikatsu Kei (~15 min)
-7:00-8:00  Dinner — kushikatsu in renovated 80-year-old house, "phantom sauce"
-           (B) Yaekatsu again if you loved it and want more
-8:00-8:30  Return to Namba area
-8:30-10:00 Nakanoshima Festival — free! Handmade amusement park, food stalls
-           Walk Nakanoshima riverside (beautiful lit up at night)
-10:00-10:15 Walk/subway back to hotel
-10:15      Dotonbori night stroll — neon canal, Glico Running Man sign
-11:00      Hotel
+3:00-4:00  Late lunch / snack: Mizuno okonomiyaki (~30-45 min GW queue) OR Ajinoya (Bib Gourmand backup)
+4:00-4:15  Subway Namba → Dobutsuen-mae (5 min) for Shinsekai
+4:15-5:00  Explore Shinsekai — retro neon neighborhood + Yaekatsu kushikatsu (est. 1949) light snack ~¥1,500
+           ❌ Tower Knives Osaka — DROPPED (JIKKO knife already bought in Kyoto)
+5:00-5:30  Subway back to Namba area, walk to Kuu Head Spa
+5:50-7:00 ⚠️ KUU HEAD SPA — Alyona's appointment ⚠️ BOOKED
+           Brad: explore the Kuu neighborhood — coffee, walk, browse — meet Alyona ~7:00-7:30 after treatment
+
+7:30-8:30  Dinner — Kushikatsu Kei (renovated 80-yr-old house, "phantom sauce")
+           (B) Yaekatsu if you didn't try in Shinsekai
+8:30-9:00  Walk/subway to Nakanoshima
+9:00-10:00 Nakanoshima Festival — free! Handmade amusement park, food stalls. Riverside lit up at night.
+10:00-10:30 Walk back via Dotonbori — neon canal, Glico Running Man sign
+10:30      Hotel
 ```
 
 ---
@@ -423,17 +418,16 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 11:45-12:00 Subway Tenjinbashi → Tanimachi-4-chome (10 min)
 12:00-1:30  Osaka Castle — grounds, moat, castle tower (elevator, no stairs for Brad). ~600 yen
 1:30-2:00  Subway back to Namba area
-2:00-2:45 ⚠️ Grand Seiko Boutique Osaka Shinsaibashi — 4-3-11 Minamisenba. World's LARGEST Seiko/GS store (333+ m²). Tax-free with passport. PRIORITY if Houseki Hiroba (Apr 29) didn't have the piece.
-2:45-3:30  Shinsaibashi Shopping Arcade — Onitsuka Tiger flagship (covers what we skipped Tokyo), Don Quijote, browse 180 stores
-           (B) Skip Shinsaibashi → Nakanoshima Festival Day 2, or Momotaro Jeans Osaka (Horie)
-3:30-4:00  Takamura Wine & Coffee Roasters (opens 11am — afternoon visit)
-4:00-4:30  Wrap up shopping/exploring
+2:00-3:00 ⭐ HOUBIDOU SHINSAIBASHI — used Grand Seiko first. 2-2-17 Shinsaibashisuji. 818 watches on Chrono24.
+3:00-3:45  Grand Seiko Boutique Osaka Shinsaibashi (BACKUP if HOUBIDOU strikes out → buy NEW). 4-3-11 Minamisenba. World's largest Seiko/GS store. ~3 min walk from HOUBIDOU.
+3:45-4:30  Shinsaibashi Shopping Arcade — Onitsuka Tiger flagship, Don Quijote
 4:30-4:45  Subway Namba → Temma area (JR or metro, ~15 min)
 4:45-5:00  Find Shoyu-Ramen Sodaisho (Temma, baseball-themed)
-5:00-5:30  Eat chicken-clam shoyu ramen (~1,000 yen)
+5:00-5:30  Eat chicken-clam shoyu ramen (~1,000 yen) — quick early dinner before concert
            (B) Chukasoba Kazura (Awaza) — "mousse-like" broth
-5:30-6:00  Walk/subway Temma → Nishi-Umeda (~10 min)
-6:00-6:30  Arrive Billboard Live Osaka (Herbis Plaza ENT) — get seated, order drinks
+5:30-5:45  Subway Temma → Umeda
+5:45-6:30  Snow Peak LUCUA Ihre — Brad's stretch/comfort pant pick (Japanese DUER analogue, 1 min from Osaka Stn, next door to Billboard Live)
+6:30-7:00  Walk to Billboard Live Osaka (Herbis Plaza ENT) — get seated, order drinks
 7:00-9:00  🎵 CASIOPEA at Billboard Live Osaka ⚠️ TICKETS PURCHASED
 9:00-9:30  Walk to Shinsaibashi or Nakanoshima night stroll (lit up riverside)
 9:30-10:30 Bible Club Osaka — speakeasy nightcap (optional, walking distance from hotel)

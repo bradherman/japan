@@ -609,8 +609,9 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 > Kyoto to Osaka on the Hankyu Line — under an hour, completely different energy. Osaka is louder, wilder,
 > more neon. Lunch is okonomiyaki at a Dotonbori institution since 1945, then Shinsekai for retro alley
-> vibes and kushikatsu (don't double-dip). Tower Knives for the knife nerds. Evening is the Nakanoshima
-> Festival — a free handmade amusement park on an island — and Dotonbori lit up like Times Square on steroids.
+> vibes and kushikatsu (don't double-dip). Alyona's head spa at 5:50 PM, Brad explores nearby. Evening is
+> the Nakanoshima Festival — a free handmade amusement park on an island — and Dotonbori lit up like
+> Times Square on steroids.
 
 **Morning Coffee:** Hotel breakfast / quick coffee in the room. Saving Ippodo for after the Hikiniku ticket run.
 
@@ -647,11 +648,14 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 1. **[Mizuno](https://maps.google.com/?q=Mizuno+okonomiyaki+Dotonbori+Osaka)** — PICK. Dotonbori institution since 1945 — ~1,000-2,000 yen — Mountain yam batter, incredibly fluffy. Walking distance from hotel. *LINE UP: Arrive by 12:30pm. Expect 30-45 min GW wait.*
 2. **[Ajinoya](https://maps.google.com/?q=Ajinoya+okonomiyaki+Namba+Osaka)** — Bib Gourmand, Namba — ~1,000-2,000 yen — Backup. More authentic, less tourist-heavy.
 
-### Afternoon — Shinsekai (~3:00-5:30 PM)
+### Afternoon — Shinsekai (~3:00-5:15 PM)
 - **[Shinsekai](https://maps.google.com/?q=Shinsekai+Osaka)** — Retro 1912 neighborhood. Neon, dive bars.
 - **[Yaekatsu](https://maps.google.com/?q=Yaekatsu+kushikatsu+Shinsekai+Osaka)** — Kushikatsu est. 1949. ~1,500-3,000 yen. *Don't double-dip!*
-- **[Tower Knives Osaka](https://maps.google.com/?q=Tower+Knives+Osaka+Tsutenkaku)** — Knife gallery. Free 10-min care lesson with purchase. Name engraving 500 yen.
-- **[Uncle Rikuro Namba](https://maps.google.com/?q=Rikuro+Ojisan+Namba+Osaka)** — **Famous Osaka jiggly soufflé cheesecake.** Whole 6-inch cake ¥865, fresh-baked every 30 min, only sold in Osaka. Light, airy, lightly sweet with raisins at the bottom. Namba HQ store has a viewing window where you can watch them being baked. Walking distance from Cross Hotel. *Brad's been wanting one — pick up to share back at hotel or eat warm at the cafe upstairs.*
+- ~~Tower Knives Osaka~~ — **DROPPED.** JIKKO knife already bought in Kyoto.
+- **[Uncle Rikuro Namba](https://maps.google.com/?q=Rikuro+Ojisan+Namba+Osaka)** — **Famous Osaka jiggly soufflé cheesecake.** Whole 6-inch cake ¥865, fresh-baked every 30 min, only sold in Osaka. Light, airy, lightly sweet with raisins at the bottom. Namba HQ store has a viewing window. Walking distance from Cross Hotel.
+
+### Alyona's Head Spa (~5:50 PM) ⚠️ BOOKED
+- **[Kuu Head Spa](https://maps.google.com/?q=Kuu+Head+Spa+Osaka)** — Alyona's appointment 5:50 PM. *Brad: explore the surrounding neighborhood while she's in — coffee, walk, browse. Plan to meet her after (~7:00-7:30 PM depending on treatment length).*
 
 ### Dinner (~7:30 PM) — Kushikatsu
 1. **[Kushikatsu Kei](https://maps.google.com/?q=Kushikatsu+Kei+Osaka)** — PICK. Renovated 80-year-old house — ~2,000-4,000 yen — "Phantom sauce" with chicken broth. Beautiful setting.
@@ -689,8 +693,8 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 ### Lunch (~12:30 PM) — Sushi (at Harukoma, see above)
 
 ### Afternoon (~2:30-5:30 PM)
-- **[Grand Seiko Boutique Osaka Shinsaibashi](https://maps.google.com/?q=Grand+Seiko+Boutique+Osaka+Shinsaibashi+4-3-11+Minamisenba)** — **PRIORITY for NEW pieces.** 4-3-11 Minamisenba, Osaka Toyota Building 1F. The Seiko + Grand Seiko combined floor here is the **world's largest Seiko store** (333+ m²). Tax-free with passport. Allow ~45 min.
-- **[HOUBIDOU Shinsaibashi](https://maps.google.com/?q=HOUBIDOU+2-2-17+Shinsaibashisuji+Osaka)** — **PRIORITY for USED Grand Seiko.** 2-2-17 Shinsaibashisuji, Chuo-ku. ~3-min walk from Grand Seiko Boutique. **818 watches on Chrono24** (massive inventory of secondhand GS). Also operates as HOUBIDOU x Bluek Watch Company. Tax-free with passport. *⚠️ One Watchuseek review noted limited price negotiation flexibility — go in with set expectations. Verify hours at door (Shinsaibashi shops typically 10/11am-8pm).*
+- **[HOUBIDOU Shinsaibashi](https://maps.google.com/?q=HOUBIDOU+2-2-17+Shinsaibashisuji+Osaka)** ⭐ **HIT FIRST — used Grand Seiko hunt.** 2-2-17 Shinsaibashisuji, Chuo-ku. **818 watches on Chrono24** (massive inventory of secondhand GS). Also operates as HOUBIDOU x Bluek Watch Company. Tax-free with passport. *Brad's strategy: used first — if he strikes gold here, done.*
+- **[Grand Seiko Boutique Osaka Shinsaibashi](https://maps.google.com/?q=Grand+Seiko+Boutique+Osaka+Shinsaibashi+4-3-11+Minamisenba)** — **BACKUP if HOUBIDOU strikes out, then buy NEW.** 4-3-11 Minamisenba, Osaka Toyota Building 1F. **World's largest Seiko store** (333+ m²). 3-min walk from HOUBIDOU. Tax-free with passport.
 - **[Nakanoshima Festival](https://maps.google.com/?q=Nakanoshima+Park+Osaka)** — Day 2 if you didn't do it last night. Free! Also walk the beautiful **[Nakanoshima riverside](https://maps.google.com/?q=Nakanoshima+Island+Osaka)** — especially lovely lit up.
 - **[Shinsaibashi Shopping Arcade](https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka)** — 180 stores. **Onitsuka Tiger flagship**, Don Quijote. Tax-free with passport. *(Brad: Onitsuka Tiger here covers what we skipped in Tokyo.)*
 - ~~**Momotaro Jeans Osaka (Horie)**~~ — **DROPPED.** Heritage raw selvedge ethos = opposite of what Brad wants (stretch, gusset, comfort, fun dyes). Buying DUER at home + Snow Peak LUCUA in Umeda May 5 instead.
