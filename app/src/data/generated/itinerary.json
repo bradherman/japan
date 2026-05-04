@@ -1723,7 +1723,7 @@
       "title": "Monday, May 4 — Kyoto to Osaka — Greenery Day — Dotonbori / Shinsekai",
       "city": "Osaka",
       "subtitle": "Travel to Osaka (~55 min). Afternoon exploring. Nakanoshima Festival starts today.",
-      "summary": "Kyoto to Osaka on the Hankyu Line — under an hour, completely different energy. Osaka is louder, wilder, more neon. Lunch is okonomiyaki at a Dotonbori institution since 1945, then Shinsekai for retro alley vibes and kushikatsu (don't double-dip). Alyona's head spa at 5:50 PM, Brad explores nearby. Evening is the Nakanoshima Festival — a free handmade amusement park on an island — and Dotonbori lit up like Times Square on steroids.",
+      "summary": "Kyoto to Osaka on the Hankyu Line — under an hour, completely different energy. Osaka is louder, wilder, more neon. Hikiniku covered lunch in Kyoto, so the Osaka afternoon is hotel rest then a Flower Mountain Umeda run for Brad's shoes before Alyona's 5:50 Kuu head spa. Brad does the Umeda watches/vinyl/jazz wait while she's in. Dinner is the big Osaka crawl: Mizuno okonomiyaki → Wanaka takoyaki → horumon-yaki organ skewers in Dotonbori/Namba.",
       "morningCoffee": {
         "kind": "coffee",
         "name": "Hotel breakfast / quick coffee in the room. Saving Ippodo for after the Hikiniku ticket run."
@@ -1783,56 +1783,13 @@
           ]
         },
         {
-          "title": "Lunch",
-          "activities": [
-            {
-              "name": "Mizuno",
-              "mapLink": "https://maps.google.com/?q=Mizuno+okonomiyaki+Dotonbori+Osaka",
-              "description": "Dotonbori institution since 1945 — Mountain yam batter, incredibly fluffy. Walking distance from hotel. Expect 30-45 min GW wait",
-              "priority": true,
-              "reservationRequired": false,
-              "lineUpTip": "Arrive by 12:30pm. Expect 30-45 min GW wait.",
-              "price": "¥1,000-2,000"
-            },
-            {
-              "name": "Ajinoya",
-              "mapLink": "https://maps.google.com/?q=Ajinoya+okonomiyaki+Namba+Osaka",
-              "description": "Bib Gourmand, Namba — More authentic, less tourist-heavy",
-              "priority": false,
-              "reservationRequired": false,
-              "backup": true,
-              "price": "¥1,000-2,000"
-            }
-          ]
+          "title": "Lunch — Already covered",
+          "subtitle": "Mizuno saved for dinner tonight. Cross Hotel arrival ~3 PM, then rest before Umeda run.",
+          "activities": []
         },
         {
-          "title": "Afternoon — Shinsekai",
-          "activities": [
-            {
-              "name": "Shinsekai",
-              "mapLink": "https://maps.google.com/?q=Shinsekai+Osaka",
-              "description": "Retro 1912 neighborhood. Neon, dive bars",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Yaekatsu",
-              "mapLink": "https://maps.google.com/?q=Yaekatsu+kushikatsu+Shinsekai+Osaka",
-              "description": "Kushikatsu est. 1949. Don't double-dip!",
-              "priority": false,
-              "reservationRequired": false,
-              "price": "¥1,500-3,000"
-            },
-            {
-              "name": "Uncle Rikuro Namba",
-              "mapLink": "https://maps.google.com/?q=Rikuro+Ojisan+Namba+Osaka",
-              "description": "Famous Osaka jiggly soufflé cheesecake. Whole 6-inch cake fresh-baked every, only sold in Osaka. Light, airy, lightly sweet with raisins at the bottom. Namba HQ store has a viewing window. Walking distance from Cross Hotel",
-              "duration": "30 min",
-              "priority": false,
-              "reservationRequired": false,
-              "price": "¥865,"
-            }
-          ]
+          "title": "Afternoon",
+          "activities": []
         },
         {
           "title": "Alyona's Head Spa",
@@ -1840,7 +1797,33 @@
             {
               "name": "Kuu Head Spa",
               "mapLink": "https://maps.google.com/?q=Kuu+Head+Spa+Osaka",
-              "description": "Alyona's appointment 5:50 PM. Brad: explore the surrounding neighborhood while she's in — coffee, walk, browse. Plan to meet her after (~7:00-7:30 PM depending on treatment length)",
+              "description": "Alyona's 90-min appointment 5:50 PM (Umeda)",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Brad's Umeda wait (walking distance from Kuu):",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Komehyo Umeda",
+              "mapLink": "https://maps.google.com/?q=Komehyo+Umeda+Osaka",
+              "description": "Biggest pre-owned watch floor in Osaka, way more inventory than the Kyoto Shinkyogoku location. Closes 8 PM — go first",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Disk Union Umeda",
+              "mapLink": "https://maps.google.com/?q=Disk+Union+Umeda+Osaka",
+              "description": "Used vinyl, solid jazz section",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Mole & Hosoi Coffees",
+              "mapLink": "https://maps.google.com/?q=Mole+and+Hosoi+Coffees+Osaka",
+              "description": "Legendary jazz vinyl listening cafe, beer on the menu. End the wait here",
               "priority": false,
               "reservationRequired": false
             }
@@ -1850,20 +1833,24 @@
           "title": "Dinner",
           "activities": [
             {
-              "name": "Kushikatsu Kei",
-              "mapLink": "https://maps.google.com/?q=Kushikatsu+Kei+Osaka",
-              "description": "Renovated 80-year-old house — \"Phantom sauce\" with chicken broth. Beautiful setting",
-              "priority": true,
-              "reservationRequired": false,
-              "price": "¥2,000-4,000"
+              "name": "Mizuno",
+              "mapLink": "https://maps.google.com/?q=Mizuno+okonomiyaki+Dotonbori+Osaka",
+              "description": "Dotonbori okonomiyaki institution since 1945. Yamaimo-yaki signature, mountain-yam batter, incredibly fluffy. Verify line in Maps before walking",
+              "priority": false,
+              "reservationRequired": false
             },
             {
-              "name": "Yaekatsu",
-              "mapLink": "https://maps.google.com/?q=Yaekatsu+kushikatsu+Shinsekai+Osaka",
-              "description": "If you didn't eat there in the afternoon",
+              "name": "Takoyaki Wanaka Sennichimae",
+              "mapLink": "https://maps.google.com/?q=Takoyaki+Wanaka+Sennichimae+Osaka",
+              "description": "Original Sennichimae location (not the mall stalls). Open till 11 PM. Quick street stop",
               "priority": false,
-              "reservationRequired": false,
-              "backup": true
+              "reservationRequired": false
+            },
+            {
+              "name": "Horumon-yaki for organ skewers",
+              "description": "Charcoal-grilled beef/pork offal: liver (レバー), heart (ハツ), gizzard (砂肝), intestine (シロ), tongue (タン), skin (カワ). Lower confidence on specific shop names — search \"ホルモン焼き 難波\" in Maps and a 4.0+ spot open now. Yakitori alternative: Toridori Namba has the full offal lineup (kawa/skin, hatsu/heart, reba/liver, sunagimo/gizzard)",
+              "priority": true,
+              "reservationRequired": false
             }
           ]
         },
@@ -1928,13 +1915,6 @@
               "reservationRequired": false,
               "lineUpTip": "Arrive by 10:30-11:00am. Expect 30-60 min GW wait.",
               "price": "¥1,300-2,000"
-            },
-            {
-              "name": "Flower Mountain Tenjinbashi",
-              "mapLink": "https://maps.google.com/?q=Flower+Mountain+5-8-27+Tenjinbashi+Kita+Osaka",
-              "description": "MUST HIT. Same shopping arcade as Harukoma Sushi (5-8-27 Tenjinbashi). Brad's shoe stop. The Kyoto location was small/limited stock — this Osaka store has full lineup. Hit before or after sushi",
-              "priority": false,
-              "reservationRequired": false
             },
             {
               "name": "Osaka Castle",

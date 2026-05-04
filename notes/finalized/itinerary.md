@@ -608,10 +608,10 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 *Travel to Osaka (~55 min). Afternoon exploring. Nakanoshima Festival starts today.*
 
 > Kyoto to Osaka on the Hankyu Line — under an hour, completely different energy. Osaka is louder, wilder,
-> more neon. Lunch is okonomiyaki at a Dotonbori institution since 1945, then Shinsekai for retro alley
-> vibes and kushikatsu (don't double-dip). Alyona's head spa at 5:50 PM, Brad explores nearby. Evening is
-> the Nakanoshima Festival — a free handmade amusement park on an island — and Dotonbori lit up like
-> Times Square on steroids.
+> more neon. Hikiniku covered lunch in Kyoto, so the Osaka afternoon is hotel rest then a Flower Mountain
+> Umeda run for Brad's shoes before Alyona's 5:50 Kuu head spa. Brad does the Umeda watches/vinyl/jazz
+> wait while she's in. Dinner is the big Osaka crawl: Mizuno okonomiyaki → Wanaka takoyaki → horumon-yaki
+> organ skewers in Dotonbori/Namba.
 
 **Morning Coffee:** Hotel breakfast / quick coffee in the room. Saving Ippodo for after the Hikiniku ticket run.
 
@@ -644,22 +644,30 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Afternoon Coffee:** [Lilo Coffee Roasters](https://maps.google.com/?q=Lilo+Coffee+Roasters+Osaka) — Walking distance. 20+ single-origin beans. Open til 11pm.
 
-### Lunch (~1:00 PM) — Okonomiyaki
-1. **[Mizuno](https://maps.google.com/?q=Mizuno+okonomiyaki+Dotonbori+Osaka)** — PICK. Dotonbori institution since 1945 — ~1,000-2,000 yen — Mountain yam batter, incredibly fluffy. Walking distance from hotel. *LINE UP: Arrive by 12:30pm. Expect 30-45 min GW wait.*
-2. **[Ajinoya](https://maps.google.com/?q=Ajinoya+okonomiyaki+Namba+Osaka)** — Bib Gourmand, Namba — ~1,000-2,000 yen — Backup. More authentic, less tourist-heavy.
+### Lunch — Already covered (Hikiniku to Come @ 11 AM in Kyoto, see morning above)
+*Mizuno saved for dinner tonight. Cross Hotel arrival ~3 PM, then rest before Umeda run.*
 
-### Afternoon — Shinsekai (~3:00-5:15 PM)
-- **[Shinsekai](https://maps.google.com/?q=Shinsekai+Osaka)** — Retro 1912 neighborhood. Neon, dive bars.
-- **[Yaekatsu](https://maps.google.com/?q=Yaekatsu+kushikatsu+Shinsekai+Osaka)** — Kushikatsu est. 1949. ~1,500-3,000 yen. *Don't double-dip!*
+### Afternoon (~3:00-5:45 PM) — Hotel Rest + Flower Mountain Umeda
+- 3:00 PM arrived Cross Hotel — check in, drop bags, rest.
+- 4:30 PM cab to **[Flower Mountain Tenjinbashi](https://maps.google.com/?q=Flower+Mountain+5-8-27+Tenjinbashi+Kita+Osaka)** (5-8-27 Tenjinbashi, ~15 min by cab) — Brad's shoe stop. 15-30 min browse.
+- 5:15 PM cab to Kuu Head Spa Umeda.
+- ~~Shinsekai / Yaekatsu kushikatsu~~ — **DROPPED tonight.** Saving belly for the Mizuno → Wanaka → horumon dinner crawl.
 - ~~Tower Knives Osaka~~ — **DROPPED.** JIKKO knife already bought in Kyoto.
-- **[Uncle Rikuro Namba](https://maps.google.com/?q=Rikuro+Ojisan+Namba+Osaka)** — **Famous Osaka jiggly soufflé cheesecake.** Whole 6-inch cake ¥865, fresh-baked every 30 min, only sold in Osaka. Light, airy, lightly sweet with raisins at the bottom. Namba HQ store has a viewing window. Walking distance from Cross Hotel.
+- ~~Uncle Rikuro Namba (jiggly cheesecake)~~ — Move to flex day; not hitting tonight.
 
-### Alyona's Head Spa (~5:50 PM) ⚠️ BOOKED
-- **[Kuu Head Spa](https://maps.google.com/?q=Kuu+Head+Spa+Osaka)** — Alyona's appointment 5:50 PM. *Brad: explore the surrounding neighborhood while she's in — coffee, walk, browse. Plan to meet her after (~7:00-7:30 PM depending on treatment length).*
+### Alyona's Head Spa (~5:50-7:20 PM) ⚠️ BOOKED
+- **[Kuu Head Spa](https://maps.google.com/?q=Kuu+Head+Spa+Osaka)** — Alyona's 90-min appointment 5:50 PM (Umeda).
+- **Brad's Umeda wait (walking distance from Kuu):**
+  - **[Komehyo Umeda](https://maps.google.com/?q=Komehyo+Umeda+Osaka)** — biggest pre-owned watch floor in Osaka, way more inventory than the Kyoto Shinkyogoku location. Closes 8 PM — go first.
+  - **[Disk Union Umeda](https://maps.google.com/?q=Disk+Union+Umeda+Osaka)** — used vinyl, solid jazz section.
+  - **[Mole & Hosoi Coffees](https://maps.google.com/?q=Mole+and+Hosoi+Coffees+Osaka)** — legendary jazz vinyl listening cafe, beer on the menu. End the wait here.
+- 7:20 cab back to Namba/Dotonbori.
 
-### Dinner (~7:30 PM) — Kushikatsu
-1. **[Kushikatsu Kei](https://maps.google.com/?q=Kushikatsu+Kei+Osaka)** — PICK. Renovated 80-year-old house — ~2,000-4,000 yen — "Phantom sauce" with chicken broth. Beautiful setting.
-2. **[Yaekatsu](https://maps.google.com/?q=Yaekatsu+kushikatsu+Shinsekai+Osaka)** — If you didn't eat there in the afternoon.
+### Dinner (~7:40-10:00 PM) — Osaka Big 3 Crawl
+- **[Mizuno](https://maps.google.com/?q=Mizuno+okonomiyaki+Dotonbori+Osaka)** (~7:40-8:30 PM) — Dotonbori okonomiyaki institution since 1945. Yamaimo-yaki signature, mountain-yam batter, incredibly fluffy. Verify line in Maps before walking.
+- **[Takoyaki Wanaka Sennichimae](https://maps.google.com/?q=Takoyaki+Wanaka+Sennichimae+Osaka)** (~8:30-8:45 PM) — Original Sennichimae location (not the mall stalls). Open till 11 PM. Quick street stop.
+- **Horumon-yaki for organ skewers** (~8:45-10:00 PM) — Charcoal-grilled beef/pork offal: liver (レバー), heart (ハツ), gizzard (砂肝), intestine (シロ), tongue (タン), skin (カワ). Lower confidence on specific shop names — search **["ホルモン焼き 難波"](https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E7%84%BC%E3%81%8D+%E9%9B%A3%E6%B3%A2)** in Maps and pick a 4.0+ spot open now. Yakitori alternative: **[Toridori Namba](https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E3%81%A9%E3%82%8A+%E9%9B%A3%E6%B3%A2)** has the full offal lineup (kawa/skin, hatsu/heart, reba/liver, sunagimo/gizzard).
+- ~~Kushikatsu Kei~~ — **DROPPED.** Pivoted to horumon-yaki — Alyona prefers non-battered grilled organ skewers.
 
 ### Evening
 - **[Nakanoshima Festival](https://maps.google.com/?q=Nakanoshima+Park+Osaka)** — May 4-5, free! Handmade amusement park on the island. Check it out tonight!
@@ -687,7 +695,7 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ### Morning — Kuromon Market + Osaka Castle (~8:30-12:00)
 - **[Karukoma Sushi](https://maps.google.com/?q=Harukoma+Sushi+Tenjinbashi+Osaka)** — PICK. Tenjinbashi — ~1,300-2,000 yen/pp — Insane value. Toro, uni, anago. In Japan's longest shopping arcade. *LINE UP: Arrive by 10:30-11:00am. Expect 30-60 min GW wait.* *(Midosuji Line to Tenjinbashisuji-Rokuchome)*
-  - **[Flower Mountain Tenjinbashi](https://maps.google.com/?q=Flower+Mountain+5-8-27+Tenjinbashi+Kita+Osaka)** — **MUST HIT.** Same shopping arcade as Harukoma Sushi (5-8-27 Tenjinbashi). Brad's shoe stop. The Kyoto location was small/limited stock — this Osaka store has full lineup. Hit before or after sushi.
+  - ~~**[Flower Mountain Tenjinbashi](https://maps.google.com/?q=Flower+Mountain+5-8-27+Tenjinbashi+Kita+Osaka)**~~ — **VISITED Mon May 4 evening before Kuu spa.** Same arcade as Harukoma Sushi (5-8-27 Tenjinbashi). Re-hit only if Brad missed something.
 - **[Osaka Castle](https://maps.google.com/?q=Osaka+Castle)** — Iconic landmark. Castle tower has elevator (no stairs for Brad). ~600 yen. Allow 1.5-2 hrs.
 
 ### Lunch (~12:30 PM) — Sushi (at Harukoma, see above)

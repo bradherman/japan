@@ -117,7 +117,7 @@
 | **Ramen Menmaru** | Sho yu ramen | Apr 28, backup (after Kappabashi) | ¥800-1,200 | Near Sensoji Temple, 5 min from Kappabashi. Walk-in, typically 20-30 min wait. | [Map](https://maps.google.com/?q=Ramen+Menmaru+Asakusa+Tokyo) |
 | **Tonari Ramen** | Tonkotsu (pork broth) ramen | Apr 28, backup | ¥900-1,300 | Kappabashi area, 3 min walk from Tsubaya knives. Cash preferred. | [Map](https://maps.google.com/?q=Tonari+Ramen+Kappabashi+Tokyo) |
 | **Midori Sushi** | Omakase nigiri — generous toro | Apr 29, ~5:30 PM | ¥3,000-6,000 | Arrive by 5:30-6pm. 60-90 min GW wait. | [Map](https://maps.google.com/?q=Umegaoka+Sushi+Midori+Shibuya) |
-| **Mizuno** (Osaka) | Yamaimo-yaki okonomiyaki | May 4, ~12:30 PM | ¥1,000-2,000 | Arrive by 12:30pm. 30-45 min GW wait. | [Map](https://maps.google.com/?q=Mizuno+okonomiyaki+Dotonbori+Osaka) |
+| **Mizuno** (Osaka) | Yamaimo-yaki okonomiyaki — kicks off Big 3 dinner crawl (Mizuno → Wanaka takoyaki → horumon-yaki) | May 4, ~7:40 PM (DINNER) | ¥1,000-2,000 | Moved from lunch to dinner — Hikiniku already covered Kyoto lunch. Verify line in Maps before walking. | [Map](https://maps.google.com/?q=Mizuno+okonomiyaki+Dotonbori+Osaka) |
 | **Harukoma** (Osaka) | A la carte sushi — toro, uni, anago | May 5, ~10:30 AM | ¥1,300-2,000 | Arrive by 10:30-11am. 30-60 min GW wait. Cash preferred. | [Map](https://maps.google.com/?q=Harukoma+Sushi+Tenjinbashi+Osaka) |
 | **Hikiniku to Come** (Kyoto) | Charcoal-grilled hamburger w/ rice & miso | May 3, ~5:45 PM | ¥1,500-2,000 | Arrive 30-45 min before dinner rush (by 5:45pm). Walk-in only. | [Map](https://maps.google.com/?q=Hikiniku+to+Come+Kyoto) |
 | **% Arabica Higashiyama** | Coffee with Yasaka Pagoda view | May 3, ~8:00 AM | ¥500-800 | Go right at 8am opening. GW lines 20-30 min by 10am. | [Map](https://maps.google.com/?q=Arabica+Higashiyama+Kyoto) |
@@ -160,7 +160,7 @@
 - [x] ~~Nishikawa pillow fitting~~ — CANCELLED
 - [ ] Kurono Tokyo Aoyama — email to check weekday availability (closed Sun/holidays)
 - [ ] Blue Note Tokyo / Shinjuku Pit Inn / UFO Club — check Apr 25-30 schedules when posted
-- [ ] Flower Mountain Osaka Tenjinbashi store hours
+- [x] ~~Flower Mountain Osaka Tenjinbashi store hours~~ — visited Mon May 4 evening
 - [ ] Rakushaan warabi mochi — have Hotel Forza concierge call 075-494-2551 on May 2 for May 3 pickup
 - [x] ~~Kichi Kichi — bookmark reservation page~~ — **CLOSED until June.**
 

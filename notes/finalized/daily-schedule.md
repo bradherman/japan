@@ -381,24 +381,28 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 12:45-12:55 Walk to Hankyu Kawaramachi Stn
 ~1:00 PM   Hankyu Kyoto Line → Osaka-Umeda (43 min, ¥410)
 ~1:45      Umeda — transfer to Midosuji Line south to Namba (10 min, ¥240)
-~2:00      Walk 4 min to Cross Hotel Osaka
-~2:00-2:30 Check in at Cross Hotel, drop bags
+~3:00 PM   Arrived Cross Hotel Osaka — check in, drop bags
+3:00-4:30  Hotel rest / unpack
 
            AFTERNOON OSAKA:
-2:30-3:00  Walk to Dotonbori area
-3:00-4:00  Late lunch / snack: Mizuno okonomiyaki (~30-45 min GW queue) OR Ajinoya (Bib Gourmand backup)
-4:00-4:15  Subway Namba → Dobutsuen-mae (5 min) for Shinsekai
-4:15-5:00  Explore Shinsekai — retro neon neighborhood + Yaekatsu kushikatsu (est. 1949) light snack ~¥1,500
-           ❌ Tower Knives Osaka — DROPPED (JIKKO knife already bought in Kyoto)
-5:00-5:30  Subway back to Namba area, walk to Kuu Head Spa
-5:50-7:00 ⚠️ KUU HEAD SPA — Alyona's appointment ⚠️ BOOKED
-           Brad: explore the Kuu neighborhood — coffee, walk, browse — meet Alyona ~7:00-7:30 after treatment
+4:30       Cab to Flower Mountain Tenjinbashi (~15 min)
+4:45-5:15  Flower Mountain Tenjinbashi — Brad's shoe stop (5-8-27 Tenjinbashi). 15-30 min browse.
+5:15-5:45  Cab Flower Mountain → Kuu Head Spa Umeda
+5:50-7:20 ⚠️ KUU HEAD SPA — Alyona's 90-min appointment ⚠️ BOOKED
+           BRAD'S UMEDA WAIT (walking distance from Kuu):
+           - Komehyo Umeda (used watches — biggest pre-owned floor in Osaka, closes 8 PM, go first)
+           - Disk Union Umeda (used jazz vinyl)
+           - Mole & Hosoi Coffees (jazz vinyl listening cafe, beer — end the wait here)
+7:20-7:40  Cab back to Namba/Dotonbori
 
-7:30-8:30  Dinner — Kushikatsu Kei (renovated 80-yr-old house, "phantom sauce")
-           (B) Yaekatsu if you didn't try in Shinsekai
-8:30-9:00  Walk/subway to Nakanoshima
-9:00-10:00 Nakanoshima Festival — free! Handmade amusement park, food stalls. Riverside lit up at night.
-10:00-10:30 Walk back via Dotonbori — neon canal, Glico Running Man sign
+           DINNER — OSAKA BIG 3 CRAWL:
+7:40-8:30 ⚠️ MIZUNO OKONOMIYAKI (Dotonbori) — yamaimo-yaki signature. Verify line in Maps before walking.
+8:30-8:45  Takoyaki Wanaka Sennichimae — original location (not the mall stalls). Quick street stop.
+8:45-10:00 Horumon-yaki for organ skewers — charcoal-grilled offal (liver/heart/gizzard/intestine/tongue/skin)
+           Search "ホルモン焼き 難波" in Maps near hotel — pick 4.0+ open now.
+           Yakitori alternative: Toridori Namba (full offal cuts: kawa/hatsu/reba/sunagimo)
+10:00-10:30 Optional Dotonbori night walk — Glico Running Man, neon canal
+           OR Nakanoshima Festival (free, May 4-5) if energy
 10:30      Hotel
 ```
 
@@ -411,7 +415,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 9:00       Lilo Coffee (or hotel coffee for early caffeine)
 9:15-9:30  Subway Namba → Tenjinbashisuji-Rokuchome (Midosuji + Tanimachi, 15 min)
 9:30-10:00 Browse Tenjinbashi shopping arcade (Japan's longest)
-10:00-10:15 Flower Mountain Tenjinbashi — Brad's shoe stop (5-8-27 Tenjinbashi)
+10:00-10:15 ~~Flower Mountain Tenjinbashi~~ — VISITED May 4 night. Skip unless Brad wants a re-look.
 10:15-10:30 Walk to Harukoma Sushi
 10:30-11:15 Queue at Harukoma (~30-60 min GW) ⚠️ ARRIVE BY 10:30-11AM
 11:15-11:45 Eat sushi — toro, uni, anago. Insane value (~1,300-2,000 yen)

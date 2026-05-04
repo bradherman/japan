@@ -1647,14 +1647,14 @@
         "isBackup": false
       },
       {
-        "time": "~2:00",
-        "text": "Walk 4 min to Cross Hotel Osaka",
+        "time": "~3:00 PM",
+        "text": "Arrived Cross Hotel Osaka — check in, drop bags",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "~2:00-2:30",
-        "text": "Check in at Cross Hotel, drop bags",
+        "time": "3:00-4:30",
+        "text": "Hotel rest / unpack",
         "isWarning": false,
         "isBackup": false
       },
@@ -1663,73 +1663,78 @@
         "text": "AFTERNOON OSAKA:"
       },
       {
-        "time": "2:30-3:00",
-        "text": "Walk to Dotonbori area",
+        "time": "4:30",
+        "text": "Cab to Flower Mountain Tenjinbashi (~15 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "3:00-4:00",
-        "text": "Late lunch / snack: Mizuno okonomiyaki (~30-45 min GW queue) OR Ajinoya (Bib Gourmand backup)",
+        "time": "4:45-5:15",
+        "text": "Flower Mountain Tenjinbashi — Brad's shoe stop (5-8-27 Tenjinbashi). 15-30 min browse.",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "4:00-4:15",
-        "text": "Subway Namba → Dobutsuen-mae (5 min) for Shinsekai",
+        "time": "5:15-5:45",
+        "text": "Cab Flower Mountain → Kuu Head Spa Umeda",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "4:15-5:00",
-        "text": "Explore Shinsekai — retro neon neighborhood + Yaekatsu kushikatsu (est. 1949) light snack ~¥1,500",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "5:00-5:30",
-        "text": "Subway back to Namba area, walk to Kuu Head Spa",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "5:50-7:00",
-        "text": "⚠️ KUU HEAD SPA — Alyona's appointment ⚠️ BOOKED",
+        "time": "5:50-7:20",
+        "text": "⚠️ KUU HEAD SPA — Alyona's 90-min appointment ⚠️ BOOKED",
         "isWarning": true,
         "isBackup": false
       },
       {
         "time": "",
-        "text": "Brad: explore the Kuu neighborhood — coffee, walk, browse — meet Alyona ~7:00-7:30 after treatment"
+        "text": "BRAD'S UMEDA WAIT (walking distance from Kuu):"
       },
       {
-        "time": "7:30-8:30",
-        "text": "Dinner — Kushikatsu Kei (renovated 80-yr-old house, \"phantom sauce\")",
+        "time": "7:20-7:40",
+        "text": "Cab back to Namba/Dotonbori",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "",
-        "text": "(B) Yaekatsu if you didn't try in Shinsekai",
-        "isBackup": true
+        "text": "DINNER — OSAKA BIG 3 CRAWL:"
       },
       {
-        "time": "8:30-9:00",
-        "text": "Walk/subway to Nakanoshima",
+        "time": "7:40-8:30",
+        "text": "⚠️ MIZUNO OKONOMIYAKI (Dotonbori) — yamaimo-yaki signature. Verify line in Maps before walking.",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "8:30-8:45",
+        "text": "Takoyaki Wanaka Sennichimae — original location (not the mall stalls). Quick street stop.",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "9:00-10:00",
-        "text": "Nakanoshima Festival — free! Handmade amusement park, food stalls. Riverside lit up at night.",
+        "time": "8:45-10:00",
+        "text": "Horumon-yaki for organ skewers — charcoal-grilled offal (liver/heart/gizzard/intestine/tongue/skin)",
         "isWarning": false,
         "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "Search \"ホルモン焼き 難波\" in Maps near hotel — pick 4.0+ open now."
+      },
+      {
+        "time": "",
+        "text": "Yakitori alternative: Toridori Namba (full offal cuts: kawa/hatsu/reba/sunagimo)"
       },
       {
         "time": "10:00-10:30",
-        "text": "Walk back via Dotonbori — neon canal, Glico Running Man sign",
+        "text": "Optional Dotonbori night walk — Glico Running Man, neon canal",
         "isWarning": false,
-        "isBackup": false
+        "isBackup": true
+      },
+      {
+        "time": "",
+        "text": "OR Nakanoshima Festival (free, May 4-5) if energy"
       },
       {
         "time": "10:30",
@@ -1770,7 +1775,7 @@
       },
       {
         "time": "10:00-10:15",
-        "text": "Flower Mountain Tenjinbashi — Brad's shoe stop (5-8-27 Tenjinbashi)",
+        "text": "~~Flower Mountain Tenjinbashi~~ — VISITED May 4 night. Skip unless Brad wants a re-look.",
         "isWarning": false,
         "isBackup": false
       },
