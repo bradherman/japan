@@ -2099,7 +2099,7 @@
       },
       {
         "time": "12:15-12:30",
-        "text": "Buy Hakone Free Pass at Odakyu counter (2-day, ¥6,000)",
+        "text": "Buy 3-day Hakone Free Pass at Odakyu counter at Odawara (~¥5,400/pp — covers May 7-9 Hakone transit + May 9 Odakyu base fare to Shinjuku)",
         "isWarning": false,
         "isBackup": false
       },
@@ -2338,56 +2338,68 @@
     "title": "Hakone → Tokyo / Pizza Bar Lunch + Sushi Yoshikawa Dinner",
     "entries": [
       {
-        "time": "6:30 AM",
+        "time": "6:45 AM",
         "text": "Wake up",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "6:30-7:00",
+        "time": "6:45-7:15",
         "text": "Quick morning onsen (last chance!)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "7:00-7:45",
+        "time": "7:15-7:55",
         "text": "Ryokan breakfast",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "7:45-8:30",
-        "text": "Pack up, check out — luggage already sent via takkyubin",
+        "time": "7:55-8:05",
+        "text": "Pack up, check out — luggage already sent via takkyubin (daypacks only)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "8:30-9:25",
-        "text": "Hakone Tozan Railway Gora → Odawara (55 min, Free Pass)",
+        "time": "8:05-8:25",
+        "text": "Taxi from Hakone Gora Byakudan → Hakone-Yumoto Station (~15-20 min — ryokan to call cab night before)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "9:25-9:35",
-        "text": "Buy Shinkansen ticket at Odawara (or use SmartEX)",
+        "time": "8:34-10:06",
+        "text": "⚠️ ROMANCE CAR Hakone-Yumoto → Shinjuku ⚠️ BOOKED (standard reserved seats)",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "10:06-10:20",
+        "text": "Transfer Odakyu Shinjuku → JR Shinjuku (~8-10 min walk through station, follow JR signs)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "~9:35-10:10",
-        "text": "Shinkansen Odawara → Tokyo Station (35 min, ¥3,220)",
+        "time": "10:20-10:35",
+        "text": "JR Chuo Rapid Shinjuku → Tokyo Station (~14 min, runs every few min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "10:10-10:25",
-        "text": "Walk/taxi to Mandarin Oriental Tokyo (~10 min from Tokyo Station)",
+        "time": "10:35-10:45",
+        "text": "Walk Tokyo Station → Mandarin Oriental Mitsui Tower (~7 min, Nihonbashi-Muromachi)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "10:25-11:25",
-        "text": "Buffer — freshen up, coffee in lobby",
+        "time": "10:45-11:15",
+        "text": "Buffer — coffee in Mandarin lobby, freshen up",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:15",
+        "text": "Arrive Pizza Bar on 38th (15 min early)",
         "isWarning": false,
         "isBackup": false
       },

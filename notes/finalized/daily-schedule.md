@@ -491,7 +491,7 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 10:18      Board Hikari 646 to Odawara ⚠️ BOOKED
 10:18-12:38 Shinkansen to Odawara (2 hrs 20 min) — relax, read, nap
 12:38      Arrive Odawara Station
-12:15-12:30 Buy Hakone Free Pass at Odakyu counter (2-day, ¥6,000)
+12:15-12:30 Buy 3-day Hakone Free Pass at Odakyu counter at Odawara (~¥5,400/pp — covers May 7-9 Hakone transit + May 9 Odakyu base fare to Shinjuku)
            Optional: quick lunch at Odawara Station food court
 12:30-12:45 Hakone Tozan Railway Odawara → Hakone-Yumoto (15 min)
 12:45-1:00 Transfer at Hakone-Yumoto (wait for switchback train)
@@ -543,15 +543,17 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 ## Day 15: Sat, May 9 — Hakone → Tokyo / Pizza Bar Lunch + Sushi Yoshikawa Dinner
 
 ```
-6:30 AM    Wake up
-6:30-7:00  Quick morning onsen (last chance!)
-7:00-7:45  Ryokan breakfast
-7:45-8:30  Pack up, check out — luggage already sent via takkyubin
-8:30-9:25  Hakone Tozan Railway Gora → Odawara (55 min, Free Pass)
-9:25-9:35  Buy Shinkansen ticket at Odawara (or use SmartEX)
-~9:35-10:10 Shinkansen Odawara → Tokyo Station (35 min, ¥3,220)
-10:10-10:25 Walk/taxi to Mandarin Oriental Tokyo (~10 min from Tokyo Station)
-10:25-11:25 Buffer — freshen up, coffee in lobby
+6:45 AM    Wake up
+6:45-7:15  Quick morning onsen (last chance!)
+7:15-7:55  Ryokan breakfast
+7:55-8:05  Pack up, check out — luggage already sent via takkyubin (daypacks only)
+8:05-8:25  Taxi from Hakone Gora Byakudan → Hakone-Yumoto Station (~15-20 min — ryokan to call cab night before)
+8:34-10:06 ⚠️ ROMANCE CAR Hakone-Yumoto → Shinjuku ⚠️ BOOKED (standard reserved seats)
+10:06-10:20 Transfer Odakyu Shinjuku → JR Shinjuku (~8-10 min walk through station, follow JR signs)
+10:20-10:35 JR Chuo Rapid Shinjuku → Tokyo Station (~14 min, runs every few min)
+10:35-10:45 Walk Tokyo Station → Mandarin Oriental Mitsui Tower (~7 min, Nihonbashi-Muromachi)
+10:45-11:15 Buffer — coffee in Mandarin lobby, freshen up
+11:15      Arrive Pizza Bar on 38th (15 min early)
 11:30-1:00 LUNCH — Pizza Bar on 38th ⚠️ 11:30 AM RESERVATION (¥15,000-20,000/pp)
            Omakase pizza, #2 in the world, 8 seats, 38th floor Mandarin Oriental
 1:00-1:15  Walk back to Tokyo Station

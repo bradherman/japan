@@ -871,13 +871,16 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 **Morning Coffee:** Ryokan breakfast, then coffee at Mandarin Oriental lobby before Pizza Bar.
 
-### Morning — Early Departure from Hakone (Pizza Bar at 11:30 AM)
-- Quick morning onsen soak (last chance!)
-- Check out by 8:30 AM — luggage already sent via takkyubin
-- Gora to Odawara (Hakone Tozan Railway, ~55 min, depart ~8:30 AM)
-- Odawara to Tokyo Station (Shinkansen ~9:30 AM, ~35 min, ~3,220 yen/pp)
-- Walk/taxi to Mandarin Oriental Tokyo (~10 min from Tokyo Station)
-- **Arrive ~10:20 AM. Buffer time before 11:30 AM reservation.**
+### Morning — Romance Car Hakone → Shinjuku → Pizza Bar (Pizza Bar at 11:30 AM)
+- 6:45 wake, quick morning onsen (last chance!), ryokan breakfast 7:15-7:55.
+- 8:05 check out — luggage already sent via takkyubin (daypacks only).
+- 8:05-8:25 **taxi** from Hakone Gora Byakudan → Hakone-Yumoto Station (~15-20 min — have ryokan call the night before).
+- **8:34-10:06 ⚠️ ROMANCE CAR** Hakone-Yumoto → Shinjuku ⚠️ **BOOKED** (standard reserved seats). 90-min scenic panoramic ride.
+- 10:06-10:20 transfer Odakyu Shinjuku → JR Shinjuku (~8-10 min walk through station, signed in English).
+- 10:20-10:35 JR Chuo Rapid Shinjuku → Tokyo Station (~14 min).
+- 10:35-10:45 walk Tokyo Station → Mandarin Oriental Mitsui Tower (~7 min).
+- 10:45-11:15 buffer — coffee in Mandarin lobby, freshen up.
+- **11:15 arrive Pizza Bar (15 min early for 11:30 reservation).**
 
 ### Lunch (11:30 AM) — Pizza Bar on 38th — BOOKED
 - **[Pizza Bar on 38th](https://maps.google.com/?q=Pizza+Bar+38th+Mandarin+Oriental+Tokyo)** — Omakase pizza (#2 in world) — 8 seats, Mandarin Oriental 38F — ~¥15,000-20,000/pp — **✅ BOOKED 11:30 AM**
