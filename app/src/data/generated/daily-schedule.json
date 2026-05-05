@@ -1910,150 +1910,131 @@
     "entries": [
       {
         "time": "",
-        "text": "NO ALARM. IT'S YOUR BIRTHDAY."
+        "text": "NO ALARM. IT'S YOUR 40TH BIRTHDAY."
       },
       {
-        "time": "9:30 AM",
+        "time": "9:00 AM",
         "text": "Wake up naturally",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "10:00-10:10",
-        "text": "Walk to Mel Coffee Roasters (opens 9am)",
+        "time": "9:00-9:45",
+        "text": "Hotel: pack takkyubin bags (forward to Tokyo post-Hakone hotel)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "10:10-10:45",
-        "text": "Birthday coffee — Melbourne-inspired, Probat roaster",
+        "time": "9:45-10:00",
+        "text": "⚠️ DROP BAGS AT FRONT DESK for takkyubin pickup",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "10:00-10:15",
+        "text": "Walk to Mel Coffee Roasters (grab Floresta donuts en route or nearby)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "10:45-11:30",
-        "text": "Dotonbori daytime stroll — street food grazing, soak it in",
+        "time": "10:15-10:45",
+        "text": "Birthday coffee + Floresta cake doughnuts (local Osaka shop, animal-faced)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "11:30-12:00",
-        "text": "Walk to Hozenji Yokocho — visit moss-covered Mizukake Fudo statue",
+        "time": "10:45-11:10",
+        "text": "Walk east to Dekasan (~20 min from hotel — verify location in Maps)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "",
-        "text": "Splash water for good luck on your birthday. Scout evening dinner route."
+        "time": "11:10-11:45",
+        "text": "⚠️ DEKASAN TAMAGO SANDO (Alyona's pick)",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "11:45-12:00",
+        "text": "Walk back west toward Namba",
+        "isWarning": false,
+        "isBackup": false
       },
       {
         "time": "12:00-12:30",
-        "text": "Walk/subway to Takotsubo takoyaki",
+        "text": "Uncle Rikuro Namba — famous jiggly soufflé cheesecake (whole 6-inch ¥865, baked every 30 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "12:30-1:00",
-        "text": "5x Michelin-listed takoyaki — crispy exterior, molten center (~500-800 yen)",
+        "time": "12:30-2:30",
+        "text": "Birthday shopping for Yeva — clothes/gifts run",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "1:00-1:30",
-        "text": "Walk to Dotonbori, grab any other street food that catches your eye",
+        "time": "2:30-4:30",
+        "text": "Continue shopping or hotel rest",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "1:30-2:00",
-        "text": "Return to hotel area",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "2:00-4:00",
-        "text": "Birthday shopping:",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "4:00-5:00",
-        "text": "Return to hotel, rest, get dressed for birthday dinner",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "5:00-5:15",
-        "text": "Walk/taxi to Waldorf Astoria Osaka",
+        "time": "4:30-5:15",
+        "text": "Return to hotel, get dressed for birthday dinner",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "5:15-5:30",
-        "text": "Elevator to 28th floor",
+        "text": "Walk/taxi to Waldorf Astoria Osaka",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "5:30-6:30",
-        "text": "Canes & Tales — birthday cocktails, jazz, Osaka skyline sunset views",
-        "isWarning": false,
+        "text": "⚠️ CANES & TALES (28th floor) — birthday cocktails, jazz, Osaka skyline",
+        "isWarning": true,
         "isBackup": false
       },
       {
         "time": "6:30-6:45",
-        "text": "Walk/taxi to Hozenji Yokocho",
+        "text": "Walk/taxi to Hozenji Yokocho (arrive 15 min early per plan)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "6:45-7:00",
-        "text": "Arrive at restaurant area — Hozenji Yokocho stroll",
+        "time": "6:45",
+        "text": "Arrive Matsuzaka Gyu Yakiniku M Hozenji-Hanare",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "7:00",
-        "text": "Matsuzaka Gyu Yakiniku M Hozenji-Hanare ⚠️ CONFIRMED 7:00 PM",
-        "isWarning": true,
-        "isBackup": false
-      },
-      {
-        "time": "7:00-9:00",
-        "text": "BIRTHDAY DINNER — Matsuzaka wagyu, one of Japan's top 3 beef brands",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "",
-        "text": "Happy 40th, Brad. 🎂"
-      },
-      {
-        "time": "9:00-9:15",
-        "text": "Walk/subway to Kitashinchi (3 min from Kitashinchi Stn)",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "9:15-10:00",
-        "text": "Ijou Maru Parfait — birthday dessert. Speakeasy art parfait bar (~¥4,500-5k each) ⚠️ BOOKED 8:30 PM — Cashless only. Parfait revealed through glowing door. Perfect surreal birthday cap.",
+        "time": "7:00-8:15",
+        "text": "⚠️ BIRTHDAY DINNER — Matsuzaka wagyu, top 3 Japanese beef ⚠️ CONFIRMED 7:00 PM",
         "isWarning": true,
         "isBackup": false
       },
       {
         "time": "",
-        "text": "(B) If cancelled: Hozenji Yokocho stroll — find a tiny bar for a birthday nightcap",
-        "isBackup": true
+        "text": "Happy 40th, Brad. 🎂 *Tight 75-min seating to make 8:30 parfait — pace accordingly.*"
       },
       {
-        "time": "10:00",
-        "text": "Option A: Bar Nayuta (Amerikamura, tiny door, no menu, til 3am)",
+        "time": "8:15-8:30",
+        "text": "Walk/cab to Kitashinchi (3 min from Kitashinchi Stn)",
         "isWarning": false,
-        "isBackup": true
+        "isBackup": false
       },
       {
-        "time": "",
-        "text": "Option B: Content birthday walk home along Dotonbori canal"
+        "time": "8:30-9:30",
+        "text": "⚠️ IJOU MARU PARFAIT — birthday dessert speakeasy ⚠️ BOOKED 8:30 PM",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "9:30-9:45",
+        "text": "Subway/cab back to hotel area",
+        "isWarning": false,
+        "isBackup": false
       }
     ]
   },

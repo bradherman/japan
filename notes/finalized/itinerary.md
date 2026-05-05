@@ -740,41 +740,52 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 *HAPPY BIRTHDAY BRAD! Sleep in, great coffee, birthday takoyaki, shopping, then the main event.*
 
-> Happy 40th. No alarm. Sleep in, birthday coffee, then Michelin-listed takoyaki — crispy outside,
-> molten inside, best in the city. Afternoon is whatever you want — birthday shopping, kitchen street
-> browsing, pure wandering. Pre-game cocktails with jazz and skyline views at the Waldorf Astoria 28th
-> floor, then the main event: Matsuzaka wagyu yakiniku (confirmed 7pm). Finish at a speakeasy parfait bar.
+> Happy 40th. Sleep in until 9, drop bags for takkyubin to Tokyo, birthday coffee at Mel, Umeda detour
+> for Alyona's Dekasan tamago sando, then Uncle Rikuro jiggly cheesecake back near hotel. Afternoon is
+> Yeva-gift shopping. Pre-dinner cocktails at Canes & Tales (Waldorf 28F), then the main event:
+> Matsuzaka wagyu yakiniku (confirmed 7pm — arriving 6:45). Tight 75-min dinner seating to make the
+> 8:30 Ijou Maru parfait reservation. Hedonist nightcap to close out 40.
 
-**Morning Coffee:** [Mel Coffee Roasters](https://maps.google.com/?q=Mel+Coffee+Roasters+Osaka) — Birthday coffee! Opens 9am.
+**Morning Coffee:** [Mel Coffee Roasters](https://maps.google.com/?q=Mel+Coffee+Roasters+Osaka) — Birthday coffee. Opens 9am, walking distance from hotel.
 
-### Morning — Sleep In / Slow Start (~10:00 AM)
-- No alarm today. It's your 40th birthday.
-- Coffee at Mel, then wander
+### Morning (~9:00-10:45 AM) — Slow Start + Takkyubin Drop + Coffee & Donuts
+- 9:00 wake up — no alarm, it's your 40th.
+- **Pack takkyubin bags** — forward to Tokyo (post-Hakone hotel — daypack only to Hakone). Drop at Cross Hotel front desk by ~9:45.
+- 10:00 walk to **[Mel Coffee Roasters](https://maps.google.com/?q=Mel+Coffee+Roasters+Osaka)** — Melbourne-inspired birthday coffee, Probat roaster.
+- **[Floresta Nature Doughnuts](https://www.google.com/maps/search/?api=1&query=Floresta+Nature+Doughnuts+Osaka+Shinsaibashi)** — local Osaka cake doughnut shop (organic, the famous animal-faced ones — cat/frog/bear). Pair with Mel coffee. Verify nearest branch in Maps. *(Skipping I'm Donut? — already hit in Tokyo.)*
 
-### Lunch (~12:30 PM) — Takoyaki
-1. **[Takotsubo](https://maps.google.com/?q=Takotsubo+takoyaki+Osaka)** — PRIORITY. 5x Michelin-listed takoyaki — ~500-800 yen — Crispy exterior, molten center. Away from tourist crowds.
+### Late Morning (~10:45-12:00) — Walk East to Dekasan Tamago Sando (Alyona's pick)
+- 10:45-11:10 walk east ~20 min from hotel to Dekasan branch.
+- **[Dekasan Tamago Sando (デカ三)](https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%82%AB%E4%B8%89+%E7%8E%89%E5%AD%90%E3%82%B5%E3%83%B3%E3%83%89+%E5%A4%A7%E9%98%AA)** — Famous Osaka oversized fluffy tamago sando. Verify exact branch location/hours in Maps.
+- 11:45 walk back west toward Namba.
 
-### Afternoon (~2:00-5:00 PM)
-- **[Shinsaibashi Shopping](https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka)** — Birthday shopping
-- **[Doguyasuji Kitchen Street](https://maps.google.com/?q=Doguyasuji+Kitchen+Street+Osaka)** — 5 min from hotel. Kitchen supplies, plastic food samples.
+### Lunch / Birthday Cheesecake (~12:00-12:45 PM)
+- **[Uncle Rikuro Namba](https://maps.google.com/?q=Rikuro+Ojisan+Namba+Osaka)** — Famous Osaka jiggly soufflé cheesecake. Whole 6-inch ¥865, baked every 30 min, only sold in Osaka. Light, airy, lightly sweet w/ raisins at the bottom. Namba HQ has a viewing window. *Carried over from May 4 plan — Brad's "at some point" today.*
 
-### Pre-Dinner — Cocktails (~5:30-6:30 PM)
-- **[Canes & Tales at Waldorf Astoria](https://maps.google.com/?q=Canes+Tales+Waldorf+Astoria+Osaka)** — 28th floor. Jazz, cocktails, Osaka skyline views. The perfect 40th birthday pre-game.
+### Afternoon (~12:45-4:30 PM) — Yeva Gift Shopping
+- **[Shinsaibashi Shopping Arcade](https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka)** — Clothes + gifts for Yeva (daughter).
+- **[Doguyasuji Kitchen Street](https://maps.google.com/?q=Doguyasuji+Kitchen+Street+Osaka)** — 5 min from hotel. Kitchen supplies, plastic food samples — kid-friendly souvenirs.
+- ~~Takotsubo takoyaki~~ — **DROPPED.** Already learned to make takoyaki at Takoyaki Lab last night.
 
-### Birthday Dinner (7:00 PM) — Yakiniku (RESERVED)
-- **[Matsuzaka Gyu Yakiniku M Hozenji-Hanare](https://maps.google.com/?q=Matsuzaka+Gyu+Yakiniku+M+Hozenji+Osaka)** — CONFIRMED 7:00 PM
-- Matsuzaka beef — one of Japan's top three wagyu brands
-- Happy 40th, Brad.
+### Pre-Dinner Cocktails (~5:30-6:30 PM)
+- **[Canes & Tales at Waldorf Astoria](https://maps.google.com/?q=Canes+Tales+Waldorf+Astoria+Osaka)** — 28th floor. Jazz, cocktails, Osaka skyline. The 40th-birthday pre-game. Walk/taxi from hotel ~15 min.
+- 6:30 walk/taxi to Hozenji — arriving 15 min early at restaurant per Brad's plan.
 
-### Evening — Post-Dinner Birthday Stroll
-- **[Ijou Maru Parfait (パフェと酒 以上。)](https://maps.google.com/?q=Kitashinchi+Malta+Building+South+Osaka)** — THE birthday dessert. Members-only speakeasy parfait bar in Kitashinchi — but "membership" just means following @ijou_maru_parfait on Instagram (do this NOW). Elaborate art parfaits (~4,500-5,000 yen each) paired with sake and cocktails, presented through a glowing reveal door. 15 seats. Holiday hours: 3pm-10:30pm. **Cashless only.** DM on Instagram to reserve — try in both English and Japanese. 3 min walk from Kitashinchi Station. *The perfect surreal birthday cap after yakiniku. Follow the account now, DM a week before your visit.*
-- **[Hozenji Yokocho](https://maps.google.com/?q=Hozenji+Yokocho+Osaka)** — Stone-paved, lantern-lit alley. Find a small bar for a birthday nightcap.
-- **[Bar Nayuta](https://maps.google.com/?q=Bar+Nayuta+Amerikamura+Osaka)** (Amerikamura, til 3am) — If the night is young.
+### Birthday Dinner (6:45 arrive / 7:00-8:15 seating) — Yakiniku ⚠️ CONFIRMED
+- **[Matsuzaka Gyu Yakiniku M Hozenji-Hanare](https://maps.google.com/?q=Matsuzaka+Gyu+Yakiniku+M+Hozenji+Osaka)** — CONFIRMED 7:00 PM. Matsuzaka beef — one of Japan's top three wagyu brands.
+- ⚠️ **Tight 75-min window to make 8:30 Ijou Maru parfait** — pace cuts, don't linger. Happy 40th, Brad.
+
+### Evening (~8:30-11:00+ PM)
+- 8:15-8:30 walk/cab to Kitashinchi (3 min from Kitashinchi Stn).
+- **[Ijou Maru Parfait (パフェと酒 以上。)](https://maps.google.com/?q=Kitashinchi+Malta+Building+South+Osaka)** — 8:30 PM ⚠️ BOOKED. Speakeasy parfait bar — elaborate art parfaits (~¥4,500-5k each) paired with sake/cocktails through glowing reveal door. 15 seats. **Cashless only.**
+- 9:30 subway/cab back to hotel area.
+- **[Hedonist](https://www.google.com/maps/search/?api=1&query=Hedonist+bar+Shinsaibashi+Osaka)** — 1 min from hotel. Cocktail bar Brad loved on May 5; revisit for the birthday nightcap. Solo close to the night.
 
 ### Logistics
-- Birthday dinner is CONFIRMED. Arrive on time (7pm).
-- **Ijou Maru Parfait:** Follow @ijou_maru_parfait on Instagram BEFORE the trip. DM to reserve ~1 week ahead. Cashless only (Visa/MC/JCB/Amex/PayPay/IC cards all accepted).
-- Tomorrow: travel to Hakone. Pack tonight.
+- ⚠️ **Takkyubin bag drop** at Cross Hotel front desk this morning — forward to Tokyo hotel (post-Hakone).
+- Birthday dinner CONFIRMED — arrive 6:45 PM (15 min early per plan).
+- **Ijou Maru:** 8:30 PM BOOKED — cashless only.
+- Tomorrow: travel to Hakone. Carry-on only after takkyubin drop.
 
 ---
 

@@ -448,35 +448,33 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 ## Day 12: Wed, May 6 — BRAD'S 40th BIRTHDAY!
 
 ```
-           NO ALARM. IT'S YOUR BIRTHDAY.
-9:30 AM    Wake up naturally
-10:00-10:10 Walk to Mel Coffee Roasters (opens 9am)
-10:10-10:45 Birthday coffee — Melbourne-inspired, Probat roaster
-10:45-11:30 Dotonbori daytime stroll — street food grazing, soak it in
-11:30-12:00 Walk to Hozenji Yokocho — visit moss-covered Mizukake Fudo statue
-           Splash water for good luck on your birthday. Scout evening dinner route.
-12:00-12:30 Walk/subway to Takotsubo takoyaki
-12:30-1:00 5x Michelin-listed takoyaki — crispy exterior, molten center (~500-800 yen)
-1:00-1:30  Walk to Dotonbori, grab any other street food that catches your eye
-1:30-2:00  Return to hotel area
-2:00-4:00  Birthday shopping:
-           - Shinsaibashi Shopping Arcade — whatever catches your eye
-           - Doguyasuji Kitchen Street (5 min from hotel) — kitchen supplies, plastic food souvenirs
-4:00-5:00  Return to hotel, rest, get dressed for birthday dinner
-5:00-5:15  Walk/taxi to Waldorf Astoria Osaka
-5:15-5:30  Elevator to 28th floor
-5:30-6:30  Canes & Tales — birthday cocktails, jazz, Osaka skyline sunset views
-6:30-6:45  Walk/taxi to Hozenji Yokocho
-6:45-7:00  Arrive at restaurant area — Hozenji Yokocho stroll
-7:00       Matsuzaka Gyu Yakiniku M Hozenji-Hanare ⚠️ CONFIRMED 7:00 PM
-7:00-9:00  BIRTHDAY DINNER — Matsuzaka wagyu, one of Japan's top 3 beef brands
-           Happy 40th, Brad. 🎂
-9:00-9:15  Walk/subway to Kitashinchi (3 min from Kitashinchi Stn)
-9:15-10:00 Ijou Maru Parfait — birthday dessert. Speakeasy art parfait bar (~¥4,500-5k each) ⚠️ BOOKED 8:30 PM — Cashless only. Parfait revealed through glowing door. Perfect surreal birthday cap.
-           (B) If cancelled: Hozenji Yokocho stroll — find a tiny bar for a birthday nightcap
-10:00      Option A: Bar Nayuta (Amerikamura, tiny door, no menu, til 3am)
-           Option B: Content birthday walk home along Dotonbori canal
-10:00+     Whenever you want — it's your birthday
+           NO ALARM. IT'S YOUR 40TH BIRTHDAY.
+9:00 AM    Wake up naturally
+9:00-9:45  Hotel: pack takkyubin bags (forward to Tokyo post-Hakone hotel)
+9:45-10:00 ⚠️ DROP BAGS AT FRONT DESK for takkyubin pickup
+10:00-10:15 Walk to Mel Coffee Roasters (grab Floresta donuts en route or nearby)
+10:15-10:45 Birthday coffee + Floresta cake doughnuts (local Osaka shop, animal-faced)
+10:45-11:10 Walk east to Dekasan (~20 min from hotel — verify location in Maps)
+11:10-11:45 ⚠️ DEKASAN TAMAGO SANDO (Alyona's pick)
+11:45-12:00 Walk back west toward Namba
+12:00-12:30 Uncle Rikuro Namba — famous jiggly soufflé cheesecake (whole 6-inch ¥865, baked every 30 min)
+12:30-2:30  Birthday shopping for Yeva — clothes/gifts run
+           - Shinsaibashi Shopping Arcade
+           - Doguyasuji Kitchen Street (5 min from hotel) if time
+2:30-4:30  Continue shopping or hotel rest
+4:30-5:15  Return to hotel, get dressed for birthday dinner
+5:15-5:30  Walk/taxi to Waldorf Astoria Osaka
+5:30-6:30 ⚠️ CANES & TALES (28th floor) — birthday cocktails, jazz, Osaka skyline
+6:30-6:45  Walk/taxi to Hozenji Yokocho (arrive 15 min early per plan)
+6:45       Arrive Matsuzaka Gyu Yakiniku M Hozenji-Hanare
+7:00-8:15 ⚠️ BIRTHDAY DINNER — Matsuzaka wagyu, top 3 Japanese beef ⚠️ CONFIRMED 7:00 PM
+           Happy 40th, Brad. 🎂 *Tight 75-min seating to make 8:30 parfait — pace accordingly.*
+8:15-8:30  Walk/cab to Kitashinchi (3 min from Kitashinchi Stn)
+8:30-9:30 ⚠️ IJOU MARU PARFAIT — birthday dessert speakeasy ⚠️ BOOKED 8:30 PM
+           ~¥4,500-5k each. Cashless only. Parfait revealed through glowing door.
+9:30-9:45  Subway/cab back to hotel area
+9:45-11:00+ Hedonist cocktail bar — 1 min from hotel, post-parfait nightcap (revisit from May 5)
+11:00+     Whenever you want — it's your birthday
 ```
 
 ---

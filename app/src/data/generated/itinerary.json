@@ -2046,28 +2046,55 @@
       "title": "Brad's 40th Birthday!",
       "city": "Osaka",
       "subtitle": "HAPPY BIRTHDAY BRAD! Sleep in, great coffee, birthday takoyaki, shopping, then the main event.",
-      "summary": "Happy 40th. No alarm. Sleep in, birthday coffee, then Michelin-listed takoyaki — crispy outside, molten inside, best in the city. Afternoon is whatever you want — birthday shopping, kitchen street browsing, pure wandering. Pre-game cocktails with jazz and skyline views at the Waldorf Astoria 28th floor, then the main event: Matsuzaka wagyu yakiniku (confirmed 7pm). Finish at a speakeasy parfait bar.",
+      "summary": "Happy 40th. Sleep in until 9, drop bags for takkyubin to Tokyo, birthday coffee at Mel, Umeda detour for Alyona's Dekasan tamago sando, then Uncle Rikuro jiggly cheesecake back near hotel. Afternoon is Yeva-gift shopping. Pre-dinner cocktails at Canes & Tales (Waldorf 28F), then the main event: Matsuzaka wagyu yakiniku (confirmed 7pm — arriving 6:45). Tight 75-min dinner seating to make the 8:30 Ijou Maru parfait reservation. Hedonist nightcap to close out 40.",
       "morningCoffee": {
         "kind": "coffee",
         "name": "Mel Coffee Roasters",
         "mapLink": "https://maps.google.com/?q=Mel+Coffee+Roasters+Osaka",
-        "description": "Birthday coffee! Opens 9am."
+        "description": "Birthday coffee. Opens 9am, walking distance from hotel."
       },
       "sections": [
         {
-          "title": "Morning — Sleep In / Slow Start",
-          "activities": []
-        },
-        {
-          "title": "Lunch",
+          "title": "Morning",
           "activities": [
             {
-              "name": "Takotsubo",
-              "mapLink": "https://maps.google.com/?q=Takotsubo+takoyaki+Osaka",
-              "description": "5x Michelin-listed takoyaki — Crispy exterior, molten center. Away from tourist crowds",
-              "priority": true,
+              "name": "Pack takkyubin bags",
+              "description": "Forward to Tokyo (post-Hakone hotel — daypack only to Hakone). Drop at Cross Hotel front desk by ~9:45",
+              "priority": false,
+              "reservationRequired": false
+            },
+            {
+              "name": "Floresta Nature Doughnuts",
+              "mapLink": "https://www.google.com/maps/search/?api=1&query=Floresta+Nature+Doughnuts+Osaka+Shinsaibashi",
+              "description": "Local Osaka cake doughnut shop (organic, the famous animal-faced ones — cat/frog/bear). Pair with Mel coffee. Verify nearest branch in Maps. (Skipping I'm Donut? — already hit in Tokyo.)",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
+          "title": "Late Morning",
+          "activities": [
+            {
+              "name": "Dekasan Tamago Sando (デカ三)",
+              "mapLink": "https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%82%AB%E4%B8%89+%E7%8E%89%E5%AD%90%E3%82%B5%E3%83%B3%E3%83%89+%E5%A4%A7%E9%98%AA",
+              "description": "Famous Osaka oversized fluffy tamago sando. Verify exact branch location/hours in Maps",
+              "priority": false,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
+          "title": "Lunch / Birthday Cheesecake",
+          "activities": [
+            {
+              "name": "Uncle Rikuro Namba",
+              "mapLink": "https://maps.google.com/?q=Rikuro+Ojisan+Namba+Osaka",
+              "description": "Famous Osaka jiggly soufflé cheesecake. Whole 6-inch baked every, only sold in Osaka. Light, airy, lightly sweet w/ raisins at the bottom. Namba HQ has a viewing window. Carried over from May 4 plan — Brad's \"at some point\" today",
+              "duration": "30 min",
+              "priority": false,
               "reservationRequired": false,
-              "price": "¥500-800"
+              "price": "¥865,"
             }
           ]
         },
@@ -2075,28 +2102,29 @@
           "title": "Afternoon",
           "activities": [
             {
-              "name": "Shinsaibashi Shopping",
+              "name": "Shinsaibashi Shopping Arcade",
               "mapLink": "https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka",
-              "description": "Birthday shopping",
+              "description": "Clothes; gifts for Yeva (daughter)",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Doguyasuji Kitchen Street",
               "mapLink": "https://maps.google.com/?q=Doguyasuji+Kitchen+Street+Osaka",
-              "description": "5 min from hotel. Kitchen supplies, plastic food samples",
+              "description": "5 min from hotel. Kitchen supplies, plastic food samples — kid-friendly souvenirs",
               "priority": false,
               "reservationRequired": false
             }
           ]
         },
         {
-          "title": "Pre-Dinner — Cocktails",
+          "title": "Pre-Dinner Cocktails",
           "activities": [
             {
               "name": "Canes & Tales at Waldorf Astoria",
               "mapLink": "https://maps.google.com/?q=Canes+Tales+Waldorf+Astoria+Osaka",
-              "description": "28th floor. Jazz, cocktails, Osaka skyline views. The perfect 40th birthday pre-game",
+              "description": "28th floor. Jazz, cocktails, Osaka skyline. The 40th-birthday pre-game. Walk/taxi from hotel",
+              "duration": "15 min",
               "priority": false,
               "reservationRequired": false
             }
@@ -2108,34 +2136,28 @@
             {
               "name": "Matsuzaka Gyu Yakiniku M Hozenji-Hanare",
               "mapLink": "https://maps.google.com/?q=Matsuzaka+Gyu+Yakiniku+M+Hozenji+Osaka",
-              "description": "CONFIRMED 7:00 PM",
+              "description": "CONFIRMED 7:00 PM. Matsuzaka beef — one of Japan's top three wagyu brands",
               "priority": false,
               "reservationRequired": false
             }
           ]
         },
         {
-          "title": "Evening — Post-Dinner Birthday Stroll",
+          "title": "Evening",
           "activities": [
             {
               "name": "Ijou Maru Parfait (パフェと酒 以上。)",
               "mapLink": "https://maps.google.com/?q=Kitashinchi+Malta+Building+South+Osaka",
-              "description": "THE birthday dessert. Members-only speakeasy parfait bar in Kitashinchi — but \"membership\" just means following @ijou_maru_parfait on Instagram (do this NOW). Elaborate art parfaits (each) paired with sake and cocktails, presented through a glowing reveal door. 15 seats. Holiday hours: 3pm-10:30pm. Cashless only. DM on Instagram to reserve — try in both English and Japanese. 3 min walk from Kitashinchi Station. The perfect surreal birthday cap after yakiniku. Follow the account now, DM a week before your visit",
+              "description": "8:30 PM ⚠️ Speakeasy parfait bar — elaborate art parfaits (k each) paired with sake/cocktails through glowing reveal door. 15 seats. Cashless only",
               "priority": false,
               "reservationRequired": false,
-              "price": "¥4,500-5,000"
+              "booked": true,
+              "price": "¥4,500-5"
             },
             {
-              "name": "Hozenji Yokocho",
-              "mapLink": "https://maps.google.com/?q=Hozenji+Yokocho+Osaka",
-              "description": "Stone-paved, lantern-lit alley. Find a small bar for a birthday nightcap",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Bar Nayuta",
-              "mapLink": "https://maps.google.com/?q=Bar+Nayuta+Amerikamura+Osaka",
-              "description": "If the night is young",
+              "name": "Hedonist",
+              "mapLink": "https://www.google.com/maps/search/?api=1&query=Hedonist+bar+Shinsaibashi+Osaka",
+              "description": "1 min from hotel. Cocktail bar Brad loved on May 5; revisit for the birthday nightcap. Solo close to the night",
               "priority": false,
               "reservationRequired": false
             }
@@ -2144,13 +2166,16 @@
       ],
       "logistics": [
         {
-          "text": "Birthday dinner is CONFIRMED. Arrive on time (7pm)."
+          "text": "⚠️ Takkyubin bag drop at Cross Hotel front desk this morning — forward to Tokyo hotel (post-Hakone)."
         },
         {
-          "text": "Ijou Maru Parfait: Follow @ijou_maru_parfait on Instagram BEFORE the trip. DM to reserve ~1 week ahead. Cashless only (Visa/MC/JCB/Amex/PayPay/IC cards all accepted)."
+          "text": "Birthday dinner CONFIRMED — arrive 6:45 PM (15 min early per plan)."
         },
         {
-          "text": "Tomorrow: travel to Hakone. Pack tonight."
+          "text": "Ijou Maru: 8:30 PM BOOKED — cashless only."
+        },
+        {
+          "text": "Tomorrow: travel to Hakone. Carry-on only after takkyubin drop."
         }
       ]
     },
