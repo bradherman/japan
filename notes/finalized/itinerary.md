@@ -686,10 +686,10 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 *Golden Week continues. Explore Osaka's landmarks, food gems, and shopping.*
 
 > Osaka Castle in the morning (elevator, no stairs — Brad's foot is fine), then Japan's longest shopping
-> arcade for the best cheap sushi you'll eat on this trip and Brad's Flower Mountain shoes. Afternoon is
-> record shopping — Rare Groove is literally on the "World's Best Record Shops" list. Early ramen at a
-> baseball-themed chicken-clam spot, then the main event: Casiopea live at Billboard Live Osaka. Japanese
-> jazz fusion legends in an intimate venue. Speakeasy nightcap after.
+> arcade for the best cheap sushi you'll eat on this trip. Afternoon is a light Shinsaibashi browse +
+> hotel rest before the main event: Casiopea live at Billboard Live Osaka, Japanese jazz fusion legends
+> in an intimate venue. Post-show is the okonomiyaki + takoyaki + Dotonbori night-walk crawl back near
+> the hotel.
 
 **Morning Coffee:** [Takamura Wine & Coffee Roasters](https://maps.google.com/?q=Takamura+Wine+Coffee+Roasters+Osaka) — Wine shop + coffee roaster. Opens 11am. For pre-11am: Lilo Coffee (closer to hotel).
 
@@ -700,29 +700,35 @@ Sleep in / hotel coffee / Loft Shibuya solo / Hikarie browse / join Brad at Naka
 
 ### Lunch (~12:30 PM) — Sushi (at Harukoma, see above)
 
-### Afternoon (~2:30-5:30 PM)
-- **[HOUBIDOU Shinsaibashi](https://maps.google.com/?q=HOUBIDOU+2-2-17+Shinsaibashisuji+Osaka)** ⭐ **HIT FIRST — used Grand Seiko hunt.** 2-2-17 Shinsaibashisuji, Chuo-ku. **818 watches on Chrono24** (massive inventory of secondhand GS). Also operates as HOUBIDOU x Bluek Watch Company. Tax-free with passport. *Brad's strategy: used first — if he strikes gold here, done.*
-- **[Grand Seiko Boutique Osaka Shinsaibashi](https://maps.google.com/?q=Grand+Seiko+Boutique+Osaka+Shinsaibashi+4-3-11+Minamisenba)** — **BACKUP if HOUBIDOU strikes out, then buy NEW.** 4-3-11 Minamisenba, Osaka Toyota Building 1F. **World's largest Seiko store** (333+ m²). 3-min walk from HOUBIDOU. Tax-free with passport.
-- **[Nakanoshima Festival](https://maps.google.com/?q=Nakanoshima+Park+Osaka)** — Day 2 if you didn't do it last night. Free! Also walk the beautiful **[Nakanoshima riverside](https://maps.google.com/?q=Nakanoshima+Island+Osaka)** — especially lovely lit up.
-- **[Shinsaibashi Shopping Arcade](https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka)** — 180 stores. **Onitsuka Tiger flagship**, Don Quijote. Tax-free with passport. *(Brad: Onitsuka Tiger here covers what we skipped in Tokyo.)*
-- ~~**Momotaro Jeans Osaka (Horie)**~~ — **DROPPED.** Heritage raw selvedge ethos = opposite of what Brad wants (stretch, gusset, comfort, fun dyes). Buying DUER at home + Snow Peak LUCUA in Umeda May 5 instead.
-- **Japanese Jazz Vinyl — Shinsaibashi Record Run** (all walking distance from hotel):
-  - **[Rare Groove](https://maps.google.com/?q=Rare+Groove+Records+Nishi-Shinsaibashi+Osaka)** — On The Vinyl Factory's "World's Best Record Shops" list. Rare Japanese pressings specialty. ~8 min walk from hotel. Building has 5 other record shops too. **Closed Wednesdays** — today (Mon) is perfect.
-  - **[HMV Record Shop Shinsaibashi](https://maps.google.com/?q=HMV+Record+Shop+Shinsaibashi+OPA+Osaka)** — 8F of Shinsaibashi OPA. 50,000 records, rated 5/5 for jazz. ~5 min from hotel.
-  - **[Groovenut Records](https://maps.google.com/?q=Groovenut+Records+Amerikamura+Osaka)** — Amerikamura. Original pressings: soul, funk, jazz, rare groove. ~10 min from hotel.
+### Afternoon (~2:00-3:45 PM) — Light Shinsaibashi browse
+- ~~**HOUBIDOU Shinsaibashi**~~ — **DROPPED.** Watch already purchased.
+- ~~**Grand Seiko Boutique Osaka Shinsaibashi**~~ — **DROPPED.** Watch already purchased.
+- **[Shinsaibashi Shopping Arcade](https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka)** — 180 stores. **Onitsuka Tiger flagship**, Don Quijote. Tax-free with passport.
+- **Japanese Jazz Vinyl — optional Shinsaibashi Record Run** (walking distance from hotel; if energy):
+  - **[Rare Groove](https://maps.google.com/?q=Rare+Groove+Records+Nishi-Shinsaibashi+Osaka)** — On The Vinyl Factory's "World's Best Record Shops" list. Rare Japanese pressings specialty. ~8 min walk from hotel. **Closed Wednesdays.**
+  - **[HMV Record Shop Shinsaibashi](https://maps.google.com/?q=HMV+Record+Shop+Shinsaibashi+OPA+Osaka)** — 8F of Shinsaibashi OPA. 50,000 records, rated 5/5 for jazz.
+  - **[Groovenut Records](https://maps.google.com/?q=Groovenut+Records+Amerikamura+Osaka)** — Amerikamura. Original pressings: soul, funk, jazz, rare groove.
 
-### Early Dinner (~5:00 PM) — Ramen
-1. **[Shoyu-Ramen Sodaisho](https://maps.google.com/?q=Shoyu+Ramen+Sodaisho+Temma+Osaka)** — PICK. Temma — ~1,000 yen — Chicken-clam shoyu ramen. Baseball-themed. Local gem.
-2. **[Chukasoba Kazura](https://maps.google.com/?q=Chukasoba+Kazura+Awaza+Osaka)** — Awaza — ~1,000 yen — "Mousse-like" broth, fabulously light. Backup.
+### Hotel Chill (~3:45-5:30 PM)
+- Rest at Cross Hotel before show. ~~No early ramen at Sodaisho — eating after show instead.~~
 
-### Pre-Concert — Snow Peak LUCUA Ihre (~5:30-6:30 PM)
-- **[Snow Peak LUCUA Ihre](https://maps.google.com/?q=Snow+Peak+LUCUA+Ihre+Osaka+Umeda)** — **Brad's stretch/comfort pant pick (Japanese DUER analogue).** Inside LUCUA mall, 1 min from Osaka Station, **literally next door to Herbis Plaza ENT** (where Casiopea is). Camping gear + LOCAL WEAR Japan-exclusive apparel + dedicated fishing corner. Stretch panel pants (Takibi, FR lines) with gusseted construction — closest Japanese match to DUER. Hours typically 10:00-21:00.
+### Pre-Concert — Snow Peak LUCUA Ihre (~5:50-6:30 PM)
+- 5:30 PM cab from Cross Hotel to Herbis Plaza ENT area (Nishi-Umeda).
+- **[Snow Peak LUCUA Ihre](https://maps.google.com/?q=Snow+Peak+LUCUA+Ihre+Osaka+Umeda)** — **Brad's stretch/comfort pant pick (Japanese DUER analogue).** Inside LUCUA mall, **literally next door to Herbis Plaza ENT** (where Casiopea is). LOCAL WEAR Japan-exclusive apparel + Takibi/FR stretch panel pants with gusseted construction. ~30-40 min browse before show entry.
 
 ### Evening — Casiopea at Billboard Live Osaka (7:00 PM) ⚠️ TICKETS PURCHASED
-- **[Billboard Live Osaka](https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT)** — Herbis Plaza ENT, Nishi-Umeda. Japanese jazz fusion legends. 7:00 PM show. Arrive by 6:30 for seating/drinks. *5-min walk from Snow Peak LUCUA.*
-- After the show (~9:00 PM):
-  - **[Bible Club Osaka](https://maps.google.com/?q=Bible+Club+Osaka+Shinsaibashi)** — Shinsaibashi speakeasy. Portland sister bar. Hidden entrance. Nightcap option.
-  - **[Nakanoshima stroll](https://maps.google.com/?q=Nakanoshima+Island+Osaka)** — Beautiful riverside walk from Umeda back toward hotel, lit up at night.
+- **6:30 PM enter** [Billboard Live Osaka](https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT) — Herbis Plaza ENT, Nishi-Umeda. Get seated, order drinks.
+- **7:00-9:00 PM** Casiopea — Japanese jazz fusion legends.
+
+### Post-Show Dinner Crawl (~9:00-11:30 PM) — Okonomiyaki + Takoyaki + Dotonbori Walk
+- 9:00-9:30 PM cab/Midosuji Line Umeda → Namba (~10-15 min).
+- **[Fukutaro (福太郎)](https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%A4%AA%E9%83%8E+%E5%8D%83%E6%97%A5%E5%89%8D)** (~9:30-10:30 PM) — PICK. Sennichimae location. Traditional Osaka okonomiyaki — negiyaki worth ordering alongside the standard mix. Less touristy than Mizuno, typically open till ~11:30 PM. Verify last orders in Maps before walking.
+  - (B) **[Mizuno Dotonbori](https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E6%B4%A5%E3%81%AE+%E9%81%93%E9%A0%93%E5%A0%80)** — only if arriving Namba by ~9:30 (last orders tight, closes 10).
+  - (B) **[Chibo Dotonbori](https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E6%88%BF+%E9%81%93%E9%A0%93%E5%A0%80)** — touristy but reliable, open till 11+.
+- **Takoyaki Lab** (~10:30-10:45 PM) — Brad's pick, by Cross Hotel. Quick stop.
+- **[Dotonbori night walk](https://maps.google.com/?q=Dotonbori+Osaka)** (~10:45-11:30 PM) — Glico Running Man, neon canal lit up.
+- (Optional) **[Bible Club Osaka](https://maps.google.com/?q=Bible+Club+Osaka+Shinsaibashi)** — Shinsaibashi speakeasy nightcap if energy. Portland sister bar, hidden entrance.
+- ~~Nakanoshima Festival~~ — **MISSED** (didn't hit last night, festival concludes today).
 
 ### Logistics
 - Children's Day — similar closures to yesterday.

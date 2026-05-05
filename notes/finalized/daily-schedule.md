@@ -422,20 +422,25 @@ Quick reference timeline for each day. Times are approximate — adjust as you g
 11:45-12:00 Subway Tenjinbashi → Tanimachi-4-chome (10 min)
 12:00-1:30  Osaka Castle — grounds, moat, castle tower (elevator, no stairs for Brad). ~600 yen
 1:30-2:00  Subway back to Namba area
-2:00-3:00 ⭐ HOUBIDOU SHINSAIBASHI — used Grand Seiko first. 2-2-17 Shinsaibashisuji. 818 watches on Chrono24.
-3:00-3:45  Grand Seiko Boutique Osaka Shinsaibashi (BACKUP if HOUBIDOU strikes out → buy NEW). 4-3-11 Minamisenba. World's largest Seiko/GS store. ~3 min walk from HOUBIDOU.
-3:45-4:30  Shinsaibashi Shopping Arcade — Onitsuka Tiger flagship, Don Quijote
-4:30-4:45  Subway Namba → Temma area (JR or metro, ~15 min)
-4:45-5:00  Find Shoyu-Ramen Sodaisho (Temma, baseball-themed)
-5:00-5:30  Eat chicken-clam shoyu ramen (~1,000 yen) — quick early dinner before concert
-           (B) Chukasoba Kazura (Awaza) — "mousse-like" broth
-5:30-5:45  Subway Temma → Umeda
-5:45-6:30  Snow Peak LUCUA Ihre — Brad's stretch/comfort pant pick (Japanese DUER analogue, 1 min from Osaka Stn, next door to Billboard Live)
-6:30-7:00  Walk to Billboard Live Osaka (Herbis Plaza ENT) — get seated, order drinks
+           ❌ HOUBIDOU + Grand Seiko Boutique — DROPPED (watch already purchased)
+2:00-3:30  Shinsaibashi Shopping Arcade — Onitsuka Tiger flagship, Don Quijote (light afternoon)
+3:30-3:45  Walk back to Cross Hotel
+3:45-5:30  HOTEL CHILL — rest, recharge before show
+5:30-5:50  Cab to Billboard Live area / Herbis Plaza ENT (Nishi-Umeda)
+5:50-6:30  Snow Peak LUCUA Ihre — literally next door to Herbis Plaza ENT. Brad's stretch/comfort pant pick (Japanese DUER analogue). ~30-40 min browse.
+6:30-7:00  Enter Billboard Live Osaka — get seated, order drinks
 7:00-9:00  🎵 CASIOPEA at Billboard Live Osaka ⚠️ TICKETS PURCHASED
-9:00-9:30  Walk to Shinsaibashi or Nakanoshima night stroll (lit up riverside)
-9:30-10:30 Bible Club Osaka — speakeasy nightcap (optional, walking distance from hotel)
-10:30      Hotel
+
+           POST-SHOW DINNER CRAWL:
+9:00-9:30  Cab/Midosuji Line Umeda → Namba (~10-15 min)
+9:30-10:30 ⚠️ FUKUTARO Sennichimae — okonomiyaki (negiyaki worth trying). Less touristy than Mizuno, open later (~11:30 PM typical).
+           (B) Mizuno Dotonbori — only if arrive Namba by ~9:30 (last order tight)
+           (B) Chibo Dotonbori — touristy but reliable backup, open till 11+
+10:30-10:45 Takoyaki Lab — by hotel, Brad's pick
+10:45-11:30 Dotonbori night walk — Glico Running Man, neon canal
+11:30      Hotel
+           ❌ Nakanoshima Festival — MISSED (didn't hit last night)
+           (Optional: Bible Club Osaka speakeasy nightcap if energy)
 ```
 
 ---

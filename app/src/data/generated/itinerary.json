@@ -1896,7 +1896,7 @@
       "title": "Children's Day — Osaka Castle / Tenjinbashi / Shinsaibashi",
       "city": "Osaka",
       "subtitle": "Golden Week continues. Explore Osaka's landmarks, food gems, and shopping.",
-      "summary": "Osaka Castle in the morning (elevator, no stairs — Brad's foot is fine), then Japan's longest shopping arcade for the best cheap sushi you'll eat on this trip and Brad's Flower Mountain shoes. Afternoon is record shopping — Rare Groove is literally on the \"World's Best Record Shops\" list. Early ramen at a baseball-themed chicken-clam spot, then the main event: Casiopea live at Billboard Live Osaka. Japanese jazz fusion legends in an intimate venue. Speakeasy nightcap after.",
+      "summary": "Osaka Castle in the morning (elevator, no stairs — Brad's foot is fine), then Japan's longest shopping arcade for the best cheap sushi you'll eat on this trip. Afternoon is a light Shinsaibashi browse + hotel rest before the main event: Casiopea live at Billboard Live Osaka, Japanese jazz fusion legends in an intimate venue. Post-show is the okonomiyaki + takoyaki + Dotonbori night-walk crawl back near the hotel.",
       "morningCoffee": {
         "kind": "coffee",
         "name": "Takamura Wine & Coffee Roasters",
@@ -1935,83 +1935,43 @@
           "title": "Afternoon",
           "activities": [
             {
-              "name": "HOUBIDOU Shinsaibashi",
-              "mapLink": "https://maps.google.com/?q=HOUBIDOU+2-2-17+Shinsaibashisuji+Osaka",
-              "description": "Used Grand Seiko hunt. 2-2-17 Shinsaibashisuji, Chuo-ku. 818 watches on Chrono24 (massive inventory of secondhand GS). Also operates as HOUBIDOU x Bluek Watch Company. Tax-free with passport. Brad's strategy: used first — if he strikes gold here, done",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Grand Seiko Boutique Osaka Shinsaibashi",
-              "mapLink": "https://maps.google.com/?q=Grand+Seiko+Boutique+Osaka+Shinsaibashi+4-3-11+Minamisenba",
-              "description": "BACKUP if HOUBIDOU strikes out, then buy NEW. 4-amisenba, Osaka Toyota Building 1F. World's largest Seiko store (333+ m²). 3-min walk from HOUBIDOU. Tax-free with passport",
-              "duration": "3-11 Min",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
-              "name": "Nakanoshima Festival",
-              "mapLink": "https://maps.google.com/?q=Nakanoshima+Park+Osaka",
-              "description": "Day 2 if you didn't do it last night. Free! Also walk the beautiful Nakanoshima riverside — especially lovely lit up",
-              "priority": false,
-              "reservationRequired": false
-            },
-            {
               "name": "Shinsaibashi Shopping Arcade",
               "mapLink": "https://maps.google.com/?q=Shinsaibashi+Shopping+Street+Osaka",
-              "description": "180 stores. Onitsuka Tiger flagship, Don Quijote. Tax-free with passport. (Brad: Onitsuka Tiger here covers what we skipped in Tokyo.)",
+              "description": "180 stores. Onitsuka Tiger flagship, Don Quijote. Tax-free with passport",
               "priority": false,
               "reservationRequired": false
             },
             {
-              "name": "Japanese Jazz Vinyl — Shinsaibashi Record Run",
+              "name": "Japanese Jazz Vinyl — optional Shinsaibashi Record Run",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Rare Groove",
               "mapLink": "https://maps.google.com/?q=Rare+Groove+Records+Nishi-Shinsaibashi+Osaka",
-              "description": "On The Vinyl Factory's \"World's Best Record Shops\" list. Rare Japanese pressings specialty. ~8 min walk from hotel. Building has 5 other record shops too. Closed Wednesdays — today (Mon) is perfect",
+              "description": "On The Vinyl Factory's \"World's Best Record Shops\" list. Rare Japanese pressings specialty. ~8 min walk from hotel. Closed Wednesdays",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "HMV Record Shop Shinsaibashi",
               "mapLink": "https://maps.google.com/?q=HMV+Record+Shop+Shinsaibashi+OPA+Osaka",
-              "description": "8F of Shinsaibashi OPA. 50,000 records, rated 5/5 for jazz. ~5 min from hotel",
+              "description": "8F of Shinsaibashi OPA. 50,000 records, rated 5/5 for jazz",
               "priority": false,
               "reservationRequired": false
             },
             {
               "name": "Groovenut Records",
               "mapLink": "https://maps.google.com/?q=Groovenut+Records+Amerikamura+Osaka",
-              "description": "Amerikamura. Original pressings: soul, funk, jazz, rare groove. ~10 min from hotel",
+              "description": "Amerikamura. Original pressings: soul, funk, jazz, rare groove",
               "priority": false,
               "reservationRequired": false
             }
           ]
         },
         {
-          "title": "Early Dinner",
-          "activities": [
-            {
-              "name": "Shoyu-Ramen Sodaisho",
-              "mapLink": "https://maps.google.com/?q=Shoyu+Ramen+Sodaisho+Temma+Osaka",
-              "description": "Temma — Chicken-clam shoyu ramen. Baseball-themed. Local gem",
-              "priority": true,
-              "reservationRequired": false,
-              "price": "¥1,000"
-            },
-            {
-              "name": "Chukasoba Kazura",
-              "mapLink": "https://maps.google.com/?q=Chukasoba+Kazura+Awaza+Osaka",
-              "description": "Awaza — \"Mousse-like\" broth, fabulously light",
-              "priority": false,
-              "reservationRequired": false,
-              "backup": true,
-              "price": "¥1,000"
-            }
-          ]
+          "title": "Hotel Chill",
+          "activities": []
         },
         {
           "title": "Pre-Concert — Snow Peak LUCUA Ihre",
@@ -2019,7 +1979,8 @@
             {
               "name": "Snow Peak LUCUA Ihre",
               "mapLink": "https://maps.google.com/?q=Snow+Peak+LUCUA+Ihre+Osaka+Umeda",
-              "description": "Brad's stretch/comfort pant (Japanese DUER analogue). Inside LUCUA mall, 1 min from Osaka Station, literally next door to Herbis Plaza ENT (where Casiopea is). Camping gear; LOCAL WEAR Japan-exclusive apparel; dedicated fishing corner. Stretch panel pants (Takibi, FR lines) with gusseted construction — closest Japanese match to DUER. Hours typically 10:00-21:00",
+              "description": "Brad's stretch/comfort pant (Japanese DUER analogue). Inside LUCUA mall, literally next door to Herbis Plaza ENT (where Casiopea is). LOCAL WEAR Japan-exclusive apparel; Takibi/FR stretch panel pants with gusseted construction. browse before show entry",
+              "duration": "30-40 min",
               "priority": true,
               "reservationRequired": false
             }
@@ -2029,23 +1990,40 @@
           "title": "Evening — Casiopea at Billboard Live Osaka",
           "activities": [
             {
-              "name": "Billboard Live Osaka",
+              "name": "6:30 PM enter",
               "mapLink": "https://maps.google.com/?q=Billboard+Live+Osaka+Herbis+Plaza+ENT",
-              "description": "Herbis Plaza ENT, Nishi-Umeda. Japanese jazz fusion legends. 7:00 PM show. Arrive by 6:30 for seating/drinks. 5-min walk from Snow Peak LUCUA",
+              "description": "Herbis Plaza ENT, Nishi-Umeda. Get seated, order drinks",
               "priority": false,
               "reservationRequired": false
             },
             {
-              "name": "Bible Club Osaka",
-              "mapLink": "https://maps.google.com/?q=Bible+Club+Osaka+Shinsaibashi",
-              "description": "Shinsaibashi speakeasy. Portland sister bar. Hidden entrance. Nightcap option",
+              "name": "7:00-9:00 PM",
+              "description": "Japanese jazz fusion legends",
               "priority": false,
+              "reservationRequired": false
+            }
+          ]
+        },
+        {
+          "title": "Post-Show Dinner Crawl",
+          "activities": [
+            {
+              "name": "Fukutaro (福太郎)",
+              "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%A4%AA%E9%83%8E+%E5%8D%83%E6%97%A5%E5%89%8D",
+              "description": "Sennichimae location. Traditional Osaka okonomiyaki — negiyaki worth ordering alongside the standard mix. Less touristy than Mizuno, typically open till ~11:30 PM. Verify last orders in Maps before walking",
+              "priority": true,
               "reservationRequired": false
             },
             {
-              "name": "Nakanoshima stroll",
-              "mapLink": "https://maps.google.com/?q=Nakanoshima+Island+Osaka",
-              "description": "Beautiful riverside walk from Umeda back toward hotel, lit up at night",
+              "name": "Takoyaki Lab",
+              "description": "Brad's, by Cross Hotel. Quick stop",
+              "priority": true,
+              "reservationRequired": false
+            },
+            {
+              "name": "Dotonbori night walk",
+              "mapLink": "https://maps.google.com/?q=Dotonbori+Osaka",
+              "description": "Glico Running Man, neon canal lit up",
               "priority": false,
               "reservationRequired": false
             }

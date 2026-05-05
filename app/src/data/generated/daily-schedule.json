@@ -1816,61 +1816,38 @@
         "isBackup": false
       },
       {
-        "time": "2:00-3:00",
-        "text": "⭐ HOUBIDOU SHINSAIBASHI — used Grand Seiko first. 2-2-17 Shinsaibashisuji. 818 watches on Chrono24.",
+        "time": "2:00-3:30",
+        "text": "Shinsaibashi Shopping Arcade — Onitsuka Tiger flagship, Don Quijote (light afternoon)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "3:00-3:45",
-        "text": "Grand Seiko Boutique Osaka Shinsaibashi (BACKUP if HOUBIDOU strikes out → buy NEW). 4-3-11 Minamisenba. World's largest Seiko/GS store. ~3 min walk from HOUBIDOU.",
+        "time": "3:30-3:45",
+        "text": "Walk back to Cross Hotel",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "3:45-4:30",
-        "text": "Shinsaibashi Shopping Arcade — Onitsuka Tiger flagship, Don Quijote",
+        "time": "3:45-5:30",
+        "text": "HOTEL CHILL — rest, recharge before show",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "4:30-4:45",
-        "text": "Subway Namba → Temma area (JR or metro, ~15 min)",
+        "time": "5:30-5:50",
+        "text": "Cab to Billboard Live area / Herbis Plaza ENT (Nishi-Umeda)",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "4:45-5:00",
-        "text": "Find Shoyu-Ramen Sodaisho (Temma, baseball-themed)",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "5:00-5:30",
-        "text": "Eat chicken-clam shoyu ramen (~1,000 yen) — quick early dinner before concert",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "",
-        "text": "(B) Chukasoba Kazura (Awaza) — \"mousse-like\" broth",
-        "isBackup": true
-      },
-      {
-        "time": "5:30-5:45",
-        "text": "Subway Temma → Umeda",
-        "isWarning": false,
-        "isBackup": false
-      },
-      {
-        "time": "5:45-6:30",
-        "text": "Snow Peak LUCUA Ihre — Brad's stretch/comfort pant pick (Japanese DUER analogue, 1 min from Osaka Stn, next door to Billboard Live)",
+        "time": "5:50-6:30",
+        "text": "Snow Peak LUCUA Ihre — literally next door to Herbis Plaza ENT. Brad's stretch/comfort pant pick (Japanese DUER analogue). ~30-40 min browse.",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "6:30-7:00",
-        "text": "Walk to Billboard Live Osaka (Herbis Plaza ENT) — get seated, order drinks",
+        "text": "Enter Billboard Live Osaka — get seated, order drinks",
         "isWarning": false,
         "isBackup": false
       },
@@ -1881,19 +1858,45 @@
         "isBackup": false
       },
       {
+        "time": "",
+        "text": "POST-SHOW DINNER CRAWL:"
+      },
+      {
         "time": "9:00-9:30",
-        "text": "Walk to Shinsaibashi or Nakanoshima night stroll (lit up riverside)",
+        "text": "Cab/Midosuji Line Umeda → Namba (~10-15 min)",
         "isWarning": false,
         "isBackup": false
       },
       {
         "time": "9:30-10:30",
-        "text": "Bible Club Osaka — speakeasy nightcap (optional, walking distance from hotel)",
+        "text": "⚠️ FUKUTARO Sennichimae — okonomiyaki (negiyaki worth trying). Less touristy than Mizuno, open later (~11:30 PM typical).",
+        "isWarning": true,
+        "isBackup": false
+      },
+      {
+        "time": "",
+        "text": "(B) Mizuno Dotonbori — only if arrive Namba by ~9:30 (last order tight)",
+        "isBackup": true
+      },
+      {
+        "time": "",
+        "text": "(B) Chibo Dotonbori — touristy but reliable backup, open till 11+",
+        "isBackup": true
+      },
+      {
+        "time": "10:30-10:45",
+        "text": "Takoyaki Lab — by hotel, Brad's pick",
         "isWarning": false,
         "isBackup": false
       },
       {
-        "time": "10:30",
+        "time": "10:45-11:30",
+        "text": "Dotonbori night walk — Glico Running Man, neon canal",
+        "isWarning": false,
+        "isBackup": false
+      },
+      {
+        "time": "11:30",
         "text": "Hotel",
         "isWarning": false,
         "isBackup": false
